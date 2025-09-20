@@ -92,8 +92,11 @@ Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépense
 > *Vous prononcez une prière qui nimbe votre adversaire d'énergie sacrée.*
 > 
 > 🏷️ **Magie • Distance**
+> 
 > ⚔️ **Action:** Manœuvre
+> 
 > 📍 **Range:** Distance 10
+> 
 > 🎯 **Target:** Un ennemi
 > ---
 > 
