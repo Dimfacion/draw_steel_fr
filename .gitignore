@@ -5,7 +5,7 @@ public
 prof
 tsconfig.tsbuildinfo
 .obsidian
-!obsidian/snippets/*.css #Except for foo.dll
+!.obsidian/snippets/*.css
 .quartz-cache
 private/
 .replit
