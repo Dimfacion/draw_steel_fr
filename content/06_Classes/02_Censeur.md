@@ -88,29 +88,27 @@ Bien que vous ne puissiez pas gagner de courroux en dehors du combat, vous pouve
 Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépenser du courroux illimité sur son effet, vous pouvez l'utiliser comme si vous aviez dépensé une quantité de courroux égale à vos Victoires. (De telles aptitudes ne font pas partie des règles de base pour le censeur, mais elles pourraient apparaître dans de futurs produits.)
 
 > [!spell] Jugement
+> 🏷️ *Magie • Distance*
 > 
-> *Vous prononcez une prière qui nimbe votre adversaire d'énergie sacrée.*
-> 
-> 🏷️ **Magie • Distance**
+> ***Vous prononcez une prière qui nimbe votre adversaire d'énergie sacrée.***
 > 
 > ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** Distance 10
+> 🎯 **Cible:** Un ennemi
 > 
-> 📍 **Range:** Distance 10
-> 
-> 🎯 **Target:** Un ennemi
 > ---
 > 
-> **Effet:** La cible est **jugée** par vous jusqu'à la fin de la rencontre, jusqu'à ce que vous utilisiez à nouveau cette aptitude, que vous mettiez volontairement fin à cet effet (aucune action requise), ou qu'un autre censeur juge la cible.
+> **💫 Effet:** La cible est jugée par vous jusqu'à la fin de la rencontre, jusqu'à ce que vous utilisiez à nouveau cette aptitude, que vous mettiez volontairement fin à cet effet (aucune action requise), ou qu'un autre censeur juge la cible.
 > 
-> **⚡ Actions déclenchées automatiques:**
-> - **Quand une créature jugée utilise une action principale** (dans votre ligne d'effet) → Action déclenchée gratuite pour infliger **2 × Présence** dégâts sacrés
-> - **Quand une créature jugée est réduite à 0 Vigueur** → Action déclenchée gratuite pour utiliser cette aptitude contre une nouvelle cible
+> Chaque fois qu'une créature jugée par vous utilise une action principale et se trouve dans votre ligne d'effet, vous pouvez utiliser une action déclenchée gratuite pour lui infliger des dégâts sacrés égaux au double de votre score de Présence.
 > 
-> **🔥 Dépenser 1 Courroux** (une seule option par déclenchement) :
-> - **Glissement adjacent:** Frappe gratuite au corps à corps + vitesse 0
-> - **Jet de pouvoir (10 cases):** Infliger un fléau sur le jet
-> - **Aptitude à seuil (10 cases):** Réduire le seuil de 1
-> - **Dégâts corps à corps:** La cible est narguée jusqu'à la fin de son prochain tour
+> Quand une créature jugée par vous est réduite à 0 Vigueur, vous pouvez utiliser une action déclenchée gratuite pour utiliser cette aptitude contre une nouvelle cible.
+> 
+> **🔥 Dépenser 1 Courroux:** Vous pouvez effectuer l'une des actions déclenchées gratuites suivantes : 
+> - Quand une créature adjacente jugée par vous commence à glisser, vous effectuez une frappe gratuite au corps à corps contre elle et sa vitesse devient 0 jusqu'à la fin du tour actuel, l'empêchant de glisser. 
+> - Quand une créature jugée par vous dans un rayon de 10 cases effectue un jet de pouvoir, vous lui infligez un fléau sur ce jet. 
+> - Quand une créature jugée par vous dans un rayon de 10 cases utilise une aptitude avec une puissance qui ne cible qu'une seule créature, la puissance est réduite de 1 pour cette créature. 
+> - Si vous infligez des dégâts à une créature jugée par vous avec une aptitude de corps à corps, la créature est narguée par vous jusqu'à la fin de son prochain tour. Vous ne pouvez choisir qu'une seule option d'action déclenchée gratuite à la fois, même si plusieurs options sont déclenchées par le même effet.
 
 ##### Avantage de l'Ordre du Jugement
 
@@ -125,11 +123,11 @@ La première fois dans un tour où vous utilisez votre aptitude Jugement pour ju
 Vous pouvez utiliser et bénéficier des avantages d'une panoplie. Voir [Chapitre 6 : Panoplies](#page-231-0) pour plus d'informations. (*Construction Rapide :* Prêtre Guerrier.)
 
 #### Ma Vie pour la Vôtre
-> [!triggered] Ma Vie pour la Vôtre
+> [!spell] Ma Vie pour la Vôtre
+> 🏷️ *Magie • À Distance*
 > 
-> *Vous canalisez une partie de votre vitalité en résilience accrue pour vous ou un allié.*
+> ***Vous canalisez une partie de votre vitalité en résilience accrue pour vous ou un allié.***
 > 
-> 🏷️ **Magie • À Distance**
 > ⚔️ **Action:** Déclenchée
 > 📍 **Portée:** À Distance 10
 > 🎯 **Cible:** Soi-même ou un allié
@@ -191,43 +189,52 @@ Si vous êtes dans la même zone qu'une créature utilisant cette aptitude ou un
 
 Vous possédez l'aptitude suivante.
 
-######## Compagnon Fidèle
-
-*Un esprit animal est attiré vers vous, partageant ses sens avec vous et vous servant fidèlement.*
-
-| **Magie**   | **Action principale** |
-|-------------|----------------------:|
-| **📏 Soi** |     **🎯 Soi** |
-
-**Effet :** Vous invoquez un esprit qui prend la forme de n'importe quel animal que vous avez vu. Cet animal incorporel a une Vitesse de 5 et peut Voler, mais ne peut pas interagir physiquement avec le monde. Tant que vous êtes à 10 Cases ou moins de l'esprit, vous percevez automatiquement tout ce que ce type d'animal percevrait, en plus de percevoir votre propre environnement. Vous pouvez renvoyer l'esprit à tout moment (Action Triviale). Si l'esprit subit des Dégâts, il est renvoyé et vous subissez 1d10 Dégâts psychiques qui ne peuvent être réduits d'aucune façon.
+> [!spell] Compagnon Fidèle
+> 🏷️ *Magie*
+> 
+> ***Un esprit animal est attiré vers vous, partageant ses sens avec vous et vous servant fidèlement.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Soi
+> 🎯 **Cible:** Soi
+> 
+> ---
+> 
+> **💫 Effet:** Vous invoquez un esprit qui prend la forme de n'importe quel animal que vous avez vu. Cet animal incorporel a une Vitesse de 5 et peut Voler, mais ne peut pas interagir physiquement avec le monde. Tant que vous êtes à 10 Cases ou moins de l'esprit, vous percevez automatiquement tout ce que ce type d'animal percevrait, en plus de percevoir votre propre environnement. Vous pouvez renvoyer l'esprit à tout moment (Action Triviale). Si l'esprit subit des Dégâts, il est renvoyé et vous subissez 1d10 Dégâts psychiques qui ne peuvent être réduits d'aucune façon.
 
 ##### Parole Funèbre
 
 Vous possédez l'aptitude suivante.
 
-######## Parole Funèbre
-
-*Vous communiquez avec l'âme persistante d'un défunt récent.*
-
-| **Magie**      |             **Manœuvre** |
-|----------------|-------------------------:|
-| **📏 Corps à corps 1** | **🎯 Une créature morte** |
-
-**Effet :** Vous pouvez parler à la cible si c'est une créature qui est morte dans les dernières 24 heures et qui peut parler une langue que vous connaissez, même s'il ne reste qu'une tête. La cible vous considère comme elle l'aurait fait de son vivant, et vous pourriez avoir besoin de faire des tests pour l'influencer et la convaincre de vous parler. Le traumatisme de la mort peut rendre les souvenirs de cet événement flous pour une créature, mais la cible connaît par ailleurs tout ce qu'elle savait de son vivant. Après 1 minute, l'effet se termine. Vous ne pouvez pas utiliser cette aptitude sur la même créature deux fois.
+> [!spell] Parole Funèbre
+> 🏷️ *Magie*
+> 
+> ***Vous communiquez avec l'âme persistante d'un défunt récent.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature morte
+> 
+> ---
+> 
+> **💫 Effet:** Vous pouvez parler à la cible si c'est une créature qui est morte dans les dernières 24 heures et qui peut parler une langue que vous connaissez, même s'il ne reste qu'une tête. La cible vous considère comme elle l'aurait fait de son vivant, et vous pourriez avoir besoin de faire des tests pour l'influencer et la convaincre de vous parler. Le traumatisme de la mort peut rendre les souvenirs de cet événement flous pour une créature, mais la cible connaît par ailleurs tout ce qu'elle savait de son vivant. Après 1 minute, l'effet se termine. Vous ne pouvez pas utiliser cette aptitude sur la même créature deux fois.
 
 ##### Mains du Créateur
 
 Vous possédez l'aptitude suivante.
 
-######## Mains du Créateur
-
-*Vous fabriquez des objets par la puissance de votre esprit.*
-
-| **Magie**   | **Manœuvre** |
-|-------------|------------:|
-| **📏 Soi** | **🎯 Soi** |
-
-**Effet :** Vous créez un objet classique de taille 1S ou plus petit. Vous pouvez maintenir un nombre d'objets créés de cette façon égal à votre score de Présence. Vous pouvez détruire un objet créé de cette façon par la pensée, peu importe la distance qui vous en sépare (aucune action triviale requise).
+> [!spell] Mains du Créateur
+> 🏷️ *Magie*
+> 
+> ***Vous fabriquez des objets par la puissance de votre esprit.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** Soi
+> 🎯 **Cible:** Soi
+> 
+> ---
+> 
+> **💫 Effet:** Vous créez un objet classique de taille 1S ou plus petit. Vous pouvez maintenir un nombre d'objets créés de cette façon égal à votre score de Présence. Vous pouvez détruire un objet créé de cette façon par la pensée, peu importe la distance qui vous en sépare (aucune action triviale requise).
 
 ##### Lumière Intérieure
 
@@ -261,65 +268,73 @@ Vous utilisez un mélange de techniques martiales et de magie divine pour attaqu
 
 Choisissez une aptitude signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Tes Alliés Ne Peuvent Te Sauver !)
 
-######## Arrière Blasphémateur !
+> [!spell] Arrière Blasphémateur !
+> 🏷️ *Zone • Magie • Corps à corps • Arme*
+> 
+> ***Vous canalisez le pouvoir à travers votre arme pour repousser vos ennemis.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Cube de 2 à portée 1
+> 🎯 **Cible:** Chaque ennemi dans la zone
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 2 dégâts sacrés ; poussée 1
+> - **12-16 :** 4 dégâts sacrés ; poussée 2
+> - **17+ :** 6 dégâts sacrés ; poussée 3
 
-*Vous canalisez le pouvoir à travers votre arme pour repousser vos ennemis.*
+> [!spell] Chaque Pas... La Mort !
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Vous montrez à votre ennemi un aperçu de son destin après la mort.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Distance 10
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 5 + P dégâts psychiques
+> - **12-16 :** 7 + P dégâts psychiques
+> - **17+ :** 10 + P dégâts psychiques
+> 
+> **💫 Effet :** Chaque fois que la cible se déplace volontairement avant la fin de votre prochain tour, elle subit 1 dégât psychique pour chaque case parcourue.
 
-| **Zone, Magie, Corps à corps, Arme** |               **Action principale** |
-|---------------------------------------|------------------------------------:|
-| **📏 Cube de 2 à portée 1**          | **🎯 Chaque ennemi dans la zone** |
+> [!spell] Halte Mécréant !
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Vous imprégnez votre arme de magie sacrée qui rend difficile la fuite de votre ennemi.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature ou un objet
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 2 + F dégâts sacrés ; P < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 5 + F dégâts sacrés ; P < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 7 + F dégâts sacrés ; P < FORT, ralenti (sauvegarde termine)
 
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 2 dégâts sacrés ; poussée 1
-- **12-16 :** 4 dégâts sacrés ; poussée 2
-- **17+ :** 6 dégâts sacrés ; poussée 3
-
-######## Chaque Pas... La Mort !
-
-*Vous montrez à votre ennemi un aperçu de son destin après la mort.*
-
-| **Magie, Distance, Frappe** |               **Action principale** |
-|------------------------------|------------------------------------:|
-| **📏 Distance 10**           |           **🎯 Une créature** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 5 + P dégâts psychiques
-- **12-16 :** 7 + P dégâts psychiques
-- **17+ :** 10 + P dégâts psychiques
-
-**Effet :** Chaque fois que la cible se déplace volontairement avant la fin de votre prochain tour, elle subit 1 dégât psychique pour chaque case parcourue.
-
-######## Halte Mécréant !
-
-*Vous imprégnez votre arme de magie sacrée qui rend difficile la fuite de votre ennemi.*
-
-| **Corps à corps, Frappe, Arme**  |               **Action principale** |
-|-----------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**            | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 2 + F dégâts sacrés ; P < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 5 + F dégâts sacrés ; P < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 7 + F dégâts sacrés ; P < FORT, ralenti (sauvegarde termine)
-
-######## Tes Alliés Ne Peuvent Te Sauver !
-
-*Votre frappe magique transforme la culpabilité de votre ennemi en explosion de pouvoir sacré.*
-
-| **Corps à corps, Frappe, Arme**  |               **Action principale** |
-|-----------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**            | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 3 + F dégâts sacrés
-- **12-16 :** 5 + F dégâts sacrés
-- **17+ :** 8 + F dégâts sacrés
-
-**Effet :** Chaque ennemi adjacent à la cible est repoussé loin de la cible d'un nombre de cases égal à votre score de Présence.
+> [!spell] Tes Alliés Ne Peuvent Te Sauver !
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Votre frappe magique transforme la culpabilité de votre ennemi en explosion de pouvoir sacré.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature ou un objet
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 3 + F dégâts sacrés
+> - **12-16 :** 5 + F dégâts sacrés
+> - **17+ :** 8 + F dégâts sacrés
+> 
+> **💫 Effet :** Chaque ennemi adjacent à la cible est repoussé loin de la cible d'un nombre de cases égal à votre score de Présence.
 
 ##### Aptitudes Héroïques
 
@@ -329,135 +344,151 @@ Vous faites appel à un certain nombre d'aptitudes héroïques, toutes liées à
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 courroux à utiliser. (*Construction Rapide :* Les Dieux Punissent et Défendent.)
 
-######## Voici un Bouclier de Foi ! (3 Courroux)
+> [!spell] Ma Foi tel un Bouclier ! (3 Courroux)
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Un coup puissant transforme la vitalité de votre ennemi en lumière sacrée qui vous enveloppe ainsi qu'un allié, décourageant les ennemis qui pourraient vous attaquer.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à Corps 1
+> 🎯 **Cible:** Une créature ou un objet
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 3 + F dégâts sacrés
+> - **12-16 :** 6 + F dégâts sacrés
+> - **17+ :** 9 + F dégâts sacrés
+> 
+> **💫 Effet :** Jusqu'au début de votre prochain tour, les ennemis subissent un fléau sur les jets d'aptitude effectués contre vous ou tout allié adjacent à vous.
 
-*Un coup puissant transforme la vitalité de votre ennemi en lumière sacrée qui vous enveloppe ainsi qu'un allié, décourageant les ennemis qui pourraient vous attaquer.*
+> [!spell] Assaut Implacable (3 Courroux)
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Alors que vous repoussez votre ennemi avec votre arme, vous utilisez votre foi pour rester proche.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à Corps 1
+> 🎯 **Cible:** Une créature ou un objet
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 3 + F dégâts ; poussée 1
+> - **12-16 :** 6 + F dégâts ; poussée 3
+> - **17+ :** 9 + F dégâts ; poussée 5
+> 
+> **💫 Effet :** Vous pouvez glisser jusqu'à votre vitesse en ligne droite vers la cible après l'avoir repoussée.
 
-| **Corps à Corps, Frappe, Arme**  |               **Action principale** |
-|-----------------------------------|------------------------------------:|
-| **📏 Corps à Corps 1**            | **🎯 Une créature ou un objet** |
+> [!spell] Les Dieux Punissent et Défendent (3 Courroux)
+> 🏷️ *Magie • Corps à Corps • Frappe • Arme*
+> 
+> ***Vous canalisez l'énergie sacrée pour châtier un ennemi et soigner un allié.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à Corps 1
+> 🎯 **Cible:** Une créature ou un objet
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 5 + F dégâts sacrés
+> - **12-16 :** 8 + F dégâts sacrés
+> - **17+ :** 11 + F dégâts sacrés
+> 
+> **💫 Effet :** Vous pouvez dépenser une récupération pour permettre à vous-même ou à un allié dans un rayon de 10 cases de regagner de la vigueur égale à vos points de récupération.
 
-**Jet de Pouvoir + Force :**
+> [!spell] Repentez-vous ! (3 Courroux)
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Vous invoquez les souvenirs de leurs péchés pour harceler vos ennemis.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Distance 10
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 5 + P dégâts sacrés ; I < FAIBLE, étourdi (sauvegarde termine)
+> - **12-16 :** 8 + P dégâts sacrés ; I < MOYEN, étourdi (sauvegarde termine)
+> - **17+ :** 11 + P dégâts sacrés ; I < FORT, étourdi (sauvegarde termine)
 
-- **≤11 :** 3 + F dégâts sacrés
-- **12-16 :** 6 + F dégâts sacrés
-- **17+ :** 9 + F dégâts sacrés
-
-**Effet :** Jusqu'au début de votre prochain tour, les ennemis subissent un fléau sur les jets d'aptitude effectués contre vous ou tout allié adjacent à vous.
-
-######## Assaut Implacable (3 Courroux)
-
-*Alors que vous repoussez votre ennemi avec votre arme, vous utilisez votre foi pour rester proche.*
-
-| **Corps à Corps, Frappe, Arme**  |               **Action principale** |
-|-----------------------------------|------------------------------------:|
-| **📏 Corps à Corps 1**            | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 3 + F dégâts ; poussée 1
-- **12-16 :** 6 + F dégâts ; poussée 3
-- **17+ :** 9 + F dégâts ; poussée 5
-
-**Effet :** Vous pouvez glisser jusqu'à votre vitesse en ligne droite vers la cible après l'avoir repoussée.
-
-######## Les Dieux Punissent et Défendent (3 Courroux)
-
-*Vous canalisez l'énergie sacrée pour châtier un ennemi et soigner un allié.*
-
-| **Magie, Corps à Corps, Frappe, Arme** |               **Action principale** |
-|-----------------------------------------|------------------------------------:|
-| **📏 Corps à Corps 1**                  | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 5 + F dégâts sacrés
-- **12-16 :** 8 + F dégâts sacrés
-- **17+ :** 11 + F dégâts sacrés
-
-**Effet :** Vous pouvez dépenser une récupération pour permettre à vous-même ou à un allié dans un rayon de 10 cases de regagner de la vigueur égale à vos points de récupération.
-
-######## Repentez-vous ! (3 Courroux)
-
-*Vous invoquez les souvenirs de leurs péchés pour harceler vos ennemis.*
-
-| **Magie, Distance, Frappe**  |    **Action principale**  |
-|-------------------------------|---------------------------:|
-| **📏 Distance 10**            | **🎯 Une créature** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 5 + P dégâts sacrés ; I < FAIBLE, étourdi (sauvegarde termine)
-- **12-16 :** 8 + P dégâts sacrés ; I < MOYEN, étourdi (sauvegarde termine)
-- **17+ :** 11 + P dégâts sacrés ; I < FORT, étourdi (sauvegarde termine)
-
-###### Aptitude à 5-Courroux
+## Aptitude à 5-Courroux
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 courroux à utiliser. (*Construction Rapide :* Feu Purificateur.)
 
-######## Arrestation (5 Courroux)
+> [!spell] Arrestation (5 Courroux)
+> 🏷️ *Magie • Corps à Corps • Frappe • Arme*
+> 
+> ***« Je te tiens, sale fils de pute. »***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 6 + F dégâts sacrés ; agrippé
+> - **12-16 :** 9 + F dégâts sacrés ; agrippé
+> - **17+ :** 13 + F dégâts sacrés ; agrippé
+> 
+> **💫 Effet :** Si la cible effectue une frappe contre une créature alors qu'elle est agrippée de cette manière, vous pouvez dépenser 3 courroux pour lui infliger des dégâts sacrés égaux à votre score de Présence, puis changer la cible de la frappe vers une autre cible à portée de la frappe.
 
-*« Je te tiens, sale fils de pute. »*
+> [!spell] Contemplez le Visage de la Justice ! (5 Courroux)
+> 🏷️ *Magie • Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Vous attaquez un adversaire et vos ennemis contemplent une vision de la vraie nature de votre détermination.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1 ou distance 5
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 3 + F dégâts sacrés ; si la cible a P < FAIBLE, chaque ennemi dans un rayon de 2 cases d'elle est effrayé de vous (sauvegarde termine)
+> - **12-16 :** 5 + F dégâts sacrés ; si la cible a P < MOYEN, chaque ennemi dans un rayon de 2 cases d'elle est effrayé de vous (sauvegarde termine)
+> - **17+ :** 8 + F dégâts sacrés ; si la cible a P < FORT, chaque ennemi dans un rayon de 2 cases d'elle est effrayé de vous (sauvegarde termine)
+> 
+> **💫 Effet :** Chaque ennemi effrayé de cette manière subit une poussée de jusqu'à 2 cases loin de la cible et prend des dégâts psychiques égaux à votre score de Présence.
 
-| **Magie, Corps à Corps, Frappe, Arme** |               **Action principale** |
-|----------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**                 |           **🎯 Une créature** |
+> [!spell] Censuré (5 Courroux)
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Jugé et condamné.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 2 + F dégâts sacrés
+> - **12-16 :** 3 + F dégâts sacrés
+> - **17+ :** 5 + F dégâts sacrés
+> 
+> **💫 Effet :** Quand une cible qui n'est pas une créature leader ou solo est rendue essoufflée par cette aptitude, elle est réduite à 0 Vigueur.
 
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 6 + F dégâts sacrés ; agrippé
-- **12-16 :** 9 + F dégâts sacrés ; agrippé
-- **17+ :** 13 + F dégâts sacrés ; agrippé
-
-**Effet :** Si la cible effectue une frappe contre une créature alors qu'elle est agrippée de cette manière, vous pouvez dépenser 3 courroux pour lui infliger des dégâts sacrés égaux à votre score de Présence, puis changer la cible de la frappe vers une autre cible à portée de la frappe.
-
-######## Contemplez le Visage de la Justice ! (5 Courroux)
-
-*Vous attaquez un adversaire et vos ennemis contemplent une vision de la vraie nature de votre détermination.*
-
-| **Magie, Corps à Corps, Distance, Frappe, Arme**  |               **Action principale** |
-|---------------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1 ou distance 5**              |           **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 3 + F dégâts sacrés ; si la cible a P < FAIBLE, chaque ennemi dans un rayon de 2 cases d'elle est effrayé de vous (sauvegarde termine)
-- **12-16 :** 5 + F dégâts sacrés ; si la cible a P < MOYEN, chaque ennemi dans un rayon de 2 cases d'elle est effrayé de vous (sauvegarde termine)
-- **17+ :** 8 + F dégâts sacrés ; si la cible a P < FORT, chaque ennemi dans un rayon de 2 cases d'elle est effrayé de vous (sauvegarde termine)
-
-**Effet :** Chaque ennemi effrayé de cette manière subit une poussée de jusqu'à 2 cases loin de la cible et prend des dégâts psychiques égaux à votre score de Présence.
-
-######## Censuré (5 Courroux)
-
-*Jugé et condamné.*
-
-| **Corps à Corps, Frappe, Arme**  |               **Action principale** |
-|----------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**            |           **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 2 + F dégâts sacrés
-- **12-16 :** 3 + F dégâts sacrés
-- **17+ :** 5 + F dégâts sacrés
-
-**Effet :** Quand une cible qui n'est pas une créature leader ou solo est rendue essoufflée par cette aptitude, elle est réduite à 0 Vigueur.
-
-######## Feu Purificateur (5 Courroux)
-
-*Les dieux jugent, le feu purifie.*
-
-| **Magie, Corps à Corps, Distance, Frappe, Arme**  |               **Action principale** |
-|---------------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1 ou distance 5**              |           **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 5 + F dégâts sacrés ; F < FAIBLE, la cible a faiblesse au feu 3 (sauvegarde termine)
-- **12-16 :** 9 + F dégâts sacrés ; F < MOYEN, la cible a faiblesse au feu 5 (sauvegarde termine)
-- **17+ :** 12 + F dégâts sacrés ; F < FORT, la cible a faiblesse au feu 7 (sauvegarde termine)
-
-**Effet :** Tant que la cible a une faiblesse au feu de cette aptitude, vous pouvez choisir de faire que vos aptitudes infligent des dégâts de feu à la cible au lieu de dégâts sacrés.
+> [!spell] Feu Purificateur (5 Courroux)
+> 🏷️ *Magie • Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Les dieux jugent, le feu purifie.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1 ou distance 5
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 5 + F dégâts sacrés ; F < FAIBLE, la cible a faiblesse au feu 3 (sauvegarde termine)
+> - **12-16 :** 9 + F dégâts sacrés ; F < MOYEN, la cible a faiblesse au feu 5 (sauvegarde termine)
+> - **17+ :** 12 + F dégâts sacrés ; F < FORT, la cible a faiblesse au feu 7 (sauvegarde termine)
+> 
+> **💫 Effet :** Tant que la cible a une faiblesse au feu de cette aptitude, vous pouvez choisir de faire que vos aptitudes infligent des dégâts de feu à la cible au lieu de dégâts sacrés.
 
 ### Aptitudes de Niveau 2
 
@@ -479,7 +510,7 @@ Votre ordre de censeur vous accorde deux aptitudes, comme indiqué dans le table
 | Oracle                   | C'était Prédit, Juge de Caractère           |
 | Parangon                 | Montrer l'Exemple, Icône Inébranlable       |
 
-##### Il Était Prédit
+##### C'Était Prédit
 
 Votre ordre vous a formé à comprendre les fragments de visions accordées par votre divinité, vous donnant un avantage momentané dans les situations difficiles. Au début d'une rencontre, vous pouvez effectuer une Action Principale avant toute autre Créature et avant votre premier Tour. De plus, chaque fois que le Directeur demande un Test de Montage, vous pouvez effectuer un Test gratuit avant que le montage ne commence, qui compte comme un succès ou un échec obtenu comme d'habitude.
 
@@ -511,87 +542,103 @@ Votre ordre de censeur vous accorde le choix entre deux aptitudes héroïques.
 
 Choisissez l'une des aptitudes suivantes.
 
-######## C'est la Justice que Tu Crains (5 Courroux)
+> [!spell] C'est la Justice que Tu Crains (5 Courroux)
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Je ne suis qu'un réceptacle. Tes propres actes pèsent sur toi.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Distance 10
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 8 + F dégâts sacrés ; P < FAIBLE, effrayé (sauvegarde termine)
+> - **12-16 :** 12 + F dégâts sacrés ; P < MOYEN, effrayé (sauvegarde termine)
+> - **17+ :** 15 + F dégâts sacrés ; P < FORT, effrayé (sauvegarde termine)
+> 
+> **💫 Effet :** Si la cible est déjà effrayée de vous ou d'une autre créature et que cette aptitude l'effraierait à nouveau, elle subit à la place des dégâts psychiques égaux au double de votre score de Présence.
 
-*Je ne suis qu'un réceptacle. Tes propres actes pèsent sur toi.*
-
-| **Magie, Distance, Frappe** |     **Action principale** |
-|------------------------------|---------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 8 + F dégâts sacrés ; P < FAIBLE, effrayé (sauvegarde termine)
-- **12-16 :** 12 + F dégâts sacrés ; P < MOYEN, effrayé (sauvegarde termine)
-- **17+ :** 15 + F dégâts sacrés ; P < FORT, effrayé (sauvegarde termine)
-
-**Effet :** Si la cible est déjà effrayée de vous ou d'une autre créature et que cette aptitude l'effraierait à nouveau, elle subit à la place des dégâts psychiques égaux au double de votre score de Présence.
-
-######## Révélateur (5 Courroux)
-
-*Vous canalisez l'énergie sacrée pour blesser les incroyants et révéler ceux qui se cachent de votre jugement.*
-
-| **Zone, Magie** |                  **Manœuvre** |
-|------------------|------------------------------:|
-| **📏 Explosion 3**  | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Chaque cible subit des dégâts sacrés égaux au double de votre score de Présence. De plus, chaque cible cachée est automatiquement révélée et ne peut plus se cacher à nouveau jusqu'au début de votre prochain tour. Vous pouvez ensuite utiliser votre aptitude Jugement contre une cible en tant qu'action déclenchée gratuite.
+> [!spell] Révélateur (5 Courroux)
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous canalisez l'énergie sacrée pour blesser les incroyants et révéler ceux qui se cachent de votre jugement.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** Explosion 3
+> 🎯 **Cible:** Chaque ennemi dans la zone
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible subit des dégâts sacrés égaux au double de votre score de Présence. De plus, chaque cible cachée est automatiquement révélée et ne peut plus se cacher à nouveau jusqu'au début de votre prochain tour. Vous pouvez ensuite utiliser votre aptitude Jugement contre une cible en tant qu'action déclenchée gratuite.
 
 ##### Aptitude d'Oracle de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Grâce Presciente (5 Courroux)
+> [!spell] Grâce Presciente (5 Courroux)
+> 🏷️ *Magie • À distance*
+> 
+> ***Béni par une vision presciente, vous avertissez un allié d'une attaque imminente.***
+> 
+> ⚔️ **Action:** Déclenchée
+> 📍 **Portée:** À distance 10
+> 🎯 **Cible:** Soi ou un allié
+> 
+> ---
+> 
+> **⚡ Déclencheur :** Un ennemi dans un rayon de 10 cases commence son tour.
+> 
+> **💫 Effet :** Vous pouvez dépenser une Récupération pour permettre à la cible de regagner de la Vigueur égale à vos Points de Récupération. La cible peut alors prendre son tour immédiatement avant l'ennemi déclencheur.
 
-*Béni par une vision presciente, vous avertissez un allié d'une attaque imminente.*
-
-| **Magie, À distance** |          **Déclenchée** |
-|-----------------------|------------------------:|
-| **📏 À distance 10**  | **🎯 Soi ou un allié** |
-
-**Déclencheur :** Un ennemi dans un rayon de 10 cases commence son tour.
-
-**Effet :** Vous pouvez dépenser une Récupération pour permettre à la cible de regagner de la Vigueur égale à vos Points de Récupération. La cible peut alors prendre son tour immédiatement avant l'ennemi déclencheur.
-
-######## Avec Ma Bénédiction (5 Courroux)
-
-*Un mot en prière, et les dieux montrent la voie.*
-
-| **Magie, À distance** |         **Action principale** |
-|-----------------------|------------------------------:|
-| **📏 À distance 10**  |        **🎯 Soi ou un allié** |
-
-**Effet :** La cible peut utiliser une Action Déclenchée Gratuite pour utiliser une Aptitude Signature de Frappe ou une Aptitude Héroïque de Frappe, et bénéficie d'un Double Avantage sur cette aptitude. Si une Aptitude Héroïque est choisie, réduisez son coût en Ressource Héroïque de 3 (jusqu'à un coût minimum de 0).
+> [!spell] Avec Ma Bénédiction (5 Courroux)
+> 🏷️ *Magie • À distance*
+> 
+> ***Un mot en prière, et les dieux montrent la voie.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** À distance 10
+> 🎯 **Cible:** Soi ou un allié
+> 
+> ---
+> 
+> **💫 Effet :** La cible peut utiliser une Action Déclenchée Gratuite pour utiliser une Aptitude Signature de Frappe ou une Aptitude Héroïque de Frappe, et bénéficie d'un Double Avantage sur cette aptitude. Si une Aptitude Héroïque est choisie, réduisez son coût en Ressource Héroïque de 3 (jusqu'à un coût minimum de 0).
 
 ##### Aptitude de Parangon de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Bénédiction des Fidèles (5 Courroux)
+> [!spell] Bénédiction des Fidèles (5 Courroux)
+> 🏷️ *Zone • Magique*
+> 
+> ***Les dieux récompensent votre foi.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** 3 aura
+> 🎯 **Cible:** Soi et chaque allié dans la zone
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible gagne 1 impulsion à la fin de chacun de vos tours.
 
-*Les dieux récompensent votre foi.*
-
-| **Zone, Magique** |                          **Manœuvre** |
-|-------------------|--------------------------------------:|
-| **📏 3 aura**     | **🎯 Soi et chaque allié dans la zone** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible gagne 1 impulsion à la fin de chacun de vos tours.
-
-######## Condamné (5 Courroux)
-
-*Le choc de votre condamnation glace votre ennemi sur place.*
-
-| **Magique, Corps à Corps, Frappe, Arme** |               **Action principale** |
-|-------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**                   |           **🎯 Une créature** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 5 + P dégâts ; P < FAIBLE, entravé (sauvegarde termine)
-- **12-16 :** 9 + P dégâts ; P < MOYEN, entravé (sauvegarde termine)
-- **17+ :** 12 + P dégâts ; P < FORT, entravé (sauvegarde termine)
-
-**Effet :** Tant que la cible est entravée de cette manière, vos aptitudes qui imposent un déplacement forcé peuvent toujours la déplacer.
+> [!spell] Condamné (5 Courroux)
+> 🏷️ *Magique • Corps à Corps • Frappe • Arme*
+> 
+> ***Le choc de votre condamnation glace votre ennemi sur place.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 5 + P dégâts ; P < FAIBLE, entravé (sauvegarde termine)
+> - **12-16 :** 9 + P dégâts ; P < MOYEN, entravé (sauvegarde termine)
+> - **17+ :** 12 + P dégâts ; P < FORT, entravé (sauvegarde termine)
+> 
+> **💫 Effet :** Tant que la cible est entravée de cette manière, vos aptitudes qui imposent un déplacement forcé peuvent toujours la déplacer.
 
 ### Aptitudes de Niveau 3
 
@@ -605,45 +652,57 @@ Votre jugement a gagné en puissance divine, instillant la peur chez ceux que vo
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 courroux à utiliser.
 
-######## Édit d'Isolement Perturbateur (7 Courroux)
+> [!spell] Édit d'Isolement Perturbateur (7 Courroux)
+> 🏷️ *Zone • Magie*
+> 
+> ***Le mal qui habite vos ennemis explose en un feu sacré qui ne brûle que les coupables.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** 2 aura
+> 🎯 **Cible:** Chaque ennemi dans la zone
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible subit des dégâts sacrés égaux à votre score de Présence à la fin de chacun de vos tours. Une cible subit 2d6 dégâts sacrés supplémentaires si elle est jugée par vous ou si elle est adjacente à un ennemi.
 
-*Le mal qui habite vos ennemis explose en un feu sacré qui ne brûle que les coupables.*
+> [!spell] Édit d'Ordre Parfait (7 Courroux)
+> 🏷️ *Zone • Magie*
+> 
+> ***Dans la zone de votre présence divine, vos ennemis regretteront d'utiliser leurs sinistres aptitudes.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** 2 aura
+> 🎯 **Cible:** Chaque ennemi dans la zone
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible utilise une aptitude qui coûte de la Malveillance (voir *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), elle subit des dégâts sacrés égaux à trois fois votre score de Présence. Une cible jugée par vous subit 2d6 dégâts sacrés supplémentaires.
 
-| **Zone, Magie** |                  **Manœuvre** |
-|-----------------|------------------------------:|
-| **📏 2 aura**   | **🎯 Chaque ennemi dans la zone** |
+> [!spell] Édit de Pacifisme Purificateur (7 Courroux)
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous émettez une énergie vertueuse qui punit les ennemis qui voudraient vous blesser ou blesser vos alliés.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** 2 aura
+> 🎯 **Cible:** Chaque ennemi dans la zone
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible effectue une frappe, elle subit des dégâts sacrés égaux à deux fois votre score de Présence. Une cible jugée par vous subit 2d6 dégâts sacrés supplémentaires.
 
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible subit des dégâts sacrés égaux à votre score de Présence à la fin de chacun de vos tours. Une cible subit 2d6 dégâts sacrés supplémentaires si elle est jugée par vous ou si elle est adjacente à un ennemi.
-
-######## Édit d'Ordre Parfait (7 Courroux)
-
-*Dans la zone de votre présence divine, vos ennemis regretteront d'utiliser leurs sinistres aptitudes.*
-
-| **Zone, Magie** |                  **Manœuvre** |
-|-----------------|------------------------------:|
-| **📏 2 aura**   | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible utilise une aptitude qui coûte de la Malveillance (voir *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), elle subit des dégâts sacrés égaux à trois fois votre score de Présence. Une cible jugée par vous subit 2d6 dégâts sacrés supplémentaires.
-
-######## Édit de Pacifisme Purificateur (7 Courroux)
-
-*Vous émettez une énergie vertueuse qui punit les ennemis qui voudraient vous blesser ou blesser vos alliés.*
-
-| **Zone, Magie** |                  **Manœuvre** |
-|-----------------|------------------------------:|
-| **📏 2 aura**   | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible effectue une frappe, elle subit des dégâts sacrés égaux à deux fois votre score de Présence. Une cible jugée par vous subit 2d6 dégâts sacrés supplémentaires.
-
-######## Édit d'Immobilité (7 Courroux)
-
-*L'aura sacrée que vous projetez rend douloureux pour les malfaiteurs de quitter votre portée.*
-
-| **Zone, Magie** |                  **Manœuvre** |
-|-----------------|------------------------------:|
-| **📏 2 aura**   | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible se déplace ou subit un déplacement forcé hors de la zone, elle subit des dégâts sacrés égaux à deux fois votre score de Présence. Une cible jugée par vous qui se déplace volontairement subit 2d6 dégâts sacrés supplémentaires.
+> [!spell] Édit d'Immobilité (7 Courroux)
+> 🏷️ *Zone • Magie*
+> 
+> ***L'aura sacrée que vous projetez rend douloureux pour les malfaiteurs de quitter votre portée.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** 2 aura
+> 🎯 **Cible:** Chaque ennemi dans la zone
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible se déplace ou subit un déplacement forcé hors de la zone, elle subit des dégâts sacrés égaux à deux fois votre score de Présence. Une cible jugée par vous qui se déplace volontairement subit 2d6 dégâts sacrés supplémentaires.
 
 ### Aptitudes de Niveau 4
 
@@ -694,15 +753,18 @@ Votre présence divine permet à ceux que vous jugez dignes de récupérer rapid
 
 Vous possédez l'aptitude suivante.
 
-######## Bénédiction des Secrets
-
-*Vous projetez une aura illusoire qui rend plus difficile de vous remarquer, vous et vos alliés.*
-
-| **Zone, Magie** |                          **Manœuvre** |
-|------------------|--------------------------------------:|
-| **📏 3 aura**    | **🎯 Soi-même et chaque allié dans la zone** |
-
-**Effet :** Chaque créature dans la zone bénéficie d'un double avantage sur les tests effectués pour se cacher ou se faufiler. L'aura dure jusqu'à ce que vous y mettiez fin (action triviale requise) ou jusqu'à ce qu'une cible blesse ou inflige des dégâts à une créature ou un objet.
+> [!spell] Bénédiction des Secrets
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous projetez une aura illusoire qui rend plus difficile de vous remarquer, vous et vos alliés.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** 3 aura
+> 🎯 **Cible:** Soi-même et chaque allié dans la zone
+> 
+> ---
+> 
+> **💫 Effet :** Chaque créature dans la zone bénéficie d'un double avantage sur les tests effectués pour se cacher ou se faufiler. L'aura dure jusqu'à ce que vous y mettiez fin (action triviale requise) ou jusqu'à ce qu'une cible blesse ou inflige des dégâts à une créature ou un objet.
 
 ##### Toucher Impénétrable
 
@@ -780,61 +842,70 @@ Votre étincelle divine gagne en puissance, vous permettant ainsi qu'à vos alli
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 courroux à utiliser.
 
-######## Les Dieux t'Accordent la Force (9 Courroux)
+> [!spell] Les Dieux t'Accordent la Force (9 Courroux)
+> 🏷️ *À distance*
+> 
+> ***Vous canalisez une force divine pour un déplacement qui ne peut être arrêté.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** À distance 10
+> 🎯 **Cible:** Soi-même ou un allié
+> 
+> ---
+> 
+> **💫 Effet :** La cible met fin à toute condition ou effet qui la touche et qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour, ou une cible à terre peut se lever. La cible gagne ensuite 2 impulsions, peut glisser jusqu'à sa vitesse en ignorant le terrain difficile, et peut utiliser une aptitude signature de frappe comme action déclenchée gratuite.
 
-*Vous canalisez une force divine pour un déplacement qui ne peut être arrêté.*
+> [!spell] Oraison de la Victoire (9 Courroux)
+> 🏷️ *Zone*
+> 
+> ***Vous canalisez la volonté de votre dieu pour surmonter les épreuves et infliger la douleur.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** Explosion 1
+> 🎯 **Cible:** Soi-même et chaque allié dans la zone
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** Chaque cible gagne 1 impulsion.
+> - **12-16 :** Chaque cible gagne 2 impulsions.
+> - **17+ :** Chaque cible gagne 3 impulsions.
+> 
+> **💫 Effet :** Une cible peut mettre fin à un effet qui la touche et qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour, ou une cible à terre peut se lever.
 
-| **À distance** |         **Action principale** |
-|------------------|------------------------:|
-| **📏 À distance 10** | **🎯 Soi-même ou un allié** |
+> [!spell] Jugement Vertueux (9 Courroux)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Vous amplifiez le pouvoir de votre jugement.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 10 + F dégâts
+> - **12-16 :** 14 + F dégâts
+> - **17+ :** 20 + F dégâts
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre, chaque fois qu'un allié inflige des dégâts à une cible jugée par vous, cet allié gagne 1 impulsion.
 
-**Effet :** La cible met fin à toute condition ou effet qui la touche et qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour, ou une cible à terre peut se lever. La cible gagne ensuite 2 impulsions, peut glisser jusqu'à sa vitesse en ignorant le terrain difficile, et peut utiliser une aptitude signature de frappe comme action déclenchée gratuite.
-
-######## Oraison de la Victoire (9 Courroux)
-
-*Vous canalisez la volonté de votre dieu pour surmonter les épreuves et infliger la douleur.*
-
-| **Zone**       |                          **Manœuvre** |
-|----------------|--------------------------------------:|
-| **📏 Explosion 1** | **🎯 Soi-même et chaque allié dans la zone** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** Chaque cible gagne 1 impulsion.
-- **12-16 :** Chaque cible gagne 2 impulsions.
-- **17+ :** Chaque cible gagne 3 impulsions.
-
-**Effet :** Une cible peut mettre fin à un effet qui la touche et qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour, ou une cible à terre peut se lever.
-
-######## Jugement Vertueux (9 Courroux)
-
-*Vous amplifiez le pouvoir de votre jugement.*
-
-| **Corps à corps, Frappe, Arme**   |          **Action principale** |
-|----------------------------|-------------------------:|
-| **📏 Corps à corps 1**             |      **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 10 + F dégâts
-- **12-16 :** 14 + F dégâts
-- **17+ :** 20 + F dégâts
-
-**Effet :** Jusqu'à la fin de la rencontre, chaque fois qu'un allié inflige des dégâts à une cible jugée par vous, cet allié gagne 1 impulsion.
-
-######## Bouclier du Vertueux (9 Courroux)
-
-*Vous frappez un ennemi et créez une flotte de boucliers divins qui protègent vos alliés.*
-
-| **Corps à corps, Frappe, Arme** |          **Action principale** |
-|---------------------------|-------------------------:|
-| **📏 Corps à corps 1**            |      **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 10 + F dégâts ; vous et chaque allié adjacent à vous gagnez 10 vigueur temporaire
-- **12-16 :** 14 + F dégâts ; vous et chaque allié adjacent à vous gagnez 15 vigueur temporaire
-- **17+ :** 20 + F dégâts ; vous et chaque allié adjacent à vous gagnez 20 vigueur temporaire
+> [!spell] Bouclier du Vertueux (9 Courroux)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Vous frappez un ennemi et créez une flotte de boucliers divins qui protègent vos alliés.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 10 + F dégâts ; vous et chaque allié adjacent à vous gagnez 10 vigueur temporaire
+> - **12-16 :** 14 + F dégâts ; vous et chaque allié adjacent à vous gagnez 15 vigueur temporaire
+> - **17+ :** 20 + F dégâts ; vous et chaque allié adjacent à vous gagnez 20 vigueur temporaire
 
 ### Aptitudes de Niveau 6
 
@@ -861,91 +932,106 @@ Votre ordre de censeur vous accorde le choix entre deux aptitudes héroïques.
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Disparaissez ! (9 Courroux)
+> [!spell] Disparaissez ! (9 Courroux)
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous terrorisez vos ennemis et les forcez à battre en retraite, semant le chaos dans leurs rangs.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Explosion 3
+> 🎯 **Cible:** Chaque ennemi dans la zone
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 4 dégâts psychiques ; Glissement 3
+> - **12-16 :** 6 dégâts psychiques ; Glissement 5
+> - **17+ :** 8 dégâts psychiques ; Glissement 7
 
-*Vous terrorisez vos ennemis et les forcez à battre en retraite, semant le chaos dans leurs rangs.*
-
-| **Zone, Magie** |               **Action principale** |
-|-----------------|------------------------------------:|
-| **📏 Explosion 3**  | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 4 dégâts psychiques ; Glissement 3
-- **12-16 :** 6 dégâts psychiques ; Glissement 5
-- **17+ :** 8 dégâts psychiques ; Glissement 7
-
-######## La Douleur de Votre Propre Création (9 Courroux)
-
-*Vous retournez les effets contre un malfaiteur.*
-
-| **Magie, À distance** |      **Action déclenchée gratuite** |
-|-------------------|------------------------------------:|
-| **📏 À distance 10**  | **🎯 Vous-même ou un allié** |
-
-**Déclencheur :** La cible gagne un état ou un effet qui se termine par un Jet de Sauvegarde ou qui se termine à la fin de son tour.
-
-**Effet :** L'effet se termine sur la cible et s'applique à la créature qui a imposé l'effet sur elle. Cette créature subit également des dégâts égaux à trois fois votre score de Présence.
+> [!spell] La Douleur de Votre Propre Création (9 Courroux)
+> 🏷️ *Magie • À distance*
+> 
+> ***Vous retournez les effets contre un malfaiteur.***
+> 
+> ⚔️ **Action:** Action déclenchée gratuite
+> 📍 **Portée:** À distance 10
+> 🎯 **Cible:** Vous-même ou un allié
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible gagne un état ou un effet qui se termine par un Jet de Sauvegarde ou qui se termine à la fin de son tour.
+> 
+> **💫 Effet :** L'effet se termine sur la cible et s'applique à la créature qui a imposé l'effet sur elle. Cette créature subit également des dégâts égaux à trois fois votre score de Présence.
 
 ##### Aptitudes d'Oracle de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Fardeau du Mal (9 Courroux)
+> [!spell] Fardeau du Mal (9 Courroux)
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Vous révélez une vision du destin de vos ennemis qui les fait paniquer en les ébranlant.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** Distance 10
+> 🎯 **Cible:** Trois ennemis
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** Glissement 3 ; I < FAIBLE, étourdi (sauvegarde termine)
+> - **12-16 :** Glissement 5 ; I < MOYEN, étourdi (sauvegarde termine)
+> - **17+ :** Glissement 7 ; I < FORT, étourdi (sauvegarde termine)
 
-*Vous révélez une vision du destin de vos ennemis qui les fait paniquer en les ébranlant.*
-
-| **Magie, Distance, Frappe** |         **Manœuvre** |
-|------------------------------|---------------------:|
-| **📏 Distance 10**           | **🎯 Trois ennemis** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** Glissement 3 ; I < FAIBLE, étourdi (sauvegarde termine)
-- **12-16 :** Glissement 5 ; I < MOYEN, étourdi (sauvegarde termine)
-- **17+ :** Glissement 7 ; I < FORT, étourdi (sauvegarde termine)
-
-######## Édit de Paix (9 Courroux)
-
-*Vous anticipez les mouvements de vos adversaires et les leur refusez.*
-
-| **Zone, Magie** |                    **Manœuvre** |
-|------------------|---------------------------------:|
-| **📏 Aura 3**    | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible prend une Action Déclenchée ou une Action Déclenchée Gratuite, cette action est annulée et la cible subit des dégâts sacrés égaux à votre score de Présence.
+> [!spell] Édit de Paix (9 Courroux)
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous anticipez les mouvements de vos adversaires et les leur refusez.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** Aura 3
+> 🎯 **Cible:** Chaque ennemi dans la zone
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible prend une Action Déclenchée ou une Action Déclenchée Gratuite, cette action est annulée et la cible subit des dégâts sacrés égaux à votre score de Présence.
 
 ##### Aptitudes de Parangon de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Congrégation (9 Courroux)
+> [!spell] Congrégation (9 Courroux)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Vous concentrez le courroux de vos alliés sur un ennemi choisi.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 8 + F dégâts ; en tant qu'action déclenchée gratuite, un allié dans un rayon de 10 cases de la cible peut utiliser une aptitude signature de frappe contre la cible
+> - **12-16 :** 12 + F dégâts ; en tant qu'action déclenchée gratuite, un allié dans un rayon de 10 cases de la cible peut utiliser une aptitude signature de frappe qui gagne un avantage contre la cible
+> - **17+ :** 16 + F dégâts ; en tant qu'action déclenchée gratuite, deux alliés dans un rayon de 10 cases de la cible peuvent chacun utiliser une aptitude signature de frappe qui gagne un avantage contre la cible
+> 
+> **💫 Effet :** Chaque allié peut glisser jusqu'à 2 cases et gagne 2 impulsions avant d'effectuer la frappe.
 
-*Vous concentrez le courroux de vos alliés sur un ennemi choisi.*
-
-| **Corps à corps, Frappe, Arme** |   **Action principale** |
-|----------------------------------|------------------------:|
-| **📏 Corps à corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 8 + F dégâts ; en tant qu'action déclenchée gratuite, un allié dans un rayon de 10 cases de la cible peut utiliser une aptitude signature de frappe contre la cible
-- **12-16 :** 12 + F dégâts ; en tant qu'action déclenchée gratuite, un allié dans un rayon de 10 cases de la cible peut utiliser une aptitude signature de frappe qui gagne un avantage contre la cible
-- **17+ :** 16 + F dégâts ; en tant qu'action déclenchée gratuite, deux alliés dans un rayon de 10 cases de la cible peuvent chacun utiliser une aptitude signature de frappe qui gagne un avantage contre la cible
-
-**Effet :** Chaque allié peut glisser jusqu'à 2 cases et gagne 2 impulsions avant d'effectuer la frappe.
-
-######## Intercéder (9 Courroux)
-
-*Vous prenez la place de votre allié.*
-
-| **Magie, À distance** | **Action déclenchée gratuite** |
-|-----------------------|-------------------------------:|
-| **📏 À distance 10**  |    **🎯 Un allié** |
-
-**Déclencheur :** Une créature effectue une frappe contre la cible.
-
-**Effet :** La cible n'est pas affectée par la frappe et vous devenez la cible à la place, même si vous n'êtes pas une cible valide pour celle-ci. Vous subissez la moitié des dégâts de la frappe, et la cible gagne 3 impulsions.
+> [!spell] Intercéder (9 Courroux)
+> 🏷️ *Magie • À distance*
+> 
+> ***Vous prenez la place de votre allié.***
+> 
+> ⚔️ **Action:** Action déclenchée gratuite
+> 📍 **Portée:** À distance 10
+> 🎯 **Cible:** Un allié
+> 
+> ---
+> 
+> **⚡ Déclencheur :** Une créature effectue une frappe contre la cible.
+> 
+> **💫 Effet :** La cible n'est pas affectée par la frappe et vous devenez la cible à la place, même si vous n'êtes pas une cible valide pour celle-ci. Vous subissez la moitié des dégâts de la frappe, et la cible gagne 3 impulsions.
 
 ### Aptitudes de Niveau 7
 
@@ -984,15 +1070,18 @@ Les dieux vous envoient leur faveur divine, à vous et à vos alliés. Tant que 
 
 Vous pouvez maintenir des liens avec jusqu'à trois créatures consentantes en utilisant votre aptitude Invocation du Cœur. De plus, vous disposez de l'aptitude suivante.
 
-######## Guidé à Vos Côtés
-
-*Vous vous concentrez sur un ami et vous téléportez jusqu'à lui.*
-
-| **Magie, À distance** |           **Action Principale** |
-|-----------------------|--------------------------------:|
-| **📏 À distance 10**  | **🎯 Vous-même et chaque allié** |
-
-**Effet :** Chaque cible est téléportée vers des espaces inoccupés dans un rayon de 5 cases d'une créature consentante avec laquelle vous êtes lié par votre aptitude Invocation du Cœur. Vous n'avez pas besoin d'une ligne d'effet vers la créature liée, mais vous devez être sur le même monde.
+> [!spell] Guidé à Vos Côtés
+> 🏷️ *Magie • À distance*
+> 
+> ***Vous vous concentrez sur un ami et vous téléportez jusqu'à lui.***
+> 
+> ⚔️ **Action:** Action Principale
+> 📍 **Portée:** À distance 10
+> 🎯 **Cible:** Vous-même et chaque allié
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible est téléportée vers des espaces inoccupés dans un rayon de 5 cases d'une créature consentante avec laquelle vous êtes lié par votre aptitude Invocation du Cœur. Vous n'avez pas besoin d'une ligne d'effet vers la créature liée, mais vous devez être sur le même monde.
 
 ##### Intendant Divin
 
@@ -1030,15 +1119,18 @@ La foudre et le tonnerre imprègnent votre corps. Chaque fois que vous utilisez 
 
 Vous disposez de l'aptitude suivante.
 
-######## Trinité de Tromperie (9 Courroux)
-
-*Hé ! Je suis par ici. Non, ici, crétin.*
-
-| **Magie, Distance** |            **Manœuvre** |
-|---------------------|------------------------:|
-| **📏 Distance 10**  | **🎯 Soi ou un allié** |
-
-**Effet :** Vous créez deux duplicatas illusoires de la cible, qui apparaissent n'importe où à portée. Ces duplicatas durent jusqu'à la fin de la rencontre. À chacun de ses tours, la cible peut déplacer chaque duplicata jusqu'à sa vitesse. Si la cible est ciblée par une aptitude, elle peut utiliser une action déclenchée gratuite pour échanger sa place avec un duplicata dans sa ligne d'effet, faisant du duplicata la cible de l'aptitude à la place. Quand l'un des duplicatas subit des dégâts, il est détruit.
+> [!spell] Trinité de Tromperie (9 Courroux)
+> 🏷️ *Magie • Distance*
+> 
+> ***Hé ! Je suis par ici. Non, ici, crétin.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** Distance 10
+> 🎯 **Cible:** Soi ou un allié
+> 
+> ---
+> 
+> **💫 Effet :** Vous créez deux duplicatas illusoires de la cible, qui apparaissent n'importe où à portée. Ces duplicatas durent jusqu'à la fin de la rencontre. À chacun de ses tours, la cible peut déplacer chaque duplicata jusqu'à sa vitesse. Si la cible est ciblée par une aptitude, elle peut utiliser une action déclenchée gratuite pour échanger sa place avec un duplicata dans sa ligne d'effet, faisant du duplicata la cible de l'aptitude à la place. Quand l'un des duplicatas subit des dégâts, il est détruit.
 
 ##### Parole de Mort Différée
 
@@ -1098,69 +1190,77 @@ Vos paroles prennent le pouvoir de votre divinité, avec toute l'autorité que c
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 courroux à utiliser.
 
-######## Excommunication (11 Courroux)
+> [!spell] Excommunication (11 Courroux)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Vous maudissez votre ennemi pour qu'il devienne un fléau pour ses alliés.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 9 + F dégâts ; I < FAIBLE, affaibli (sauvegarde termine)
+> - **12-16 :** 13 + F dégâts ; I < MOYEN, affaibli (sauvegarde termine)
+> - **17+ :** 18 + F dégâts ; I < FORT, affaibli (sauvegarde termine)
+> 
+> **💫 Effet :** À la fin de chacun de vos tours, une cible affaiblie de cette manière inflige des dégâts sacrés égaux au double de votre score de Présence à chaque ennemi dans un rayon de 2 cases d'elle. De plus, une cible affaiblie de cette manière ne peut pas être ciblée par les aptitudes de ses alliés.
 
-*Vous maudissez votre ennemi pour qu'il devienne un fléau pour ses alliés.*
+> [!spell] Main des Dieux (11 Courroux)
+> 🏷️ *À distance • Frappe • Arme*
+> 
+> ***Vous utilisez votre ennemi comme un outil contre vos ennemis.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** À distance 10
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 10 + F dégâts
+> - **12-16 :** 15 + F dégâts
+> - **17+ :** 21 + F dégâts
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre, tant que la cible est jugée par vous, vous pouvez choisir de faire d'elle la source de n'importe laquelle de vos aptitudes. De plus, la cible compte comme un allié dans le cadre du flanquement.
 
-| **Corps à corps, Frappe, Arme** |     **Action principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à corps 1**           | **🎯 Une créature** |
+> [!spell] Pilier de Feu Sacré (11 Courroux)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***La culpabilité de votre ennemi alimente une flamme sacrée qui brûle vos ennemis.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** Corps à corps 1
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 9 + F dégâts ; I < FAIBLE, étourdi (sauvegarde termine)
+> - **12-16 :** 13 + F dégâts ; I < MOYEN, étourdi (sauvegarde termine)
+> - **17+ :** 18 + F dégâts ; I < FORT, étourdi (sauvegarde termine)
+> 
+> **💫 Effet :** À la fin de chacun de vos tours, une cible étourdie de cette manière inflige des dégâts sacrés égaux au double de votre score de Présence à chaque ennemi dans un rayon de 2 cases d'elle.
 
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 9 + F dégâts ; I < FAIBLE, affaibli (sauvegarde termine)
-- **12-16 :** 13 + F dégâts ; I < MOYEN, affaibli (sauvegarde termine)
-- **17+ :** 18 + F dégâts ; I < FORT, affaibli (sauvegarde termine)
-
-**Effet :** À la fin de chacun de vos tours, une cible affaiblie de cette manière inflige des dégâts sacrés égaux au double de votre score de Présence à chaque ennemi dans un rayon de 2 cases d'elle. De plus, une cible affaiblie de cette manière ne peut pas être ciblée par les aptitudes de ses alliés.
-
-######## Main des Dieux (11 Courroux)
-
-*Vous utilisez votre ennemi comme un outil contre vos ennemis.*
-
-| **À distance, Frappe, Arme** |               **Action principale** |
-|-------------------------------|-------------------------------------:|
-| **📏 À distance 10**          |           **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 10 + F dégâts
-- **12-16 :** 15 + F dégâts
-- **17+ :** 21 + F dégâts
-
-**Effet :** Jusqu'à la fin de la rencontre, tant que la cible est jugée par vous, vous pouvez choisir de faire d'elle la source de n'importe laquelle de vos aptitudes. De plus, la cible compte comme un allié dans le cadre du flanquement.
-
-######## Pilier de Feu Sacré (11 Courroux)
-
-*La culpabilité de votre ennemi alimente une flamme sacrée qui brûle vos ennemis.*
-
-| **Corps à corps, Frappe, Arme**  |     **Action principale** |
-|-----------------------------------|---------------------------:|
-| **📏 Corps à corps 1**            | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 9 + F dégâts ; I < FAIBLE, étourdi (sauvegarde termine)
-- **12-16 :** 13 + F dégâts ; I < MOYEN, étourdi (sauvegarde termine)
-- **17+ :** 18 + F dégâts ; I < FORT, étourdi (sauvegarde termine)
-
-**Effet :** À la fin de chacun de vos tours, une cible étourdie de cette manière inflige des dégâts sacrés égaux au double de votre score de Présence à chaque ennemi dans un rayon de 2 cases d'elle.
-
-######## Vos Alliés se Retournent Contre Vous ! (11 Courroux)
-
-*Vous dirigez la colère de vos ennemis vers la cible.*
-
-| **À distance, Frappe, Arme** |               **Action principale** |
-|-------------------------------|-------------------------------------:|
-| **📏 À distance 10**          |           **🎯 Une créature** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 5 + P dégâts ; I < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 9 + P dégâts ; I < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 12 + P dégâts ; I < FORT, ralenti (sauvegarde termine)
-
-**Effet :** Tant que la cible est ralentie de cette manière, chacun de ses alliés qui commence son tour dans un rayon de 5 cases d'elle doit utiliser une manœuvre gratuite pour effectuer une frappe gratuite contre la cible. De plus, tant que la cible est ralentie de cette manière, chacun de ses alliés dans un rayon de 5 cases d'elle qui peut effectuer une frappe gratuite déclenchée contre une créature différente doit effectuer la frappe gratuite contre la cible à la place.
+> [!spell] Vos Alliés se Retournent Contre Vous ! (11 Courroux)
+> 🏷️ *À distance • Frappe • Arme*
+> 
+> ***Vous dirigez la colère de vos ennemis vers la cible.***
+> 
+> ⚔️ **Action:** Action principale
+> 📍 **Portée:** À distance 10
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 5 + P dégâts ; I < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 9 + P dégâts ; I < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 12 + P dégâts ; I < FORT, ralenti (sauvegarde termine)
+> 
+> **💫 Effet :** Tant que la cible est ralentie de cette manière, chacun de ses alliés qui commence son tour dans un rayon de 5 cases d'elle doit utiliser une manœuvre gratuite pour effectuer une frappe gratuite contre la cible. De plus, tant que la cible est ralentie de cette manière, chacun de ses alliés dans un rayon de 5 cases d'elle qui peut effectuer une frappe gratuite déclenchée contre une créature différente doit effectuer la frappe gratuite contre la cible à la place.
 
 ### Aptitudes de Niveau 9
 
@@ -1182,95 +1282,110 @@ Votre ordre de censeur vous accorde le choix entre deux aptitudes héroïques.
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Bannissement (11 Courroux)
+> [!spell] Bannissement (11 Courroux)
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Vous rompez le lien ténu qui unit la cible au monde.***
+> 
+> ⚔️ **Action:** Action Principale
+> 📍 **Portée:** Corps à Corps 1
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 5 + F dégâts ; P < FAIBLE, la cible est bannie (Sauvegarde Termine)
+> - **12-16 :** 8 + F dégâts ; P < MOYENNE, la cible est bannie (Sauvegarde Termine)
+> - **17+ :** 11 + F dégâts ; P < FORTE, la cible est bannie (Sauvegarde Termine)
+> 
+> **💫 Effet :** Cette aptitude gagne un Avantage contre les démons, Diables, morts-vivants et créatures qui ne sont pas natives de votre monde actuel. Si vous connaissez le vrai nom de la cible, cette aptitude a un Double Avantage. Tant qu'elle est bannie, la cible est envoyée vers un autre Plan du Chronoscape et retirée de la carte de rencontre. Une cible bannie ne peut rien faire d'autre que des Jets de Sauvegarde, et subit 10 dégâts sacrés à chaque fois qu'elle le fait. Si la cible est réduite à 0 Vigueur tant qu'elle est bannie, elle est perdue dans le Chronoscape.
 
-*Vous rompez le lien ténu qui unit la cible au monde.*
-
-| **Corps à Corps, Frappe, Arme**  |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 5 + F dégâts ; P < FAIBLE, la cible est bannie (Sauvegarde Termine)
-- **12-16 :** 8 + F dégâts ; P < MOYENNE, la cible est bannie (Sauvegarde Termine)
-- **17+ :** 11 + F dégâts ; P < FORTE, la cible est bannie (Sauvegarde Termine)
-
-**Effet :** Cette aptitude gagne un Avantage contre les démons, Diables, morts-vivants et créatures qui ne sont pas natives de votre monde actuel. Si vous connaissez le vrai nom de la cible, cette aptitude a un Double Avantage. Tant qu'elle est bannie, la cible est envoyée vers un autre Plan du Chronoscape et retirée de la carte de rencontre. Une cible bannie ne peut rien faire d'autre que des Jets de Sauvegarde, et subit 10 dégâts sacrés à chaque fois qu'elle le fait. Si la cible est réduite à 0 Vigueur tant qu'elle est bannie, elle est perdue dans le Chronoscape.
-
-######## Terreur Manifeste (11 Courroux)
-
-*« Je sais ce que vous craignez. »*
-
-| **Magie, Distance, Frappe**  |     **Action Principale** |
-|-------------------------------|---------------------------:|
-| **📏 Distance 10**            | **🎯 Une créature** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 7 + P dégâts psychiques ; P < FAIBLE, Effrayé (Sauvegarde Termine)
-- **12-16 :** 10 + P dégâts psychiques ; P < MOYENNE, Effrayé (Sauvegarde Termine)
-- **17+ :** 13 + P dégâts psychiques ; P < FORTE, Effrayé (Sauvegarde Termine)
-
-**Effet :** Tant qu'elle est Effrayée de cette manière, si une cible qui est une créature dirigeante ou solo est Essoufflée, elle subit 25 dégâts psychiques supplémentaires. Si une cible Effrayée de cette manière n'est pas une créature dirigeante ou solo et est Essoufflée, elle est réduite à 0 Vigueur.
+> [!spell] Terreur Manifeste (11 Courroux)
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***« Je sais ce que vous craignez. »***
+> 
+> ⚔️ **Action:** Action Principale
+> 📍 **Portée:** Distance 10
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 7 + P dégâts psychiques ; P < FAIBLE, Effrayé (Sauvegarde Termine)
+> - **12-16 :** 10 + P dégâts psychiques ; P < MOYENNE, Effrayé (Sauvegarde Termine)
+> - **17+ :** 13 + P dégâts psychiques ; P < FORTE, Effrayé (Sauvegarde Termine)
+> 
+> **💫 Effet :** Tant qu'elle est Effrayée de cette manière, si une cible qui est une créature dirigeante ou solo est Essoufflée, elle subit 25 dégâts psychiques supplémentaires. Si une cible Effrayée de cette manière n'est pas une créature dirigeante ou solo et est Essoufflée, elle est réduite à 0 Vigueur.
 
 ##### Aptitudes d'Oracle de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Bénédiction et Malédiction (11 Courroux)
+> [!spell] Bénédiction et Malédiction (11 Courroux)
+> 🏷️ *Magie • Distance*
+> 
+> ***Les dieux bénissent et maudissent en égale mesure.***
+> 
+> ⚔️ **Action:** Déclenchée
+> 📍 **Portée:** Distance 10
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible effectue un jet de pouvoir.
+> 
+> **💫 Effet :** La cible obtient un résultat de tiers 1 ou de tiers 3 sur son jet de pouvoir (votre choix). Vous pouvez ensuite choisir une autre cible à distance, qui obtiendra le résultat opposé sur son prochain jet de pouvoir.
 
-*Les dieux bénissent et maudissent en égale mesure.*
-
-| **Magie, Distance**  |       **Déclenchée** |
-|----------------------|---------------------:|
-| **📏 Distance 10**   | **🎯 Une créature** |
-
-**Déclencheur :** La cible effectue un jet de pouvoir.
-
-**Effet :** La cible obtient un résultat de tiers 1 ou de tiers 3 sur son jet de pouvoir (votre choix). Vous pouvez ensuite choisir une autre cible à distance, qui obtiendra le résultat opposé sur son prochain jet de pouvoir.
-
-######## Accomplissez Votre Destin (11 Courroux)
-
-*Vous avez examiné divers futurs, et seul celui-ci fonctionne.*
-
-| **Magie, Distance**  |   **Déclenchée** |
-|----------------------|-----------------:|
-| **📏 Distance 10**   | **🎯 Un allié** |
-
-**Déclencheur :** Vous ou un autre héros termine son tour.
-
-**Effet :** La cible joue son tour après le héros déclencheur, et retire immédiatement toutes les conditions et effets négatifs qui l'affectent. Durant son tour, la cible bénéficie d'un double avantage sur les jets de pouvoir.
+> [!spell] Accomplissez Votre Destin (11 Courroux)
+> 🏷️ *Magie • Distance*
+> 
+> ***Vous avez examiné divers futurs, et seul celui-ci fonctionne.***
+> 
+> ⚔️ **Action:** Déclenchée
+> 📍 **Portée:** Distance 10
+> 🎯 **Cible:** Un allié
+> 
+> ---
+> 
+> **⚡ Déclencheur :** Vous ou un autre héros termine son tour.
+> 
+> **💫 Effet :** La cible joue son tour après le héros déclencheur, et retire immédiatement toutes les conditions et effets négatifs qui l'affectent. Durant son tour, la cible bénéficie d'un double avantage sur les jets de pouvoir.
 
 ##### Aptitudes de Parangon de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Apostat (11 Courroux)
+> [!spell] Apostat (11 Courroux)
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Vous canalisez l'énergie sacrée pour sceller le destin d'un ennemi.***
+> 
+> ⚔️ **Action:** Action Principale
+> 📍 **Portée:** Corps à Corps 1
+> 🎯 **Cible:** Une créature
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 13 + F dégâts sacrés
+> - **12-16 :** 19 + F dégâts sacrés
+> - **17+ :** 26 + F dégâts sacrés
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, la cible a une faiblesse aux dégâts 10.
 
-*Vous canalisez l'énergie sacrée pour sceller le destin d'un ennemi.*
-
-| **Corps à Corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 13 + F dégâts sacrés
-- **12-16 :** 19 + F dégâts sacrés
-- **17+ :** 26 + F dégâts sacrés
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, la cible a une faiblesse aux dégâts 10.
-
-######## Édit de Résolution Inébranlable (11 Courroux)
-
-*Vous et vos alliés êtes revêtus d'une armure chatoyante.*
-
-| **Zone, Magie** |                          **Manœuvre** |
-|------------------|---------------------------------------:|
-| **📏 Aura 2**    | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible qui commence son tour dans la zone gagne 10 Vigueur Temporaire.
+> [!spell] Édit de Résolution Inébranlable (11 Courroux)
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous et vos alliés êtes revêtus d'une armure chatoyante.***
+> 
+> ⚔️ **Action:** Manœuvre
+> 📍 **Portée:** Aura 2
+> 🎯 **Cible:** Vous-même et chaque allié dans la zone
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible qui commence son tour dans la zone gagne 10 Vigueur Temporaire.
 
 ### Aptitudes de Niveau 10
 
