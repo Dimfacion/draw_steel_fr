@@ -112,18 +112,21 @@ Vous connaissez toujours la direction vers l'emplacement exact d'une créature q
 
 De plus, vous avez l'aptitude signature suivante. Les aptitudes signature peuvent être utilisées à volonté.
 
-######## Faire Exploser le Sceau
-
-*Un sceau magique que vous avez placé sur une créature explose avec de l'énergie.*
-
-| **Magie, Distance, Frappe** |                        **Action Principale** |
-|------------------------------|----------------------------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature portant votre sceau** |
-
-**Jet de Pouvoir + Raison, Intuition ou Présence :**
-
-- **≤11 :** 3 + R, I ou P dégâts ; glissement 1
-- **12-16 :** 5 + R, I ou P dégâts ; glissement 2
-- **17+ :** 7 + R, I ou P dégâts ; glissement 3
-
-**Effet :** Le sceau disparaît de la créature.
+> [!spell] Faire Exploser le Sceau
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Un sceau magique que vous avez placé sur une créature explose avec de l'énergie.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature portant votre sceau</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison, Intuition ou Présence :
+> 
+> - **≤11 :** 3 + Rai, Int ou Pré dégâts ; glissement 1
+> - **12-16 :** 5 + Rai, Int ou Pré dégâts ; glissement 2
+> - **17+ :** 7 + Rai, Int ou Pré dégâts ; glissement 3
+> 
+> Le sceau disparaît de la créature.

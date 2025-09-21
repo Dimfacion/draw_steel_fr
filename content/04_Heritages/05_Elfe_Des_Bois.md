@@ -120,16 +120,19 @@ Vous avez une Vitesse de 6.
 
 Vous possédez l'aptitude signature suivante. Les aptitudes signatures peuvent être utilisées à volonté.
 
-######## Le Bois Défend
-
-*Des ronces épineuses jaillissent de toutes les surfaces et tentent de lier votre ennemi.*
-
-| **Magie, Distance, Frappe** |               **Action principale** |
-|-----------------------------|------------------------------------:|
-| **📏 Distance 10**          |           **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 2 + F ou A dégâts ; A < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 3 + F ou A dégâts ; A < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 5 + F ou A dégâts ; A < FORT, ralenti (sauvegarde termine)
+> [!spell] Le Bois Défend
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Des ronces épineuses jaillissent de toutes les surfaces et tentent de lier votre ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Force ou Agilité :
+> 
+> - **≤11 :** 2 + For ou Agi dégâts ; A < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 3 + For ou Agi dégâts ; A < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 5 + For ou Agi dégâts ; A < FORT, ralenti (sauvegarde termine)

@@ -21,9 +21,9 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
     Component.PageTitle(),
@@ -42,6 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
       folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
       useSavedState: true,
+      title: "Index",
       sortFn: (a, b) => {
         if(a.data == null) {
           if(b.data == null) {

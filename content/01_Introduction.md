@@ -102,7 +102,7 @@ Nous savons que beaucoup de gens viennent à ce jeu ayant seulement expériment�
     
 - **Nous ne nous attendons pas à ce que vous fassiez tout à la lettre.** C'est en fait une chose que _Draw Steel_ a en commun avec la fantasy d20. C'est un gros livre de règles ! Ne stressez pas si vous avez besoin de chercher quelque chose ou prendre une décision à la volée sur un cas limite. Si tout le monde s'amuse, c'est que vous vous en sortez très bien.
 
-## Index du Glossaire
+## Glossaire
 
 Les règles et termes de jeu suivants sont entièrement définis et développés dans ce livre. Ce glossaire est fourni pour vous donner une définition rapide et vous faciliter la vie en tant que joueur ou Directeur de jeu. Les numéros de page après chaque entrée du glossaire vous indiquent où vous pouvez en lire plus sur le sujet.
 

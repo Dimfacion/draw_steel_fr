@@ -1,6 +1,6 @@
 ## Conduit
 
-Le pouvoir des Dieux coule en vous ! En tant que réceptacle du pouvoir divin, vous ne vous contentez pas de maintenir vos alliés dans le combat. Vous rendez ces alliés plus efficaces, tout en faisant pleuvoir l'énergie divine sur vos ennemis. Bien que la divinité ou le Saint que vous servez puisse avoir d'autres fidèles et membres du clergé, vous êtes spécial parmi les adorateurs, recevant vos aptitudes de la plus haute source.
+Le pouvoir des Dieux coule en vous ! En tant que réceptacle du pouvoir divin, vous ne vous contentez pas de maintenir vos alliés dans le combat. Vous rendez ces alliés plus efficaces, tout en faisant pleuvoir l'énergie divine sur vos ennemis. Bien que la divinité ou le Saint que vous servez puisse avoir d'autres fidèles et membres du clergé, vous êtes spécial parmi les adorateurs, recevant vos aptitudes directement de votre divinité.
 
 **En tant que conduit, vous soignez et renforcez vos alliés, et affaiblissez vos ennemis tout en les châtiant avec la magie divine. L'étincelle de divinité en vous brille, remplissant vos ennemis de crainte respectueuse et vous rendant plus sage et conscient du monde.**
 
@@ -37,7 +37,7 @@ En tant que conduit, vous gagnez les aptitudes suivantes.
 
 #### Dieu et Domaines
 
-Choisissez un dieu ou un saint que votre personnage vénère dans le Chapitre 14 : Dieux et Religion, ou demandez à votre Directeur quelles sont les divinités de votre monde de campagne. Avec la permission du Directeur, vous pouvez également créer votre propre divinité et choisir quatre domaines pour composer son portefeuille.
+Choisissez un dieu ou un saint que votre personnage vénère dans le [[15_Dieux_et_Religions|chapitre Dieux et Religions]], ou demandez à votre Directeur quelles sont les divinités de votre monde de campagne. Avec la permission du Directeur, vous pouvez également créer votre propre divinité et choisir quatre domaines pour composer ses domaines.
 
 Après avoir choisi votre divinité, sélectionnez deux domaines de son portefeuille. Les deux domaines que vous choisissez constituent votre sous-classe, et votre choix de domaines détermine de nombreuses aptitudes que vous obtiendrez en gagnant de nouveaux niveaux. (*Construction Rapide :* Adûn comme divinité, et Vie et Protection comme domaines.)
 
@@ -92,7 +92,7 @@ De plus, chaque fois que vous activez un effet de domaine en priant pour de la p
 ###### Piété et Effet du Domaine de la Mort
 
 - **Piété :** Vous gagnez 2 piété la première fois dans une rencontre qu'une créature dans un rayon de 10 cases qui n'est pas un sbire est réduite à 0 Vigueur, ou la première fois dans une rencontre qu'une créature solo dans un rayon de 10 cases devient essoufflée.
-- **Effet de Prière :** Vous infligez une malédiction mortelle à jusqu'à deux ennemis dans un rayon de 10 cases de vous. Chaque cible subit des dégâts de corruption égaux au double de votre score d'Intuition.
+- **Effet de Prière :** Vous infligez une malédiction mortelle à deux ennemis maximum dans un rayon de 10 cases de vous. Chaque cible subit des dégâts de corruption égaux au double de votre score d'Intuition.
 
 ###### Piété et Effet du Domaine du Destin
 
@@ -107,7 +107,7 @@ De plus, chaque fois que vous activez un effet de domaine en priant pour de la p
 ###### Domaine de la Vie - Piété et Effet
 
 - **Piété :** Vous gagnez 2 points de piété la première fois dans une rencontre qu'une créature dans un rayon de 10 cases récupère de la Vigueur.
-- **Effet de Prière :** Choisissez vous-même ou un allié dans un rayon de 10 cases. Ce personnage peut dépenser une Récupération, peut mettre fin à un effet qui l'affecte et qui se termine par un Jet de Sauvegarde ou à la fin de son tour, ou peut se lever s'il est À Terre. Alternativement, vous ou un allié dans un rayon de 10 cases gagnez de la Vigueur Temporaire égale à deux fois votre score d'Intuition.
+- **Effet de Prière :** Choisissez vous-même ou un allié dans un rayon de 10 cases. Ce personnage peut dépenser une Récupération, peut mettre fin à un effet qui l'affecte et qui se termine par un Jet de Sauvegarde ou à la fin de son tour, ou peut se lever s'il est à terre. Alternativement, vous ou un allié dans un rayon de 10 cases gagnez de la Vigueur Temporaire égale à deux fois votre score d'Intuition.
 
 ###### Domaine de l'Amour - Piété et Effet
 
@@ -116,7 +116,7 @@ De plus, chaque fois que vous activez un effet de domaine en priant pour de la p
 
 ###### Piété et Effet du Domaine de la Nature
 
-- **Piété :** Vous gagnez 2 points de piété la première fois dans une rencontre où vous ou une créature dans un rayon de 10 cases subissez des dégâts d'acide, de froid, de feu, de foudre, de poison ou soniques.
+- **Piété :** Vous gagnez 2 points de piété lorsque vous ou une créature dans un rayon de 10 cases subissez des dégâts d'acide, de froid, de feu, de foudre, de poison ou soniques pour la première fois lors d'une rencontre.
 - **Effet de Prière :** Des lianes jaillissent du plancher ou du sol dans un rayon de 10 cases, s'enroulant autour d'un nombre de créatures égal à votre score d'Intuition. Vous pouvez faire subir un glissement à chaque créature d'un nombre de cases égal à votre score d'Intuition. Les lianes disparaissent ensuite.
 
 ###### Piété et Effet du Domaine de la Protection
@@ -191,43 +191,50 @@ Si vous êtes dans la même zone qu'une créature utilisant cette aptitude ou un
 
 Vous possédez l'aptitude suivante.
 
-######## Compagnon Fidèle
-
-*Un esprit animal est attiré vers vous, partageant ses sens avec vous et vous servant fidèlement.*
-
-| **Magie**   |  **Action Principale** |
-|-------------|-----------------------:|
-| **📏 Soi** |      **🎯 Soi** |
-
-**Effet :** Vous invoquez un esprit qui prend la forme de n'importe quel animal que vous avez vu. L'animal incorporel a une Vitesse de 5 et peut Voler, mais ne peut pas interagir physiquement avec le monde. Tant que vous êtes dans un rayon de 10 Cases de l'esprit, vous percevez automatiquement tout ce que ce type d'animal percevrait, en plus de percevoir votre propre environnement. Vous pouvez renvoyer l'esprit à tout moment (Action Triviale). Si l'esprit subit des Dégâts, il est renvoyé et vous subissez 1d10 Dégâts psychiques qui ne peuvent être réduits d'aucune façon.
+> [!spell] Compagnon Fidèle
+> 🏷️ *Magie*
+> 
+> ***Un esprit animal est attiré vers vous, partageant ses sens avec vous et vous servant fidèlement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous invoquez un esprit qui prend la forme de n'importe quel animal que vous avez vu. L'animal incorporel a une Vitesse de 5 et peut Voler, mais ne peut pas interagir physiquement avec le monde. Tant que vous êtes dans un rayon de 10 Cases de l'esprit, vous percevez automatiquement tout ce que ce type d'animal percevrait, en plus de percevoir votre propre environnement. Vous pouvez renvoyer l'esprit à tout moment (Action Triviale). Si l'esprit subit des Dégâts, il est renvoyé et vous subissez 1d10 Dégâts psychiques qui ne peuvent être réduits d'aucune façon.
 
 ##### Parole Funèbre
-
 Vous possédez l'aptitude suivante.
 
-######## Parole Funèbre
-
-*Vous communiquez avec l'âme persistante d'un défunt récent.*
-
-| **Magie**      |            **Manœuvre**  |
-|----------------|-------------------------:|
-| **📏 Corps à corps 1** | **🎯 Une créature morte** |
-
-**Effet :** Vous pouvez parler à la cible si c'est une créature qui est morte dans les dernières 24 heures et qui peut parler une langue que vous connaissez, même si ce n'est qu'une tête. La cible vous considère comme elle l'aurait fait de son vivant, et vous pourriez avoir besoin de faire des tests pour l'influencer et la convaincre de vous parler. Le traumatisme de la mort peut rendre les souvenirs de cet événement flous pour une créature, mais la cible connaît par ailleurs tout ce qu'elle savait de son vivant. Après 1 minute, l'effet se termine. Vous ne pouvez pas utiliser cette aptitude sur la même créature deux fois.
+> [!spell] Parole Funèbre
+> 🏷️ *Magie*
+> 
+> ***Vous communiquez avec l'âme persistante d'un défunt récent.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature morte</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous pouvez parler à la cible si c'est une créature qui est morte dans les dernières 24 heures et qui peut parler une langue que vous connaissez, même si ce n'est qu'une tête. La cible vous considère comme elle l'aurait fait de son vivant, et vous pourriez avoir besoin de faire des tests pour l'influencer et la convaincre de vous parler. Le traumatisme de la mort peut rendre les souvenirs de cet événement flous pour une créature, mais la cible connaît par ailleurs tout ce qu'elle savait de son vivant. Après 1 minute, l'effet se termine. Vous ne pouvez pas utiliser cette aptitude sur la même créature deux fois.
 
 ##### Mains du Créateur
-
 Vous avez l'aptitude suivante.
 
-######## Mains du Créateur
-
-*Vous fabriquez des objets par la puissance de votre esprit.*
-
-| **Magie**                |  **Manœuvre** |
-|--------------------------|--------------:|
-| **📏 Soi**               |   **🎯 Soi** |
-
-**Effet :** Vous créez un objet classique de taille 1S ou plus petit. Vous pouvez maintenir un nombre d'objets créés de cette façon égal à votre score d'Intuition. Vous pouvez détruire un objet créé de cette façon par la pensée, peu importe votre distance de celui-ci (aucune action triviale requise).
+> [!spell] Mains du Créateur
+> 🏷️ *Magie*
+> 
+> ***Vous fabriquez des objets par la puissance de votre esprit.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous créez un objet classique de taille 1S ou plus petit. Vous pouvez maintenir un nombre d'objets créés de cette façon égal à votre score d'Intuition. Vous pouvez détruire un objet créé de cette façon par la pensée, peu importe votre distance de celui-ci (aucune action triviale requise).
 
 ##### Lumière Intérieure
 
@@ -257,74 +264,84 @@ En tant qu'activité de répit, vous pouvez bénir une arme. Toute créature qui
 
 Vous disposez de l'aptitude suivante, que vous pouvez utiliser une fois par tour.
 
-######## Grâce Curative
-
-*Votre énergie divine restaure les justes.*
-
-| **Magie, Distance**        |            **Manœuvre** |
-|----------------------------|------------------------:|
-| **📏 Distance 10**         | **🎯 Soi ou un allié** |
-
-**Effet :** La cible peut dépenser une Récupération.
-
-**Dépenser 1+ Piété :** Pour chaque piété dépensée, choisissez l'une des améliorations suivantes :
-
-- Vous pouvez cibler un allié supplémentaire à distance.
-- Vous pouvez mettre fin à un effet sur une cible qui se termine par un Jet de Sauvegarde ou qui se termine à la fin de son tour.
-- Une cible À Terre peut se lever.
-- Une cible peut dépenser 1 Récupération supplémentaire.
+> [!spell] Grâce Curative
+> 🏷️ *Magie • Distance*
+> 
+> ***Votre énergie divine restaure les justes.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** La cible peut dépenser une Récupération.
+> 
+> **🔥 Dépenser 1+ Piété :** Pour chaque piété dépensée, choisissez l'une des améliorations suivantes :
+> - Vous pouvez cibler un allié supplémentaire à distance.
+> - Vous pouvez mettre fin à un effet sur une cible qui se termine par un Jet de Sauvegarde ou qui se termine à la fin de son tour.
+> - Une cible à terre peut se relever.
+> - Une cible peut dépenser 1 Récupération supplémentaire.
 
 #### Rayon de Courroux
 
 Vous possédez l'aptitude suivante, qui peut être utilisée comme une frappe gratuite à distance.
 
-######## Rayon de Courroux
-
-*Vous déchaînez un éclat de lumière sacrée sur votre ennemi.*
-
-| **Magie, Distance, Frappe** |               **Action principale** |
-|------------------------------|------------------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 2 + I dégâts
-- **12-16 :** 4 + I dégâts
-- **17+ :** 6 + I dégâts
-
-**Effet :** Vous pouvez faire en sorte que cette aptitude inflige des dégâts sacrés.
+> [!spell] Rayon de Courroux
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Vous déchaînez un éclat de lumière sacrée sur votre ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 2 + Int dégâts
+> - **12-16 :** 4 + Int dégâts
+> - **17+ :** 6 + Int dégâts
+> 
+> Vous pouvez faire en sorte que cette aptitude inflige des dégâts sacrés.
 
 #### Action Déclenchée
-
 Choisissez l'une des actions déclenchées suivantes. (*Construction Rapide :* Parole de Guidance.)
 
-######## Parole de Guidance
+> [!spell] Parole de Guidance
+> 🏷️ *Magie • Distance*
+> 
+> ***Vous revigorez un allié attaquant avec de l'énergie divine.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible effectue un jet d'aptitude pour une aptitude infligeant des dégâts.
+> 
+> **💫 Effet:** Le jet de pouvoir gagne un avantage.
+> 
+> **🔥 Dépenser 1 Piété :** Le jet de pouvoir a un double avantage.
 
-*Vous revigorez un allié attaquant avec de l'énergie divine.*
-
-| **Magie, Distance**      |        **Déclenchée** |
-|------------------------|---------------------:|
-| **📏 Distance 10**       |      **🎯 Un allié** |
-
-**Déclencheur :** La cible effectue un jet d'aptitude pour une aptitude infligeant des dégâts.
-
-**Effet :** Le jet de pouvoir gagne un avantage.
-
-**Dépenser 1 Piété :** Le jet de pouvoir a un double avantage.
-
-######## Parole de Jugement
-
-*Votre parole sacrée sape la force d'un ennemi attaquant.*
-
-| **Magie, Distance**  |     **Déclenchée** |
-|--------------------|------------------:|
-| **📏 Distance 10**   |   **🎯 Un allié** |
-
-**Déclencheur :** La cible subirait des dégâts d'une aptitude qui utilise un jet de pouvoir.
-
-**Effet :** Le jet de pouvoir prend un fléau contre la cible.
-
-**Dépenser 1 Piété :** Le jet de pouvoir a un double fléau contre la cible.
+> [!spell] Parole de Jugement
+> 🏷️ *Magie • Distance*
+> 
+> ***Votre parole sacrée sape la force d'un ennemi attaquant.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible subirait des dégâts d'une aptitude qui utilise un jet de pouvoir.
+> 
+> **💫 Effet:** Le jet de pouvoir prend un fléau contre la cible.
+> 
+> **🔥 Dépenser 1 Piété :** Le jet de pouvoir a un double fléau contre la cible.
 
 #### Prière
 
@@ -380,127 +397,135 @@ Votre formation et votre foi vous permettent de vous spécialiser dans une magie
 
 Choisissez deux aptitudes signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Lumière Bénie, Malédiction Chancelante.)
 
-######## Lumière Bénie
+> [!spell] Lumière Bénie
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Une radiance brûlante s'abat sur votre ennemi, transférant une partie de son énergie à un allié proche.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 + Int dégâts sacrés
+> - **12-16 :** 5 + Int dégâts sacrés
+> - **17+ :** 8 + Int dégâts sacrés
+> 
+> Un allié à distance gagne un nombre d'impulsions égal au résultat de tiers de votre jet de pouvoir.
 
-*Une radiance brûlante s'abat sur votre ennemi, transférant une partie de son énergie à un allié proche.*
+> [!spell] Drain
+> 🏷️ *Magie • Corps à Corps • Frappe*
+> 
+> ***Vous drainez l'énergie de votre cible pour vous revitaliser ou revitaliser un allié.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 2 + Int dégâts de corruption
+> - **12-16 :** 5 + Int dégâts de corruption
+> - **17+ :** 7 + Int dégâts de corruption
+> 
+> Vous ou un allié à distance pouvez dépenser une Récupération.
 
-| **Magie, Distance, Frappe** |               **Action Principale** |
-|------------------------------|------------------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature ou un objet** |
+> [!spell] Fouet Sacré
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Un tentacule d'énergie divine jaillit pour attirer votre ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 + Int dégâts sacrés ; traction verticale 2
+> - **12-16 :** 5 + Int dégâts sacrés ; traction verticale 3
+> - **17+ :** 8 + Int dégâts sacrés ; traction verticale 4
 
-**Jet de Pouvoir + Intuition :**
+> [!spell] Chute de Lumière
+> 🏷️ *Zone • Magie*
+> 
+> ***Une pluie de lumière sacrée balaye vos ennemis et repositionne vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 2</p> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 2 dégâts sacrés
+> - **12-16 :** 3 dégâts sacrés
+> - **17+ :** 5 dégâts sacrés
+> 
+> Vous pouvez vous téléporter ainsi que chaque allié dans la zone vers des espaces inoccupés dans la zone.
 
-- **≤11 :** 3 + I dégâts sacrés
-- **12-16 :** 5 + I dégâts sacrés
-- **17+ :** 8 + I dégâts sacrés
+> [!spell] Offrande Sacrificielle
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***La magie divine lacère votre ennemi et défend un ami proche.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 2 + Int dégâts de corruption
+> - **12-16 :** 4 + Int dégâts de corruption
+> - **17+ :** 6 + Int dégâts de corruption
+> 
+> Choisissez vous-même ou un allié à distance. Ce personnage peut imposer un fléau sur un jet de pouvoir effectué contre lui avant la fin de son prochain tour.
 
-**Effet :** Un allié à distance gagne un nombre d'impulsions égal au résultat de tiers de votre jet de pouvoir.
+> [!spell] Malédiction Chancelante
+> 🏷️ *Magie • Corps à Corps • Frappe*
+> 
+> ***Une explosion de jugement désoriente votre ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 + Int dégâts sacrés ; glissement 1
+> - **12-16 :** 5 + Int dégâts sacrés ; glissement 2
+> - **17+ :** 8 + Int dégâts sacrés ; glissement 3
 
-######## Drain
+> [!spell] Prière du Guerrier
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Votre prière rapidement murmurée confère une énergie divine agressive à un ami engagé au corps à corps.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 + Int dégâts sacrés
+> - **12-16 :** 6 + Int dégâts sacrés
+> - **17+ :** 9 + Int dégâts sacrés
+> 
+> Vous ou un allié à distance gagnez une Vigueur Temporaire égale à votre score d'Intuition.
 
-*Vous drainez l'énergie de votre cible pour vous revitaliser ou revitaliser un allié.*
-
-| **Magie, Corps à Corps, Frappe** |     **Action Principale** |
-|-----------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**            | **🎯 Une créature** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 2 + I dégâts de corruption
-- **12-16 :** 5 + I dégâts de corruption
-- **17+ :** 7 + I dégâts de corruption
-
-**Effet :** Vous ou un allié à distance pouvez dépenser une Récupération.
-
-######## Fouet Sacré
-
-*Un tentacule d'énergie divine jaillit pour attirer votre ennemi.*
-
-| **Magie, Distance, Frappe**  |               **Action Principale** |
-|-------------------------------|------------------------------------:|
-| **📏 Distance 10**            | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 3 + I dégâts sacrés ; traction verticale 2
-- **12-16 :** 5 + I dégâts sacrés ; traction verticale 3
-- **17+ :** 8 + I dégâts sacrés ; traction verticale 4
-
-######## Chute de Lumière
-
-*Une pluie de lumière sacrée balaye vos ennemis et repositionne vos alliés.*
-
-| **Zone, Magie**  |               **Action Principale** |
-|-------------------|------------------------------------:|
-| **📏 Explosion 2**   | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 2 dégâts sacrés
-- **12-16 :** 3 dégâts sacrés
-- **17+ :** 5 dégâts sacrés
-
-**Effet :** Vous pouvez vous téléporter ainsi que chaque allié dans la zone vers des espaces inoccupés dans la zone.
-
-######## Offrande Sacrificielle
-
-*La magie divine lacère votre ennemi et défend un ami proche.*
-
-| **Magie, Distance, Frappe**  |     **Action Principale** |
-|-------------------------------|---------------------------:|
-| **📏 Distance 10**            | **🎯 Une créature** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 2 + I dégâts de corruption
-- **12-16 :** 4 + I dégâts de corruption
-- **17+ :** 6 + I dégâts de corruption
-
-**Effet :** Choisissez vous-même ou un allié à distance. Ce personnage peut imposer un fléau sur un jet de pouvoir effectué contre lui avant la fin de son prochain tour.
-
-######## Malédiction Chancelante
-
-*Une explosion de jugement désoriente votre ennemi.*
-
-| **Magie, Corps à Corps, Frappe**  |               **Action Principale** |
-|------------------------------------|------------------------------------:|
-| **📏 Corps à Corps 1**             | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 3 + I dégâts sacrés ; glissement 1
-- **12-16 :** 5 + I dégâts sacrés ; glissement 2
-- **17+ :** 8 + I dégâts sacrés ; glissement 3
-
-######## Prière du Guerrier
-
-*Votre prière rapidement murmurée confère une énergie divine agressive à un ami engagé au corps à corps.*
-
-| **Magie, Distance, Frappe**  |     **Action Principale** |
-|-------------------------------|---------------------------:|
-| **📏 Distance 10**            | **🎯 Une créature** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 3 + I dégâts sacrés
-- **12-16 :** 6 + I dégâts sacrés
-- **17+ :** 9 + I dégâts sacrés
-
-**Effet :** Vous ou un allié à distance gagnez une Vigueur Temporaire égale à votre score d'Intuition.
-
-######## Flétrissement
-
-*Un trait d'énergie sacrée sape la vie d'un ennemi.*
-
-| **Magie, Distance, Frappe**  |               **Action Principale** |
-|-------------------------------|------------------------------------:|
-| **📏 Distance 10**            | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 3 + I dégâts de corruption ; P < FAIBLE, la cible subit un fléau sur son prochain jet de pouvoir
-- **12-16 :** 5 + I dégâts de corruption ; P < MOYEN, la cible subit un fléau sur son prochain jet de pouvoir
-- **17+ :** 8 + I dégâts de corruption ; P < FORT, la cible subit un fléau sur son prochain jet de pouvoir
+> [!spell] Flétrissement
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Un trait d'énergie sacrée sape la vie d'un ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 + Int dégâts de corruption ; P < FAIBLE, la cible subit un fléau sur son prochain jet de pouvoir
+> - **12-16 :** 5 + Int dégâts de corruption ; P < MOYEN, la cible subit un fléau sur son prochain jet de pouvoir
+> - **17+ :** 8 + Int dégâts de corruption ; P < FORT, la cible subit un fléau sur son prochain jet de pouvoir
 
 ##### Aptitudes Héroïques
 
@@ -510,119 +535,159 @@ Vous utilisez un certain nombre d'aptitudes héroïques, qui canalisent toutes l
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 piété à utiliser. (*Construction Rapide :* La Violence Ne T'Aidera Point.)
 
-######## Faire Descendre le Tonnerre (3 Piété)
+> [!spell] Faire Descendre le Tonnerre
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***Vous demandez le tonnerre à votre saint et votre prière est exaucée.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube 3 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 2 dégâts soniques ; poussée 1
+> - **12-16 :** 3 dégâts soniques ; poussée 2
+> - **17+ :** 5 dégâts soniques ; poussée 3
+> 
+> Vous pouvez pousser chaque allié consentant dans la zone de la même distance, en ignorant la stabilité.
+> 
+> **🔥 Coût :** 3 Piété
 
-*Vous demandez le tonnerre à votre saint et votre prière est exaucée.*
+> [!spell] Source de Courroux
+> 🏷️ *Magie • Distance*
+> 
+> ***Une brillante colonne de lumière sacrée apparaît sur le champ de bataille, frappant les ennemis proches.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous invoquez un esprit de taille 2 qui ne peut être blessé, et qui apparaît dans un espace inoccupé à portée. L'esprit dure jusqu'à la fin de votre prochain tour. Vous et vos alliés pouvez traverser l'espace de l'esprit, mais pas les ennemis. Tout ennemi qui se déplace à 2 cases ou moins de l'esprit pour la première fois dans un tour de combat ou qui commence son tour là subit des dégâts sacrés égaux à votre score d'Intuition.
+> 
+> **🔥 Coût :** 3 Piété
 
-| **Zone, Magie, Distance** |               **Action principale** |
-|---------------------------|------------------------------------:|
-| **📏 Cube 3 à portée 10** | **🎯 Chaque ennemi dans la zone** |
+> [!spell] Marteau du Jugement
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Votre furie divine est un marteau qui s'abat sur les impies.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 + Int dégâts sacrés ; A < FAIBLE, à terre
+> - **12-16 :** 6 + Int dégâts sacrés ; A < MOYEN, à terre
+> - **17+ :** 9 + Int dégâts sacrés ; A < FORT, à terre et ne peut se lever (sauvegarde termine)
+> 
+> **🔥 Coût :** 3 Piété
 
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 2 dégâts soniques ; poussée 1
-- **12-16 :** 3 dégâts soniques ; poussée 2
-- **17+ :** 5 dégâts soniques ; poussée 3
-
-**Effet :** Vous pouvez pousser chaque allié consentant dans la zone de la même distance, en ignorant la stabilité.
-
-######## Source de Courroux (3 Piété)
-
-*Une brillante colonne de lumière sacrée apparaît sur le champ de bataille, frappant les ennemis proches.*
-
-| **Magie, Distance**  | **Action principale** |
-|----------------------|----------------------:|
-| **📏 Distance 10**   |  **🎯 Spécial** |
-
-**Effet :** Vous invoquez un esprit de taille 2 qui ne peut être blessé, et qui apparaît dans un espace inoccupé à portée. L'esprit dure jusqu'à la fin de votre prochain tour. Vous et vos alliés pouvez traverser l'espace de l'esprit, mais pas les ennemis. Tout ennemi qui se déplace à 2 cases ou moins de l'esprit pour la première fois dans un tour de combat ou qui commence son tour là subit des dégâts sacrés égaux à votre score d'Intuition.
-
-######## Marteau du Jugement (3 Piété)
-
-*Votre furie divine est un marteau qui s'abat sur les impies.*
-
-| **Magie, Distance, Frappe**  |               **Action principale** |
-|-------------------------------|------------------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 3 + I dégâts sacrés ; A < FAIBLE, à terre
-- **12-16 :** 6 + I dégâts sacrés ; A < MOYEN, à terre
-- **17+ :** 9 + I dégâts sacrés ; A < FORT, à terre et ne peut se lever (sauvegarde termine)
-
-######## La Violence Ne T'Aidera Point (3 Piété)
-
-*Après quelques éclairs sacrés, votre ennemi réfléchira à deux fois avant sa prochaine attaque.*
-
-| **Magie, Distance, Frappe**  |     **Action principale** |
-|-------------------------------|---------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 3 + I dégâts de foudre
-- **12-16 :** 6 + I dégâts de foudre
-- **17+ :** 9 + I dégâts de foudre
-
-**Effet :** La première fois dans un tour que la cible inflige des dégâts à une autre créature, la cible de cette aptitude subit 1d10 dégâts de foudre (sauvegarde termine).
+> [!spell] La Violence Ne T'Aidera Point
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Après quelques éclairs sacrés, votre ennemi réfléchira à deux fois avant sa prochaine attaque.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 + Int dégâts de foudre
+> - **12-16 :** 6 + Int dégâts de foudre
+> - **17+ :** 9 + Int dégâts de foudre
+> 
+> La première fois dans un tour que la cible inflige des dégâts à une autre créature, la cible de cette aptitude subit 1d10 dégâts de foudre (sauvegarde termine).
+> 
+> **🔥 Coût :** 3 Piété
 
 ###### Aptitude à 5 Piété
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 piété à utiliser. (*Construction Rapide :* Malédiction de Terreur.)
 
-######## Malédiction de Corruption (5 Piété)
+> [!spell] Malédiction de Corruption
+> 🏷️ *Magie • À Distance • Frappe*
+> 
+> ***Maudit par vous, votre ennemi subit plus de dégâts de la part de vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 + Int dégâts de corruption ; M < FAIBLE, faiblesse aux dégâts 5 (sauvegarde termine)
+> - **12-16 :** 6 + Int dégâts de corruption ; M < MOYEN, faiblesse aux dégâts 5 (sauvegarde termine)
+> - **17+ :** 9 + Int dégâts de corruption ; M < FORT, faiblesse aux dégâts 5 (sauvegarde termine)
+> 
+> **🔥 Coût :** 5 Piété
 
-*Maudit par vous, votre ennemi subit plus de dégâts de la part de vos alliés.*
+> [!spell] Malédiction de Terreur
+> 🏷️ *Magie • À Distance • Frappe*
+> 
+> ***La peur du jugement divin submerge votre adversaire.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 6 + Int dégâts sacrés ; I < FAIBLE, effrayé (sauvegarde termine)
+> - **12-16 :** 9 + Int dégâts sacrés ; I < MOYEN, effrayé (sauvegarde termine)
+> - **17+ :** 13 + Int dégâts sacrés ; I < FORT, effrayé (sauvegarde termine)
+> 
+> **🔥 Coût :** 5 Piété
 
-| **Magie, À Distance, Frappe**  |               **Action principale** |
-|--------------------------------|------------------------------------:|
-| **📏 À Distance 10**           | **🎯 Une créature ou un objet** |
+> [!spell] La Foi Est Notre Armure
+> 🏷️ *Magie • À Distance*
+> 
+> ***L'armure des héros brille d'une lumière dorée, accordant une protection divine.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Quatre alliés</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous pouvez vous cibler vous-même à la place d'un allié avec cette aptitude.
+> 
+> Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** La cible gagne 5 Vigueur Temporaire.
+> - **12-16 :** La cible gagne 10 Vigueur Temporaire.
+> - **17+ :** La cible gagne 15 Vigueur Temporaire.
+> 
+> **🔥 Coût :** 5 Piété
 
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 3 + I dégâts de corruption ; M < FAIBLE, faiblesse aux dégâts 5 (sauvegarde termine)
-- **12-16 :** 6 + I dégâts de corruption ; M < MOYEN, faiblesse aux dégâts 5 (sauvegarde termine)
-- **17+ :** 9 + I dégâts de corruption ; M < FORT, faiblesse aux dégâts 5 (sauvegarde termine)
-
-######## Malédiction de Terreur (5 Piété)
-
-*La peur du jugement divin submerge votre adversaire.*
-
-| **Magie, À Distance, Frappe**  |                      **Action principale** |
-|--------------------------------|-------------------------------------------:|
-| **📏 À Distance 10**           |                  **🎯 Une créature** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 6 + I dégâts sacrés ; I < FAIBLE, effrayé (sauvegarde termine)
-- **12-16 :** 9 + I dégâts sacrés ; I < MOYEN, effrayé (sauvegarde termine)
-- **17+ :** 13 + I dégâts sacrés ; I < FORT, effrayé (sauvegarde termine)
-
-######## La Foi Est Notre Armure (5 Piété)
-
-*L'armure des héros brille d'une lumière dorée, accordant une protection divine.*
-
-| **Magie, À Distance**        |       **Manœuvre** |
-|------------------------------|-------------------:|
-| **📏 À Distance 10**         | **🎯 Quatre alliés** |
-
-**Effet :** Vous pouvez vous cibler vous-même à la place d'un allié avec cette aptitude.
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** La cible gagne 5 Vigueur Temporaire.
-- **12-16 :** La cible gagne 10 Vigueur Temporaire.
-- **17+ :** La cible gagne 15 Vigueur Temporaire.
-
-######## Sermon de Grâce (5 Piété)
-
-*Vous inspirez vos alliés avec les récits des grands exploits de votre saint.*
-
-| **Zone, Magie** |              **Action principale** |
-|------------------|-----------------------------------:|
-| **📏 Explosion 4**  | **🎯 Chaque allié dans la zone** |
-
-**Effet :** Chaque cible peut dépenser une Récupération. De plus, chaque cible peut utiliser une action déclenchée gratuite pour mettre fin à un effet qui l'affecte et qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour, ou pour se lever si elle est à terre.
+> [!spell] Sermon de Grâce
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous inspirez vos alliés avec les récits des grands exploits de votre saint.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 4</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Chaque cible peut dépenser une Récupération. De plus, chaque cible peut utiliser une action déclenchée gratuite pour mettre fin à un effet qui l'affecte et qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour, ou pour se lever si elle est à terre.
+> 
+> **🔥 Coût :** 5 Piété
 
 ### Aptitudes de Niveau 2
 
@@ -661,146 +726,206 @@ Choisissez l'un de vos domaines. Vous gagnez une aptitude héroïque de ce domai
 | Ruse       | Comédie Divine                     |
 | Guerre     | Bénédiction de Perspicacité        |
 
-######## Bénédiction du Destin et du Destin (5 Piété)
+> [!spell] Bénédiction du Destin et du Destin
+> 🏷️ *Magie • Distance*
+> 
+> ***Vos ennemis subissent leur destin ; vos alliés embrassent leur destinée !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois créatures</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous pouvez vous cibler à la place d'une créature avec cette aptitude. Choisissez l'un des effets suivants, qui dure jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant :
+> 
+> - Chaque fois qu'une cible fait un jet de pouvoir, elle peut lancer trois dés et choisir quels deux jets utiliser.
+> - Chaque fois qu'une cible fait un jet de pouvoir, elle doit lancer trois dés et utiliser les deux jets les plus bas.
+> 
+> **🔥 Coût :** 5 Piété
 
-*Vos ennemis subissent leur destin ; vos alliés embrassent leur destinée !*
+> [!spell] Bénédiction de Perspicacité
+> 🏷️ *Magie • Distance*
+> 
+> ***Les dieux accordent la perspicacité révélant où frapper au mieux vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi et chaque allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible gagne 1 impulsion à la fin de chacun de vos tours.
+> 
+> **🔥 Coût :** 5 Piété
 
-| **Magie, Distance**  |        **Action Principale** |
-|----------------------|------------------------------:|
-| **📏 Distance 10**   | **🎯 Trois créatures** |
+> [!spell] Comédie Divine
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous et vos alliés échangez vos places pour confondre vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Chaque cible peut choisir une autre créature dans la zone, puis échanger sa place avec cette créature. La créature qu'elle choisit doit pouvoir tenir dans l'espace qu'elle laisse et vice versa.
+> 
+> **🔥 Coût :** 5 Piété
 
-**Effet :** Vous pouvez vous cibler à la place d'une créature avec cette aptitude. Choisissez l'un des effets suivants, qui dure jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant :
+> [!spell] Les Dieux Commandent Tu Obéis
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Vous parlez avec la voix de votre saint, commandant vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 4 + Int dégâts sacrés ; P < FAIBLE, avant de subir les dégâts, la cible fait une frappe gratuite contre une cible que vous choisissez
+> - **12-16 :** 7 + Int dégâts sacrés ; P < MOYENNE, avant de subir les dégâts, la cible utilise une aptitude de votre choix et vous choisissez toutes les cibles pour cette aptitude
+> - **17+ :** 11 + Int dégâts sacrés ; P < FORTE, avant de subir les dégâts, la cible glisse jusqu'à sa vitesse vers un endroit que vous choisissez, utilise une aptitude de votre choix, et vous choisissez toutes les cibles pour cette aptitude
+> 
+> **🔥 Coût :** 5 Piété
 
-- Chaque fois qu'une cible fait un jet de pouvoir, elle peut lancer trois dés et choisir quels deux jets utiliser.
-- Chaque fois qu'une cible fait un jet de pouvoir, elle doit lancer trois dés et utiliser les deux jets les plus bas.
+> [!spell] Lumière Matinale
+> 🏷️ *Zone • Magie*
+> 
+> ***La lumière brille à votre commandement, brûlant vos ennemis et bénissant vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 4 dégâts de feu
+> - **12-16 :** 6 dégâts de feu
+> - **17+ :** 10 dégâts de feu
+> 
+> Chaque allié dans la zone inflige des dégâts de feu égaux à votre score d'Intuition avec sa prochaine frappe effectuée avant la fin de son prochain tour.
+> 
+> **🔥 Coût :** 5 Piété
 
-######## Bénédiction de Perspicacité (5 Piété)
+> [!spell] La Nature Te Juge
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***Des lianes épineuses mystiques apparaissent à votre appel et lient vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube 3 à distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 2 dégâts ; A < FAIBLE, entravé (sauvegarde termine)
+> - **12-16 :** 3 dégâts ; A < MOYENNE, entravé (sauvegarde termine)
+> - **17+ :** 7 dégâts ; A < FORTE, entravé (sauvegarde termine)
+> 
+> **🔥 Coût :** 5 Piété
 
-*Les dieux accordent la perspicacité révélant où frapper au mieux vos ennemis.*
+> [!spell] Nos Cœurs Votre Force
+> 🏷️ *Magie • Distance*
+> 
+> ***Un allié gagne de la force de ses amis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi et un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre ou jusqu'à ce que la cible soit mourante, au début de chacun des tours de la cible, elle gagne un bonus à la vitesse et un bonus aux dégâts lancés égal au nombre d'alliés dans un rayon de 10 cases d'elle. Ce bonus dure jusqu'au début de son prochain tour.
+> 
+> **🔥 Coût :** 5 Piété
 
-| **Magie, Distance**  |              **Manœuvre** |
-|----------------------|--------------------------:|
-| **📏 Distance 10**   | **🎯 Soi et chaque allié** |
+> [!spell] Faucher
+> 🏷️ *Magie • Distance*
+> 
+> ***Les dieux récompensent ceux qui frappent leurs ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'au début de votre prochain tour, chaque fois qu'une cible tue un ennemi, elle récupère de la Vigueur égale à 5 + votre score d'Intuition.
+> 
+> **🔥 Coût :** 5 Piété
 
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible gagne 1 impulsion à la fin de chacun de vos tours.
+> [!spell] Lien Sacré
+> 🏷️ *Magie • Distance*
+> 
+> ***Vous forgez une connexion divine entre deux créatures.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi et un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre, chaque fois qu'une cible subit des dégâts, l'autre cible peut utiliser une action déclenchée gratuite pour subir les dégâts à sa place. La cible originale subit tous les effets associés aux dégâts. De plus, chaque fois qu'une cible dépense une Récupération, l'autre cible peut utiliser une action déclenchée gratuite pour dépenser une Récupération.
+> 
+> **🔥 Coût :** 5 Piété
 
-######## Comédie Divine (5 Piété)
+> [!spell] Tempête du Saint
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***Une tempête déchaînée apparaît, frappant vos ennemis avec la foudre et les projetant avec le vent.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube 3 à distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 2 dégâts de foudre ; glissement vertical 1
+> - **12-16 :** 5 dégâts de foudre ; glissement vertical 2
+> - **17+ :** 7 dégâts de foudre ; glissement vertical 3
+> 
+> **🔥 Coût :** 5 Piété
 
-*Vous et vos alliés échangez vos places pour confondre vos ennemis.*
+> [!spell] Statue de Pouvoir
+> 🏷️ *Magie • Distance*
+> 
+> ***Une statue de marbre de votre divinité s'élève de la terre.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Une statue de taille 2 s'élève du sol dans un espace inoccupé à distance et dure jusqu'à la fin de la rencontre. Tant que vous êtes dans un rayon de 3 cases de la statue, vous gagnez 1 impulsion au début de chacun de vos tours. Chaque allié dans un rayon de 3 cases de la statue gagne ce même bénéfice. La statue est détruite si elle subit 20 dégâts ou plus. Elle a une immunité totale aux dégâts de poison et psychiques.
+> 
+> **🔥 Coût :** 5 Piété
 
-| **Zone, Magie**  |                          **Manœuvre** |
-|------------------|--------------------------------------:|
-| **📏 Explosion 5**   | **🎯 Soi et chaque allié dans la zone** |
-
-**Effet :** Chaque cible peut choisir une autre créature dans la zone, puis échanger sa place avec cette créature. La créature qu'elle choisit doit pouvoir tenir dans l'espace qu'elle laisse et vice versa.
-
-######## Les Dieux Commandent Tu Obéis (5 Piété)
-
-*Vous parlez avec la voix de votre saint, commandant vos ennemis.*
-
-| **Magie, Distance, Frappe** |     **Action Principale** |
-|------------------------------|---------------------------:|
-| **📏 Distance 10**          | **🎯 Une créature** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 4 + I dégâts sacrés ; P < FAIBLE, avant de subir les dégâts, la cible fait une frappe gratuite contre une cible que vous choisissez
-- **12-16 :** 7 + I dégâts sacrés ; P < MOYENNE, avant de subir les dégâts, la cible utilise une aptitude de votre choix et vous choisissez toutes les cibles pour cette aptitude
-- **17+ :** 11 + I dégâts sacrés ; P < FORTE, avant de subir les dégâts, la cible glisse jusqu'à sa vitesse vers un endroit que vous choisissez, utilise une aptitude de votre choix, et vous choisissez toutes les cibles pour cette aptitude
-
-######## Lumière Matinale (5 Piété)
-
-*La lumière brille à votre commandement, brûlant vos ennemis et bénissant vos alliés.*
-
-| **Zone, Magie**  |               **Action Principale** |
-|------------------|------------------------------------:|
-| **📏 Explosion 3**   | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 4 dégâts de feu
-- **12-16 :** 6 dégâts de feu
-- **17+ :** 10 dégâts de feu
-
-**Effet :** Chaque allié dans la zone inflige des dégâts de feu égaux à votre score d'Intuition avec sa prochaine frappe effectuée avant la fin de son prochain tour.
-
-######## La Nature Te Juge (5 Piété)
-
-*Des lianes épineuses mystiques apparaissent à votre appel et lient vos ennemis.*
-
-| **Zone, Magie, Distance**  |               **Action Principale** |
-|-----------------------------|------------------------------------:|
-| **📏 Cube 3 à distance 10**  | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 2 dégâts ; A < FAIBLE, entravé (sauvegarde termine)
-- **12-16 :** 3 dégâts ; A < MOYENNE, entravé (sauvegarde termine)
-- **17+ :** 7 dégâts ; A < FORTE, entravé (sauvegarde termine)
-
-######## Nos Cœurs Votre Force (5 Piété)
-
-*Un allié gagne de la force de ses amis.*
-
-| **Magie, Distance**  |             **Manœuvre** |
-|-----------------------|-------------------------:|
-| **📏 Distance 10**   | **🎯 Soi et un allié** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que la cible soit mourante, au début de chacun des tours de la cible, elle gagne un bonus à la vitesse et un bonus aux dégâts lancés égal au nombre d'alliés dans un rayon de 10 cases d'elle. Ce bonus dure jusqu'au début de son prochain tour.
-
-######## Faucher (5 Piété)
-
-*Les dieux récompensent ceux qui frappent leurs ennemis.*
-
-| **Magie, Distance**  |     **Manœuvre** |
-|-----------------------|-----------------:|
-| **📏 Distance 10**   | **🎯 Chaque allié** |
-
-**Effet :** Jusqu'au début de votre prochain tour, chaque fois qu'une cible tue un ennemi, elle récupère de la Vigueur égale à 5 + votre score d'Intuition.
-
-######## Lien Sacré (5 Piété)
-
-*Vous forgez une connexion divine entre deux créatures.*
-
-| **Magie, Distance**  |             **Manœuvre** |
-|-----------------------|-------------------------:|
-| **📏 Distance 10**   | **🎯 Soi et un allié** |
-
-**Effet :** Jusqu'à la fin de la rencontre, chaque fois qu'une cible subit des dégâts, l'autre cible peut utiliser une action déclenchée gratuite pour subir les dégâts à sa place. La cible originale subit tous les effets associés aux dégâts. De plus, chaque fois qu'une cible dépense une Récupération, l'autre cible peut utiliser une action déclenchée gratuite pour dépenser une Récupération.
-
-######## Tempête du Saint (5 Piété)
-
-*Une tempête déchaînée apparaît, frappant vos ennemis avec la foudre et les projetant avec le vent.*
-
-| **Zone, Magie, Distance**  |               **Action Principale** |
-|-----------------------------|------------------------------------:|
-| **📏 Cube 3 à distance 10**  | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 2 dégâts de foudre ; glissement vertical 1
-- **12-16 :** 5 dégâts de foudre ; glissement vertical 2
-- **17+ :** 7 dégâts de foudre ; glissement vertical 3
-
-######## Statue de Pouvoir (5 Piété)
-
-*Une statue de marbre de votre divinité s'élève de la terre.*
-
-| **Magie, Distance**  |   **Manœuvre** |
-|-----------------------|---------------:|
-| **📏 Distance 10**   | **🎯 Spécial** |
-
-**Effet :** Une statue de taille 2 s'élève du sol dans un espace inoccupé à distance et dure jusqu'à la fin de la rencontre. Tant que vous êtes dans un rayon de 3 cases de la statue, vous gagnez 1 impulsion au début de chacun de vos tours. Chaque allié dans un rayon de 3 cases de la statue gagne ce même bénéfice. La statue est détruite si elle subit 20 dégâts ou plus. Elle a une immunité totale aux dégâts de poison et psychiques.
-
-######## Source de Grâce (5 Piété)
-
-*Une lumière sacrée émane de votre corps, soignant vos alliés.*
-
-| **Zone, Magie**  |              **Action Principale** |
-|-------------------|-----------------------------------:|
-| **📏 Aura 3**    | **🎯 Chaque allié dans la zone** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible commence son tour dans la zone, elle peut dépenser une Récupération.
+> [!spell] Source de Grâce
+> 🏷️ *Zone • Magie*
+> 
+> ***Une lumière sacrée émane de votre corps, soignant vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Aura 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible commence son tour dans la zone, elle peut dépenser une Récupération.
+> 
+> **🔥 Coût :** 5 Piété
 
 ### Aptitudes de Niveau 3
 
@@ -816,63 +941,83 @@ Une créature avec une âme consentante revient à la vie à la fin du répit av
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 piété à utiliser.
 
-######## Crainte des Dieux (7 Piété)
+> [!spell] Crainte des Dieux
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***Votre magie divine fait apparaître une créature sous l'aspect de ce que vos ennemis craignent le plus.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 5 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 6 dégâts psychiques ; I < FAIBLE, effrayé (sauvegarde termine)
+> - **12-16 :** 9 dégâts psychiques ; I < MOYEN, effrayé (sauvegarde termine)
+> - **17+ :** 13 dégâts psychiques ; I < FORT, effrayé (sauvegarde termine)
+> 
+> Chaque cible est effrayée de vous ou d'une créature de votre choix à distance.
+> 
+> **🔥 Coût :** 7 Piété
 
-*Votre magie divine fait apparaître une créature sous l'aspect de ce que vos ennemis craignent le plus.*
+> [!spell] Parure du Saint
+> 🏷️ *Magie • Distance*
+> 
+> ***Un allié devient le porteur d'un manteau doré aux pouvoirs renforcés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** La cible gagne 20 Vigueur Temporaire et 3 impulsions.
+> 
+> **🔥 Coût :** 7 Piété
 
-| **Zone, Magie, Distance**  |               **Action principale** |
-|-----------------------------|------------------------------------:|
-| **📏 Cube de 5 à portée 10**  | **🎯 Chaque ennemi dans la zone** |
+> [!spell] Siphon d'Âme
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Un rayon d'énergie relie un ennemi à un ami, drainant la vie de l'un pour soigner l'autre.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un ennemi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 7 + Int dégâts de corruption
+> - **12-16 :** 10 + Int dégâts de corruption
+> - **17+ :** 15 + Int dégâts de corruption
+> 
+> Un allié à distance peut dépenser autant de Récupérations qu'il le souhaite.
+> 
+> **🔥 Coût :** 7 Piété
 
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 6 dégâts psychiques ; I < FAIBLE, effrayé (sauvegarde termine)
-- **12-16 :** 9 dégâts psychiques ; I < MOYEN, effrayé (sauvegarde termine)
-- **17+ :** 13 dégâts psychiques ; I < FORT, effrayé (sauvegarde termine)
-
-**Effet :** Chaque cible est effrayée de vous ou d'une créature de votre choix à distance.
-
-######## Parure du Saint (7 Piété)
-
-*Un allié devient le porteur d'un manteau doré aux pouvoirs renforcés.*
-
-| **Magie, Distance**         |    **Manœuvre** |
-|------------------------------|----------------:|
-| **📏 Distance 10**          | **🎯 Un allié** |
-
-**Effet :** La cible gagne 20 Vigueur Temporaire et 3 impulsions.
-
-######## Siphon d'Âme (7 Piété)
-
-*Un rayon d'énergie relie un ennemi à un ami, drainant la vie de l'un pour soigner l'autre.*
-
-| **Magie, Distance, Frappe** |  **Action principale** |
-|------------------------------|-----------------------:|
-| **📏 Distance 10**          | **🎯 Un ennemi** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 7 + I dégâts de corruption
-- **12-16 :** 10 + I dégâts de corruption
-- **17+ :** 15 + I dégâts de corruption
-
-**Effet :** Un allié à distance peut dépenser autant de Récupérations qu'il le souhaite.
-
-######## Paroles de Courroux et de Grâce (7 Piété)
-
-*Votre saint accorde à vos ennemis une vision de douleur et emplit vos alliés d'énergie curative.*
-
-| **Zone, Magie**  |               **Action principale** |
-|-------------------|------------------------------------:|
-| **📏 Explosion de 5**   | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 2 dégâts sacrés
-- **12-16 :** 5 dégâts sacrés
-- **17+ :** 7 dégâts sacrés
-
-**Effet :** Chaque allié dans la zone peut dépenser une Récupération.
+> [!spell] Paroles de Courroux et de Grâce
+> 🏷️ *Zone • Magie*
+> 
+> ***Votre saint accorde à vos ennemis une vision de douleur et emplit vos alliés d'énergie curative.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion de 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 2 dégâts sacrés
+> - **12-16 :** 5 dégâts sacrés
+> - **17+ :** 7 dégâts sacrés
+> 
+> Chaque allié dans la zone peut dépenser une Récupération.
+> 
+> **🔥 Coût :** 7 Piété
 
 ### Aptitudes de Niveau 4
 
@@ -923,16 +1068,18 @@ Votre présence divine permet à ceux que vous jugez dignes de récupérer rapid
 
 Vous possédez l'aptitude suivante.
 
-######## Bénédiction des Secrets
-
-*Vous projetez une aura illusoire qui rend plus difficile de vous remarquer, vous et vos alliés.*
-
-
-| **Zone, Magie** |                         **Manœuvre**  |
-|-----------------|--------------------------------------:|
-| **📏 3 aura**   | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** Chaque créature dans la zone bénéficie d'un double avantage sur les tests effectués pour se cacher ou se faufiler. L'aura dure jusqu'à ce que vous y mettiez fin (action triviale requise) ou jusqu'à ce qu'une cible blesse ou inflige des dégâts à une créature ou un objet.
+> [!spell] Bénédiction des Secrets
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous projetez une aura illusoire qui rend plus difficile de vous remarquer, vous et vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 3 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Chaque créature dans la zone bénéficie d'un double avantage sur les tests effectués pour se cacher ou se faufiler. L'aura dure jusqu'à ce que vous y mettiez fin (action triviale requise) ou jusqu'à ce qu'une cible blesse ou inflige des dégâts à une créature ou un objet.
 
 ###### Toucher Impénétrable
 
@@ -988,55 +1135,75 @@ Vous gagnez l'aptitude de domaine de niveau 4 pour le domaine dont vous n'avez p
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 piété à utiliser.
 
-######## Phare de Grâce (9 Piété)
+> [!spell] Phare de Grâce
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Vous embrasez un ennemi de radiance sacrée, récompensant les alliés qui l'attaquent.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 8 + Int dégâts sacrés
+> - **12-16 :** 13 + Int dégâts sacrés
+> - **17+ :** 17 + Int dégâts sacrés
+> 
+> Jusqu'à la fin de la rencontre, chaque fois que vous ou un allié infligez des dégâts à la cible en utilisant une aptitude, cette créature peut dépenser une Récupération. Si la cible est réduite à 0 Vigueur avant la fin de la rencontre, vous pouvez utiliser une Action Déclenchée Gratuite pour transférer cet effet à une autre créature à Distance.
+> 
+> **🔥 Coût :** 9 Piété
 
-*Vous embrasez un ennemi de radiance sacrée, récompensant les alliés qui l'attaquent.*
+> [!spell] Pénitence
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***« Si tu ne t'agenouilles pas, les dieux t'y forceront. »***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 4 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 4 dégâts de corruption ; I < FAIBLE, À Terre et ne peut pas se lever (Sauvegarde Termine)
+> - **12-16 :** 7 dégâts de corruption ; I < MOYEN, À Terre et ne peut pas se lever (Sauvegarde Termine)
+> - **17+ :** 11 dégâts de corruption ; I < FORT, À Terre et ne peut pas se lever (Sauvegarde Termine)
+> 
+> **🔥 Coût :** 9 Piété
 
-| **Magie, Distance, Frappe** |     **Action Principale** |
-|------------------------------|---------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature** |
+> [!spell] Sanctuaire
+> 🏷️ *Magie • Distance*
+> 
+> ***Vous vous envoyez ou envoyez un allié vers un plan divin pour récupérer instantanément de la santé.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** La cible est retirée de la carte de rencontre jusqu'au début de son prochain tour et peut dépenser autant de Récupérations qu'elle le souhaite. Au début de son tour, la cible réapparaît dans l'Espace qu'elle a quitté ou dans l'Espace inoccupé le plus proche de son choix.
+> 
+> **🔥 Coût :** 9 Piété
 
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 8 + I dégâts sacrés
-- **12-16 :** 13 + I dégâts sacrés
-- **17+ :** 17 + I dégâts sacrés
-
-**Effet :** Jusqu'à la fin de la rencontre, chaque fois que vous ou un allié infligez des dégâts à la cible en utilisant une aptitude, cette créature peut dépenser une Récupération. Si la cible est réduite à 0 Vigueur avant la fin de la rencontre, vous pouvez utiliser une Action Déclenchée Gratuite pour transférer cet effet à une autre créature à Distance.
-
-######## Pénitence (9 Piété)
-
-*« Si tu ne t'agenouilles pas, les dieux t'y forceront. »*
-
-| **Zone, Magie, Distance**  |               **Action Principale** |
-|----------------------------|-------------------------------------:|
-| **📏 Cube de 4 à portée 10**  | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 4 dégâts de corruption ; I < FAIBLE, À Terre et ne peut pas se lever (Sauvegarde Termine)
-- **12-16 :** 7 dégâts de corruption ; I < MOYEN, À Terre et ne peut pas se lever (Sauvegarde Termine)
-- **17+ :** 11 dégâts de corruption ; I < FORT, À Terre et ne peut pas se lever (Sauvegarde Termine)
-
-######## Sanctuaire (9 Piété)
-
-*Vous vous envoyez ou envoyez un allié vers un plan divin pour récupérer instantanément de la santé.*
-
-| **Magie, Distance**  |            **Manœuvre** |
-|----------------------|------------------------:|
-| **📏 Distance 10**   | **🎯 Soi-même ou un allié** |
-
-**Effet :** La cible est retirée de la carte de rencontre jusqu'au début de son prochain tour et peut dépenser autant de Récupérations qu'elle le souhaite. Au début de son tour, la cible réapparaît dans l'Espace qu'elle a quitté ou dans l'Espace inoccupé le plus proche de son choix.
-
-######## Réceptacle de Châtiment (9 Piété)
-
-*Vous imprégnez vous-même ou un allié de l'énergie vengeresse des dieux, prête à être libérée.*
-
-| **Magie, Distance**  | **Manœuvre**            |
-|----------------------|-------------------------|
-| **📏 Distance 10**   | **🎯 Soi-même ou un allié** |
-
-**Effet :** La première fois que la cible est Mourant ou Essoufflé avant la fin de la rencontre, chaque Ennemi dans un rayon de 5 Cases d'elle subit 15 dégâts sacrés.
+> [!spell] Réceptacle de Châtiment
+> 🏷️ *Magie • Distance*
+> 
+> ***Vous imprégnez vous-même ou un allié de l'énergie vengeresse des dieux, prête à être libérée.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** La première fois que la cible est Mourant ou Essoufflé avant la fin de la rencontre, chaque Ennemi dans un rayon de 5 Cases d'elle subit 15 dégâts sacrés.
+> 
+> **🔥 Coût :** 9 Piété
 
 ### Aptitudes de Niveau 6
 
@@ -1076,159 +1243,219 @@ Choisissez l'un de vos domaines. Vous gagnez une aptitude héroïque de ce domai
 | Tromperie  | Invocation de Mystère          |
 | Guerre     | Lame des Cieux                 |
 
-######## Aura des Âmes (9 Piété)
+> [!spell] Aura des Âmes
+> 🏷️ *Zone • Magique*
+> 
+> ***Un tourbillon d'âmes de morts voltige autour de vous à votre commandement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 4 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque créature dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, à la fin de chacun de vos tours, vous pouvez faire glisser chaque créature dans la zone d'un nombre de cases égal à votre score d'Intuition. Ce déplacement forcé ignore la stabilité pour vos alliés.
+> 
+> **🔥 Coût :** 9 Piété
 
-*Un tourbillon d'âmes de morts voltige autour de vous à votre commandement.*
+> [!spell] Lame des Cieux
+> 🏷️ *Magique • À Distance • Frappe*
+> 
+> ***Une épée à deux mains descend du ciel en trombe, menaçant d'épingler votre ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 8 + Int dégâts ; A < FAIBLE, à terre et entravé (sauvegarde termine)
+> - **12-16 :** 12 + Int dégâts ; A < MOYEN, à terre et entravé (sauvegarde termine)
+> - **17+ :** 16 + Int dégâts ; A < FORT, à terre et entravé (sauvegarde termine)
+> 
+> **🔥 Coût :** 9 Piété
 
-| **Zone, Magique**   |                     **Manœuvre** |
-|---------------------|----------------------------------|
-| **📏 4 aura**       | **🎯 Chaque créature dans la zone** |
+> [!spell] Bénédiction du Soleil de Midi
+> 🏷️ *Zone • Magique*
+> 
+> ***Votre corps émet une chaleur qui cuit vos ennemis et inspire vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 4 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque créature dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque ennemi dans la zone subit un fléau sur les jets de pouvoir, et vous et chaque allié dans la zone gagnez 1 impulsion à la fin de chacun de vos tours.
+> 
+> **🔥 Coût :** 9 Piété
 
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, à la fin de chacun de vos tours, vous pouvez faire glisser chaque créature dans la zone d'un nombre de cases égal à votre score d'Intuition. Ce déplacement forcé ignore la stabilité pour vos alliés.
+> [!spell] Cuirasse des Dieux
+> 🏷️ *Zone • Magique • À Distance*
+> 
+> ***Vos alliés sont recouverts d'une armure spirituelle.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois créatures</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous pouvez vous cibler à la place d'une créature avec cette aptitude. Chaque cible a une immunité aux dégâts 5 jusqu'au début de votre prochain tour.
+> 
+> **🔥 Coût :** 9 Piété
 
-######## Lame des Cieux (9 Piété)
+> [!spell] Machine des Dieux
+> 🏷️ *Magique • À Distance*
+> 
+> ***Vous invoquez un char vrombissant fait de lames et de métal.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous invoquez une machine roulante de taille 2 qui apparaît dans un espace inoccupé à portée. La machine a 50 de Vigueur et une immunité totale aux dégâts de poison et psychiques. Elle disparaît à la fin de la rencontre, si sa Vigueur tombe à 0, ou si vous êtes mourant. Quand la machine apparaît pour la première fois, effectuez le jet de pouvoir suivant une fois, ciblant chaque ennemi adjacent à elle.
+> 
+> Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 dégâts
+> - **12-16 :** 5 dégâts
+> - **17+ :** 8 dégâts
+> 
+> Une fois à chaque tour suivant, vous pouvez utiliser une manœuvre gratuite pour déplacer la machine d'un nombre de cases égal à votre score d'Intuition puis répéter le jet de pouvoir.
+> 
+> **🔥 Coût :** 9 Piété
 
-*Une épée à deux mains descend du ciel en trombe, menaçant d'épingler votre ennemi.*
+> [!spell] Invocation de Mystère
+> 🏷️ *Zone • Magique*
+> 
+> ***« Maintenant vous nous voyez... »***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 4 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Chaque cible est invisible jusqu'au début de votre prochain tour.
+> 
+> **🔥 Coût :** 9 Piété
 
-| **Magique, À Distance, Frappe**  |     **Action Principale** |
-|----------------------------------|----------------------------|
-| **📏 À Distance 5**              | **🎯 Une créature**       |
+> [!spell] Invocation de Défaite
+> 🏷️ *Zone • Magique*
+> 
+> ***Vous prononcez un mot secret de destruction connu seulement des divinités.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 4 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 dégâts soniques ; poussée 3
+> - **12-16 :** 6 dégâts soniques ; poussée 5
+> - **17+ :** 9 dégâts soniques ; poussée 7
+> 
+> **Spécial :** Vous pouvez choisir que cette aptitude inflige des dégâts aux objets et les pousse, et qu'elle inflige des dégâts aux bâtiments.
+> 
+> **🔥 Coût :** 9 Piété
 
-**Jet de Pouvoir + Intuition :**
+> [!spell] Loué par Dieu
+> 🏷️ *Magique • À Distance*
+> 
+> ***Vous implorez les dieux de donner à vos alliés ce dont ils ont besoin pour remporter la victoire, et les dieux répondent.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux alliés</p>
+> 
+> ---
+> 
+> **💫 Effet:** Chaque cible gagne 3 de sa Ressource Héroïque.
+> 
+> **🔥 Coût :** 9 Piété
 
-- **≤11 :** 8 + I dégâts ; A < FAIBLE, à terre et entravé (sauvegarde termine)
-- **12-16 :** 12 + I dégâts ; A < MOYEN, à terre et entravé (sauvegarde termine)
-- **17+ :** 16 + I dégâts ; A < FORT, à terre et entravé (sauvegarde termine)
+> [!spell] Seigneur de la Foudre
+> 🏷️ *Zone • Magique*
+> 
+> ***La foudre jaillit de votre corps dans plusieurs directions.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Trois lignes 10 x 1 dans un rayon de 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 6 dégâts de foudre ; poussée 1
+> - **12-16 :** 9 dégâts de foudre ; poussée 2
+> - **17+ :** 13 dégâts de foudre ; poussée 3
+> 
+> Les cibles subissent un déplacement forcé une à la fois, en commençant par la cible la plus proche de vous, et peuvent être poussées dans d'autres cibles de la même ligne.
+> 
+> **🔥 Coût :** 9 Piété
 
-######## Bénédiction du Soleil de Midi (9 Piété)
+> [!spell] Grâce Revitalisante
+> 🏷️ *Zone • Magique*
+> 
+> ***D'un geste, vous restaurez votre santé et celle de vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 4 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Chaque cible peut dépenser n'importe quel nombre de Récupérations. De plus, chaque cible peut mettre fin à un effet sur elle-même qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour, ou elle peut se lever si elle est à terre.
+> 
+> **🔥 Coût :** 9 Piété
 
-*Votre corps émet une chaleur qui cuit vos ennemis et inspire vos alliés.*
+> [!spell] Cavalcade d'Esprits
+> 🏷️ *Zone • Magique • À Distance*
+> 
+> ***Des esprits d'animaux traversent le champ de bataille au galop, piétinant vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> ligne 10 x 2 dans un rayon de 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 5 dégâts ; M < FAIBLE, à terre et ne peut pas se lever (sauvegarde termine)
+> - **12-16 :** 8 dégâts ; M < MOYEN, à terre et ne peut pas se lever (sauvegarde termine)
+> - **17+ :** 11 dégâts ; M < FORT, à terre et ne peut pas se lever (sauvegarde termine)
+> 
+> **🔥 Coût :** 9 Piété
 
-| **Zone, Magique**   |                              **Manœuvre** |
-|---------------------|-------------------------------------------|
-| **📏 4 aura**       | **🎯 Vous-même et chaque créature dans la zone** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque ennemi dans la zone subit un fléau sur les jets de pouvoir, et vous et chaque allié dans la zone gagnez 1 impulsion à la fin de chacun de vos tours.
-
-######## Cuirasse des Dieux (9 Piété)
-
-*Vos alliés sont recouverts d'une armure spirituelle.*
-
-| **Zone, Magique, À Distance**  |           **Manœuvre** | 
-|---------------------------------|-----------------------:|
-| **📏 À Distance 10**            | **🎯 Trois créatures** |
-
-**Effet :** Vous pouvez vous cibler à la place d'une créature avec cette aptitude. Chaque cible a une immunité aux dégâts 5 jusqu'au début de votre prochain tour.
-
-######## Machine des Dieux (9 Piété)
-
-*Vous invoquez un char vrombissant fait de lames et de métal.*
-
-| **Magique, À Distance** | **Action Principale** |
-|-------------------------|-----------------------|
-| **📏 À Distance 10**    | **🎯 Spécial**        |
-
-**Effet :** Vous invoquez une machine roulante de taille 2 qui apparaît dans un espace inoccupé à portée. La machine a 50 de Vigueur et une immunité totale aux dégâts de poison et psychiques. Elle disparaît à la fin de la rencontre, si sa Vigueur tombe à 0, ou si vous êtes mourant. Quand la machine apparaît pour la première fois, effectuez le jet de pouvoir suivant une fois, ciblant chaque ennemi adjacent à elle.
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 3 dégâts
-- **12-16 :** 5 dégâts
-- **17+ :** 8 dégâts
-
-Une fois à chaque tour suivant, vous pouvez utiliser une manœuvre gratuite pour déplacer la machine d'un nombre de cases égal à votre score d'Intuition puis répéter le jet de pouvoir.
-
-######## Invocation de Mystère (9 Piété)
-
-*« Maintenant vous nous voyez... »*
-
-| **Zone, Magique**   |                          **Manœuvre** |
-|---------------------|---------------------------------------|
-| **📏 4 explosion**  | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** Chaque cible est invisible jusqu'au début de votre prochain tour.
-
-######## Invocation de Défaite (9 Piété)
-
-*Vous prononcez un mot secret de destruction connu seulement des divinités.*
-
-| **Zone, Magique**   |               **Action Principale** |
-|---------------------|-------------------------------------|
-| **📏 4 explosion**  | **🎯 Chaque ennemi dans la zone**   |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 3 dégâts soniques ; poussée 3
-- **12-16 :** 6 dégâts soniques ; poussée 5
-- **17+ :** 9 dégâts soniques ; poussée 7
-
-**Spécial :** Vous pouvez choisir que cette aptitude inflige des dégâts aux objets et les pousse, et qu'elle inflige des dégâts aux bâtiments.
-
-######## Loué par Dieu (9 Piété)
-
-*Vous implorez les dieux de donner à vos alliés ce dont ils ont besoin pour remporter la victoire, et les dieux répondent.*
-
-| **Magique, À Distance**  |      **Manœuvre** |
-|--------------------------|-------------------|
-| **📏 À Distance 10**     | **🎯 Deux alliés** |
-
-**Effet :** Chaque cible gagne 3 de sa Ressource Héroïque.
-
-######## Seigneur de la Foudre (9 Piété)
-
-*La foudre jaillit de votre corps dans plusieurs directions.*
-
-| **Zone, Magique**                     |               **Action Principale** |
-|----------------------------------------|-------------------------------------|
-| **📏 Trois lignes 10 x 1 dans un rayon de 1** | **🎯 Chaque ennemi dans la zone**   |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 6 dégâts de foudre ; poussée 1
-- **12-16 :** 9 dégâts de foudre ; poussée 2
-- **17+ :** 13 dégâts de foudre ; poussée 3
-
-**Effet :** Les cibles subissent un déplacement forcé une à la fois, en commençant par la cible la plus proche de vous, et peuvent être poussées dans d'autres cibles de la même ligne.
-
-######## Grâce Revitalisante (9 Piété)
-
-*D'un geste, vous restaurez votre santé et celle de vos alliés.*
-
-| **Zone, Magique**   |                       **Action Principale** |
-|---------------------|---------------------------------------------|
-| **📏 4 explosion**  | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** Chaque cible peut dépenser n'importe quel nombre de Récupérations. De plus, chaque cible peut mettre fin à un effet sur elle-même qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour, ou elle peut se lever si elle est à terre.
-
-######## Cavalcade d'Esprits (9 Piété)
-
-*Des esprits d'animaux traversent le champ de bataille au galop, piétinant vos ennemis.*
-
-| **Zone, Magique, À Distance**     |               **Action Principale** |
-|------------------------------------|-------------------------------------|
-| **📏 ligne 10 x 2 dans un rayon de 5** | **🎯 Chaque ennemi dans la zone**   |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 5 dégâts ; M < FAIBLE, à terre et ne peut pas se lever (sauvegarde termine)
-- **12-16 :** 8 dégâts ; M < MOYEN, à terre et ne peut pas se lever (sauvegarde termine)
-- **17+ :** 11 dégâts ; M < FORT, à terre et ne peut pas se lever (sauvegarde termine)
-
-######## Ton Histoire Se Termine Ici (9 Piété)
-
-*Vous pliez le destin d'un ennemi, le condamnant à mourir.*
-
-| **Magique, À Distance, Frappe** |     **Action Principale** |
-|----------------------------------|----------------------------|
-| **📏 À Distance 10**             | **🎯 Une créature**       |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 9 + I dégâts de corruption ; R < FAIBLE, affaibli (sauvegarde termine)
-- **12-16 :** 14 + I dégâts de corruption ; R < MOYEN, affaibli (sauvegarde termine)
-- **17+ :** 19 + I dégâts de corruption ; R < FORT, affaibli (sauvegarde termine)
-
-**Effet :** Si ces dégâts tuent la cible, vous et chaque allié à portée pouvez dépenser une Récupération.
+> [!spell] Ton Histoire Se Termine Ici
+> 🏷️ *Magique • À Distance • Frappe*
+> 
+> ***Vous pliez le destin d'un ennemi, le condamnant à mourir.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 9 + Int dégâts de corruption ; R < FAIBLE, affaibli (sauvegarde termine)
+> - **12-16 :** 14 + Int dégâts de corruption ; R < MOYEN, affaibli (sauvegarde termine)
+> - **17+ :** 19 + Int dégâts de corruption ; R < FORT, affaibli (sauvegarde termine)
+> 
+> Si ces dégâts tuent la cible, vous et chaque allié à portée pouvez dépenser une Récupération.
+> 
+> **🔥 Coût :** 9 Piété
 
 ### Aptitudes de Niveau 7
 
@@ -1275,15 +1502,18 @@ Les dieux vous envoient une faveur divine, à vous et à vos alliés. Tant que v
 
 Vous pouvez maintenir des liens avec jusqu'à trois créatures consentantes en utilisant votre aptitude Invocation du Cœur. De plus, vous disposez de l'aptitude suivante.
 
-######## Guidé à Vos Côtés
-
-*Vous vous concentrez sur un ami et vous téléportez jusqu'à lui.*
-
-| **Magie, À distance**  |           **Action principale** |
-|------------------------|---------------------------------:|
-| **📏 À distance 10**   | **🎯 Vous-même et chaque allié** |
-
-**Effet :** Chaque cible est téléportée vers des espaces inoccupés dans un rayon de 5 cases d'une créature consentante avec laquelle vous êtes lié par votre aptitude Invocation du Cœur. Vous n'avez pas besoin d'une ligne d'effet vers la créature liée, mais vous devez être sur le même monde.
+> [!spell] Guidé à Vos Côtés
+> 🏷️ *Magie • À distance*
+> 
+> ***Vous vous concentrez sur un ami et vous téléportez jusqu'à lui.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** Chaque cible est téléportée vers des espaces inoccupés dans un rayon de 5 cases d'une créature consentante avec laquelle vous êtes lié par votre aptitude Invocation du Cœur. Vous n'avez pas besoin d'une ligne d'effet vers la créature liée, mais vous devez être sur le même monde.
 
 ##### Quartier-Maître Divin
 
@@ -1321,15 +1551,20 @@ La foudre et le tonnerre imprègnent votre corps. Chaque fois que vous utilisez 
 
 Vous disposez de l'aptitude suivante.
 
-######## Trinité de Fourberie (9 Piété)
-
-*Hé ! Je suis là. Non, ici, tête de mule.*
-
-| **Magie, Distance**  |            **Manœuvre** |
-|--------------------|------------------------:|
-| **📏 Distance 10**   | **🎯 Soi-même ou un allié** |
-
-**Effet :** Vous créez deux duplicatas illusoires de la cible, qui apparaissent n'importe où à portée. Ces duplicatas durent jusqu'à la fin de la rencontre. À chacun de ses tours, la cible peut déplacer chaque duplicata jusqu'à sa vitesse. Si la cible est ciblée par une aptitude, elle peut utiliser une action déclenchée gratuite pour échanger sa place avec un duplicata dans sa ligne d'effet, faisant du duplicata la cible de l'aptitude à la place. Quand l'un ou l'autre duplicata subit des dégâts, il est détruit.
+> [!spell] Trinité de Fourberie
+> 🏷️ *Magie • Distance*
+> 
+> ***Hé ! Je suis là. Non, ici, tête de mule.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous créez deux duplicatas illusoires de la cible, qui apparaissent n'importe où à portée. Ces duplicatas durent jusqu'à la fin de la rencontre. À chacun de ses tours, la cible peut déplacer chaque duplicata jusqu'à sa vitesse. Si la cible est ciblée par une aptitude, elle peut utiliser une action déclenchée gratuite pour échanger sa place avec un duplicata dans sa ligne d'effet, faisant du duplicata la cible de l'aptitude à la place. Quand l'un ou l'autre duplicata subit des dégâts, il est détruit.
+> 
+> **🔥 Coût :** 9 Piété
 
 ##### Parole de Mort Différée
 
@@ -1361,51 +1596,71 @@ Vous gagnez l'aptitude de domaine de niveau 7 pour le domaine dont vous n'avez p
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 piété à utiliser.
 
-######## Relève-toi ! (11 Piété)
+> [!spell] Relève-toi !
+> 🏷️ *Magie • À distance*
+> 
+> ***Votre divinité récompense un allié ou vous-même au bord de la défaite par un miracle d'énergie et de détermination.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** La cible peut dépenser autant de Récupérations qu'elle le souhaite, peut mettre fin à tous les effets qui l'affectent et qui se terminent par un jet de sauvegarde ou à la fin de son tour, et peut se lever si elle est à terre. De plus, au début de chacun de ses tours jusqu'à la fin de la rencontre ou jusqu'à ce qu'elle soit mourante, la cible gagne 3 impulsions.
+> 
+> **🔥 Coût :** 11 Piété
 
-*Votre divinité récompense un allié ou vous-même au bord de la défaite par un miracle d'énergie et de détermination.*
+> [!spell] Bénédiction d'Acier
+> 🏷️ *Zone • Magie*
+> 
+> ***Une aura protectrice défend vos alliés contre le mal.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Aura 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre, tout jet d'aptitude effectué contre une cible subit un fléau et chaque cible bénéficie d'une immunité aux dégâts 5.
+> 
+> **🔥 Coût :** 11 Piété
 
-| **Magie, À distance**     |         **Action principale** |
-|---------------------------|------------------------------:|
-| **📏 À distance 10**      | **🎯 Soi-même ou un allié** |
+> [!spell] Bénédiction de la Lame
+> 🏷️ *Zone • Magie*
+> 
+> ***« Le pouvoir des dieux est en vous, mes amis. Permettez-moi de le libérer. »***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Aura 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** À la fin de chacun de vos tours jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible gagne 3 impulsions.
+> 
+> **🔥 Coût :** 11 Piété
 
-**Effet :** La cible peut dépenser autant de Récupérations qu'elle le souhaite, peut mettre fin à tous les effets qui l'affectent et qui se terminent par un jet de sauvegarde ou à la fin de son tour, et peut se lever si elle est à terre. De plus, au début de chacun de ses tours jusqu'à la fin de la rencontre ou jusqu'à ce qu'elle soit mourante, la cible gagne 3 impulsions.
-
-######## Bénédiction d'Acier (11 Piété)
-
-*Une aura protectrice défend vos alliés contre le mal.*
-
-| **Zone, Magie**          |                          **Manœuvre** |
-|--------------------------|--------------------------------------:|
-| **📏 Aura 5**            | **🎯 Soi-même et chaque allié dans la zone** |
-
-**Effet :** Jusqu'à la fin de la rencontre, tout jet d'aptitude effectué contre une cible subit un fléau et chaque cible bénéficie d'une immunité aux dégâts 5.
-
-######## Bénédiction de la Lame (11 Piété)
-
-*« Le pouvoir des dieux est en vous, mes amis. Permettez-moi de le libérer. »*
-
-| **Zone, Magie**          |                          **Manœuvre** |
-|--------------------------|--------------------------------------:|
-| **📏 Aura 5**            | **🎯 Soi-même et chaque allié dans la zone** |
-
-**Effet :** À la fin de chacun de vos tours jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible gagne 3 impulsions.
-
-######## Traîner les Indignes (11 Piété)
-
-*Vous invoquez un ange qui déplace un ennemi et soigne vos alliés.*
-
-| **Magie, À distance, Frappe**  |               **Action principale** |
-|---------------------------------|------------------------------------:|
-| **📏 À distance 10**            | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 9 + I dégâts sacrés ; glissement 3
-- **12-16 :** 13 + I dégâts sacrés ; glissement 4
-- **17+ :** 18 + I dégâts sacrés ; glissement 6
-
-**Effet :** Chaque allié dont la cible devient adjacente durant le déplacement forcé peut dépenser une Récupération.
+> [!spell] Traîner les Indignes
+> 🏷️ *Magie • À distance • Frappe*
+> 
+> ***Vous invoquez un ange qui déplace un ennemi et soigne vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 9 + Int dégâts sacrés ; glissement 3
+> - **12-16 :** 13 + Int dégâts sacrés ; glissement 4
+> - **17+ :** 18 + Int dégâts sacrés ; glissement 6
+> 
+> Chaque allié dont la cible devient adjacente durant le déplacement forcé peut dépenser une Récupération.
+> 
+> **🔥 Coût :** 11 Piété
 
 ### Aptitudes de Niveau 9
 
@@ -1440,165 +1695,225 @@ Choisissez un de vos domaines. Vous gagnez une aptitude héroïque de ce domaine
 | Fourberie  | La Nuit Tombe                   |
 | Guerre     | Phalange Vertueuse              |
 
-######## Alacrité du Cœur (11 Piété)
+> [!spell] Alacrité du Cœur
+> 🏷️ *Magie • Distance*
+> 
+> ***Vous prononcez des mots inspirants à un ami et l'incitez à accomplir des exploits incroyables.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** La cible dispose d'une Action Principale supplémentaire qu'elle peut utiliser à son prochain tour, et gagne 3 de sa Ressource Héroïque.
+> 
+> **🔥 Coût :** 11 Piété
 
-*Vous prononcez des mots inspirants à un ami et l'incitez à accomplir des exploits incroyables.*
+> [!spell] Plier le Destin
+> 🏷️ *Magie • Distance*
+> 
+> ***Les dieux savent que vous devez triompher, et ils bénissent votre destin.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chacun des Jets de Pouvoir de la cible voit son résultat amélioré d'un tiers.
+> 
+> **🔥 Coût :** 11 Piété
 
-| **Magie, Distance**  |    **Manœuvre** |
-|----------------------|----------------:|
-| **📏 Distance 10**   | **🎯 Un allié** |
+> [!spell] Bénédiction de la Forteresse
+> 🏷️ *Zone • Magie*
+> 
+> ***Un cercle magique s'étend depuis vous, empêchant les ennemis de s'approcher.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi ; voir plus bas</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, aucun ennemi ne peut s'approcher à moins de 5 cases de vous en se déplaçant ou en étant déplacé de force par un ennemi. Les cibles peuvent être déplacées de force plus près de vous par vous ou vos alliés, ou peuvent se rapprocher à cause de votre déplacement.
+> 
+> **🔥 Coût :** 11 Piété
 
-**Effet :** La cible dispose d'une Action Principale supplémentaire qu'elle peut utiliser à son prochain tour, et gagne 3 de sa Ressource Héroïque.
+> [!spell] Dragon Divin
+> 🏷️ *Magie • Distance*
+> 
+> ***À partir de rien d'autre que la volonté divine, vous créez un puissant allié.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous invoquez un dragon de taille 4 qui apparaît dans un espace inoccupé à portée. Le dragon a une vitesse 6 et peut voler, Stabilité 4, 100 Vigueur, immunité totale aux Dégâts de feu, et utilise vos caractéristiques. Le dragon disparaît à la fin de la rencontre, si sa Vigueur tombe à 0, ou si vous êtes mourant.
+> 
+> Aux tours suivants, vous pouvez utiliser une Action Principale pour ordonner au dragon de souffler du feu magique dans un cube 3 à 1 case de lui. Effectuez le Jet de Pouvoir suivant en ciblant chaque ennemi dans la zone.
+> 
+> Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 5 Dégâts de feu
+> - **12-16 :** 9 Dégâts de feu
+> - **17+ :** 12 Dégâts de feu
+> 
+> De plus, vous pouvez utiliser une Manœuvre pour déplacer le dragon jusqu'à sa vitesse, ou pour effectuer une Frappe d'arme de corps à corps avec sa griffe contre une créature ou un objet adjacent. Le dragon peut aussi effectuer cette Frappe comme une Frappe Gratuite.
+> 
+> Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 3 + Int Dégâts
+> - **12-16 :** 5 + Int Dégâts
+> - **17+ :** 8 + Int Dégâts
+> 
+> **🔥 Coût :** 11 Piété
 
-######## Plier le Destin (11 Piété)
+> [!spell] Tempête Divine
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***Vous invoquez une tempête divine qui reste sous votre contrôle.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube 5 à portée 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 2 Dégâts de foudre, 2 Dégâts soniques
+> - **12-16 :** 3 Dégâts de foudre, 3 Dégâts soniques
+> - **17+ :** 5 Dégâts de foudre, 5 Dégâts soniques
+> 
+> Une tempête déchaînée remplit la zone jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant. Au début de chacun de vos tours, vous pouvez déplacer la tempête jusqu'à 5 cases (aucune action requise). Aux tours suivants tant que la tempête est active, vous pouvez utiliser une Manœuvre pour effectuer son Jet de Pouvoir.
+> 
+> **🔥 Coût :** 11 Piété
 
-*Les dieux savent que vous devez triompher, et ils bénissent votre destin.*
+> [!spell] La Nuit Tombe
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***Vous invoquez des ténèbres qui ne contrarient que vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube 5 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, la zone est remplie de ténèbres magiques que vos ennemis ne peuvent pas voir à travers, mais que vous et vos alliés pouvez voir.
+> 
+> **🔥 Coût :** 11 Piété
 
-| **Magie, Distance**  |         **Action Principale** |
-|----------------------|-------------------------------:|
-| **📏 Distance 10**   | **🎯 Soi-même ou un allié** |
+> [!spell] Radiance de Grâce
+> 🏷️ *Magie • Distance*
+> 
+> ***Une lumière intense émane de votre corps, soignant vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Quatre alliés</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous pouvez vous cibler vous-même au lieu d'un allié avec cette aptitude. Chaque cible peut dépenser autant de Récupérations qu'elle le souhaite, peut mettre fin à tous les effets sur elle qui se terminent par un Jet de Sauvegarde ou qui se terminent à la fin de son tour, et peut se lever si elle est À Terre.
+> 
+> **🔥 Coût :** 11 Piété
 
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chacun des Jets de Pouvoir de la cible voit son résultat amélioré d'un tiers.
+> [!spell] Phalange Vertueuse
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***Un mur d'épées et de couteaux tournoyants apparaît où vous le souhaitez.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Mur 15 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Le mur dure jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, et peut être placé dans des cases occupées. Les créatures peuvent entrer et traverser le mur. Chaque ennemi qui entre dans la zone pour la première fois dans un Tour de Combat ou commence son tour là subit 15 Dégâts.
+> 
+> **🔥 Coût :** 11 Piété
 
-######## Bénédiction de la Forteresse (11 Piété)
+> [!spell] Éruption Solaire
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***Vous invoquez une sphère de feu qui brûle vos ennemis jusqu'aux cendres.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube 5 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 9 Dégâts de feu
+> - **12-16 :** 14 Dégâts de feu
+> - **17+ :** 19 Dégâts de feu
+> 
+> **🔥 Coût :** 11 Piété
 
-*Un cercle magique s'étend depuis vous, empêchant les ennemis de s'approcher.*
+> [!spell] Cage d'Épines
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Des lianes jaillissent du sol et lient votre ennemi, se refermant lentement autour de lui.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 10 + Int Dégâts ; A < FAIBLE, entravé (Sauvegarde Termine)
+> - **12-16 :** 15 + Int Dégâts ; A < MOYEN, entravé (Sauvegarde Termine)
+> - **17+ :** 21 + Int Dégâts ; A < FORT, entravé (Sauvegarde Termine)
+> 
+> Tant qu'elle est entravée de cette façon, la cible subit 10 Dégâts au début de chacun de vos tours.
+> 
+> **🔥 Coût :** 11 Piété
 
-| **Zone, Magie**        | **Manœuvre** |
-|-------------------------|-------------:|
-| **📏 Soi ; voir plus bas** |  **🎯 Soi** |
+> [!spell] Parole de Rédemption Finale
+> 🏷️ *Magie • Distance*
+> 
+> ***Votre mort alimentera notre victoire.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée Gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible meurt.
+> 
+> **💫 Effet:** Avant que la cible ne meure, vous pouvez regarder son bloc de statistiques et la forcer à utiliser une aptitude qui est une Action Principale ou une Manœuvre. Si l'aptitude coûte une Ressource Héroïque ou de la Malveillance, la créature peut l'utiliser sans aucun coût. Dans le but d'utiliser cette aptitude, vos alliés et ennemis sont les alliés et ennemis de la cible, et vous décidez qui l'aptitude cible.
+> 
+> **🔥 Coût :** 11 Piété
 
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, aucun ennemi ne peut s'approcher à moins de 5 cases de vous en se déplaçant ou en étant déplacé de force par un ennemi. Les cibles peuvent être déplacées de force plus près de vous par vous ou vos alliés, ou peuvent se rapprocher à cause de votre déplacement.
-
-######## Dragon Divin (11 Piété)
-
-*À partir de rien d'autre que la volonté divine, vous créez un puissant allié.*
-
-| **Magie, Distance**  | **Action Principale** |
-|----------------------|----------------------:|
-| **📏 Distance 10**   |  **🎯 Spécial** |
-
-**Effet :** Vous invoquez un dragon de taille 4 qui apparaît dans un espace inoccupé à portée. Le dragon a une vitesse 6 et peut voler, Stabilité 4, 100 Vigueur, immunité totale aux Dégâts de feu, et utilise vos caractéristiques. Le dragon disparaît à la fin de la rencontre, si sa Vigueur tombe à 0, ou si vous êtes mourant.
-
-Aux tours suivants, vous pouvez utiliser une Action Principale pour ordonner au dragon de souffler du feu magique dans un cube 3 à 1 case de lui. Effectuez le Jet de Pouvoir suivant en ciblant chaque ennemi dans la zone.
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 5 Dégâts de feu
-- **12-16 :** 9 Dégâts de feu
-- **17+ :** 12 Dégâts de feu
-
-De plus, vous pouvez utiliser une Manœuvre pour déplacer le dragon jusqu'à sa vitesse, ou pour effectuer une Frappe d'arme de corps à corps avec sa griffe contre une créature ou un objet adjacent. Le dragon peut aussi effectuer cette Frappe comme une Frappe Gratuite.
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 3 + I Dégâts
-- **12-16 :** 5 + I Dégâts
-- **17+ :** 8 + I Dégâts
-
-######## Tempête Divine (11 Piété)
-
-*Vous invoquez une tempête divine qui reste sous votre contrôle.*
-
-| **Zone, Magie, Distance** |               **Action Principale** |
-|----------------------------|-------------------------------------:|
-| **📏 Cube 5 à portée 5**  | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 2 Dégâts de foudre, 2 Dégâts soniques
-- **12-16 :** 3 Dégâts de foudre, 3 Dégâts soniques
-- **17+ :** 5 Dégâts de foudre, 5 Dégâts soniques
-
-**Effet :** Une tempête déchaînée remplit la zone jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant. Au début de chacun de vos tours, vous pouvez déplacer la tempête jusqu'à 5 cases (aucune action requise). Aux tours suivants tant que la tempête est active, vous pouvez utiliser une Manœuvre pour effectuer son Jet de Pouvoir.
-
-######## La Nuit Tombe (11 Piété)
-
-*Vous invoquez des ténèbres qui ne contrarient que vos ennemis.*
-
-| **Zone, Magie, Distance** |  **Action Principale** |
-|----------------------------|------------------------:|
-| **📏 Cube 5 à portée 10** |   **🎯 Spécial** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, la zone est remplie de ténèbres magiques que vos ennemis ne peuvent pas voir à travers, mais que vous et vos alliés pouvez voir.
-
-######## Radiance de Grâce (11 Piété)
-
-*Une lumière intense émane de votre corps, soignant vos alliés.*
-
-| **Magie, Distance**  |    **Action Principale** |
-|----------------------|--------------------------:|
-| **📏 Distance 10**   | **🎯 Quatre alliés** |
-
-**Effet :** Vous pouvez vous cibler vous-même au lieu d'un allié avec cette aptitude. Chaque cible peut dépenser autant de Récupérations qu'elle le souhaite, peut mettre fin à tous les effets sur elle qui se terminent par un Jet de Sauvegarde ou qui se terminent à la fin de son tour, et peut se lever si elle est À Terre.
-
-######## Phalange Vertueuse (11 Piété)
-
-*Un mur d'épées et de couteaux tournoyants apparaît où vous le souhaitez.*
-
-| **Zone, Magie, Distance**  | **Action Principale** |
-|-----------------------------|----------------------:|
-| **📏 Mur 15 à portée 10** |  **🎯 Spécial** |
-
-**Effet :** Le mur dure jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, et peut être placé dans des cases occupées. Les créatures peuvent entrer et traverser le mur. Chaque ennemi qui entre dans la zone pour la première fois dans un Tour de Combat ou commence son tour là subit 15 Dégâts.
-
-######## Éruption Solaire (11 Piété)
-
-*Vous invoquez une sphère de feu qui brûle vos ennemis jusqu'aux cendres.*
-
-| **Zone, Magie, Distance** |               **Action Principale** |
-|----------------------------|-------------------------------------:|
-| **📏 Cube 5 à portée 10** | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 9 Dégâts de feu
-- **12-16 :** 14 Dégâts de feu
-- **17+ :** 19 Dégâts de feu
-
-######## Cage d'Épines (11 Piété)
-
-*Des lianes jaillissent du sol et lient votre ennemi, se refermant lentement autour de lui.*
-
-| **Magie, Distance, Frappe**  |     **Action Principale** |
-|-------------------------------|---------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 10 + I Dégâts ; A < FAIBLE, entravé (Sauvegarde Termine)
-- **12-16 :** 15 + I Dégâts ; A < MOYEN, entravé (Sauvegarde Termine)
-- **17+ :** 21 + I Dégâts ; A < FORT, entravé (Sauvegarde Termine)
-
-**Effet :** Tant qu'elle est entravée de cette façon, la cible subit 10 Dégâts au début de chacun de vos tours.
-
-######## Parole de Rédemption Finale (11 Piété)
-
-*Votre mort alimentera notre victoire.*
-
-| **Magie, Distance**  |  **Action Déclenchée Gratuite** |
-|----------------------|---------------------------------:|
-| **📏 Distance 10**   | **🎯 Une créature** |
-
-**Déclencheur :** La cible meurt.
-
-**Effet :** Avant que la cible ne meure, vous pouvez regarder son bloc de statistiques et la forcer à utiliser une aptitude qui est une Action Principale ou une Manœuvre. Si l'aptitude coûte une Ressource Héroïque ou de la Malveillance, la créature peut l'utiliser sans aucun coût. Dans le but d'utiliser cette aptitude, vos alliés et ennemis sont les alliés et ennemis de la cible, et vous décidez qui l'aptitude cible.
-
-######## Parole d'Affaiblissement (11 Piété)
-
-*Vous prononcez une parole divine qui rend un ennemi fragile.*
-
-| **Magie, Distance, Frappe** |               **Action Principale** |
-|------------------------------|-------------------------------------:|
-| **📏 Distance 10**          | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 10 + I Dégâts de corruption ; A < FAIBLE, affaibli (Sauvegarde Termine)
-- **12-16 :** 15 + I Dégâts de corruption ; A < MOYEN, affaibli (Sauvegarde Termine)
-- **17+ :** 21 + I Dégâts de corruption ; A < FORT, affaibli (Sauvegarde Termine)
-
-**Effet :** Tant qu'elle est affaiblie de cette façon, la cible a une Faiblesse aux Dégâts 10.
+> [!spell] Parole d'Affaiblissement
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Vous prononcez une parole divine qui rend un ennemi fragile.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 10 + Int Dégâts de corruption ; A < FAIBLE, affaibli (Sauvegarde Termine)
+> - **12-16 :** 15 + Int Dégâts de corruption ; A < MOYEN, affaibli (Sauvegarde Termine)
+> - **17+ :** 21 + Int Dégâts de corruption ; A < FORT, affaibli (Sauvegarde Termine)
+> 
+> Tant qu'elle est affaiblie de cette façon, la cible a une Faiblesse aux Dégâts 10.
+> 
+> **🔥 Coût :** 11 Piété
 
 ### Aptitudes de Niveau 10
 

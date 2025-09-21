@@ -124,43 +124,52 @@ Vos multiples bras vous permettent d'accomplir plusieurs tâches simultanément.
 
 Choisissez une aptitude signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté.
 
-######## Frappe Percutante
+> [!spell] Frappe Percutante
+> 🏷️ *Psionique • À Distance • Frappe*
+> 
+> ***Vous abattez une force invisible sur la cible.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison, Intuition ou Présence :
+> 
+> - **≤11 :** 2 + Rai, Int ou Pré dégâts
+> - **12-16 :** 5 + Rai, Int ou Pré dégâts ; poussée 1
+> - **17+ :** 7 + Rai, Int ou Pré dégâts ; poussée 2 ; M < FORT, à terre
 
-*Vous abattez une force invisible sur la cible.*
+> [!spell] Trait Psionique
+> 🏷️ *Psionique • À Distance • Frappe*
+> 
+> ***Vous projetez un rayon violet de force psychique qui déplace votre cible.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison, Intuition ou Présence :
+> 
+> - **≤11 :** 2 + Rai, Int ou Pré dégâts psychiques ; glissement 1
+> - **12-16 :** 5 + Rai, Int ou Pré dégâts psychiques ; glissement 2
+> - **17+ :** 7 + Rai, Int ou Pré dégâts psychiques ; glissement 3
 
-| **Psionique, À Distance, Frappe**  | Action principale                   |
-|------------------------------|-------------------------------|
-| **📏 À Distance 10**             | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison, Intuition ou Présence :**
-
-- **≤11 :** 2 + R, I ou P dégâts ;
-- **12-16 :** 5 + R, I ou P dégâts ; poussée 1
-- **17+ :** 7 + R, I ou P dégâts ; poussée 2 ; M < FORT, à terre
-
-######## Trait Psionique
-
-*Vous projetez un rayon violet de force psychique qui déplace votre cible.*
-
-| **Psionique, À Distance, Frappe**  | Action principale                   |
-|------------------------------|-------------------------------|
-| **📏 À Distance 10**             | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison, Intuition ou Présence :**
-
-- **≤11 :** 2 + R, I ou P dégâts psychiques ; glissement 1
-- **12-16 :** 5 + R, I ou P dégâts psychiques ; glissement 2
-- **17+ :** 7 + R, I ou P dégâts psychiques ; glissement 3
-
-######## Accélération Mineure
-
-*Vous insufflez à vous-même ou à un allié une explosion de vitesse.*
-
-| **Psionique, Corps à Corps** | Manœuvre               |
-|-------------------|------------------------|
-| **📏 Corps à Corps 1**    | **🎯 Soi-même ou un allié** |
-
-**Effet :** La cible gagne un bonus à la vitesse égal à votre score de Raison, Intuition ou Présence (votre choix) jusqu'au début de votre prochain tour.
+> [!spell] Accélération Mineure
+> 🏷️ *Psionique • Corps à Corps*
+> 
+> ***Vous insufflez à vous-même ou à un allié une explosion de vitesse.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** La cible gagne un bonus à la vitesse égal à votre score de Raison, Intuition ou Présence (votre choix) jusqu'au début de votre prochain tour.
 
 ##### Esprit Imparable (2 Points)
 

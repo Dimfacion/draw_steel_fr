@@ -89,29 +89,39 @@ Vous pouvez aussi effectuer des frappes gratuites pendant votre tour pour repré
 
 Voir Frappes Gratuites au Chapitre 10 : Combat pour plus d'informations sur l'utilisation des frappes gratuites, et voir Aptitudes au Chapitre 5 : Classes pour des informations sur le format des aptitudes et comment les lire.
 
-######## Frappe Gratuite d'Arme de Corps à Corps
+> [!spell] Frappe Gratuite d'Arme de Corps à Corps
+> 🏷️ *Charge • Corps à corps • Frappe • Arme*
+> 
+> ***Une attaque de base au corps à corps avec votre arme.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Force ou Agilité :
+> 
+> - **≤11 :** 2 + For ou Agi dégâts
+> - **12-16 :** 5 + For ou Agi dégâts
+> - **17+ :** 7 + For ou Agi dégâts
 
-| **Charge, Corps à corps, Frappe, Arme**  |               **Action principale** |
-|-------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**                   | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 2 + F ou A dégâts
-- **12-16 :** 5 + F ou A dégâts
-- **17+ :** 7 + F ou A dégâts
-
-######## Frappe Gratuite d'Arme à Distance
-
-| **À distance, Frappe, Arme**  |               **Action principale** |
-|--------------------------------|------------------------------------:|
-| **📏 À distance 5**           | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 2 + F ou A dégâts
-- **12-16 :** 4 + F ou A dégâts
-- **17+ :** 6 + F ou A dégâts
+> [!spell] Frappe Gratuite d'Arme à Distance
+> 🏷️ *À distance • Frappe • Arme*
+> 
+> ***Une attaque de base à distance avec votre arme.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Force ou Agilité :
+> 
+> - **≤11 :** 2 + For ou Agi dégâts
+> - **12-16 :** 4 + For ou Agi dégâts
+> - **17+ :** 6 + For ou Agi dégâts
 
 #### 8. Complication
 

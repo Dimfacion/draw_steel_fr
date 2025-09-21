@@ -70,7 +70,7 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(
         {
-          maxDepth: 4
+          maxDepth: 4,
         }
       ),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),

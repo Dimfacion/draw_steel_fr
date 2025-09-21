@@ -132,17 +132,20 @@ Les héros Polder ont accès aux traits suivants.
 
 Vous possédez l'aptitude suivante.
 
-######## Fusion Ombrale
-
-*Vous devenez une véritable ombre.*
-
-| **Magie**   | **Action principale** |
-|-------------|----------------------:|
-| **📏 Soi** |            **🎯 Soi** |
-
-**Effet :** Vous vous aplatissez en une ombre contre un mur ou un sol que vous touchez, et devenez caché de toute créature dont vous avez un abri ou une dissimulation ou qui ne vous observe pas. Sous forme d'ombre, vous avez pleinement conscience de votre environnement, et les frappes dirigées contre vous et les tests effectués pour vous chercher subissent un fléau. Vous ne pouvez pas vous déplacer ou subir un déplacement forcé, et vous ne pouvez pas effectuer d'actions principales ou de manœuvres excepté pour quitter cette forme ou pour diriger les créatures sous votre contrôle, comme une que vous invoquez en utilisant une aptitude. Toute aptitude ou effet qui cible plus d'1 case vous affecte sous cette forme seulement s'il affecte explicitement la surface contre laquelle vous êtes aplati. Vous pouvez quitter cette forme par une manœuvre.
-
-Si la surface contre laquelle vous êtes aplati est détruite, cette aptitude prend fin et vous subissez 1d6 dégâts qui ne peuvent être réduits d'aucune façon.
+> [!spell] Fusion Ombrale
+> 🏷️ *Magie*
+> 
+> ***Vous devenez une véritable ombre.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous vous aplatissez en une ombre contre un mur ou un sol que vous touchez, et devenez caché de toute créature dont vous avez un abri ou une dissimulation ou qui ne vous observe pas. Sous forme d'ombre, vous avez pleinement conscience de votre environnement, et les frappes dirigées contre vous et les tests effectués pour vous chercher subissent un fléau. Vous ne pouvez pas vous déplacer ou subir un déplacement forcé, et vous ne pouvez pas effectuer d'actions principales ou de manœuvres excepté pour quitter cette forme ou pour diriger les créatures sous votre contrôle, comme une que vous invoquez en utilisant une aptitude. Toute aptitude ou effet qui cible plus d'1 case vous affecte sous cette forme seulement s'il affecte explicitement la surface contre laquelle vous êtes aplati. Vous pouvez quitter cette forme par une manœuvre.
+> 
+> Si la surface contre laquelle vous êtes aplati est détruite, cette aptitude prend fin et vous subissez 1d6 dégâts qui ne peuvent être réduits d'aucune façon.
 
 #### Trait Signature : Petit !
 

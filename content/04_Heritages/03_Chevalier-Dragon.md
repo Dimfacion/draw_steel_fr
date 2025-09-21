@@ -105,42 +105,46 @@ Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construct
 Chaque fois que vous ou une créature adjacente subissez des dégâts d'une frappe, vous pouvez utiliser une action déclenchée pour vous protéger du coup. Vous réduisez tous les dégâts de la frappe d'un montant égal à votre niveau.
 
 ##### Fierté Draconique (2 Points)
-
 Vous possédez l'aptitude signature suivante.
 
-######## Fierté Draconique
-
-*Vous laissez échapper un rugissement puissant pour ébranler l'esprit de vos adversaires.*
-
-| **Zone, Magie** |               **Action principale** |
-|------------------|------------------------------------:|
-| **📏 1 explosion**  | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Force ou Présence :**
-
-- **≤11 :** 2 dégâts
-- **12-16 :** 5 dégâts ; poussée 1
-- **17+ :** 7 dégâts ; poussée 2
+> [!spell] Fierté Draconique
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous laissez échapper un rugissement puissant pour ébranler l'esprit de vos adversaires.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 1 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Force ou Présence :
+> 
+> - **≤11 :** 2 dégâts
+> - **12-16 :** 5 dégâts ; poussée 1
+> - **17+ :** 7 dégâts ; poussée 2
 
 ##### Souffle de Dragon (2 Points)
-
 Vous possédez l'aptitude signature suivante.
 
-######## Souffle de Dragon
-
-*Une exhalation furieuse d'énergie submerge vos ennemis.*
-
-| **Zone, Magie**        |               **Action principale** |
-|------------------------|------------------------------------:|
-| **📏 3 cubes à portée 1** | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Force ou Présence :**
-
-- **≤11 :** 2 dégâts
-- **12-16 :** 4 dégâts
-- **17+ :** 6 dégâts
-
-**Effet :** Vous choisissez le type de dégâts de l'aptitude parmi acide, froid, corruption, feu, foudre ou poison.
+> [!spell] Souffle de Dragon
+> 🏷️ *Zone • Magie*
+> 
+> ***Une exhalation furieuse d'énergie submerge vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 3 cubes à portée 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Force ou Présence :
+> 
+> - **≤11 :** 2 dégâts
+> - **12-16 :** 4 dégâts
+> - **17+ :** 6 dégâts
+> 
+> Vous choisissez le type de dégâts de l'aptitude parmi acide, froid, corruption, feu, foudre ou poison.
 
 ##### Écailles Prismatiques (1 Point)
 
