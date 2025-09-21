@@ -92,9 +92,9 @@ Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépense
 > 
 > ***Vous prononcez une prière qui nimbe votre adversaire d'énergie sacrée.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** Distance 10
-> 🎯 **Cible:** Un ennemi
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Un ennemi</p>
 > 
 > ---
 > 
@@ -128,9 +128,9 @@ Vous pouvez utiliser et bénéficier des avantages d'une panoplie. Voir [Chapitr
 > 
 > ***Vous canalisez une partie de votre vitalité en résilience accrue pour vous ou un allié.***
 > 
-> ⚔️ **Action:** Déclenchée
-> 📍 **Portée:** À Distance 10
-> 🎯 **Cible:** Soi-même ou un allié
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Soi-même ou un allié</p>
 > 
 > ---
 > 
@@ -194,9 +194,9 @@ Vous possédez l'aptitude suivante.
 > 
 > ***Un esprit animal est attiré vers vous, partageant ses sens avec vous et vous servant fidèlement.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Soi
-> 🎯 **Cible:** Soi
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Soi</p>
 > 
 > ---
 > 
@@ -211,9 +211,9 @@ Vous possédez l'aptitude suivante.
 > 
 > ***Vous communiquez avec l'âme persistante d'un défunt récent.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature morte
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature morte</p>
 > 
 > ---
 > 
@@ -228,9 +228,9 @@ Vous possédez l'aptitude suivante.
 > 
 > ***Vous fabriquez des objets par la puissance de votre esprit.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** Soi
-> 🎯 **Cible:** Soi
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Soi</p>
 > 
 > ---
 > 
@@ -273,9 +273,9 @@ Choisissez une aptitude signature parmi les options suivantes. Les aptitudes sig
 > 
 > ***Vous canalisez le pouvoir à travers votre arme pour repousser vos ennemis.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Cube de 2 à portée 1
-> 🎯 **Cible:** Chaque ennemi dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Cube de 2 à portée 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Chaque ennemi dans la zone</p>
 > 
 > ---
 > 
@@ -289,9 +289,9 @@ Choisissez une aptitude signature parmi les options suivantes. Les aptitudes sig
 > 
 > ***Vous montrez à votre ennemi un aperçu de son destin après la mort.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Distance 10
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -307,9 +307,9 @@ Choisissez une aptitude signature parmi les options suivantes. Les aptitudes sig
 > 
 > ***Vous imprégnez votre arme de magie sacrée qui rend difficile la fuite de votre ennemi.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature ou un objet
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature ou un objet</p>
 > 
 > ---
 > 
@@ -323,9 +323,9 @@ Choisissez une aptitude signature parmi les options suivantes. Les aptitudes sig
 > 
 > ***Votre frappe magique transforme la culpabilité de votre ennemi en explosion de pouvoir sacré.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature ou un objet
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature ou un objet</p>
 > 
 > ---
 > 
@@ -349,9 +349,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Un coup puissant transforme la vitalité de votre ennemi en lumière sacrée qui vous enveloppe ainsi qu'un allié, décourageant les ennemis qui pourraient vous attaquer.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à Corps 1
-> 🎯 **Cible:** Une créature ou un objet
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature ou un objet</p>
 > 
 > ---
 > 
@@ -367,9 +367,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Alors que vous repoussez votre ennemi avec votre arme, vous utilisez votre foi pour rester proche.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à Corps 1
-> 🎯 **Cible:** Une créature ou un objet
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature ou un objet</p>
 > 
 > ---
 > 
@@ -385,9 +385,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous canalisez l'énergie sacrée pour châtier un ennemi et soigner un allié.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à Corps 1
-> 🎯 **Cible:** Une créature ou un objet
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature ou un objet</p>
 > 
 > ---
 > 
@@ -403,9 +403,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous invoquez les souvenirs de leurs péchés pour harceler vos ennemis.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Distance 10
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -414,7 +414,7 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > - **12-16 :** 8 + P dégâts sacrés ; I < MOYEN, étourdi (sauvegarde termine)
 > - **17+ :** 11 + P dégâts sacrés ; I < FORT, étourdi (sauvegarde termine)
 
-## Aptitude à 5-Courroux
+###### Aptitude à 5-Courroux
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 courroux à utiliser. (*Construction Rapide :* Feu Purificateur.)
 
@@ -423,9 +423,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***« Je te tiens, sale fils de pute. »***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -441,9 +441,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous attaquez un adversaire et vos ennemis contemplent une vision de la vraie nature de votre détermination.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1 ou distance 5
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -459,9 +459,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Jugé et condamné.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -477,9 +477,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Les dieux jugent, le feu purifie.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1 ou distance 5
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -547,9 +547,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Je ne suis qu'un réceptacle. Tes propres actes pèsent sur toi.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Distance 10
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -565,9 +565,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous canalisez l'énergie sacrée pour blesser les incroyants et révéler ceux qui se cachent de votre jugement.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** Explosion 3
-> 🎯 **Cible:** Chaque ennemi dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Chaque ennemi dans la zone</p>
 > 
 > ---
 > 
@@ -582,9 +582,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Béni par une vision presciente, vous avertissez un allié d'une attaque imminente.***
 > 
-> ⚔️ **Action:** Déclenchée
-> 📍 **Portée:** À distance 10
-> 🎯 **Cible:** Soi ou un allié
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Soi ou un allié</p>
 > 
 > ---
 > 
@@ -597,9 +597,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Un mot en prière, et les dieux montrent la voie.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** À distance 10
-> 🎯 **Cible:** Soi ou un allié
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Soi ou un allié</p>
 > 
 > ---
 > 
@@ -614,9 +614,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Les dieux récompensent votre foi.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** 3 aura
-> 🎯 **Cible:** Soi et chaque allié dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  3 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Soi et chaque allié dans la zone</p>
 > 
 > ---
 > 
@@ -627,9 +627,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Le choc de votre condamnation glace votre ennemi sur place.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -657,9 +657,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Le mal qui habite vos ennemis explose en un feu sacré qui ne brûle que les coupables.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** 2 aura
-> 🎯 **Cible:** Chaque ennemi dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  2 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Chaque ennemi dans la zone</p>
 > 
 > ---
 > 
@@ -670,9 +670,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Dans la zone de votre présence divine, vos ennemis regretteront d'utiliser leurs sinistres aptitudes.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** 2 aura
-> 🎯 **Cible:** Chaque ennemi dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  2 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Chaque ennemi dans la zone</p>
 > 
 > ---
 > 
@@ -683,9 +683,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous émettez une énergie vertueuse qui punit les ennemis qui voudraient vous blesser ou blesser vos alliés.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** 2 aura
-> 🎯 **Cible:** Chaque ennemi dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  2 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Chaque ennemi dans la zone</p>
 > 
 > ---
 > 
@@ -696,9 +696,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***L'aura sacrée que vous projetez rend douloureux pour les malfaiteurs de quitter votre portée.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** 2 aura
-> 🎯 **Cible:** Chaque ennemi dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  2 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Chaque ennemi dans la zone</p>
 > 
 > ---
 > 
@@ -758,9 +758,9 @@ Vous possédez l'aptitude suivante.
 > 
 > ***Vous projetez une aura illusoire qui rend plus difficile de vous remarquer, vous et vos alliés.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** 3 aura
-> 🎯 **Cible:** Soi-même et chaque allié dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  3 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Soi-même et chaque allié dans la zone</p>
 > 
 > ---
 > 
@@ -847,9 +847,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous canalisez une force divine pour un déplacement qui ne peut être arrêté.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** À distance 10
-> 🎯 **Cible:** Soi-même ou un allié
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Soi-même ou un allié</p>
 > 
 > ---
 > 
@@ -860,9 +860,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous canalisez la volonté de votre dieu pour surmonter les épreuves et infliger la douleur.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** Explosion 1
-> 🎯 **Cible:** Soi-même et chaque allié dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Explosion 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Soi-même et chaque allié dans la zone</p>
 > 
 > ---
 > 
@@ -878,9 +878,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous amplifiez le pouvoir de votre jugement.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -896,9 +896,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous frappez un ennemi et créez une flotte de boucliers divins qui protègent vos alliés.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -937,9 +937,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous terrorisez vos ennemis et les forcez à battre en retraite, semant le chaos dans leurs rangs.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Explosion 3
-> 🎯 **Cible:** Chaque ennemi dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Chaque ennemi dans la zone</p>
 > 
 > ---
 > 
@@ -953,9 +953,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous retournez les effets contre un malfaiteur.***
 > 
-> ⚔️ **Action:** Action déclenchée gratuite
-> 📍 **Portée:** À distance 10
-> 🎯 **Cible:** Vous-même ou un allié
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Vous-même ou un allié</p>
 > 
 > ---
 > 
@@ -972,9 +972,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous révélez une vision du destin de vos ennemis qui les fait paniquer en les ébranlant.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** Distance 10
-> 🎯 **Cible:** Trois ennemis
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Trois ennemis</p>
 > 
 > ---
 > 
@@ -988,9 +988,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous anticipez les mouvements de vos adversaires et les leur refusez.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** Aura 3
-> 🎯 **Cible:** Chaque ennemi dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Aura 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Chaque ennemi dans la zone</p>
 > 
 > ---
 > 
@@ -1005,9 +1005,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous concentrez le courroux de vos alliés sur un ennemi choisi.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -1023,9 +1023,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous prenez la place de votre allié.***
 > 
-> ⚔️ **Action:** Action déclenchée gratuite
-> 📍 **Portée:** À distance 10
-> 🎯 **Cible:** Un allié
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Un allié</p>
 > 
 > ---
 > 
@@ -1075,9 +1075,9 @@ Vous pouvez maintenir des liens avec jusqu'à trois créatures consentantes en u
 > 
 > ***Vous vous concentrez sur un ami et vous téléportez jusqu'à lui.***
 > 
-> ⚔️ **Action:** Action Principale
-> 📍 **Portée:** À distance 10
-> 🎯 **Cible:** Vous-même et chaque allié
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Vous-même et chaque allié</p>
 > 
 > ---
 > 
@@ -1124,9 +1124,9 @@ Vous disposez de l'aptitude suivante.
 > 
 > ***Hé ! Je suis par ici. Non, ici, crétin.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** Distance 10
-> 🎯 **Cible:** Soi ou un allié
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Soi ou un allié</p>
 > 
 > ---
 > 
@@ -1195,9 +1195,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous maudissez votre ennemi pour qu'il devienne un fléau pour ses alliés.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -1213,9 +1213,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous utilisez votre ennemi comme un outil contre vos ennemis.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** À distance 10
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -1231,9 +1231,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***La culpabilité de votre ennemi alimente une flamme sacrée qui brûle vos ennemis.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** Corps à corps 1
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -1249,9 +1249,9 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > ***Vous dirigez la colère de vos ennemis vers la cible.***
 > 
-> ⚔️ **Action:** Action principale
-> 📍 **Portée:** À distance 10
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -1287,9 +1287,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous rompez le lien ténu qui unit la cible au monde.***
 > 
-> ⚔️ **Action:** Action Principale
-> 📍 **Portée:** Corps à Corps 1
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -1305,9 +1305,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***« Je sais ce que vous craignez. »***
 > 
-> ⚔️ **Action:** Action Principale
-> 📍 **Portée:** Distance 10
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -1327,9 +1327,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Les dieux bénissent et maudissent en égale mesure.***
 > 
-> ⚔️ **Action:** Déclenchée
-> 📍 **Portée:** Distance 10
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -1342,9 +1342,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous avez examiné divers futurs, et seul celui-ci fonctionne.***
 > 
-> ⚔️ **Action:** Déclenchée
-> 📍 **Portée:** Distance 10
-> 🎯 **Cible:** Un allié
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Un allié</p>
 > 
 > ---
 > 
@@ -1361,9 +1361,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous canalisez l'énergie sacrée pour sceller le destin d'un ennemi.***
 > 
-> ⚔️ **Action:** Action Principale
-> 📍 **Portée:** Corps à Corps 1
-> 🎯 **Cible:** Une créature
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Une créature</p>
 > 
 > ---
 > 
@@ -1379,9 +1379,9 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > ***Vous et vos alliés êtes revêtus d'une armure chatoyante.***
 > 
-> ⚔️ **Action:** Manœuvre
-> 📍 **Portée:** Aura 2
-> 🎯 **Cible:** Vous-même et chaque allié dans la zone
+> <p class="no-margin">⚔️ <strong>Action:</strong>  Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong>  Aura 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong>  Vous-même et chaque allié dans la zone</p>
 > 
 > ---
 > 

@@ -128,14 +128,22 @@
     --bg: rgba(65, 105, 225, 0.1);
     --callout-icon: var(--callout-icon-spell); //SVG icon code
     /* Ou encore plus spécifique : réduire l'espace au début du contenu */
-    .callout-content > p:first-child {
+    .callout-content-inner > p:first-child {
       margin-top: 0;
       margin-bottom: 8px;
+    }
+    
+    // Cibler les lignes avec Action, Portée, Cible
+    .callout-content-inner {
+        p.no-margin {
+          margin: 0;
+      }
     }
 
     .callout-title {
         color: rgb(var(--callout-color));
         font-size: 110%;
+        padding-bottom: 0;
     }
   }
 
