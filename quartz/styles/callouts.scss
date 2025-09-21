@@ -122,6 +122,23 @@
     --callout-icon: var(--callout-icon-quote);
   }
 
+  &[data-callout="spell"] {
+    --color: rgb(65, 105, 225);
+    --border: 3px solid rgba(65, 105, 225, 0.8);
+    --bg: rgba(65, 105, 225, 0.1);
+    --callout-icon: var(--callout-icon-spell); //SVG icon code
+    /* Ou encore plus spécifique : réduire l'espace au début du contenu */
+    .callout-content > p:first-child {
+      margin-top: 0;
+      margin-bottom: 8px;
+    }
+
+    .callout-title {
+        color: rgb(var(--callout-color));
+        font-size: 110%;
+    }
+  }
+
   &.is-collapsed > .callout-title > .fold-callout-icon {
     transform: rotateZ(-90deg);
   }
