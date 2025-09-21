@@ -3,7 +3,6 @@
   --callout-color: 65, 105, 225; /* Royal Blue */
   border-left: 3px solid rgba(var(--callout-color), 0.8);
   background: rgba(var(--callout-color), 0.1);
-  --callout-icon: lucide-sparkles;
 }
 
 /* Ou encore plus spécifique : réduire l'espace au début du contenu */
