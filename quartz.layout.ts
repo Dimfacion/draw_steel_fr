@@ -38,7 +38,23 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+      useSavedState: true,
+      sortFn: (a, b) => {
+        if(!a.isFolder) {
+          return;
+        }
+        if(a.data != null && b.data != null) {
+          return a.data!.slug.localeCompare(b.data!.slug)
+        }
+      },
+      mapFn: (node) => {
+        node.displayName = node.displayName.substring(3).replaceAll("_", " ")
+        return node
+      },
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
