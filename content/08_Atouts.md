@@ -1,4 +1,4 @@
-# Avantages
+# Atouts
 
 Les héros ne se contentent pas de combattre des monstres. Ils s'engagent dans l'exploration, l'enquête, la négociation, et bien plus encore. Les avantages sont des caractéristiques que vous pouvez utiliser pour personnaliser votre héros et lui offrir des moments héroïques en dehors du combat. Avec les compétences et de nombreuses aptitudes de classe, les avantages font de votre personnage bien plus qu'un simple combattant de monstres. Mais bien que ces caractéristiques soient conçues pour être utilisées en dehors du combat, beaucoup sont suffisamment polyvalentes pour pouvoir également être employées au combat.
 

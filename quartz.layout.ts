@@ -43,11 +43,18 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
       useSavedState: true,
       sortFn: (a, b) => {
-        if(!a.isFolder) {
-          return;
-        }
-        if(a.data != null && b.data != null) {
-          return a.data!.slug.localeCompare(b.data!.slug)
+        if(a.data == null) {
+          if(b.data == null) {
+            return a.slug.localeCompare(b.slug);
+          } else {
+            return a.slug.localeCompare(b.data!.slug);
+          }
+        } else {
+          if(b.data == null) {
+            return a.data!.slug.localeCompare(b.slug);
+          } else {
+            return a.data!.slug.localeCompare(b.data!.slug);
+          }
         }
       },
       mapFn: (node) => {
