@@ -104,21 +104,24 @@ Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépense
 
 Vous avez l'aptitude suivante, qui peut être utilisée comme une frappe gratuite à distance.
 
-######## Lancer d'Élément
-
-*Vous lancez une boule d'énergie élémentaire sur un ennemi.*
-
-| **Magie, Distance, Frappe** |               **Action principale** |
-|------------------------------|------------------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 + R dégâts
-- **12-16 :** 4 + R dégâts
-- **17+ :** 6 + R dégâts
-
-**Effet :** Quand vous effectuez cette frappe, choisissez le type de dégâts parmi les options suivantes : acide, froid, corruption, feu, foudre, poison ou sonique.
+> [!spell] Lancer d'Élément
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Vous lancez une boule d'énergie élémentaire sur un ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 2 + Rai dégâts
+> - **12-16 :** 4 + Rai dégâts
+> - **17+ :** 6 + Rai dégâts
+> 
+> Quand vous effectuez cette frappe, choisissez le type de dégâts parmi les options suivantes : acide, froid, corruption, feu, foudre, poison ou sonique.
 
 #### Magie Persistante
 
@@ -134,19 +137,22 @@ Si vous subissez des dégâts égaux ou supérieurs à 5 fois votre score de Rai
 
 Vous disposez de l'aptitude suivante.
 
-######## Magie Pratique
-
-*Votre maîtrise du pouvoir élémentaire vous permet de personnaliser vos conjurations.*
-
-| **Magie**              | **Manœuvre** |
-|------------------------|-------------:|
-| **📏 Soi ; voir ci-dessous** |  **🎯 Soi** |
-
-**Effet :** Choisissez l'un des effets suivants :
-
-- Vous utilisez la Manœuvre - Repousser (voir Chapitre 10 : Combat), mais sa distance devient la portée de votre aptitude Lancer un Élément, et vous utilisez Raison au lieu de Force pour le jet de pouvoir.
-- Vous choisissez une créature dans la distance de votre aptitude Lancer un Élément et l'un des types de dégâts suivants : acide, froid, corruption, feu, foudre, poison ou sonique. Cette créature subit des dégâts du type choisi égaux à votre score de Raison.
-- Vous vous téléportez d'un nombre de cases égal à votre score de Raison. Si vous choisissez cette option, vous pouvez dépenser de l'essence pour vous téléporter d'1 case supplémentaire par essence dépensée.
+> [!spell] Magie Pratique
+> 🏷️ *Magie*
+> 
+> ***Votre maîtrise du pouvoir élémentaire vous permet de personnaliser vos conjurations.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi ; voir ci-dessous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Choisissez l'un des effets suivants :
+> 
+> - Vous utilisez la Manœuvre - Repousser (voir Chapitre 10 : Combat), mais sa distance devient la portée de votre aptitude Lancer un Élément, et vous utilisez Raison au lieu de Force pour le jet de pouvoir.
+> - Vous choisissez une créature dans la distance de votre aptitude Lancer un Élément et l'un des types de dégâts suivants : acide, froid, corruption, feu, foudre, poison ou sonique. Cette créature subit des dégâts du type choisi égaux à votre score de Raison.
+> - Vous vous téléportez d'un nombre de cases égal à votre score de Raison. Si vous choisissez cette option, vous pouvez dépenser de l'essence pour vous téléporter d'1 case supplémentaire par essence dépensée.
 
 #### Aptitude de Spécialisation de Niveau 1
 
@@ -167,15 +173,18 @@ Vous reconnaissez instantanément les illusions pour ce qu'elles sont, vous pouv
 
 Vous gagnez également l'aptitude suivante.
 
-######## Sens du Vide Partagé
-
-*Vous accordez aux alliés un aperçu de votre vision surnaturelle.*
-
-| **Magie, À Distance, Vide** |    **Manœuvre** |
-|-----------------------------|----------------:|
-| **📏 À Distance 10**        |  **🎯 Spécial** |
-
-**Effet :** Pour chaque Victoire que vous avez, vous pouvez cibler une créature. Chaque cible gagne le bénéfice de votre capacité Une Vision Au-Delà jusqu'à la fin de votre prochain tour, mais ne gagne pas l'usage de l'aptitude Sens du Vide Partagé.
+> [!spell] Sens du Vide Partagé
+> 🏷️ *Magie • À Distance • Vide*
+> 
+> ***Vous accordez aux alliés un aperçu de votre vision surnaturelle.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Pour chaque Victoire que vous avez, vous pouvez cibler une créature. Chaque cible gagne le bénéfice de votre capacité Une Vision Au-Delà jusqu'à la fin de votre prochain tour, mais ne gagne pas l'usage de l'aptitude Sens du Vide Partagé.
 
 ##### C'est l'Âme qui Entend
 
@@ -187,31 +196,39 @@ De plus, vous pouvez toucher une plante vivante qui n'est pas une créature vég
 
 Vous disposez de l'aptitude suivante.
 
-######## Motiver la Terre
+##### Motiver la Terre
+Vous disposez de l'aptitude suivante.
 
-*La terre s'élève, s'abaisse ou s'ouvre à votre commandement.*
-
-| **Terre, Magie, Corps à Corps** | **Action principale** |
-|----------------------------------|----------------------:|
-| **📏 Corps à Corps 1**           |    **🎯 Spécial** |
-
-**Effet :** Vous touchez une case contenant de la terre, de la pierre ou du métal classique et créez un mur de 5 cases du même matériau, qui s'élève du sol et doit inclure la case que vous avez touchée.
-
-Alternativement, vous touchez une structure faite de terre, de pierre ou de métal classique qui occupe 2 cases ou plus. Vous pouvez ouvrir une ouverture d'1 case dans la structure à l'endroit où vous l'avez touchée. Vous pouvez à la place toucher une porte existante ou toute autre ouverture d'1 case ou moins dans une surface de terre, de pierre ou de métal classique. L'ouverture est scellée par le même matériau qui compose la surface.
+> [!spell] Motiver la Terre
+> 🏷️ *Terre • Magie • Corps à Corps*
+> 
+> ***La terre s'élève, s'abaisse ou s'ouvre à votre commandement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous touchez une case contenant de la terre, de la pierre ou du métal classique et créez un mur de 5 cases du même matériau, qui s'élève du sol et doit inclure la case que vous avez touchée.
+> 
+> Alternativement, vous touchez une structure faite de terre, de pierre ou de métal classique qui occupe 2 cases ou plus. Vous pouvez ouvrir une ouverture d'1 case dans la structure à l'endroit où vous l'avez touchée. Vous pouvez à la place toucher une porte existante ou toute autre ouverture d'1 case ou moins dans une surface de terre, de pierre ou de métal classique. L'ouverture est scellée par le même matériau qui compose la surface.
 
 ##### Retour à l'Informe
-
 Vous possédez l'aptitude suivante.
 
-######## Retour à l'Informe
-
-*D'un simple contact, vous transformez un objet en scories ou en cendres.*
-
-| **Feu, Magie, Corps à corps** |           **Action Principale** |
-|--------------------------------|---------------------------------:|
-| **📏 Corps à corps 1**         | **🎯 Un objet classique** |
-
-**Effet :** Vous chauffez la cible et la faites fondre ou brûler, la détruisant. Si l'objet fait plus d'une case, alors seule la case de l'objet que vous touchez est détruite.
+> [!spell] Retour à l'Informe
+> 🏷️ *Feu • Magie • Corps à corps*
+> 
+> ***D'un simple contact, vous transformez un objet en scories ou en cendres.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un objet classique</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous chauffez la cible et la faites fondre ou brûler, la détruisant. Si l'objet fait plus d'une case, alors seule la case de l'objet que vous touchez est détruite.
 
 #### Action Déclenchée de Spécialisation
 
@@ -226,61 +243,73 @@ Votre spécialisation élémentaire vous accorde une action déclenchée, comme 
 | Verdure         | Souffle de l'Aube Retrouvé       |
 | Néant           | Relocalisation Subtile           |
 
-######## Souffle de l'Aube Retrouvé
+> [!spell] Souffle de l'Aube Retrouvé
+> 🏷️ *Verdure • Magie • À Distance*
+> 
+> ***Le pouvoir que vous canalisez accorde la capacité de reprendre le combat.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible commence son tour ou subit des dégâts.
+> 
+> **💫 Effet:** La cible peut dépenser une Récupération.
+> 
+> **🔥 Dépenser 1+ Essence :** La cible peut dépenser une Récupération supplémentaire pour chaque essence dépensée.
 
-*Le pouvoir que vous canalisez accorde la capacité de reprendre le combat.*
+> [!spell] Assistance Explosive
+> 🏷️ *Feu • Magie • À Distance*
+> 
+> ***Vous ajoutez un peu de magie à l'agressivité d'un allié au bon moment.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible effectue un déplacement forcé sur une créature ou un objet.
+> 
+> **💫 Effet:** La distance du déplacement forcé gagne un bonus égal à votre score de Raison.
+> 
+> **🔥 Dépenser 1 Essence :** La distance du déplacement forcé gagne un bonus égal au double de votre score de Raison à la place.
 
-| **Verdure, Magie, À Distance**   |           **Déclenchée** |
-|-----------------------------------|-------------------------:|
-| **📏 À Distance 10**              | **🎯 Soi ou un allié**  |
+> [!spell] Peau Comme les Murs du Château
+> 🏷️ *Terre • Magie • À Distance*
+> 
+> ***Vous recouvrez vous-même ou un allié de pierre protectrice.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible subit des dégâts.
+> 
+> **💫 Effet:** La cible subit la moitié des dégâts.
+> 
+> **🔥 Dépenser 1 Essence :** Si les dégâts ont des effets de seuil associés, le seuil est réduit de 1 pour la cible.
 
-**Déclencheur :** La cible commence son tour ou subit des dégâts.
-
-**Effet :** La cible peut dépenser une Récupération.
-
-**Dépenser 1+ Essence :** La cible peut dépenser une Récupération supplémentaire pour chaque essence dépensée.
-
-######## Assistance Explosive
-
-*Vous ajoutez un peu de magie à l'agressivité d'un allié au bon moment.*
-
-| **Feu, Magie, À Distance**  |           **Déclenchée** |
-|------------------------------|-------------------------:|
-| **📏 À Distance 10**         | **🎯 Soi ou un allié**  |
-
-**Déclencheur :** La cible effectue un déplacement forcé sur une créature ou un objet.
-
-**Effet :** La distance du déplacement forcé gagne un bonus égal à votre score de Raison.
-
-**Dépenser 1 Essence :** La distance du déplacement forcé gagne un bonus égal au double de votre score de Raison à la place.
-
-######## Peau Comme les Murs du Château
-
-*Vous recouvrez vous-même ou un allié de pierre protectrice.*
-
-| **Terre, Magie, À Distance**  |           **Déclenchée** |
-|--------------------------------|-------------------------:|
-| **📏 À Distance 10**           | **🎯 Soi ou un allié**  |
-
-**Déclencheur :** La cible subit des dégâts.
-
-**Effet :** La cible subit la moitié des dégâts.
-
-**Dépenser 1 Essence :** Si les dégâts ont des effets de seuil associés, le seuil est réduit de 1 pour la cible.
-
-######## Relocalisation Subtile
-
-*Vous invoquez le néant pour avaler et recracher un allié.*
-
-| **Magie, À Distance, Néant**  |           **Déclenchée** |
-|--------------------------------|-------------------------:|
-| **📏 À Distance 10**           | **🎯 Soi ou un allié**  |
-
-**Déclencheur :** La cible commence son tour, se déplace, ou subit un déplacement forcé.
-
-**Effet :** Vous téléportez la cible jusqu'à un nombre de cases égal à votre score de Raison. Si la cible se déplace pour déclencher cette aptitude, vous pouvez la téléporter à n'importe quel moment pendant le déplacement.
-
-**Dépenser 1 Essence :** Vous téléportez la cible jusqu'à un nombre de cases égal au double de votre score de Raison à la place.
+> [!spell] Relocalisation Subtile
+> 🏷️ *Magie • À Distance • Néant*
+> 
+> ***Vous invoquez le néant pour avaler et recracher un allié.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible commence son tour, se déplace, ou subit un déplacement forcé.
+> 
+> **💫 Effet:** Vous téléportez la cible jusqu'à un nombre de cases égal à votre score de Raison. Si la cible se déplace pour déclencher cette aptitude, vous pouvez la téléporter à n'importe quel moment pendant le déplacement.
+> 
+> **🔥 Dépenser 1 Essence :** Vous téléportez la cible jusqu'à un nombre de cases égal au double de votre score de Raison à la place.
 
 #### Enchantement
 
@@ -336,125 +365,149 @@ Votre compréhension de la magie élémentaire vous accorde des aptitudes unique
 
 Choisissez deux aptitudes signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Incinération Bifurquée, Feu Visqueux.)
 
-######## Infliger une Décomposition Généreuse
+> [!spell] Infliger une Décomposition Généreuse
+> 🏷️ *Vert • Magie • Distance • Pourriture • Frappe*
+> 
+> ***Votre malédiction fait pourrir la chair de votre ennemi en spores qui aident vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 2 + Rai dégâts de corruption
+> - **12-16 :** 4 + Rai dégâts de corruption
+> - **17+ :** 6 + Rai dégâts de corruption
+> 
+> Choisissez vous-même ou un allié à distance. Ce personnage peut mettre fin à un effet sur lui qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour.
 
-*Votre malédiction fait pourrir la chair de votre ennemi en spores qui aident vos alliés.*
+> [!spell] Incinération Bifurquée
+> 🏷️ *Feu • Magie • Distance • Frappe*
+> 
+> ***Deux jets de flammes jaillissent à votre commandement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux créatures ou objets</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 2 dégâts de feu
+> - **12-16 :** 4 dégâts de feu
+> - **17+ :** 6 dégâts de feu
 
-| **Vert, Magie, Distance, Pourriture, Frappe** |     **Action principale** |
-|------------------------------------------------|-------------------------:|
-| **📏 Distance 10**                             | **🎯 Une créature** |
+> [!spell] Emprise de l'Au-Delà
+> 🏷️ *Magie • Corps à Corps • Frappe • Néant*
+> 
+> ***Vous absorbez l'énergie vitale d'une autre créature et l'utilisez pour vous téléporter.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 3 + Rai dégâts de corruption
+> - **12-16 :** 6 + Rai dégâts de corruption
+> - **17+ :** 9 + Rai dégâts de corruption
+> 
+> Vous pouvez effectuer une téléportation jusqu'à un nombre de cases égal à votre score de Raison.
 
-**Jet de Pouvoir + Raison :**
+> [!spell] Le Vert Intérieur, le Vert Extérieur
+> 🏷️ *Vert • Magie • Distance • Frappe*
+> 
+> ***Des lianes fouettantes jaillissent du corps d'un ennemi pour saisir un autre proche.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 2 + Rai dégâts
+> - **12-16 :** 5 + Rai dégâts
+> - **17+ :** 7 + Rai dégâts
+> 
+> Vous effectuez un glissement d'une créature dans un rayon de 10 cases de la cible jusqu'à 2 cases.
 
-- **≤11 :** 2 + R dégâts de corruption
-- **12-16 :** 4 + R dégâts de corruption
-- **17+ :** 6 + R dégâts de corruption
+> [!spell] Introduction Météorique
+> 🏷️ *Terre • Magie • Corps à Corps • Frappe*
+> 
+> ***Vous donnez à votre ennemi une petite tape - comme un impact d'astéroïde.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 3 + Rai dégâts ; poussée 2
+> - **12-16 :** 5 + Rai dégâts ; poussée 3
+> - **17+ :** 8 + Rai dégâts ; poussée 4
 
-**Effet :** Choisissez vous-même ou un allié à distance. Ce personnage peut mettre fin à un effet sur lui qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour.
+> [!spell] Rayon d'Auto-Réflexion Agonisante
+> 🏷️ *Magie • Distance • Frappe • Néant*
+> 
+> ***Vous infligez douleur et doute à parts égales.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 2 + Rai dégâts de corruption ; R < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 4 + Rai dégâts de corruption ; R < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 6 + Rai dégâts de corruption ; R < FORT, ralenti (sauvegarde termine)
 
-######## Incinération Bifurquée
+> [!spell] Sol Agité
+> 🏷️ *Zone • Terre • Magie • Distance*
+> 
+> ***Une soudaine tempête de débris assaille vos ennemis et les laisse lutter pour se déplacer.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 2 dans un rayon de 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 2 dégâts
+> - **12-16 :** 5 dégâts
+> - **17+ :** 7 dégâts
+> 
+> Le sol sous la zone devient un terrain difficile pour les ennemis.
 
-*Deux jets de flammes jaillissent à votre commandement.*
-
-| **Feu, Magie, Distance, Frappe** |                 **Action principale** |
-|-----------------------------------|--------------------------------------:|
-| **📏 Distance 10**                | **🎯 Deux créatures ou objets** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 dégâts de feu
-- **12-16 :** 4 dégâts de feu
-- **17+ :** 6 dégâts de feu
-
-######## Emprise de l'Au-Delà
-
-*Vous absorbez l'énergie vitale d'une autre créature et l'utilisez pour vous téléporter.*
-
-| **Magie, Corps à Corps, Frappe, Néant** |     **Action principale** |
-|------------------------------------------|-------------------------:|
-| **📏 Corps à Corps 1**                  | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 3 + R dégâts de corruption
-- **12-16 :** 6 + R dégâts de corruption
-- **17+ :** 9 + R dégâts de corruption
-
-**Effet :** Vous pouvez effectuer une téléportation jusqu'à un nombre de cases égal à votre score de Raison.
-
-######## Le Vert Intérieur, le Vert Extérieur
-
-*Des lianes fouettantes jaillissent du corps d'un ennemi pour saisir un autre proche.*
-
-| **Vert, Magie, Distance, Frappe** |      **Action principale** |
-|------------------------------------|--------------------------:|
-| **📏 Distance 10**                 |  **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 + R dégâts
-- **12-16 :** 5 + R dégâts
-- **17+ :** 7 + R dégâts
-
-**Effet :** Vous effectuez un glissement d'une créature dans un rayon de 10 cases de la cible jusqu'à 2 cases.
-
-######## Introduction Météorique
-
-*Vous donnez à votre ennemi une petite tape - comme un impact d'astéroïde.*
-
-| **Terre, Magie, Corps à Corps, Frappe** |               **Action principale** |
-|------------------------------------------|-----------------------------------:|
-| **📏 Corps à Corps 1**                  | **🎯 Une créature ou objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 3 + R dégâts ; poussée 2
-- **12-16 :** 5 + R dégâts ; poussée 3
-- **17+ :** 8 + R dégâts ; poussée 4
-
-######## Rayon d'Auto-Réflexion Agonisante
-
-*Vous infligez douleur et doute à parts égales.*
-
-| **Magie, Distance, Frappe, Néant** |               **Action principale** | 
-|-------------------------------------|-----------------------------------:|
-| **📏 Distance 10**                  | **🎯 Une créature ou objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 + R dégâts de corruption ; R < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 4 + R dégâts de corruption ; R < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 6 + R dégâts de corruption ; R < FORT, ralenti (sauvegarde termine)
-
-######## Sol Agité
-
-*Une soudaine tempête de débris assaille vos ennemis et les laisse lutter pour se déplacer.*
-
-| **Zone, Terre, Magie, Distance** |               **Action principale** |
-|-----------------------------------|-----------------------------------:|
-| **📏 Cube de 2 dans un rayon de 10**        | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 dégâts
-- **12-16 :** 5 dégâts
-- **17+ :** 7 dégâts
-
-**Effet :** Le sol sous la zone devient un terrain difficile pour les ennemis.
-
-######## Feu Visqueux
-
-*Un jet de feu lourd jaillit là où vous frappez.*
-
-| **Feu, Magie, Distance, Frappe** |               **Action principale** | 
-|-----------------------------------|-----------------------------------:|
-| **📏 Distance 10**                | **🎯 Une créature ou objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 + R dégâts de feu ; poussée 2
-- **12-16 :** 5 + R dégâts de feu ; poussée 3
-- **17+ :** 7 + R dégâts de feu ; poussée 4
+> [!spell] Feu Visqueux
+> 🏷️ *Feu • Magie • Distance • Frappe*
+> 
+> ***Un jet de feu lourd jaillit là où vous frappez.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 2 + Rai dégâts de feu ; poussée 2
+> - **12-16 :** 5 + Rai dégâts de feu ; poussée 3
+> - **17+ :** 7 + Rai dégâts de feu ; poussée 4
 
 ##### Aptitudes Héroïques
 
@@ -464,135 +517,175 @@ Vous canalisez une variété d'aptitudes héroïques, toutes alimentées par vot
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 essence à utiliser. (*Construction Rapide :* La Chair, un Creuset.)
 
-######## Contemplez le Mystère (3 Essence)
+> [!spell] Contemplez le Mystère
+> 🏷️ *Zone • Magie • Distance • Néant*
+> 
+> ***Vous ouvrez une faille dans le néant pour harceler vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 3 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 2 dégâts psychiques
+> - **12-16 :** 4 dégâts psychiques
+> - **17+ :** 6 dégâts psychiques
+> 
+> **Persistant 1 :** Au début de votre tour, vous pouvez utiliser une manœuvre pour utiliser cette aptitude à nouveau sans dépenser d'essence.
+> 
+> **🔥 Coût :** 3 Essence
 
-*Vous ouvrez une faille dans le néant pour harceler vos ennemis.*
+> [!spell] La Chair, un Creuset
+> 🏷️ *Feu • Magie • Distance • Frappe*
+> 
+> ***Le feu engloutit votre cible et continue de tourbillonner.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 5 + Rai dégâts de feu
+> - **12-16 :** 8 + Rai dégâts de feu
+> - **17+ :** 11 + Rai dégâts de feu
+> 
+> **Persistant 1 :** Si la cible est à distance au début de votre tour, vous pouvez refaire le jet de pouvoir sans dépenser d'essence (aucune action requise).
+> 
+> **🔥 Coût :** 3 Essence
 
-| **Zone, Magie, Distance, Néant** |               **Action principale** |
-|-----------------------------------|------------------------------------:|
-| **📏 Cube de 3 à portée 10**     | **🎯 Chaque ennemi dans la zone** |
+> [!spell] Croissance Revigorante
+> 🏷️ *Vert • Magie • Distance • Frappe*
+> 
+> ***Des champignons jaillissent d'un ennemi, sapant sa vitalité pour répandre des spores fortifiantes.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 4 + Rai dégâts de poison
+> - **12-16 :** 7 + Rai dégâts de poison
+> - **17+ :** 11 + Rai dégâts de poison
+> 
+> Des champignons recouvrent le corps de la cible. Tant que les champignons sont sur la cible, vous et tout allié adjacent à la cible gagnez 1 impulsion chaque fois que la cible subit des dégâts. Les champignons peuvent être retirés par la cible ou une créature adjacente en tant qu'action principale.
+> 
+> **🔥 Coût :** 3 Essence
 
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 dégâts psychiques
-- **12-16 :** 4 dégâts psychiques
-- **17+ :** 6 dégâts psychiques
-
-**Persistant 1 :** Au début de votre tour, vous pouvez utiliser une manœuvre pour utiliser cette aptitude à nouveau sans dépenser d'essence.
-
-######## La Chair, un Creuset (3 Essence)
-
-*Le feu engloutit votre cible et continue de tourbillonner.*
-
-| **Feu, Magie, Distance, Frappe** |               **Action principale** |
-|-----------------------------------|------------------------------------:|
-| **📏 Distance 10**                | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 5 + R dégâts de feu
-- **12-16 :** 8 + R dégâts de feu
-- **17+ :** 11 + R dégâts de feu
-
-**Persistant 1 :** Si la cible est à distance au début de votre tour, vous pouvez refaire le jet de pouvoir sans dépenser d'essence (aucune action requise).
-
-######## Croissance Revigorante (3 Essence)
-
-*Des champignons jaillissent d'un ennemi, sapant sa vitalité pour répandre des spores fortifiantes.*
-
-| **Vert, Magie, Distance, Frappe** |      **Action principale** |
-|------------------------------------|----------------------------:|
-| **📏 Distance 10**                 |  **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 4 + R dégâts de poison
-- **12-16 :** 7 + R dégâts de poison
-- **17+ :** 11 + R dégâts de poison
-
-**Effet :** Des champignons recouvrent le corps de la cible. Tant que les champignons sont sur la cible, vous et tout allié adjacent à la cible gagnez 1 impulsion chaque fois que la cible subit des dégâts. Les champignons peuvent être retirés par la cible ou une créature adjacente en tant qu'action principale.
-
-######## Ondulations dans la Terre (3 Essence)
-
-*Comme si une pierre était tombée dans un étang, des vagues dans la terre irradient depuis vous.*
-
-| **Zone, Terre, Magie** |               **Action principale** |
-|-------------------------|------------------------------------:|
-| **📏 Explosion de 2**   | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 3 dégâts
-- **12-16 :** 5 dégâts
-- **17+ :** 8 dégâts ; M < FORT, à terre
-
-**Effet :** Vous devez toucher le sol pour utiliser cette aptitude. De plus, vous pouvez choisir une case de sol dans la zone qui est inoccupée ou occupée par vous ou un allié. Un pilier de terre s'élève du sol dans cette case, avec une hauteur en cases égale à votre score de Raison. Le pilier ne peut pas entrer en collision avec des créatures ou des objets, ni forcer les créatures soulevées par celui-ci à entrer en collision avec d'autres créatures ou objets.
+> [!spell] Ondulations dans la Terre
+> 🏷️ *Zone • Terre • Magie*
+> 
+> ***Comme si une pierre était tombée dans un étang, des vagues dans la terre irradient depuis vous.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion de 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 3 dégâts
+> - **12-16 :** 5 dégâts
+> - **17+ :** 8 dégâts ; M < FORT, à terre
+> 
+> Vous devez toucher le sol pour utiliser cette aptitude. De plus, vous pouvez choisir une case de sol dans la zone qui est inoccupée ou occupée par vous ou un allié. Un pilier de terre s'élève du sol dans cette case, avec une hauteur en cases égale à votre score de Raison. Le pilier ne peut pas entrer en collision avec des créatures ou des objets, ni forcer les créatures soulevées par celui-ci à entrer en collision avec d'autres créatures ou objets.
+> 
+> **🔥 Coût :** 3 Essence
 
 ###### Aptitude à 5 Essence
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 essence à utiliser. (*Construction Rapide :* Conflagration.)
 
-######## Conflagration (5 Essence)
+> [!spell] Conflagration
+> 🏷️ *Zone • Feu • Magie • Distance*
+> 
+> ***Une tempête de feu s'abat sur vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 3 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 4 dégâts de feu
+> - **12-16 :** 6 dégâts de feu
+> - **17+ :** 10 dégâts de feu
+> 
+> **Persistant 2 :** Au début de votre tour, vous pouvez utiliser une manœuvre pour utiliser cette aptitude à nouveau sans dépenser d'essence.
+> 
+> **🔥 Coût :** 5 Essence
 
-*Une tempête de feu s'abat sur vos ennemis.*
+> [!spell] Excavation Instantanée
+> 🏷️ *Terre • Magie • Distance*
+> 
+> ***La surface du monde autour de vous s'ouvre pour engloutir vos adversaires.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous ouvrez deux trous avec des ouvertures d'1 case qui font 4 cases de profondeur, qui peuvent être placés sur n'importe quelle surface classique à portée. Vous pouvez placer ces trous côte à côte pour créer moins de trous avec des ouvertures plus larges. Quand les trous s'ouvrent, effectuez un jet de pouvoir séparé pour chaque créature au sol au-dessus d'un trou et assez petite pour y tomber. (Vous ne pouvez pas obtenir un coup critique avec cette aptitude car elle utilise une manœuvre.)
+> 
+> Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** La cible peut glisser d'1 case depuis le bord du trou vers l'espace inoccupé le plus proche de son choix.
+> - **12-16 :** La cible tombe dans le trou.
+> - **17+ :** La cible tombe dans le trou et ne peut pas réduire la hauteur de la chute.
+> 
+> **Persistant 1 :** Au début de votre tour, vous ouvrez un autre trou, effectuant un jet de pouvoir contre chaque créature qui pourrait tomber dans le trou quand il s'ouvre sans dépenser d'essence.
+> 
+> **🔥 Coût :** 5 Essence
 
-| **Zone, Feu, Magie, Distance** |               **Action principale** |
-|---------------------------------|------------------------------------:|
-| **📏 Cube de 3 à portée 10**   | **🎯 Chaque ennemi dans la zone** |
+> [!spell] Pas Plus qu'une Brise
+> 🏷️ *Magie • Distance • Néant*
+> 
+> ***La substance matérielle d'une créature se désagrège à votre commandement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'au début de votre prochain tour, la cible peut se déplacer à travers la matière solide, elle ignore le terrain difficile, et son déplacement ne peut pas provoquer d'attaques d'opportunité. Si la cible termine son tour à l'intérieur de matière solide, elle est forcée de sortir dans l'espace où elle y est entrée et cet effet prend fin.
+> 
+> **Persistant 1 :** L'effet dure jusqu'au début de votre prochain tour.
+> 
+> **🔥 Coût :** 5 Essence
 
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 4 dégâts de feu
-- **12-16 :** 6 dégâts de feu
-- **17+ :** 10 dégâts de feu
-
-**Persistant 2 :** Au début de votre tour, vous pouvez utiliser une manœuvre pour utiliser cette aptitude à nouveau sans dépenser d'essence.
-
-######## Excavation Instantanée (5 Essence)
-
-*La surface du monde autour de vous s'ouvre pour engloutir vos adversaires.*
-
-| **Terre, Magie, Distance** |    **Manœuvre** |
-|-----------------------------|----------------:|
-| **📏 Distance 10**          |  **🎯 Spécial** |
-
-**Effet :** Vous ouvrez deux trous avec des ouvertures d'1 case qui font 4 cases de profondeur, qui peuvent être placés sur n'importe quelle surface classique à portée. Vous pouvez placer ces trous côte à côte pour créer moins de trous avec des ouvertures plus larges. Quand les trous s'ouvrent, effectuez un jet de pouvoir séparé pour chaque créature au sol au-dessus d'un trou et assez petite pour y tomber. (Vous ne pouvez pas obtenir un coup critique avec cette aptitude car elle utilise une manœuvre.)
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** La cible peut glisser d'1 case depuis le bord du trou vers l'espace inoccupé le plus proche de son choix.
-- **12-16 :** La cible tombe dans le trou.
-- **17+ :** La cible tombe dans le trou et ne peut pas réduire la hauteur de la chute.
-
-**Persistant 1 :** Au début de votre tour, vous ouvrez un autre trou, effectuant un jet de pouvoir contre chaque créature qui pourrait tomber dans le trou quand il s'ouvre sans dépenser d'essence.
-
-######## Pas Plus qu'une Brise (5 Essence)
-
-*La substance matérielle d'une créature se désagrège à votre commandement.*
-
-| **Magie, Distance, Néant** |            **Manœuvre** |
-|-----------------------------|------------------------:|
-| **📏 Distance 10**          | **🎯 Soi ou un allié** |
-
-**Effet :** Jusqu'au début de votre prochain tour, la cible peut se déplacer à travers la matière solide, elle ignore le terrain difficile, et son déplacement ne peut pas provoquer d'attaques d'opportunité. Si la cible termine son tour à l'intérieur de matière solide, elle est forcée de sortir dans l'espace où elle y est entrée et cet effet prend fin.
-
-**Persistant 1 :** L'effet dure jusqu'au début de votre prochain tour.
-
-######## Test de Pluie (5 Essence)
-
-*Vous invoquez une pluie qui brûle vos ennemis et restaure vos alliés.*
-
-| **Zone, Vert, Magie, Distance** |               **Action principale** |
-|----------------------------------|------------------------------------:|
-| **📏 Cube de 3 à portée 10**    | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 4 dégâts d'acide
-- **12-16 :** 6 dégâts d'acide
-- **17+ :** 10 dégâts d'acide
-
-**Effet :** Vous pouvez mettre fin à un effet sur vous-même qui se termine par un jet de sauvegarde ou qui se termine à la fin de votre tour. Chaque allié dans la zone gagne également ce bénéfice.
+> [!spell] Test de Pluie
+> 🏷️ *Zone • Vert • Magie • Distance*
+> 
+> ***Vous invoquez une pluie qui brûle vos ennemis et restaure vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 3 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 4 dégâts d'acide
+> - **12-16 :** 6 dégâts d'acide
+> - **17+ :** 10 dégâts d'acide
+> 
+> Vous pouvez mettre fin à un effet sur vous-même qui se termine par un jet de sauvegarde ou qui se termine à la fin de votre tour. Chaque allié dans la zone gagne également ce bénéfice.
+> 
+> **🔥 Coût :** 5 Essence
 
 ### Aptitudes de Niveau 2
 
@@ -637,110 +730,133 @@ Vous pouvez revenir à votre forme véritable par une manœuvre. Vous ne pouvez 
 
 ###### Tableau des Formes Animales Vertes
 
-| Type d'Animal         | Niveau | Vigueur Temporaire | Vitesse       | Taille | Bonus de Stabilité | Bonus de Dégâts au Corps à Corps | Spécial                                                                                                                                                                                                                                                                         |
-|----------------------|--------|-------------------|---------------|--------|--------------------|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Canin                | 2e     | 5                 | 7             | 1M     | +0                 | +1/+1/+1                          | Vous obtenez un avantage sur les tests impliquant l'odorat.                                                                                                                                                                                                                     |
-| Poisson              | 2e     | 0                 | 5 (nager seulement) | 1T     | +0                 | +0/+0/+0                          | Vous pouvez respirer dans l'eau mais ne pouvez pas respirer en dehors.                                                                                                                                                                                                          |
-| Rongeur              | 2e     | 0                 | 5 (escalader) | 1T     | +0                 | +0/+0/+0                          | Vous obtenez un avantage sur les tests impliquant l'odorat.                                                                                                                                                                                                                     |
-| Oiseau               | 3e     | 0                 | 5 (voler)     | 1T     | +0                 | +0/+0/+0                          | -                                                                                                                                                                                                                                                                               |
-| Grand félin          | 3e     | 5                 | 6 (escalader) | 2      | +0                 | +1/+1/+1                          | En tant que manœuvre, vous pouvez sauter jusqu'à 3 cases dans n'importe quelle direction. Si vous atterrissez sur<br>un ennemi de votre taille ou plus petit, cet ennemi est renversé à terre, et vous pouvez<br>effectuer une frappe gratuite au corps à corps contre lui (aucune action requise). |
-| Grenouille géante    | 4e     | 5                 | 5 (nager)     | 2      | +0                 | +0/+0/+0                          | Votre frappe gratuite au corps à corps a une distance de corps à corps 3. Quand vous prenez l'action de déplacement - mouvement,<br>vous pouvez effectuer un saut en hauteur ou en longueur jusqu'à la moitié de votre vitesse. Ce<br>saut peut vous permettre de vous déplacer de plus de cases que votre vitesse. |
-| Cheval               | 4e     | 5                 | 8             | 2      | +1                 | +0/+0/+0                          | Vous pouvez utiliser l'action principale - charge comme une manœuvre. Vous ne pouvez pas utiliser deux actions principales - charge<br>au même tour.                                                                                                                            |
-| Mohler               | 4e     | 0                 | 7 (creuser)   | 1S     | +1                 | +0/+0/+0                          | Votre distance de corps à corps gagne un bonus de +1.                                                                                                                                                                                                                           |
-| Ours                 | 5e     | 10                | 5 (escalader) | 2      | +1                 | +2/+2/+2                          | Votre distance de corps à corps gagne un bonus de +1.                                                                                                                                                                                                                           |
-| Oiseau géant         | 5e     | 0                 | 7 (voler)     | 2      | +0                 | +1/+1/+1                          | Après avoir effectué une frappe gratuite au corps à corps, vous pouvez glisser jusqu'à 3 cases comme une<br>action déclenchée gratuite.                                                                                                                                        |
-| Salamandre<br>géante | 6e     | 5                 | 5             | 1L     | +3                 | +2/+2/+2                          | Votre frappe gratuite au corps à corps inflige des dégâts de feu. De plus, vous avez une immunité aux dégâts<br>de feu 3.                                                                                                                                                      |
-| Araignée géante      | 6e     | 0                 | 5 (escalader) | 2      | +0                 | +0/+1/+2                          | Vous avez un double avantage sur les frappes gratuites au corps à corps contre les créatures dont vous êtes caché.                                                                                                                                                              |
-| Serpent géant        | 7e     | 5                 | 5             | 3      | +0                 | +0/+1/+2                          | Chaque fois que vous obtenez un résultat de tiers 2 ou tiers 3 sur une frappe gratuite au corps à corps, vous<br>pouvez automatiquement agripper la cible. Tant qu'elle est agrippée de cette façon, la cible subit 2<br>dégâts au début de chacun de ses tours.           |
-| Kangourou            | 7e     | 0                 | 7             | 1L     | +1                 | +0/+0/+4                          | Quand vous obtenez un coup critique avec une frappe gratuite au corps à corps, la cible est étourdie (sauvegarde<br>termine). Quand vous prenez l'action de déplacement - mouvement, vous pouvez effectuer un saut en hauteur ou en longueur<br>jusqu'à la moitié de votre vitesse. Ce saut peut vous permettre de vous déplacer de plus de cases<br>que votre vitesse. |
-| Tatou épineux        | 7e     | 10                | 5             | 1M     | +2                 | +0/+0/+0                          | Chaque fois que vous subissez des dégâts de l'aptitude de corps à corps d'une créature adjacente, cette<br>créature subit 3 dégâts.                                                                                                                                            |
-| Autruche             | 8e     | 0                 | 10            | 2      | +0                 | +1/+1/+1                          | Votre déplacement ne provoque pas d'attaques d'opportunité.                                                                                                                                                                                                                     |
-| Requin               | 8e     | 0                 | 8 (nager seulement) | 2      | +0                 | +2/+2/+2                          | Vous pouvez respirer dans l'eau mais ne pouvez pas respirer en dehors. De plus, vous obtenez<br>un avantage sur les frappes contre les cibles qui saignent ou sont essoufflées.                                                                                              |
-| Pieuvre géante       | 9e     | 5                 | 5 (nager)     | 3      | +2                 | +0/+0/+0                          | Vous pouvez respirer dans l'eau. De plus, vous pouvez cibler deux créatures ou objets<br>avec votre frappe gratuite au corps à corps. Chaque fois que vous obtenez un résultat de tiers 2 ou tiers 3 sur<br>une frappe gratuite au corps à corps, vous pouvez automatiquement agripper la cible. Vous pouvez avoir jusqu'à<br>huit créatures agrippées. |
-| Rhinocéros           | 9e     | 10                | 8             | 2      | +5                 | +2/+2/+2                          | Chaque fois que vous effectuez une frappe gratuite au corps à corps dans le cadre de l'action charge, cette<br>frappe gagne un avantage.                                                                                                                                       |
-| Lézard terreur royal | 10e    | 20                | 5             | 4      | +3                 | +2/+2/+2                          | Votre frappe gratuite au corps à corps est une explosion 1 avec les mots-clés Zone et Frappe.                                                                                                                                                                                   |
+| Type d'Animal        | Niveau | Vigueur Temporaire | Vitesse             | Taille | Bonus de Stabilité | Bonus de Dégâts au Corps à Corps | Spécial                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------------- | ------ | ------------------ | ------------------- | ------ | ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Canin                | 2e     | 5                  | 7                   | 1M     | +0                 | +1/+1/+1                         | Vous obtenez un avantage sur les tests impliquant l'odorat.                                                                                                                                                                                                                                                                                                             |
+| Poisson              | 2e     | 0                  | 5 (nager seulement) | 1T     | +0                 | +0/+0/+0                         | Vous pouvez respirer dans l'eau mais ne pouvez pas respirer en dehors.                                                                                                                                                                                                                                                                                                  |
+| Rongeur              | 2e     | 0                  | 5 (escalader)       | 1T     | +0                 | +0/+0/+0                         | Vous obtenez un avantage sur les tests impliquant l'odorat.                                                                                                                                                                                                                                                                                                             |
+| Oiseau               | 3e     | 0                  | 5 (voler)           | 1T     | +0                 | +0/+0/+0                         | -                                                                                                                                                                                                                                                                                                                                                                       |
+| Grand félin          | 3e     | 5                  | 6 (escalader)       | 2      | +0                 | +1/+1/+1                         | En tant que manœuvre, vous pouvez sauter jusqu'à 3 cases dans n'importe quelle direction. Si vous atterrissez sur<br>un ennemi de votre taille ou plus petit, cet ennemi est renversé à terre, et vous pouvez<br>effectuer une frappe gratuite au corps à corps contre lui (aucune action requise).                                                                     |
+| Grenouille géante    | 4e     | 5                  | 5 (nager)           | 2      | +0                 | +0/+0/+0                         | Votre frappe gratuite au corps à corps a une distance de corps à corps 3. Quand vous prenez l'action de déplacement - mouvement,<br>vous pouvez effectuer un saut en hauteur ou en longueur jusqu'à la moitié de votre vitesse. Ce<br>saut peut vous permettre de vous déplacer de plus de cases que votre vitesse.                                                     |
+| Cheval               | 4e     | 5                  | 8                   | 2      | +1                 | +0/+0/+0                         | Vous pouvez utiliser l'action principale - charge comme une manœuvre. Vous ne pouvez pas utiliser deux actions principales - charge<br>au même tour.                                                                                                                                                                                                                    |
+| Mohler               | 4e     | 0                  | 7 (creuser)         | 1S     | +1                 | +0/+0/+0                         | Votre distance de corps à corps gagne un bonus de +1.                                                                                                                                                                                                                                                                                                                   |
+| Ours                 | 5e     | 10                 | 5 (escalader)       | 2      | +1                 | +2/+2/+2                         | Votre distance de corps à corps gagne un bonus de +1.                                                                                                                                                                                                                                                                                                                   |
+| Oiseau géant         | 5e     | 0                  | 7 (voler)           | 2      | +0                 | +1/+1/+1                         | Après avoir effectué une frappe gratuite au corps à corps, vous pouvez glisser jusqu'à 3 cases comme une<br>action déclenchée gratuite.                                                                                                                                                                                                                                 |
+| Salamandre<br>géante | 6e     | 5                  | 5                   | 1L     | +3                 | +2/+2/+2                         | Votre frappe gratuite au corps à corps inflige des dégâts de feu. De plus, vous avez une immunité aux dégâts<br>de feu 3.                                                                                                                                                                                                                                               |
+| Araignée géante      | 6e     | 0                  | 5 (escalader)       | 2      | +0                 | +0/+1/+2                         | Vous avez un double avantage sur les frappes gratuites au corps à corps contre les créatures dont vous êtes caché.                                                                                                                                                                                                                                                      |
+| Serpent géant        | 7e     | 5                  | 5                   | 3      | +0                 | +0/+1/+2                         | Chaque fois que vous obtenez un résultat de tiers 2 ou tiers 3 sur une frappe gratuite au corps à corps, vous<br>pouvez automatiquement agripper la cible. Tant qu'elle est agrippée de cette façon, la cible subit 2<br>dégâts au début de chacun de ses tours.                                                                                                        |
+| Kangourou            | 7e     | 0                  | 7                   | 1L     | +1                 | +0/+0/+4                         | Quand vous obtenez un coup critique avec une frappe gratuite au corps à corps, la cible est étourdie (sauvegarde<br>termine). Quand vous prenez l'action de déplacement - mouvement, vous pouvez effectuer un saut en hauteur ou en longueur<br>jusqu'à la moitié de votre vitesse. Ce saut peut vous permettre de vous déplacer de plus de cases<br>que votre vitesse. |
+| Tatou épineux        | 7e     | 10                 | 5                   | 1M     | +2                 | +0/+0/+0                         | Chaque fois que vous subissez des dégâts de l'aptitude de corps à corps d'une créature adjacente, cette<br>créature subit 3 dégâts.                                                                                                                                                                                                                                     |
+| Autruche             | 8e     | 0                  | 10                  | 2      | +0                 | +1/+1/+1                         | Votre déplacement ne provoque pas d'attaques d'opportunité.                                                                                                                                                                                                                                                                                                             |
+| Requin               | 8e     | 0                  | 8 (nager seulement) | 2      | +0                 | +2/+2/+2                         | Vous pouvez respirer dans l'eau mais ne pouvez pas respirer en dehors. De plus, vous obtenez<br>un avantage sur les frappes contre les cibles qui saignent ou sont essoufflées.                                                                                                                                                                                         |
+| Pieuvre géante       | 9e     | 5                  | 5 (nager)           | 3      | +2                 | +0/+0/+0                         | Vous pouvez respirer dans l'eau. De plus, vous pouvez cibler deux créatures ou objets<br>avec votre frappe gratuite au corps à corps. Chaque fois que vous obtenez un résultat de tiers 2 ou tiers 3 sur<br>une frappe gratuite au corps à corps, vous pouvez automatiquement agripper la cible. Vous pouvez avoir jusqu'à<br>huit créatures agrippées.                 |
+| Rhinocéros           | 9e     | 10                 | 8                   | 2      | +5                 | +2/+2/+2                         | Chaque fois que vous effectuez une frappe gratuite au corps à corps dans le cadre de l'action charge, cette<br>frappe gagne un avantage.                                                                                                                                                                                                                                |
+| Lézard terreur royal | 10e    | 20                 | 5                   | 4      | +3                 | +2/+2/+2                         | Votre frappe gratuite au corps à corps est une explosion 1 avec les mots-clés Zone et Frappe.                                                                                                                                                                                                                                                                           |
 
 ##### Il N'Y a Pas d'Espace Entre
 
 Vous disposez de l'aptitude suivante.
 
-######## Il N'Y a Pas d'Espace Entre
-
-*La connaissance du mystère révèle que deux espaces sont le même espace.*
-
-| **Magie, Distance, Néant** |   **Manœuvre** |
-|-----------------------------|---------------:|
-| **📏 Distance 10**          | **🎯 Spécial** |
-
-**Effet :** Vous ouvrez deux portails de taille 1 dans des espaces inoccupés à portée, qui durent jusqu'à ce que vous vous déplaciez au-delà de la distance de n'importe quel portail, mettiez fin à l'effet par une manœuvre, ou soyez mourant. Chaque portail doit être placé à une hauteur d'au maximum 1 case au-dessus du sol. Quand vous ou n'importe quel allié touchez un portail, cette créature peut choisir d'être instantanément téléportée vers un espace inoccupé de son choix adjacent à l'autre portail. Si un ennemi subit un déplacement forcé dans un portail, son déplacement forcé se termine et il émerge de l'autre portail dans un espace inoccupé choisi par la créature qui l'a déplacé de force.
-
-Au début de chacun de vos tours tant que les portails sont actifs, vous pouvez ouvrir un nouveau portail connecté aux autres. Si trois portails ou plus sont présents, vous et vos alliés choisissez de quel portail émerger en entrant dans un portail, et une créature qui déplace de force un ennemi dans un portail choisit le portail de destination de cet ennemi.
+> [!spell] Il N'Y a Pas d'Espace Entre
+> 🏷️ *Magie • Distance • Néant*
+> 
+> ***La connaissance du mystère révèle que deux espaces sont le même espace.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous ouvrez deux portails de taille 1 dans des espaces inoccupés à portée, qui durent jusqu'à ce que vous vous déplaciez au-delà de la distance de n'importe quel portail, mettiez fin à l'effet par une manœuvre, ou soyez mourant. Chaque portail doit être placé à une hauteur d'au maximum 1 case au-dessus du sol. Quand vous ou n'importe quel allié touchez un portail, cette créature peut choisir d'être instantanément téléportée vers un espace inoccupé de son choix adjacent à l'autre portail. Si un ennemi subit un déplacement forcé dans un portail, son déplacement forcé se termine et il émerge de l'autre portail dans un espace inoccupé choisi par la créature qui l'a déplacé de force.
+> 
+> Au début de chacun de vos tours tant que les portails sont actifs, vous pouvez ouvrir un nouveau portail connecté aux autres. Si trois portails ou plus sont présents, vous et vos alliés choisissez de quel portail émerger en entrant dans un portail, et une créature qui déplace de force un ennemi dans un portail choisit le portail de destination de cet ennemi.
 
 #### Nouvelle Aptitude à 5 Essence
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 essence à utiliser. Alternativement, vous pouvez choisir l'une des aptitudes à 5 essence que vous n'avez pas sélectionnée au niveau 1 (voir Capacités de Niveau 1).
 
-######## Ô Fleur Secours, Ô Terre Défense (5 Essence)
+> [!spell] Ô Fleur Secours, Ô Terre Défense
+> 🏷️ *Zone • Terre • Vert • Magie • Distance*
+> 
+> ***Des plantes revitalisantes et des pierres dentelées poussent, aidant les alliés et gênant les ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 3 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'au début de votre prochain tour, la zone gagne les effets suivants :
+> 
+> - Une fois par manœuvre gratuite au début de votre tour, vous permettez à vous-même et à chaque allié dans la zone de dépenser autant de Récupérations que souhaité.
+> - La zone est un terrain difficile pour les ennemis.
+> - Chaque ennemi qui entre dans la zone pour la première fois dans un tour de combat ou y commence son tour subit des dégâts égaux à votre score de Raison.
+> 
+> **Persistant 1 :** La zone demeure jusqu'au début de votre prochain tour. Par une manœuvre, vous pouvez déplacer la zone jusqu'à 5 cases. Cette aptitude se termine si la zone n'est jamais dans votre ligne d'effet.
+> 
+> **🔥 Coût :** 5 Essence
 
-*Des plantes revitalisantes et des pierres dentelées poussent, aidant les alliés et gênant les ennemis.*
+> [!spell] Subvertir le Vert Intérieur
+> 🏷️ *Vert • Magie • Distance • Frappe • Néant*
+> 
+> ***Des spores fongiques germent à l'intérieur du cerveau de votre ennemi, vous permettant de contrôler ses actions.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** La cible utilise son aptitude signature contre une créature de votre choix. Cette aptitude signature peut cibler la créature même si elle ne le ferait pas habituellement. Vous effectuez ensuite un jet de pouvoir contre la cible de cette aptitude.
+> 
+> Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 5 + Rai dégâts de poison
+> - **12-16 :** 9 + Rai dégâts de poison
+> - **17+ :** 12 + Rai dégâts de poison
+> 
+> **🔥 Coût :** 5 Essence
 
-| **Zone, Terre, Vert, Magie, Distance** |   **Manœuvre** |
-|----------------------------------------|---------------:|
-| **📏 Cube de 3 à portée 10**          | **🎯 Spécial** |
+> [!spell] Transporté par les Flammes
+> 🏷️ *Feu • Magie • Distance • Néant*
+> 
+> ***Votre allié disparaît, puis réapparaît dans une explosion de feu.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** La cible est téléportée vers un autre espace à portée. Effectuez un jet de pouvoir qui affecte chaque ennemi adjacent au nouvel espace de la cible.
+> 
+> Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 3 dégâts de feu
+> - **12-16 :** 5 dégâts de feu
+> - **17+ :** 8 dégâts de feu
+> 
+> **🔥 Coût :** 5 Essence
 
-**Effet :** Jusqu'au début de votre prochain tour, la zone gagne les effets suivants :
-
-- Une fois par manœuvre gratuite au début de votre tour, vous permettez à vous-même et à chaque allié dans la zone de dépenser autant de Récupérations que souhaité.
-- La zone est un terrain difficile pour les ennemis.
-- Chaque ennemi qui entre dans la zone pour la première fois dans un tour de combat ou y commence son tour subit des dégâts égaux à votre score de Raison.
-
-**Persistant 1 :** La zone demeure jusqu'au début de votre prochain tour. Par une manœuvre, vous pouvez déplacer la zone jusqu'à 5 cases. Cette aptitude se termine si la zone n'est jamais dans votre ligne d'effet.
-
-######## Subvertir le Vert Intérieur (5 Essence)
-
-*Des spores fongiques germent à l'intérieur du cerveau de votre ennemi, vous permettant de contrôler ses actions.*
-
-| **Vert, Magie, Distance, Frappe, Néant** |     **Action principale** |
-|------------------------------------------|---------------------------:|
-| **📏 Distance 10**                       | **🎯 Une créature** |
-
-**Effet :** La cible utilise son aptitude signature contre une créature de votre choix. Cette aptitude signature peut cibler la créature même si elle ne le ferait pas habituellement. Vous effectuez ensuite un jet de pouvoir contre la cible de cette aptitude.
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 5 + R dégâts de poison
-- **12-16 :** 9 + R dégâts de poison
-- **17+ :** 12 + R dégâts de poison
-
-######## Transporté par les Flammes (5 Essence)
-
-*Votre allié disparaît, puis réapparaît dans une explosion de feu.*
-
-| **Feu, Magie, Distance, Néant** |         **Action principale** |
-|---------------------------------|------------------------------:|
-| **📏 Distance 10**              | **🎯 Soi-même ou un allié** |
-
-**Effet :** La cible est téléportée vers un autre espace à portée. Effectuez un jet de pouvoir qui affecte chaque ennemi adjacent au nouvel espace de la cible.
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 3 dégâts de feu
-- **12-16 :** 5 dégâts de feu
-- **17+ :** 8 dégâts de feu
-
-######## Étreinte du Volcan (5 Essence)
-
-*Enveloppez-les de feu et de pierre en fusion.*
-
-| **Terre, Feu, Magie, Distance, Frappe** |     **Action principale** |
-|-----------------------------------------|---------------------------:|
-| **📏 Distance 10**                      | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 5 + R dégâts de feu ; A < FAIBLE, entravé (sauvegarde termine)
-- **12-16 :** 9 + R dégâts de feu ; A < MOYEN, entravé (sauvegarde termine)
-- **17+ :** 12 + R dégâts de feu ; A < FORT, entravé (sauvegarde termine)
+> [!spell] Étreinte du Volcan
+> 🏷️ *Terre • Feu • Magie • Distance • Frappe*
+> 
+> ***Enveloppez-les de feu et de pierre en fusion.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 5 + Rai dégâts de feu ; A < FAIBLE, entravé (sauvegarde termine)
+> - **12-16 :** 9 + Rai dégâts de feu ; A < MOYEN, entravé (sauvegarde termine)
+> - **17+ :** 12 + Rai dégâts de feu ; A < FORT, entravé (sauvegarde termine)
+> 
+> **🔥 Coût :** 5 Essence
 
 ### Aptitudes de Niveau 3
 
@@ -771,97 +887,121 @@ Chaque fois que vous terminez un répit, vous pouvez ouvrir un portail bidirecti
 
 Vous possédez l'aptitude suivante.
 
-######## La Terre m'Accueille
-
-*Vous pouvez vous glisser dans la pierre.*
-
-| **Terre, Magie** | **Action principale** |
-|------------------|----------------------:|
-| **📏 Soi**       |            **🎯 Soi** |
-
-**Effet :** Vous pénétrez dans un objet classique de terre, de métal ou de pierre (y compris un mur) qui est aussi grand que vous ou plus grand. Vous pouvez rester à l'intérieur de l'objet aussi longtemps que vous le souhaitez. Tant que vous êtes à l'intérieur de l'objet, vous pouvez observer les événements et parler aux créatures à l'extérieur, mais vous n'avez pas de ligne d'effet vers quoi que ce soit à l'extérieur de l'objet et vice versa. Vous pouvez voyager librement à travers l'objet jusqu'à ce que vous en sortiez. Si l'objet avec lequel vous fusionnez est détruit, vous subissez 10 dégâts et sortez de l'objet.
+> [!spell] La Terre m'Accueille
+> 🏷️ *Terre • Magie*
+> 
+> ***Vous pouvez vous glisser dans la pierre.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous pénétrez dans un objet classique de terre, de métal ou de pierre (y compris un mur) qui est aussi grand que vous ou plus grand. Vous pouvez rester à l'intérieur de l'objet aussi longtemps que vous le souhaitez. Tant que vous êtes à l'intérieur de l'objet, vous pouvez observer les événements et parler aux créatures à l'extérieur, mais vous n'avez pas de ligne d'effet vers quoi que ce soit à l'extérieur de l'objet et vice versa. Vous pouvez voyager librement à travers l'objet jusqu'à ce que vous en sortiez. Si l'objet avec lequel vous fusionnez est détruit, vous subissez 10 dégâts et sortez de l'objet.
 
 ##### Se Souvenir de la Croissance et du Soleil et de la Pluie
-
 Vous possédez l'aptitude suivante.
 
-######## Se Souvenir de la Croissance et du Soleil et de la Pluie
-
-*Vous réveillez la mémoire de n'importe quel bois et apprenez ce qu'il a vu.*
-
-| **Vert, Magie, Corps à Corps** |                  **Action principale** |
-|---------------------------------|----------------------------------------:|
-| **📏 Corps à Corps 1**          | **🎯 Un objet en bois classique** |
-
-**Effet :** Vous voyez et entendez tous les événements qui se sont produits dans un rayon de 10 cases autour de l'objet au cours des 12 dernières heures, percevant ces événements depuis l'emplacement de l'objet comme si vous y étiez.
+> [!spell] Se Souvenir de la Croissance et du Soleil et de la Pluie
+> 🏷️ *Vert • Magie • Corps à Corps*
+> 
+> ***Vous réveillez la mémoire de n'importe quel bois et apprenez ce qu'il a vu.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un objet en bois classique</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous voyez et entendez tous les événements qui se sont produits dans un rayon de 10 cases autour de l'objet au cours des 12 dernières heures, percevant ces événements depuis l'emplacement de l'objet comme si vous y étiez.
 
 #### Aptitude à 7-Essence
-
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 essence à utiliser.
 
-######## Effacement (7 Essence)
+> [!spell] Effacement
+> 🏷️ *Magie • À Distance • Frappe • Néant*
+> 
+> ***D'un mouvement du poignet, vous déphasez les créatures de l'existence.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **Spécial :** Le nombre de créatures que vous ciblez avec cette aptitude est déterminé par votre jet de pouvoir.
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** Une créature
+> - **12-16 :** Deux créatures
+> - **17+ :** Trois créatures
+> 
+> Chaque cible commence à s'estomper de l'existence (sauvegarde termine). Lors de leur premier tour en s'estompant de l'existence, une cible subit un fléau sur les jets de pouvoir. À la fin de leur premier tour, elle a un double fléau sur les jets de pouvoir. À la fin de leur deuxième tour, elle s'estompe de l'existence pendant 1 heure, après quoi elle réapparaît dans son espace d'origine ou l'espace libre le plus proche.
+> 
+> **🔥 Coût :** 7 Essence
 
-*D'un mouvement du poignet, vous déphasez les créatures de l'existence.*
+> [!spell] Gueule de Terre
+> 🏷️ *Zone • Terre • Magie • À Distance*
+> 
+> ***Vous ouvrez le sol, projetant des éclats de pierre et de débris.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 3 dans un rayon de 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 5 dégâts
+> - **12-16 :** 9 dégâts
+> - **17+ :** 12 dégâts
+> 
+> Le sol dans ou directement sous la zone s'affaisse de 3 cases.
+> 
+> **🔥 Coût :** 7 Essence
 
-| **Magie, À Distance, Frappe, Néant** | **Action principale** |
-|---------------------------------------|----------------------:|
-| **📏 À Distance 10**                  |     **🎯 Spécial** |
+> [!spell] Nuée d'Esprits
+> 🏷️ *Zone • Vert • Magie*
+> 
+> ***Des esprits animaux gardiens vous entourent pour harceler vos ennemis et soutenir vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Aura de 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 3 dégâts
+> - **12-16 :** 6 dégâts
+> - **17+ :** 9 dégâts
+> 
+> Jusqu'à la fin de votre prochain tour, chaque allié dans la zone voit chacun de ses scores de caractéristique traité comme étant supérieur de 1 dans le but de résister aux seuils, et a un bonus de +1 aux jets de sauvegarde.
+> 
+> **Persistant 1 :** Vous refaites le jet de pouvoir pour cibler chaque ennemi dans la zone sans dépenser d'essence, et l'effet dure jusqu'au début de votre prochain tour.
+> 
+> **🔥 Coût :** 7 Essence
 
-**Spécial :** Le nombre de créatures que vous ciblez avec cette aptitude est déterminé par votre jet de pouvoir.
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** Une créature
-- **12-16 :** Deux créatures
-- **17+ :** Trois créatures
-
-**Effet :** Chaque cible commence à s'estomper de l'existence (sauvegarde termine). Lors de leur premier tour en s'estompant de l'existence, une cible subit un fléau sur les jets de pouvoir. À la fin de leur premier tour, elle a un double fléau sur les jets de pouvoir. À la fin de leur deuxième tour, elle s'estompe de l'existence pendant 1 heure, après quoi elle réapparaît dans son espace d'origine ou l'espace libre le plus proche.
-
-######## Gueule de Terre (7 Essence)
-
-*Vous ouvrez le sol, projetant des éclats de pierre et de débris.*
-
-| **Zone, Terre, Magie, À Distance** |                **Action principale** |
-|------------------------------------|-------------------------------------:|
-| **📏 Cube de 3 dans un rayon de 10**        |  **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 5 dégâts
-- **12-16 :** 9 dégâts
-- **17+ :** 12 dégâts
-
-**Effet :** Le sol dans ou directement sous la zone s'affaisse de 3 cases.
-
-######## Nuée d'Esprits (7 Essence)
-
-*Des esprits animaux gardiens vous entourent pour harceler vos ennemis et soutenir vos alliés.*
-
-| **Zone, Vert, Magie** |               **Action principale** |
-|------------------------|-------------------------------------:|
-| **📏 Aura de 3**          | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 3 dégâts
-- **12-16 :** 6 dégâts
-- **17+ :** 9 dégâts
-
-**Effet :** Jusqu'à la fin de votre prochain tour, chaque allié dans la zone voit chacun de ses scores de caractéristique traité comme étant supérieur de 1 dans le but de résister aux seuils, et a un bonus de +1 aux jets de sauvegarde.
-
-**Persistant 1 :** Vous refaites le jet de pouvoir pour cibler chaque ennemi dans la zone sans dépenser d'essence, et l'effet dure jusqu'au début de votre prochain tour.
-
-######## Mur de Feu (7 Essence)
-
-*Un brasier flamboyant et magnifiquement organisé éclate à votre commandement.*
-
-| **Zone, Feu, Magie, À Distance** |   **Manœuvre** |
-|-----------------------------------|---------------:|
-| **📏 Mur de 10 dans un rayon de 10**      | **🎯 Spécial** |
-
-**Effet :** Le mur dure jusqu'au début de votre prochain tour, et peut être placé dans des cases occupées. Les créatures peuvent entrer et traverser le mur. Chaque ennemi qui entre dans la zone pour la première fois dans un tour de combat ou qui commence son tour là subit des dégâts de feu égaux à votre score de Raison pour chaque case de la zone dans laquelle il commence son tour ou qu'il traverse.
-
-**Persistant 1 :** Le mur dure jusqu'au début de votre prochain tour, et vous pouvez ajouter un nombre de cases au mur égal à votre score de Raison.
+> [!spell] Mur de Feu
+> 🏷️ *Zone • Feu • Magie • À Distance*
+> 
+> ***Un brasier flamboyant et magnifiquement organisé éclate à votre commandement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Mur de 10 dans un rayon de 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Le mur dure jusqu'au début de votre prochain tour, et peut être placé dans des cases occupées. Les créatures peuvent entrer et traverser le mur. Chaque ennemi qui entre dans la zone pour la première fois dans un tour de combat ou qui commence son tour là subit des dégâts de feu égaux à votre score de Raison pour chaque case de la zone dans laquelle il commence son tour ou qu'il traverse.
+> 
+> **Persistant 1 :** Le mur dure jusqu'au début de votre prochain tour, et vous pouvez ajouter un nombre de cases au mur égal à votre score de Raison.
+> 
+> **🔥 Coût :** 7 Essence
 
 ### Aptitudes de Niveau 4
 
@@ -957,73 +1097,91 @@ De plus, chaque fois que vous utilisez une aptitude de feu ou que vous êtes cib
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 essence à utiliser.
 
-######## Combustion Différée (9 Essence)
+> [!spell] Combustion Différée
+> 🏷️ *Feu • Magie • Distance • Frappe*
+> 
+> ***Vos flammes dansent d'un combustible à l'autre, encore et encore.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 8 + Rai dégâts de feu
+> - **12-16 :** 13 + Rai dégâts de feu
+> - **17+ :** 17 + Rai dégâts de feu
+> 
+> Quand la cible termine son prochain tour, ou si elle tombe à 0 Vigueur avant cela, chaque ennemi adjacent à elle subit des dégâts de feu égaux au double de votre score de Raison. Chaque ennemi affecté gagne alors ce même effet.
+> 
+> **🔥 Coût :** 9 Essence
 
-*Vos flammes dansent d'un combustible à l'autre, encore et encore.*
+> [!spell] Tempête de Sables
+> 🏷️ *Zone • Terre • Magie • Distance*
+> 
+> ***Poussière et débris tourbillonnent en un ouragan sombre et pulsant.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 4 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 2 dégâts
+> - **12-16 :** 5 dégâts
+> - **17+ :** 7 dégâts
+> 
+> La zone dure jusqu'au début de votre prochain tour. C'est un Terrain Difficile pour les ennemis, et vous et vos alliés bénéficiez de Dissimulation tant que vous êtes dans la zone.
+> 
+> **Persistant 1 :** La zone demeure jusqu'au début de votre prochain tour, et vous pouvez la déplacer jusqu'à 5 cases (aucune action requise). En tant que Manœuvre, vous pouvez refaire le jet de pouvoir sans dépenser d'essence.
+> 
+> **🔥 Coût :** 9 Essence
 
-| **Feu, Magie, Distance, Frappe** |               **Action principale** |
-|-----------------------------------|------------------------------------:|
-| **📏 Distance 10**                | **🎯 Une créature ou un objet** |
+> [!spell] Perception Subvertie de l'Espace
+> 🏷️ *Magie • Distance • Frappe • Néant*
+> 
+> ***Vous déchirez le monde d'un ennemi en deux.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 9 + Rai dégâts de corruption
+> - **12-16 :** 10 + Rai dégâts de corruption ; la cible n'a de Ligne d'Effet qu'avec les créatures et objets dans un rayon de 4 cases d'elle jusqu'au début de votre prochain tour
+> - **17+ :** 15 + Rai dégâts de corruption ; la cible n'a de Ligne d'Effet qu'avec les créatures et objets adjacents jusqu'au début de votre prochain tour
+> 
+> **🔥 Coût :** 9 Essence
 
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 8 + R dégâts de feu
-- **12-16 :** 13 + R dégâts de feu
-- **17+ :** 17 + R dégâts de feu
-
-**Effet :** Quand la cible termine son prochain tour, ou si elle tombe à 0 Vigueur avant cela, chaque ennemi adjacent à elle subit des dégâts de feu égaux au double de votre score de Raison. Chaque ennemi affecté gagne alors ce même effet.
-
-######## Tempête de Sables (9 Essence)
-
-*Poussière et débris tourbillonnent en un ouragan sombre et pulsant.*
-
-| **Zone, Terre, Magie, Distance** |               **Action principale** |
-|-----------------------------------|------------------------------------:|
-| **📏 Cube de 4 à portée 10**        | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 dégâts
-- **12-16 :** 5 dégâts
-- **17+ :** 7 dégâts
-
-**Effet :** La zone dure jusqu'au début de votre prochain tour. C'est un Terrain Difficile pour les ennemis, et vous et vos alliés bénéficiez de Dissimulation tant que vous êtes dans la zone.
-
-**Persistant 1 :** La zone demeure jusqu'au début de votre prochain tour, et vous pouvez la déplacer jusqu'à 5 cases (aucune action requise). En tant que Manœuvre, vous pouvez refaire le jet de pouvoir sans dépenser d'essence.
-
-######## Perception Subvertie de l'Espace (9 Essence)
-
-*Vous déchirez le monde d'un ennemi en deux.*
-
-
-| **Magie, Distance, Frappe, Néant** |               **Action principale** |
-|-------------------------------------|------------------------------------:|
-| **📏 Distance 10**                | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 9 + R dégâts de corruption
-- **12-16 :** 10 + R dégâts de corruption ; la cible n'a de Ligne d'Effet qu'avec les créatures et objets dans un rayon de 4 cases d'elle jusqu'au début de votre prochain tour
-- **17+ :** 15 + R dégâts de corruption ; la cible n'a de Ligne d'Effet qu'avec les créatures et objets adjacents jusqu'au début de votre prochain tour
-
-######## Toile de Tout Ce Qui Fut (9 Essence)
-
-*Les fils que vous avez tissés au cours de vos aventures créent une toile vibrante et nacrée.*
-
-
-| **Zone, Vert, Magie, Distance** |               **Action principale** |
-|----------------------------------|------------------------------------:|
-| **📏 Cube de 4 à portée 10**        | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 dégâts de corruption ; A < FAIBLE, Entravé (Sauvegarde Termine)
-- **12-16 :** 3 dégâts de corruption ; A < MOYEN, Entravé (Sauvegarde Termine)
-- **17+ :** 5 dégâts de corruption ; A < FORT, Entravé (Sauvegarde Termine)
-
-**Effet :** La zone est un Terrain Difficile jusqu'au début de votre prochain tour. Chaque ennemi qui termine son tour dans la zone devient Entravé (Sauvegarde Termine).
-
-**Persistant 1 :** La zone demeure jusqu'au début de votre prochain tour.
+> [!spell] Toile de Tout Ce Qui Fut
+> 🏷️ *Zone • Vert • Magie • Distance*
+> 
+> ***Les fils que vous avez tissés au cours de vos aventures créent une toile vibrante et nacrée.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 4 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 2 dégâts de corruption ; A < FAIBLE, Entravé (Sauvegarde Termine)
+> - **12-16 :** 3 dégâts de corruption ; A < MOYEN, Entravé (Sauvegarde Termine)
+> - **17+ :** 5 dégâts de corruption ; A < FORT, Entravé (Sauvegarde Termine)
+> 
+> La zone est un Terrain Difficile jusqu'au début de votre prochain tour. Chaque ennemi qui termine son tour dans la zone devient Entravé (Sauvegarde Termine).
+> 
+> **Persistant 1 :** La zone demeure jusqu'au début de votre prochain tour.
+> 
+> **🔥 Coût :** 9 Essence
 
 ### Aptitudes de Niveau 6
 
@@ -1048,63 +1206,83 @@ Vous pouvez passer 10 minutes ininterrompues à créer un sort de magie libre po
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 essence à utiliser. Alternativement, vous pouvez choisir l'une des aptitudes à 9 essence que vous n'avez pas sélectionnée au niveau 5 (voir Capacités de Niveau 5).
 
-######## Champion Lumineux dans les Airs (9 Essence)
+> [!spell] Champion Lumineux dans les Airs
+> 🏷️ *Feu • Vert • Magie • Distance • Néant*
+> 
+> ***Il brille de mille feux, tel un magnifique diamant dans le ciel nocturne.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** La cible bénéficie d'un bonus de +3 à la vitesse, elle peut voler, et ses aptitudes ignorent la dissimulation. De plus, chaque fois que la cible gagne sa Ressource Héroïque, elle gagne 1 Ressource Héroïque supplémentaire. Cet effet dure jusqu'au début de votre prochain tour.
+> 
+> **Persistant 1 :** L'effet dure jusqu'au début de votre prochain tour.
+> 
+> **🔥 Coût :** 9 Essence
 
-*Il brille de mille feux, tel un magnifique diamant dans le ciel nocturne.*
+> [!spell] Titan de Magma
+> 🏷️ *Terre • Feu • Vert • Magie • Distance*
+> 
+> ***Son corps se gonfle de lave, de boue et de puissance, dominant ses ennemis de sa stature.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'au début de votre prochain tour, la cible bénéficie des avantages suivants :
+> 
+> - Sa taille et sa stabilité augmentent de 2, toute cible de taille 1 devenant de taille 3. Chaque créature qui se trouve dans le nouvel espace de la cible glisse vers l'espace libre le plus proche, en ignorant la stabilité. Si la cible n'a pas l'espace pour grandir, elle grandit autant qu'elle le peut et devient entravée jusqu'à la fin de l'effet.
+> - Elle a une immunité au feu de 10.
+> - Ses frappes infligent des dégâts de feu supplémentaires égaux au double de votre score de Raison.
+> - Quand la cible effectue un déplacement forcé sur une créature ou un objet, la distance de déplacement forcé gagne un bonus de +2.
+> - Elle peut utiliser sa caractéristique la plus élevée au lieu de la Force pour les jets de pouvoir de Force.
+> 
+> **Persistant 2 :** L'effet dure jusqu'au début de votre prochain tour. De plus, au début de votre tour, la cible peut dépenser 2 Récupérations.
+> 
+> **🔥 Coût :** 9 Essence
 
-| **Feu, Vert, Magie, Distance, Néant** |            **Manœuvre** |
-|---------------------------------------|------------------------:|
-| **📏 Distance 10**                    | **🎯 Soi ou un allié** |
+> [!spell] Météore
+> 🏷️ *Terre • Feu • Magie • Distance • Néant*
+> 
+> ***Vous téléportez la cible dans les airs et laissez le sol et la force élémentaire du feu faire le reste.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** Vous téléportez la cible jusqu'à 4 cases.
+> - **12-16 :** Vous téléportez la cible jusqu'à 6 cases.
+> - **17+ :** Vous téléportez la cible jusqu'à 8 cases.
+> 
+> Si la cible est téléportée dans un espace où elle chuterait, elle le fait immédiatement, en traitant la chute comme si son score d'Agilité était de 0. La cible subit des dégâts de feu de la chute, et chaque ennemi dans un rayon de 3 cases de l'endroit où elle atterrit subit la même quantité de dégâts de feu. Le sol dans un rayon de 3 cases de l'endroit où la cible atterrit devient un terrain difficile.
+> 
+> **🔥 Coût :** 9 Essence
 
-**Effet :** La cible bénéficie d'un bonus de +3 à la vitesse, elle peut voler, et ses aptitudes ignorent la dissimulation. De plus, chaque fois que la cible gagne sa Ressource Héroïque, elle gagne 1 Ressource Héroïque supplémentaire. Cet effet dure jusqu'au début de votre prochain tour.
-
-**Persistant 1 :** L'effet dure jusqu'au début de votre prochain tour.
-
-######## Titan de Magma (9 Essence)
-
-*Son corps se gonfle de lave, de boue et de puissance, dominant ses ennemis de sa stature.*
-
-| **Terre, Feu, Vert, Magie, Distance** |            **Manœuvre** |
-|---------------------------------------|------------------------:|
-| **📏 Distance 10**                    | **🎯 Soi ou un allié** |
-
-**Effet :** Jusqu'au début de votre prochain tour, la cible bénéficie des avantages suivants :
-
-- Sa taille et sa stabilité augmentent de 2, toute cible de taille 1 devenant de taille 3. Chaque créature qui se trouve dans le nouvel espace de la cible glisse vers l'espace libre le plus proche, en ignorant la stabilité. Si la cible n'a pas l'espace pour grandir, elle grandit autant qu'elle le peut et devient entravée jusqu'à la fin de l'effet.
-- Elle a une immunité au feu de 10.
-- Ses frappes infligent des dégâts de feu supplémentaires égaux au double de votre score de Raison.
-- Quand la cible effectue un déplacement forcé sur une créature ou un objet, la distance de déplacement forcé gagne un bonus de +2.
-- Elle peut utiliser sa caractéristique la plus élevée au lieu de la Force pour les jets de pouvoir de Force.
-
-**Persistant 2 :** L'effet dure jusqu'au début de votre prochain tour. De plus, au début de votre tour, la cible peut dépenser 2 Récupérations.
-
-######## Météore (9 Essence)
-
-*Vous téléportez la cible dans les airs et laissez le sol et la force élémentaire du feu faire le reste.*
-
-| **Terre, Feu, Magie, Distance, Néant** |               **Action Principale** |
-|----------------------------------------|------------------------------------:|
-| **📏 Distance 10**                     | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** Vous téléportez la cible jusqu'à 4 cases.
-- **12-16 :** Vous téléportez la cible jusqu'à 6 cases.
-- **17+ :** Vous téléportez la cible jusqu'à 8 cases.
-
-**Effet :** Si la cible est téléportée dans un espace où elle chuterait, elle le fait immédiatement, en traitant la chute comme si son score d'Agilité était de 0. La cible subit des dégâts de feu de la chute, et chaque ennemi dans un rayon de 3 cases de l'endroit où elle atterrit subit la même quantité de dégâts de feu. Le sol dans un rayon de 3 cases de l'endroit où la cible atterrit devient un terrain difficile.
-
-######## Les Bois se Souviennent et Reviennent (9 Essence)
-
-*Vous créez un terrarium qui s'étend de la canopée au-dessus jusqu'aux sous-bois en dessous.*
-
-| **Zone, Terre, Vert, Magie, Néant** | **Action Principale** |
-|-------------------------------------|----------------------:|
-| **📏 Explosion 4**                  |  **🎯 Spécial** |
-
-**Effet :** La zone devient sombre et verdoyante, avec des arbres et de la végétation qui apparaissent dans les espaces libres jusqu'au début de votre prochain tour. La zone est un terrain difficile pour les ennemis, et tout allié qui termine son tour dans la zone bénéficie d'un abri.
-
-**Persistant 2 :** La zone demeure jusqu'au début de votre prochain tour. De plus, au début de votre tour, chaque allié dans la zone peut dépenser une Récupération.
+> [!spell] Les Bois se Souviennent et Reviennent
+> 🏷️ *Zone • Terre • Vert • Magie • Néant*
+> 
+> ***Vous créez un terrarium qui s'étend de la canopée au-dessus jusqu'aux sous-bois en dessous.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 4</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** La zone devient sombre et verdoyante, avec des arbres et de la végétation qui apparaissent dans les espaces libres jusqu'au début de votre prochain tour. La zone est un terrain difficile pour les ennemis, et tout allié qui termine son tour dans la zone bénéficie d'un abri.
+> 
+> **Persistant 2 :** La zone demeure jusqu'au début de votre prochain tour. De plus, au début de votre tour, chaque allié dans la zone peut dépenser une Récupération.
+> 
+> **🔥 Coût :** 9 Essence
 
 ### Aptitudes de Niveau 7
 
@@ -1173,111 +1351,130 @@ De plus, tout ennemi qui commence son tour adjacent à vous a une faiblesse aux 
 
 Vous possédez l'aptitude suivante.
 
-######## Invoquer Source de Terre
-
-*Le sol gronde tandis qu'un élémentaire jaillit, prêt à servir.*
-
-| **Terre, Magie, Distance** | **Action principale** |
-|-----------------------------|-----------------------:|
-| **📏 Distance 10**          |    **🎯 Spécial** |
-
-**Effet :** Une **source de terre** émerge d'un espace inoccupé à portée. La source joue son tour immédiatement après vous, se déplaçant jusqu'à sa vitesse et effectuant soit une action principale soit une manœuvre. La source disparaît au début de votre prochain tour.
-
-La source commence une rencontre avec sa Vigueur complète, mais conserve sa Vigueur actuelle tout au long de la rencontre, même si elle disparaît et que vous utilisez à nouveau cette aptitude. Elle ne peut pas récupérer de Vigueur pendant la rencontre. Quand la Vigueur de la source tombe à 0, vous ne pouvez plus utiliser cette aptitude jusqu'à ce que vous obteniez 1 Victoire ou plus.
-
-**Persistant 2 :** La source joue un autre tour. Elle disparaît au début de votre prochain tour.
-
-####### Profil de la Source de Terre
-
-**Source de Terre**
-
-|     Élémentaire     |           -            |     Niveau 8      |        BRUTE        |        EV -         |
-|:-------------------:|:----------------------:|:-----------------:|:-------------------:|:-------------------:|
-|   **2**<br>Taille   |    **6**<br>Vitesse    | **45**<br>Vigueur | **5**<br>Stabilité | **5**<br>Frappe Gratuite |
-| **-**<br>Immunités  | **Creuser**<br>Déplacement |                   | **-**<br>Avec Capitaine | **-**<br>Faiblesses |
-|  **+3**<br>Force    |   **+1**<br>Agilité    | **-5**<br>Raison  | **-5**<br>Intuition | **-3**<br>Présence |
-
-> **Marche Terrestre**
+> [!spell] Invoquer Source de Terre
+> 🏷️ *Terre • Magie • Distance*
 > 
-> Le Terrain Difficile composé de terre et de pierre ne coûte pas de déplacement supplémentaire à la source.
+> ***Le sol gronde tandis qu'un élémentaire jaillit, prêt à servir.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Une **source de terre** émerge d'un espace inoccupé à portée. La source joue son tour immédiatement après vous, se déplaçant jusqu'à sa vitesse et effectuant soit une action principale soit une manœuvre. La source disparaît au début de votre prochain tour.
+> 
+> La source commence une rencontre avec sa Vigueur complète, mais conserve sa Vigueur actuelle tout au long de la rencontre, même si elle disparaît et que vous utilisez à nouveau cette aptitude. Elle ne peut pas récupérer de Vigueur pendant la rencontre. Quand la Vigueur de la source tombe à 0, vous ne pouvez plus utiliser cette aptitude jusqu'à ce que vous obteniez 1 Victoire ou plus.
+> 
+> **Persistant 2 :** La source joue un autre tour. Elle disparaît au début de votre prochain tour.
 
-> **Tunnelier**
+
+> [!creature] Source de Terre
+> **Level 8 Brute** • **Élémentaire**
 > 
-> Quand la source creuse, elle crée un tunnel de taille 2.
- 
-> **Harnais de Terre**
+> | Taille | Vigueur | Stabilité | Frappe Gratuite |
+> |:------:|:-------:|:---------:|:---------------:|
+> | 6 | 45 | 5 | 5 |
 > 
-> Une créature qui possède l'aptitude La Terre m'Accepte peut l'utiliser comme action gratuite pour fusionner avec la source.
- 
-> **Coup de Rocher**
+> <p class="no-margin"><strong>Immunité:</strong> Poison, corruption</p>
+> <p class="no-margin"><strong>Faiblesse:</strong> —</p>
 > 
-> | **Corps à Corps, Distance, Frappe, Arme** |                      **Signature** |
-> |--------------------------------------------|------------------------------------:|
-> | **📏 Corps à corps 2 ou distance 10**     | **🎯 Une créature ou un objet** |
+> ---
 > 
-> **Jet de Pouvoir + 3 :**
+> <p class="no-margin"><strong>Coup de Rocher • Action Principale</strong></p>
+> <p class="no-margin"><i>🏷️ Corps à corps • Frappe • Arme</i></p>
 > 
-> - **≤11 :** 5 dégâts ; poussée 3
-> - **12-16 :** 9 dégâts ; poussée 4
-> - **17+ :** 12 dégâts ; poussée 5
+> **≤11 :** 5 dégâts ; poussée 3  
+> **12-16 :** 9 dégâts ; poussée 4  
+> **17+ :** 12 dégâts ; poussée 5
+> 
+> <p class="no-margin"><strong>Marche Terrestre</strong></p>
+> Le terrain difficile composé de terre et de pierre ne coûte pas de mouvement supplémentaire à la source.
+> <p></p>
+> <p class="no-margin"><strong>Tunnelier</strong></p>
+> Quand la source emprunte, elle crée un tunnel de taille 2.
+> <p></p>
+> <p class="no-margin"><strong>Harnais de Terre</strong></p>
+> Une créature qui a l'aptitude Earth Accept Me peut l'utiliser comme action gratuite pour se fondre dans la source.
+> <p></p>
 
 #### Aptitude à 11 Essence
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 essence à utiliser.
 
-######## Cœur du Bois (11 Essence)
+> [!spell] Cœur du Bois
+> 🏷️ *Vert • Magie • À Distance*
+> 
+> ***Vous invoquez l'un des nombreux éclats du Grand Arbre pour pourvoir à tous vos besoins.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Un arbre de taille 5 apparaît dans un espace inoccupé à portée. L'arbre possède 100 points de Vigueur et ne peut pas subir de déplacement forcé. Vous et tout allié pouvez toucher l'arbre pour utiliser la Manœuvre - Récupérer le Souffle comme manœuvre gratuite. De plus, quand vous commencez votre tour avec une ligne d'effet vers l'arbre, vous pouvez mettre fin à un effet sur vous-même qui se termine par un jet de sauvegarde ou qui se termine à la fin de votre tour, ou vous pouvez vous lever si vous êtes à terre. Chaque allié à portée gagne également cet avantage.
+> 
+> Chaque ennemi qui termine son tour dans les 3 cases de l'arbre est entravé jusqu'à la fin de son prochain tour. Une créature entravée de cette manière peut utiliser une action principale pour mettre fin à l'effet prématurément.
+> 
+> **🔥 Coût :** 11 Essence
 
-*Vous invoquez l'un des nombreux éclats du Grand Arbre pour pourvoir à tous vos besoins.*
+> [!spell] Muse de Feu
+> 🏷️ *Zone • Feu • Magie • À Distance*
+> 
+> ***Le feu brûle assez fort pour brûler le visage de tout dieu qui regarde.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 5 dans les 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 7 dégâts de feu ; le Directeur perd 2 points de Malveillance (voir *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*)
+> - **12-16 :** 10 dégâts de feu ; le Directeur perd 3 points de Malveillance
+> - **17+ :** 15 dégâts de feu ; le Directeur perd 4 points de Malveillance
+> 
+> La Malveillance du Directeur peut devenir négative suite à cette aptitude.
+> 
+> **🔥 Coût :** 11 Essence
 
-| **Vert, Magie, À Distance** | **Action principale** |
-|------------------------------|----------------------:|
-| **📏 À Distance 10**         |     **🎯 Spécial** |
+> [!spell] Retour à l'Oubli
+> 🏷️ *Zone • Magie • À Distance • Néant*
+> 
+> ***Vous créez une déchirure dans la réalité qui pourrait tout consumer.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous créez un vortex de taille 1L qui dure jusqu'à la fin de la rencontre. Au début de chaque tour de combat tant que le vortex est inoccupé, le vortex tire verticalement de 3 chaque ennemi dans les 5 cases. Chaque ennemi qui entre dans le vortex ou y commence son tour est mis à terre. À la fin du tour, si un ennemi essoufflé qui n'est pas une créature dirigeante ou solo se trouve dans le vortex, il est instantanément détruit.
+> 
+> **🔥 Coût :** 11 Essence
 
-**Effet :** Un arbre de taille 5 apparaît dans un espace inoccupé à portée. L'arbre possède 100 points de Vigueur et ne peut pas subir de déplacement forcé. Vous et tout allié pouvez toucher l'arbre pour utiliser la Manœuvre - Récupérer le Souffle comme manœuvre gratuite. De plus, quand vous commencez votre tour avec une ligne d'effet vers l'arbre, vous pouvez mettre fin à un effet sur vous-même qui se termine par un jet de sauvegarde ou qui se termine à la fin de votre tour, ou vous pouvez vous lever si vous êtes à terre. Chaque allié à portée gagne également cet avantage.
-
-Chaque ennemi qui termine son tour dans les 3 cases de l'arbre est entravé jusqu'à la fin de son prochain tour. Une créature entravée de cette manière peut utiliser une action principale pour mettre fin à l'effet prématurément.
-
-######## Muse de Feu (11 Essence)
-
-*Le feu brûle assez fort pour brûler le visage de tout dieu qui regarde.*
-
-| **Zone, Feu, Magie, À Distance** |                **Action principale** |
-|-----------------------------------|-------------------------------------:|
-| **📏 Cube de 5 dans les 10**     | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 7 dégâts de feu ; le Directeur perd 2 points de Malveillance (voir *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*)
-- **12-16 :** 10 dégâts de feu ; le Directeur perd 3 points de Malveillance
-- **17+ :** 15 dégâts de feu ; le Directeur perd 4 points de Malveillance
-
-**Effet :** La Malveillance du Directeur peut devenir négative suite à cette aptitude.
-
-######## Retour à l'Oubli (11 Essence)
-
-*Vous créez une déchirure dans la réalité qui pourrait tout consumer.*
-
-| **Zone, Magie, À Distance, Néant** | **Action principale** |
-|-------------------------------------|----------------------:|
-| **📏 À Distance 10**                |     **🎯 Spécial** |
-
-**Effet :** Vous créez un vortex de taille 1L qui dure jusqu'à la fin de la rencontre. Au début de chaque tour de combat tant que le vortex est inoccupé, le vortex tire verticalement de 3 chaque ennemi dans les 5 cases. Chaque ennemi qui entre dans le vortex ou y commence son tour est mis à terre. À la fin du tour, si un ennemi essoufflé qui n'est pas une créature dirigeante ou solo se trouve dans le vortex, il est instantanément détruit.
-
-######## Monde Déchiré (11 Essence)
-
-*Vous frappez du pied et faites trembler le monde entier.*
-
-| **Zone, Terre, Magie** |                **Action principale** |
-|-------------------------|-------------------------------------:|
-| **📏 Explosion de 5**   | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** M < FAIBLE, à terre
-- **12-16 :** M < MOYEN, à terre
-- **17+ :** M < FORT, à terre
-
-**Effet :** Vous créez une fissure dans le sol adjacente à vous qui forme une ligne de 10 x 2 et profonde de 6 cases. Chaque créature dans la zone qui est à terre et de taille 2 ou moins y tombe. Les autres créatures peuvent entrer dans la fissure ou peuvent glisser vers l'espace inoccupé le plus proche de leur choix à l'extérieur.
+> [!spell] Monde Déchiré
+> 🏷️ *Zone • Terre • Magie*
+> 
+> ***Vous frappez du pied et faites trembler le monde entier.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion de 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** M < FAIBLE, à terre
+> - **12-16 :** M < MOYEN, à terre
+> - **17+ :** M < FORT, à terre
+> 
+> Vous créez une fissure dans le sol adjacente à vous qui forme une ligne de 10 x 2 et profonde de 6 cases. Chaque créature dans la zone qui est à terre et de taille 2 ou moins y tombe. Les autres créatures peuvent entrer dans la fissure ou peuvent glisser vers l'espace inoccupé le plus proche de leur choix à l'extérieur.
+> 
+> **🔥 Coût :** 11 Essence
 
 ### Aptitudes de Niveau 9
 
@@ -1293,59 +1490,79 @@ De plus, quand vous avez 5 Victoires ou plus, choisissez l'un des Types de Dég�
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 essence à utiliser. Alternativement, vous pouvez choisir une des aptitudes à 11 essence que vous n'aviez pas sélectionnée au niveau 8 (voir Capacités de Niveau 8).
 
-######## La Terre Te Rejette (11 Essence)
+> [!spell] La Terre Te Rejette
+> 🏷️ *Zone • Terre • Magie • À Distance*
+> 
+> ***Tout le monde et tout est balayé dans une éruption de roches et de débris.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 5 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi et objet dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 6 dégâts
+> - **12-16 :** 9 dégâts
+> - **17+ :** 13 dégâts
+> 
+> **Persistant 2 :** Au début de votre tour, vous pouvez utiliser une manœuvre pour utiliser cette aptitude à nouveau sans dépenser d'essence.
+> 
+> **🔥 Coût :** 11 Essence
 
-*Tout le monde et tout est balayé dans une éruption de roches et de débris.*
+> [!spell] Le Vert Défend Ses Serviteurs
+> 🏷️ *Vert • Magie • À Distance*
+> 
+> ***Un bouclier vert lumineux révèle sa vraie beauté plus il se fissure.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous invoquez un bouclier élémentaire qui protège la cible jusqu'à la fin de votre prochain tour. Tant que le bouclier est actif, la cible peut effectuer l'Action Principale - Défense comme une manœuvre à chacun de ses tours. La cible gagne 30 Vigueur Temporaire qui dure jusqu'à épuisement ou jusqu'à ce que l'effet se termine. Si cette Vigueur Temporaire disparaît, l'effet se termine et le bouclier explose, infligeant 10 dégâts à chaque ennemi dans un rayon de 5 cases de la cible.
+> 
+> **Persistant 2 :** L'effet dure jusqu'au début de votre prochain tour.
+> 
+> **🔥 Coût :** 11 Essence
 
-| **Zone, Terre, Magie, À Distance** |                          **Action principale** |
-|------------------------------------|-------------------------------------------------:|
-| **📏 Cube de 5 à portée 10**       | **🎯 Chaque ennemi et objet dans la zone** |
+> [!spell] Prisme
+> 🏷️ *Magie • Néant*
+> 
+> ***Vous divisez votre essence, vous permettant de lancer plusieurs effets à la fois.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Vous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous utilisez jusqu'à trois aptitudes héroïques dont les coûts en essence totalisent 11 ou moins, ne dépensant aucune essence supplémentaire au-delà du coût de cette aptitude. Vous pouvez glisser jusqu'à 2 cases entre votre utilisation de chaque aptitude.
+> 
+> **🔥 Coût :** 11 Essence
 
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 6 dégâts
-- **12-16 :** 9 dégâts
-- **17+ :** 13 dégâts
-
-**Persistant 2 :** Au début de votre tour, vous pouvez utiliser une manœuvre pour utiliser cette aptitude à nouveau sans dépenser d'essence.
-
-######## Le Vert Défend Ses Serviteurs (11 Essence)
-
-*Un bouclier vert lumineux révèle sa vraie beauté plus il se fissure.*
-
-| **Vert, Magie, À Distance** |            **Manœuvre** |
-|------------------------------|------------------------:|
-| **📏 À distance 10**         | **🎯 Vous ou un allié** |
-
-**Effet :** Vous invoquez un bouclier élémentaire qui protège la cible jusqu'à la fin de votre prochain tour. Tant que le bouclier est actif, la cible peut effectuer l'Action Principale - Défense comme une manœuvre à chacun de ses tours. La cible gagne 30 Vigueur Temporaire qui dure jusqu'à épuisement ou jusqu'à ce que l'effet se termine. Si cette Vigueur Temporaire disparaît, l'effet se termine et le bouclier explose, infligeant 10 dégâts à chaque ennemi dans un rayon de 5 cases de la cible.
-
-**Persistant 2 :** L'effet dure jusqu'au début de votre prochain tour.
-
-######## Prisme (11 Essence)
-
-*Vous divisez votre essence, vous permettant de lancer plusieurs effets à la fois.*
-
-| **Magie, Néant** | **Action principale** |
-|-------------------|-----------------------:|
-| **📏 Vous**       |     **🎯 Vous** |
-
-**Effet :** Vous utilisez jusqu'à trois aptitudes héroïques dont les coûts en essence totalisent 11 ou moins, ne dépensant aucune essence supplémentaire au-delà du coût de cette aptitude. Vous pouvez glisser jusqu'à 2 cases entre votre utilisation de chaque aptitude.
-
-######## Feu Inextinguible (11 Essence)
-
-*Vous lancez un projectile enflammé tressé d'énergie primordiale pure.*
-
-| **Feu, Magie, À Distance, Frappe** |            **Action principale** |
-|-------------------------------------|----------------------------------:|
-| **📏 À distance 10**                | **🎯 Un ennemi ou objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 13 + R dégâts de feu ; I < FAIBLE, étourdi (Sauvegarde Termine)
-- **12-16 :** 18 + R dégâts de feu ; I < MOYEN, étourdi (Sauvegarde Termine)
-- **17+ :** 25 + R dégâts de feu ; I < FORT, étourdi (Sauvegarde Termine)
-
-**Effet :** Ces dégâts ignorent l'immunité.
+> [!spell] Feu Inextinguible
+> 🏷️ *Feu • Magie • À Distance • Frappe*
+> 
+> ***Vous lancez un projectile enflammé tressé d'énergie primordiale pure.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un ennemi ou objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Raison :
+> 
+> - **≤11 :** 13 + Rai dégâts de feu ; I < FAIBLE, étourdi (Sauvegarde Termine)
+> - **12-16 :** 18 + Rai dégâts de feu ; I < MOYEN, étourdi (Sauvegarde Termine)
+> - **17+ :** 25 + Rai dégâts de feu ; I < FORT, étourdi (Sauvegarde Termine)
+> 
+> Ces dégâts ignorent l'immunité.
+> 
+> **🔥 Coût :** 11 Essence
 
 ### Aptitudes de Niveau 10
 

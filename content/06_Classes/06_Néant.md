@@ -81,42 +81,47 @@ Lorsque vous utilisez une aptitude en dehors du combat qui vous permet de dépen
 
 Vous projetez un champ psionique d'ordre autour de votre corps, atténuant les effets des aptitudes surnaturelles néfastes pour vous et vos alliés.
 
-######## Champ de Néant
-
-*Vous projetez une aura qui atténue le pouvoir de vos ennemis.*
-
-
-| **Zone, Psionique** |                  **Manœuvre** |
-|---------------------|------------------------------:|
-| **📏 1 aura**       | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Chaque cible réduit ses seuils de 1.
-
-Une fois par manœuvre gratuite à chacun de vos tours, vous pouvez dépenser 1 discipline et donner à votre Champ de Néant l'un des effets supplémentaires suivants jusqu'au début de votre prochain tour :
-
-- Disruption Gravitique : La première fois dans un tour qu'une cible subit des dégâts, vous pouvez la glisser jusqu'à 2 cases.
-- Ancre Inertielle : Toute cible qui commence son tour dans la zone ne peut pas glisser.
-- Rupture Synaptique : Chaque fois que vous ou un allié utilisez une aptitude contre une cible qui a un effet de seuil, le seuil est augmenté de 1.
-
-Cette aptitude reste active même après la fin d'une rencontre. Elle ne se termine que si vous êtes mourant ou si vous y mettez fin volontairement (action triviale requise).
+> [!spell] Champ de Néant
+> 🏷️ *Zone • Psionique*
+> 
+> ***Vous projetez une aura qui atténue le pouvoir de vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 1 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Chaque cible réduit ses seuils de 1.
+> 
+> Une fois par manœuvre gratuite à chacun de vos tours, vous pouvez dépenser 1 discipline et donner à votre Champ de Néant l'un des effets supplémentaires suivants jusqu'au début de votre prochain tour :
+> 
+> - **Disruption Gravitique :** La première fois dans un tour qu'une cible subit des dégâts, vous pouvez la glisser jusqu'à 2 cases.
+> - **Ancre Inertielle :** Toute cible qui commence son tour dans la zone ne peut pas glisser.
+> - **Rupture Synaptique :** Chaque fois que vous ou un allié utilisez une aptitude contre une cible qui a un effet de seuil, le seuil est augmenté de 1.
+> 
+> Cette aptitude reste active même après la fin d'une rencontre. Elle ne se termine que si vous êtes mourant ou si vous y mettez fin volontairement (action triviale requise).
 
 #### Bouclier Inertiel
 
 Vos instincts face au danger vous permettent de prédire les attaques avant qu'elles ne se produisent.
 
-######## Bouclier Inertiel
-
-*Vous pressentez la trajectoire d'une attaque imminente, réduisant ses effets.*
-
-| **Psionique** | **Déclenchée** |
-|---------------|--------------:|
-| **📏 Soi** |   **🎯 Soi** |
-
-**Déclencheur :** Vous subissez des dégâts.
-
-**Effet :** Vous subissez la moitié des dégâts.
-
-**Dépenser 1 Discipline :** Le seuil d'un effet associé aux dégâts est réduit de 1 pour vous.
+> [!spell] Bouclier Inertiel
+> 🏷️ *Psionique*
+> 
+> ***Vous pressentez la trajectoire d'une attaque imminente, réduisant ses effets.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** Vous subissez des dégâts.
+> 
+> **💫 Effet:** Vous subissez la moitié des dégâts.
+> 
+> **🔥 Dépenser 1 Discipline :** Le seuil d'un effet associé aux dégâts est réduit de 1 pour vous.
 
 #### Maîtrise de Discipline
 
@@ -207,258 +212,318 @@ Vous comptez sur un mélange unique de techniques martiales et de prouesses psio
 
 Choisissez deux aptitudes signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Plus Rapide que l'Œil, Pas Inertiel.)
 
-######## Danse des Coups
+> [!spell] Danse des Coups
+> 🏷️ *Zone • Psionique • Arme*
+> 
+> ***Vous frappez partout à la fois, trompant un ennemi pour qu'il se déplace hors de position.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 1 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 3 dégâts
+> - **12-16 :** 4 dégâts
+> - **17+ :** 5 dégâts
+> 
+> Vous pouvez faire glisser un ennemi adjacent d'un nombre de cases égal à votre score d'Intuition.
 
-*Vous frappez partout à la fois, trompant un ennemi pour qu'il se déplace hors de position.*
+> [!spell] Plus Rapide que l'Œil
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***Vous frappez si rapidement que vos mains deviennent floues.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux créatures ou objets</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 4 dégâts
+> - **12-16 :** 5 dégâts
+> - **17+ :** 7 dégâts
+> 
+> Vous pouvez infliger des dégâts égaux à votre score d'Agilité à une créature ou un objet adjacent à vous.
 
-| **Zone, Psionique, Arme** |               **Action principale** |
-|---------------------------|------------------------------------:|
-| **📏 1 explosion**        | **🎯 Chaque ennemi dans la zone** |
+> [!spell] Pas Inertiel
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***Vous voletez sur le champ de bataille et portez une frappe opportuniste.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 5 + Agi dégâts
+> - **12-16 :** 7 + Agi dégâts
+> - **17+ :** 10 + Agi dégâts
+> 
+> Vous pouvez glisser jusqu'à la moitié de votre vitesse avant ou après avoir porté cette frappe.
 
-**Jet de Pouvoir + Agilité :**
+> [!spell] Clé Articulaire
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***Vous contorsionnez le corps de votre ennemi dans une position dont il peine à s'échapper.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 4 + Agi dégâts ; A < FAIBLE, agrippé
+> - **12-16 :** 7 + Agi dégâts ; A < MOYEN, agrippé
+> - **17+ :** 9 + Agi dégâts ; A < FORT, agrippé
 
-- **≤11 :** 3 dégâts
-- **12-16 :** 4 dégâts
-- **17+ :** 5 dégâts
+> [!spell] Frappe Cinétique
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***Votre adversaire chancelle. Il ne peut vous ignorer.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 4 + Agi dégâts ; narguer (FdT)
+> - **12-16 :** 5 + Agi dégâts ; narguer (FdT), glissement 1
+> - **17+ :** 6 + Agi dégâts ; narguer (FdT), glissement 2
 
-**Effet :** Vous pouvez faire glisser un ennemi adjacent d'un nombre de cases égal à votre score d'Intuition.
+> [!spell] Frappe Magnétique
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***La force de votre coup s'étend au-delà des limites de votre corps, attirant votre ennemi plus près.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 5 + Agi dégâts psychiques ; traction verticale 1
+> - **12-16 :** 8 + Agi dégâts psychiques ; traction verticale 2
+> - **17+ :** 11 + Agi dégâts psychiques ; traction verticale 3
 
-######## Plus Rapide que l'Œil
+> [!spell] Frappe d'Inversion de Phase
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***Vous sortez momentanément de phase en tirant un ennemi à travers vous.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 4 + Agi dégâts ; poussée 2
+> - **12-16 :** 6 + Agi dégâts ; poussée 4
+> - **17+ :** 8 + Agi dégâts ; poussée 6
+> 
+> Avant que la poussée ne soit résolue, vous téléportez la cible vers une case adjacente à vous et opposée à celle où elle a commencé. Si la cible ne peut pas être téléportée de cette façon, vous ne pouvez pas la pousser.
 
-*Vous frappez si rapidement que vos mains deviennent floues.*
-
-| **Corps à corps, Psionique, Frappe, Arme** |                 **Action principale** |
-|--------------------------------------------|--------------------------------------:|
-| **📏 Corps à corps 1**                    | **🎯 Deux créatures ou objets** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 dégâts
-- **12-16 :** 5 dégâts
-- **17+ :** 7 dégâts
-
-**Effet :** Vous pouvez infliger des dégâts égaux à votre score d'Agilité à une créature ou un objet adjacent à vous.
-
-######## Pas Inertiel
-
-*Vous voletez sur le champ de bataille et portez une frappe opportuniste.*
-
-| **Corps à corps, Psionique, Frappe, Arme** |               **Action principale** |
-|--------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**                    | **🎯 Une créature ou objet** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 5 + A dégâts
-- **12-16 :** 7 + A dégâts
-- **17+ :** 10 + A dégâts
-
-**Effet :** Vous pouvez glisser jusqu'à la moitié de votre vitesse avant ou après avoir porté cette frappe.
-
-######## Clé Articulaire
-
-*Vous contorsionnez le corps de votre ennemi dans une position dont il peine à s'échapper.*
-
-| **Corps à corps, Psionique, Frappe, Arme** |               **Action principale** |
-|--------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**                    | **🎯 Une créature ou objet** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 + A dégâts ; A < FAIBLE, agrippé
-- **12-16 :** 7 + A dégâts ; A < MOYEN, agrippé
-- **17+ :** 9 + A dégâts ; A < FORT, agrippé
-
-######## Frappe Cinétique
-
-*Votre adversaire chancelle. Il ne peut vous ignorer.*
-
-| **Corps à corps, Psionique, Frappe, Arme** |               **Action principale** |
-|--------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**                    | **🎯 Une créature ou objet** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 + A dégâts ; narguer (FdT)
-- **12-16 :** 5 + A dégâts ; narguer (FdT), glissement 1
-- **17+ :** 6 + A dégâts ; narguer (FdT), glissement 2
-
-######## Frappe Magnétique
-
-*La force de votre coup s'étend au-delà des limites de votre corps, attirant votre ennemi plus près.*
-
-| **Corps à corps, Psionique, Frappe, Arme** |     **Action principale** |
-|--------------------------------------------|---------------------------:|
-| **📏 Corps à corps 2**                    | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 5 + A dégâts psychiques ; traction verticale 1
-- **12-16 :** 8 + A dégâts psychiques ; traction verticale 2
-- **17+ :** 11 + A dégâts psychiques ; traction verticale 3
-
-######## Frappe d'Inversion de Phase
-
-*Vous sortez momentanément de phase en tirant un ennemi à travers vous.*
-
-| **Corps à corps, Psionique, Frappe, Arme** |               **Action principale** |
-|--------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**                    | **🎯 Une créature ou objet** |
-
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 + A dégâts ; poussée 2
-- **12-16 :** 6 + A dégâts ; poussée 4
-- **17+ :** 8 + A dégâts ; poussée 6
-
-**Effet :** Avant que la poussée ne soit résolue, vous téléportez la cible vers une case adjacente à vous et opposée à celle où elle a commencé. Si la cible ne peut pas être téléportée de cette façon, vous ne pouvez pas la pousser.
-
-######## Points de Pression
-
-*Vous frappez des groupes nerveux clés pour laisser votre adversaire chancelant.*
-
-| **Corps à corps, Psionique, Frappe, Arme** |               **Action principale** |
-|--------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**                    | **🎯 Une créature ou objet** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 + A dégâts ; A < FAIBLE, affaibli (sauvegarde termine)
-- **12-16 :** 7 + A dégâts ; A < MOYEN, affaibli (sauvegarde termine)
-- **17+ :** 9 + A dégâts ; A < FORT, affaibli (sauvegarde termine)
+> [!spell] Points de Pression
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***Vous frappez des groupes nerveux clés pour laisser votre adversaire chancelant.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 4 + Agi dégâts ; A < FAIBLE, affaibli (sauvegarde termine)
+> - **12-16 :** 7 + Agi dégâts ; A < MOYEN, affaibli (sauvegarde termine)
+> - **17+ :** 9 + Agi dégâts ; A < FORT, affaibli (sauvegarde termine)
 
 ##### Aptitudes Héroïques
-
 Vous maîtrisez un éventail d'aptitudes héroïques, toutes canalisées par votre discipline.
 
 ###### Aptitude de Discipline 3
-
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 points de discipline à utiliser. (*Construction Rapide :* Pointe Chronale.)
 
-######## Pointe Chronale (3 Discipline)
+> [!spell] Pointe Chronale
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***Vous prévoyez le meilleur moment pour frapper, puis l'exploitez.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 7 + Agi dégâts
+> - **12-16 :** 10 + Agi dégâts
+> - **17+ :** 13 + Agi dégâts
+> 
+> Vous pouvez glisser jusqu'à la moitié de votre vitesse avant ou après avoir effectué cette frappe. De plus, chaque fois qu'un effet vous permet de faire une frappe gratuite ou d'utiliser une aptitude signature, vous pouvez utiliser cette aptitude à la place, en payant son coût en discipline comme d'habitude.
+> 
+> **🔥 Coût :** 3 Discipline
 
-*Vous prévoyez le meilleur moment pour frapper, puis l'exploitez.*
+> [!spell] Impulsion Psychique
+> 🏷️ *Zone • Psionique*
+> 
+> ***Une explosion d'énergie psionique interfère avec les synapses de vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Chaque cible subit des dégâts psychiques égaux au double de votre score d'Intuition. Jusqu'au début de votre prochain tour, la taille de votre aptitude Champ de Néant augmente de 1. À la fin de votre tour actuel, chaque ennemi dans la zone de votre aptitude Champ de Néant subit des dégâts psychiques égaux à votre score d'Intuition.
+> 
+> **🔥 Coût :** 3 Discipline
 
-| **Corps à Corps, Psionique, Frappe, Arme** |               **Action principale** |
-|---------------------------------------------|------------------------------------:|
-| **📏 Corps à Corps 1**                     | **🎯 Une créature ou un objet** |
+> [!spell] Némésis Implacable
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***Vous frappez, et pendant les quelques instants qui suivent, votre ennemi ne peut plus vous échapper.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 6 + Agi dégâts
+> - **12-16 :** 8 + Agi dégâts
+> - **17+ :** 12 + Agi dégâts
+> 
+> Jusqu'au début de votre prochain tour, chaque fois que la cible se déplace ou subit un déplacement forcé, vous pouvez utiliser une action déclenchée gratuite pour glisser jusqu'à votre vitesse. Vous devez terminer ce glissement adjacent à la cible.
+> 
+> **🔥 Coût :** 3 Discipline
 
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 7 + A dégâts
-- **12-16 :** 10 + A dégâts
-- **17+ :** 13 + A dégâts
-
-**Effet :** Vous pouvez glisser jusqu'à la moitié de votre vitesse avant ou après avoir effectué cette frappe. De plus, chaque fois qu'un effet vous permet de faire une frappe gratuite ou d'utiliser une aptitude signature, vous pouvez utiliser cette aptitude à la place, en payant son coût en discipline comme d'habitude.
-
-######## Impulsion Psychique (3 Discipline)
-
-*Une explosion d'énergie psionique interfère avec les synapses de vos ennemis.*
-
-| **Zone, Psionique** |                  **Manœuvre** |
-|---------------------|------------------------------:|
-| **📏 Explosion 2**  | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Chaque cible subit des dégâts psychiques égaux au double de votre score d'Intuition. Jusqu'au début de votre prochain tour, la taille de votre aptitude Champ de Néant augmente de 1. À la fin de votre tour actuel, chaque ennemi dans la zone de votre aptitude Champ de Néant subit des dégâts psychiques égaux à votre score d'Intuition.
-
-######## Némésis Implacable (3 Discipline)
-
-*Vous frappez, et pendant les quelques instants qui suivent, votre ennemi ne peut plus vous échapper.*
-
-| **Corps à Corps, Psionique, Frappe, Arme** |               **Action principale** |
-|---------------------------------------------|------------------------------------:|
-| **📏 Corps à Corps 1**                     | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 6 + A dégâts
-- **12-16 :** 8 + A dégâts
-- **17+ :** 12 + A dégâts
-
-**Effet :** Jusqu'au début de votre prochain tour, chaque fois que la cible se déplace ou subit un déplacement forcé, vous pouvez utiliser une action déclenchée gratuite pour glisser jusqu'à votre vitesse. Vous devez terminer ce glissement adjacent à la cible.
-
-######## Coup Étourdissant (3 Discipline)
-
-*Vous concentrez votre technique psionique en un coup contondant.*
-
-| **Corps à Corps, Psionique, Frappe, Arme** |               **Action principale** |
-|---------------------------------------------|------------------------------------:|
-| **📏 Corps à Corps 1**                     | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 + A dégâts ; I < FAIBLE, étourdi et ralenti (sauvegarde termine)
-- **12-16 :** 5 + A dégâts ; I < MOYEN, étourdi et ralenti (sauvegarde termine)
-- **17+ :** 7 + A dégâts ; I < FORT, étourdi et ralenti (sauvegarde termine)
+> [!spell] Coup Étourdissant
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***Vous concentrez votre technique psionique en un coup contondant.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 4 + Agi dégâts ; I < FAIBLE, étourdi et ralenti (sauvegarde termine)
+> - **12-16 :** 5 + Agi dégâts ; I < MOYEN, étourdi et ralenti (sauvegarde termine)
+> - **17+ :** 7 + Agi dégâts ; I < FORT, étourdi et ralenti (sauvegarde termine)
+> 
+> **🔥 Coût :** 3 Discipline
 
 ###### Aptitude de 5 Disciplines
-
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 disciplines à utiliser. (*Construction Rapide :* Une Escouade à Moi Tout Seul.)
 
-######## Perturbateur Arcanique (5 Disciplines)
+> [!spell] Perturbateur Arcanique
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***Votre coup réorganise le corps d'un ennemi, causant de la douleur s'il tente de canaliser la sorcellerie.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 8 + Agi dégâts psychiques ; F < FAIBLE, affaibli (sauvegarde termine)
+> - **12-16 :** 12 + Agi dégâts psychiques ; F < MOYEN, affaibli (sauvegarde termine)
+> - **17+ :** 16 + Agi dégâts psychiques ; F < FORT, affaibli (sauvegarde termine)
+> 
+> Tant qu'elle est affaiblie de cette manière, la cible subit des dégâts égaux à votre score d'Intuition chaque fois qu'elle utilise une aptitude surnaturelle qui coûte de la Malveillance.
+> 
+> **🔥 Coût :** 5 Discipline
 
-*Votre coup réorganise le corps d'un ennemi, causant de la douleur s'il tente de canaliser la sorcellerie.*
+> [!spell] Transmettre la Force
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***Un simple contact de votre part, et votre ennemi vole vers l'arrière.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** Poussée 3
+> - **12-16 :** Poussée 5
+> - **17+ :** Poussée 7
+> 
+> Un objet que vous ciblez doit être de votre taille ou plus petit. Vous gagnez un avantage sur cette aptitude. De plus, pour chaque case dont vous repoussez la cible, elle subit 1 dégât psychique.
+> 
+> **🔥 Coût :** 5 Discipline
 
-| **Corps à Corps, Psionique, Frappe, Arme** |     **Action Principale** |
-|---------------------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**                     | **🎯 Une créature** |
+> [!spell] Frappe de Phase
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***Pendant un moment, votre ennemi glisse hors de phase avec ce plan.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 3 + Agi dégâts psychiques ; I < FAIBLE, la cible sort de phase (sauvegarde termine)
+> - **12-16 :** 4 + Agi dégâts psychiques ; I < MOYEN, la cible sort de phase (sauvegarde termine)
+> - **17+ :** 6 + Agi dégâts psychiques ; I < FORT, la cible sort de phase (sauvegarde termine)
+> 
+> Une cible qui sort de phase est ralentie, voit sa stabilité réduite de 2, et ne peut pas obtenir un résultat de tiers 3 sur les jets d'aptitude.
+> 
+> **🔥 Coût :** 5 Discipline
 
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 8 + **A** dégâts psychiques ; F < FAIBLE, affaibli (sauvegarde termine)
-- **12-16 :** 12 + **A** dégâts psychiques ; F < MOYEN, affaibli (sauvegarde termine)
-- **17+ :** 16 + **A** dégâts psychiques ; F < FORT, affaibli (sauvegarde termine)
-
-**Effet :** Tant qu'elle est affaiblie de cette manière, la cible subit des dégâts égaux à votre score d'Intuition chaque fois qu'elle utilise une aptitude surnaturelle qui coûte de la Malveillance.
-
-######## Transmettre la Force (5 Disciplines)
-
-*Un simple contact de votre part, et votre ennemi vole vers l'arrière.*
-
-| **Corps à Corps, Psionique, Frappe, Arme** |                  **Manœuvre** |
-|---------------------------------------------|------------------------------:|
-| **📏 Corps à Corps 1**                     | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** Poussée 3
-- **12-16 :** Poussée 5
-- **17+ :** Poussée 7
-
-**Effet :** Un objet que vous ciblez doit être de votre taille ou plus petit. Vous gagnez un avantage sur cette aptitude. De plus, pour chaque case dont vous repoussez la cible, elle subit 1 dégât psychique.
-
-######## Frappe de Phase (5 Disciplines)
-
-*Pendant un moment, votre ennemi glisse hors de phase avec ce plan.*
-
-| **Corps à Corps, Psionique, Frappe, Arme** |                           **Action Principale** |
-|---------------------------------------------|------------------------------------------------:|
-| **📏 Corps à Corps 1**                     |                       **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 3 + A dégâts psychiques ; I < FAIBLE, la cible sort de phase (sauvegarde termine)
-- **12-16 :** 4 + A dégâts psychiques ; I < MOYEN, la cible sort de phase (sauvegarde termine)
-- **17+ :** 6 + A dégâts psychiques ; I < FORT, la cible sort de phase (sauvegarde termine)
-
-**Effet :** Une cible qui sort de phase est ralentie, voit sa stabilité réduite de 2, et ne peut pas obtenir un résultat de tiers 3 sur les jets d'aptitude.
-
-######## Une Escouade à Moi Tout Seul (5 Disciplines)
-
-*Vous bougez si rapidement qu'il semble qu'une armée ait assailli vos ennemis.*
-
-| **Zone, Psionique, Arme** |               **Action Principale** |
-|---------------------------|------------------------------------:|
-| **📏 Explosion 2**            | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 6 dégâts
-- **12-16 :** 9 dégâts
-- **17+ :** 13 dégâts
-
-**Effet :** Vous pouvez effectuer l'Action de Déplacement - Désengagement comme une manœuvre gratuite avant ou après avoir utilisé cette aptitude.
+> [!spell] Une Escouade à Moi Tout Seul
+> 🏷️ *Zone • Psionique • Arme*
+> 
+> ***Vous bougez si rapidement qu'il semble qu'une armée ait assailli vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 6 dégâts
+> - **12-16 :** 9 dégâts
+> - **17+ :** 13 dégâts
+> 
+> Vous pouvez effectuer l'Action de Déplacement - Désengagement comme une manœuvre gratuite avant ou après avoir utilisé cette aptitude.
+> 
+> **🔥 Coût :** 5 Discipline
 
 ### Aptitudes de Niveau 2
 
@@ -502,91 +567,119 @@ Votre tradition du néant vous accorde le choix entre deux aptitudes.
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Flou (5 Discipline)
+> [!spell] Flou
+> 🏷️ *Psionique*
+> 
+> ***Vous libérez du temps stocké, vous permettant d'agir deux fois.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous pouvez utiliser une aptitude signature ou héroïque. Vous gagnez un avantage sur les jets de pouvoir de cette aptitude.
+> 
+> **🔥 Coût :** 5 Discipline
 
-*Vous libérez du temps stocké, vous permettant d'agir deux fois.*
-
-| **Psionique** | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Vous pouvez utiliser une aptitude signature ou héroïque. Vous gagnez un avantage sur les jets de pouvoir de cette aptitude.
-
-######## Force Redirigée (5 Discipline)
-
-*La force de votre frappe déplace votre cible dans une direction surprenante.*
-
-| **Corps à Corps, Psionique, Frappe, Arme** |     **Action Principale** |
-|------------------------------------|--------------------:|
-| **📏 Corps à Corps 3**                     | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 8 + A dégâts ; glissement 1
-- **12-16 :** 12 + A dégâts ; glissement 3
-- **17+ :** 16 + A dégâts ; glissement 5
+> [!spell] Force Redirigée
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***La force de votre frappe déplace votre cible dans une direction surprenante.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 8 + Agi dégâts ; glissement 1
+> - **12-16 :** 12 + Agi dégâts ; glissement 3
+> - **17+ :** 16 + Agi dégâts ; glissement 5
+> 
+> **🔥 Coût :** 5 Discipline
 
 ##### Aptitude Cryocinétique de Niveau 2
-
 Choisissez l'une des aptitudes héroïques suivantes.
 
-######## Champ Entropique (5 Discipline)
+> [!spell] Champ Entropique
+> 🏷️ *Zone • Psionique • Arme*
+> 
+> ***Vous augmentez drastiquement l'entropie locale.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 3 cubes à portée 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 6 dégâts de froid ; A < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 9 dégâts de froid ; A < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 13 dégâts de froid ; A < FORT, ralenti (sauvegarde termine)
+> 
+> **🔥 Coût :** 5 Discipline
 
-*Vous augmentez drastiquement l'entropie locale.*
-
-| **Zone, Psionique, Arme** |               **Action Principale** |
-|---------------------------|------------------------------------:|
-| **📏 3 cubes à portée 1**    | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 6 dégâts de froid ; A < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 9 dégâts de froid ; A < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 13 dégâts de froid ; A < FORT, ralenti (sauvegarde termine)
-
-######## Puits de Chaleur (5 Discipline)
-
-*Vous absorbez la chaleur ambiante, recouvrant le sol de givre et précipitant la neige depuis l'air.*
-
-| **Psionique** | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Jusqu'au début de votre prochain tour, la taille de votre aptitude Champ de Néant augmente de 1, et vous et tout allié bénéficiez de dissimulation tant que vous êtes dans la zone. À la fin de ce tour, chaque ennemi dans la zone subit des dégâts de froid égaux à votre score d'Intuition.
+> [!spell] Puits de Chaleur
+> 🏷️ *Psionique*
+> 
+> ***Vous absorbez la chaleur ambiante, recouvrant le sol de givre et précipitant la neige depuis l'air.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'au début de votre prochain tour, la taille de votre aptitude Champ de Néant augmente de 1, et vous et tout allié bénéficiez de dissimulation tant que vous êtes dans la zone. À la fin de ce tour, chaque ennemi dans la zone subit des dégâts de froid égaux à votre score d'Intuition.
+> 
+> **🔥 Coût :** 5 Discipline
 
 ##### Aptitude de Métacinétique de Niveau 2
-
 Choisissez l'une des aptitudes suivantes.
 
-######## Frappe Gravitique (5 Discipline)
+> [!spell] Frappe Gravitique
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***Votre poing émane une force gravitique qui attire un ennemi distant vers vous.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 8 + Agi dégâts psychiques ; traction verticale 3
+> - **12-16 :** 12 + Agi dégâts psychiques ; traction verticale 5
+> - **17+ :** 16 + Agi dégâts psychiques ; traction verticale 7
+> 
+> **🔥 Coût :** 5 Discipline
 
-*Votre poing émane une force gravitique qui attire un ennemi distant vers vous.*
-
-| **Corps à Corps, Psionique, Frappe, Arme** |     **Action Principale** |
-|--------------------------------------------|---------------------------:|
-| **📏 Corps à Corps 3**                     | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 8 + A dégâts psychiques ; traction verticale 3
-- **12-16 :** 12 + A dégâts psychiques ; traction verticale 5
-- **17+ :** 16 + A dégâts psychiques ; traction verticale 7
-
-######## Bouclier Cinétique (5 Discipline)
-
-*Vous manifestez une barrière de force qui absorbe l'énergie cinétique entrante.*
-
-| **Psionique** | **Manœuvre** |
-|---------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** Vous gagnez 10 Vigueur Temporaire.
-- **12-16 :** Vous gagnez 15 Vigueur Temporaire.
-- **17+ :** Vous gagnez 20 Vigueur Temporaire.
-
-**Effet :** Tant que vous avez de la Vigueur Temporaire provenant de cette aptitude, vous ne pouvez pas subir de saignement même en étant mourant.
+> [!spell] Bouclier Cinétique
+> 🏷️ *Psionique*
+> 
+> ***Vous manifestez une barrière de force qui absorbe l'énergie cinétique entrante.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** Vous gagnez 10 Vigueur Temporaire.
+> - **12-16 :** Vous gagnez 15 Vigueur Temporaire.
+> - **17+ :** Vous gagnez 20 Vigueur Temporaire.
+> 
+> Tant que vous avez de la Vigueur Temporaire provenant de cette aptitude, vous ne pouvez pas subir de saignement même en étant mourant.
+> 
+> **🔥 Coût :** 5 Discipline
 
 ### Aptitudes de Niveau 3
 
@@ -604,45 +697,65 @@ Au début de chacun de vos tours, vous pouvez utiliser une action déclenchée g
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 discipline à utiliser.
 
-######## Champ d'Absorption (7 Discipline)
+> [!spell] Champ d'Absorption
+> 🏷️ *Psionique*
+> 
+> ***Votre champ de néant absorbe l'énergie cinétique.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre, la taille de votre aptitude Champ de Néant augmente de 1. Tant que la zone de cette aptitude est agrandie de cette façon, chaque ennemi dans la zone subit un fléau sur les jets d'aptitude.
+> 
+> **🔥 Coût :** 7 Discipline
 
-*Votre champ de néant absorbe l'énergie cinétique.*
+> [!spell] Champ de Réarrangement Moléculaire
+> 🏷️ *Psionique*
+> 
+> ***Les blessures de vos ennemis s'ouvrent, celles de vos alliés se referment.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre, la taille de votre aptitude Champ de Néant augmente de 1. Tant que la zone de cette aptitude est agrandie de cette façon, chaque ennemi qui a I < MOYENNE et entre dans la zone pour la première fois dans un tour de combat ou commence son tour là subit saignement (sauvegarde termine). Chaque allié qui entre dans la zone pour la première fois dans un tour de combat ou commence son tour là gagne de la vigueur temporaire égale à votre score d'Intuition.
+> 
+> **🔥 Coût :** 7 Discipline
 
-| **Psionique** | **Manœuvre** |
-|---------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
+> [!spell] Champ Stabilisant
+> 🏷️ *Psionique*
+> 
+> ***Vous projetez l'ordre, rendant plus difficile pour vos ennemis d'interférer avec vous et vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre, la taille de votre aptitude Champ de Néant augmente de 1. Tant que la zone de cette aptitude est agrandie de cette façon, vous ignorez le terrain difficile et réduisez le seuil des effets ennemis vous ciblant de 1 pour vous. Vous pouvez aussi utiliser une action déclenchée gratuite au début de chacun de vos tours pour terminer un effet sur vous qui se termine par un jet de sauvegarde ou qui se termine à la fin de votre tour. Chaque allié dans la zone gagne aussi ces bénéfices.
+> 
+> **🔥 Coût :** 7 Discipline
 
-**Effet :** Jusqu'à la fin de la rencontre, la taille de votre aptitude Champ de Néant augmente de 1. Tant que la zone de cette aptitude est agrandie de cette façon, chaque ennemi dans la zone subit un fléau sur les jets d'aptitude.
-
-######## Champ de Réarrangement Moléculaire (7 Discipline)
-
-*Les blessures de vos ennemis s'ouvrent, celles de vos alliés se referment.*
-
-| **Psionique** | **Manœuvre** |
-|---------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Jusqu'à la fin de la rencontre, la taille de votre aptitude Champ de Néant augmente de 1. Tant que la zone de cette aptitude est agrandie de cette façon, chaque ennemi qui a I < MOYENNE et entre dans la zone pour la première fois dans un tour de combat ou commence son tour là subit saignement (sauvegarde termine). Chaque allié qui entre dans la zone pour la première fois dans un tour de combat ou commence son tour là gagne de la vigueur temporaire égale à votre score d'Intuition.
-
-######## Champ Stabilisant (7 Discipline)
-
-*Vous projetez l'ordre, rendant plus difficile pour vos ennemis d'interférer avec vous et vos alliés.*
-
-| **Psionique** | **Manœuvre** |
-|---------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Jusqu'à la fin de la rencontre, la taille de votre aptitude Champ de Néant augmente de 1. Tant que la zone de cette aptitude est agrandie de cette façon, vous ignorez le terrain difficile et réduisez le seuil des effets ennemis vous ciblant de 1 pour vous. Vous pouvez aussi utiliser une action déclenchée gratuite au début de chacun de vos tours pour terminer un effet sur vous qui se termine par un jet de sauvegarde ou qui se termine à la fin de votre tour. Chaque allié dans la zone gagne aussi ces bénéfices.
-
-######## Champ Synaptique (7 Discipline)
-
-*Les attaques effectuées par les alliés dans votre champ de néant perturbent les pensées de vos ennemis, causant une douleur psychique.*
-
-| **Psionique** | **Manœuvre** |
-|---------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Jusqu'à la fin de la rencontre, la taille de votre aptitude Champ de Néant augmente de 1. Tant que la zone de cette aptitude est agrandie de cette façon, chaque fois qu'un ennemi dans la zone subit des dégâts lancés, il subit des dégâts psychiques supplémentaires égaux à deux fois votre score d'Intuition.
+> [!spell] Champ Synaptique
+> 🏷️ *Psionique*
+> 
+> ***Les attaques effectuées par les alliés dans votre champ de néant perturbent les pensées de vos ennemis, causant une douleur psychique.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre, la taille de votre aptitude Champ de Néant augmente de 1. Tant que la zone de cette aptitude est agrandie de cette façon, chaque fois qu'un ennemi dans la zone subit des dégâts lancés, il subit des dégâts psychiques supplémentaires égaux à deux fois votre score d'Intuition.
+> 
+> **🔥 Coût :** 7 Discipline
 
 ### Aptitudes de Niveau 4
 
@@ -704,59 +817,79 @@ Si vous n'êtes pas surpris au début de votre premier tour de combat, vous gagn
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 discipline à utiliser.
 
-######## Frappe Anticipée (9 Discipline)
+> [!spell] Frappe Anticipée
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***Vous frappez soudainement un ennemi, puis l'agrippez dans une prise renforcée psioniquement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible se déplace ou utilise une action principale.
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 7 + Agi dégâts ; I < FAIBLE, entravé (sauvegarde termine)
+> - **12-16 :** 10 + Agi dégâts ; I < MOYEN, entravé (sauvegarde termine)
+> - **17+ :** 13 + Agi dégâts ; I < FORT, entravé (sauvegarde termine)
+> 
+> Cette frappe se résout avant le déplacement ou l'action principale déclencheur.
+> 
+> **🔥 Coût :** 9 Discipline
 
-*Vous frappez soudainement un ennemi, puis l'agrippez dans une prise renforcée psioniquement.*
+> [!spell] Prise de Fer
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***Vous agrippez la cible avec une force surnaturelle.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 10 + Agi dégâts ; A < FAIBLE, agrippé
+> - **12-16 :** 14 + Agi dégâts ; A < MOYEN, agrippé
+> - **17+ :** 18 + Agi dégâts ; A < FORT, agrippé
+> 
+> Tant qu'elle est agrippée de cette façon, la cible subit un fléau sur la Manœuvre - Échapper à la Prise. Chaque fois qu'elle utilise cette manœuvre, elle subit des dégâts égaux au double de votre score d'Agilité.
+> 
+> **🔥 Coût :** 9 Discipline
 
-| **Corps à corps, Psionique, Frappe, Arme** |  **Action déclenchée gratuite** |
-|--------------------------------------------|--------------------------------:|
-| **📏 Corps à corps 1**                     | **🎯 Une créature** |
+> [!spell] Saut de Phase
+> 🏷️ *Psionique*
+> 
+> ***Vous bondissez au-delà de la réalité, laissant une image résiduelle de vous-même.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déplacement</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous sautez jusqu'à votre vitesse sans provoquer d'attaques d'opportunité. Jusqu'à la fin de votre prochain tour, une image résiduelle statique de vous reste dans l'espace que vous avez quitté, et tout ennemi adjacent à votre image résiduelle subit un fléau sur les jets d'aptitude. Vous pouvez utiliser vos aptitudes depuis votre propre espace ou depuis l'espace de votre image résiduelle comme si vous y étiez encore. De plus, si votre aptitude Champ de Néant est active, votre image résiduelle projette également l'aura de cette aptitude, que vous contrôlez comme si vous étiez dans l'espace de l'image résiduelle.
+> 
+> **🔥 Coût :** 9 Discipline
 
-**Déclencheur :** La cible se déplace ou utilise une action principale.
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 7 + A dégâts ; I < FAIBLE, entravé (sauvegarde termine)
-- **12-16 :** 10 + A dégâts ; I < MOYEN, entravé (sauvegarde termine)
-- **17+ :** 13 + A dégâts ; I < FORT, entravé (sauvegarde termine)
-
-**Effet :** Cette frappe se résout avant le déplacement ou l'action principale déclencheur.
-
-######## Prise de Fer (9 Discipline)
-
-*Vous agrippez la cible avec une force surnaturelle.*
-
-| **Corps à corps, Psionique, Frappe, Arme** |     **Action principale** |
-|--------------------------------------------|---------------------------:|
-| **📏 Corps à corps 1**                     | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 10 + A dégâts ; A < FAIBLE, agrippé
-- **12-16 :** 14 + A dégâts ; A < MOYEN, agrippé
-- **17+ :** 18 + A dégâts ; A < FORT, agrippé
-
-**Effet :** Tant qu'elle est agrippée de cette façon, la cible subit un fléau sur la Manœuvre - Échapper à la Prise. Chaque fois qu'elle utilise cette manœuvre, elle subit des dégâts égaux au double de votre score d'Agilité.
-
-######## Saut de Phase (9 Discipline)
-
-*Vous bondissez au-delà de la réalité, laissant une image résiduelle de vous-même.*
-
-| **Psionique** |    **Déplacement** |
-|---------------|-------------------:|
-| **📏 Soi** | **🎯 Soi** |
-
-**Effet :** Vous sautez jusqu'à votre vitesse sans provoquer d'attaques d'opportunité. Jusqu'à la fin de votre prochain tour, une image résiduelle statique de vous reste dans l'espace que vous avez quitté, et tout ennemi adjacent à votre image résiduelle subit un fléau sur les jets d'aptitude. Vous pouvez utiliser vos aptitudes depuis votre propre espace ou depuis l'espace de votre image résiduelle comme si vous y étiez encore. De plus, si votre aptitude Champ de Néant est active, votre image résiduelle projette également l'aura de cette aptitude, que vous contrôlez comme si vous étiez dans l'espace de l'image résiduelle.
-
-######## Remise à Zéro Synaptique (9 Discipline)
-
-*Vous étendez votre pouvoir neutralisant pour atténuer les effets néfastes.*
-
-| **Zone, Psionique** |                          **Manœuvre** |
-|---------------------|--------------------------------------:|
-| **📏 Explosion 3**    | **🎯 Soi et chaque allié dans la zone** |
-
-**Effet :** Chaque cible peut mettre fin à toutes les conditions ou effets qui l'affectent, et gagne 5 Vigueur Temporaire pour chaque condition ou effet supprimé.
+> [!spell] Remise à Zéro Synaptique
+> 🏷️ *Zone • Psionique*
+> 
+> ***Vous étendez votre pouvoir neutralisant pour atténuer les effets néfastes.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Chaque cible peut mettre fin à toutes les conditions ou effets qui l'affectent, et gagne 5 Vigueur Temporaire pour chaque condition ou effet supprimé.
+> 
+> **🔥 Coût :** 9 Discipline
 
 ### Aptitudes de Niveau 6
 
@@ -782,92 +915,119 @@ Votre tradition de néant vous accorde le choix entre deux aptitudes héroïques
 
 Choisissez une des aptitudes suivantes.
 
-######## Interphase (9 Discipline)
+> [!spell] Interphase
+> 🏷️ *Psionique*
+> 
+> ***Vous glissez dans un flux temporel plus rapide pour agir plus rapidement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous pouvez utiliser jusqu'à trois aptitudes signature, chacune gagnant un avantage.
+> 
+> **🔥 Coût :** 9 Discipline
 
-*Vous glissez dans un flux temporel plus rapide pour agir plus rapidement.*
-
-| **Psionique** | **Action principale** |
-|---------------|----------------------:|
-| **📏 Soi**    |            **🎯 Soi** |
-
-**Effet :** Vous pouvez utiliser jusqu'à trois aptitudes signature, chacune gagnant un avantage.
-
-######## Pas de Phase (9 Discipline)
-
-*Vous affaiblissez votre connexion à ce plan, vous permettant de vous déplacer à travers les ennemis et de les endommager.*
-
-| **Corps à corps, Psionique, Arme** | **Action principale** |
-|------------------------------------|----------------------:|
-| **📏 Soi ; voir ci-dessous**       |            **🎯 Soi** |
-
-**Effet :** Vous pouvez glisser jusqu'à votre vitesse, et les cases occupées par des ennemis ou des objets ne sont pas un terrain difficile pour ce glissement. Vous effectuez un jet de pouvoir qui cible chaque ennemi que vous avez traversé durant ce glissement.
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 6 dégâts ; M < FAIBLE, étourdi
-- **12-16 :** 8 dégâts ; M < MOYEN, étourdi
-- **17+ :** 12 dégâts ; M < FORT, étourdi
+> [!spell] Pas de Phase
+> 🏷️ *Corps à corps • Psionique • Arme*
+> 
+> ***Vous affaiblissez votre connexion à ce plan, vous permettant de vous déplacer à travers les ennemis et de les endommager.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi ; voir ci-dessous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous pouvez glisser jusqu'à votre vitesse, et les cases occupées par des ennemis ou des objets ne sont pas un terrain difficile pour ce glissement. Vous effectuez un jet de pouvoir qui cible chaque ennemi que vous avez traversé durant ce glissement.
+> 
+> Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 6 dégâts ; M < FAIBLE, étourdi
+> - **12-16 :** 8 dégâts ; M < MOYEN, étourdi
+> - **17+ :** 12 dégâts ; M < FORT, étourdi
+> 
+> **🔥 Coût :** 9 Discipline
 
 ##### Aptitudes de Cryokinésiste de Niveau 6
-
 Choisissez l'une des aptitudes suivantes.
 
-######## Piliers de Glace (9 Discipline)
+> [!spell] Piliers de Glace
+> 🏷️ *Psionique • À Distance*
+> 
+> ***Des piliers de glace jaillissent du sol et projettent vos ennemis dans les airs.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois créatures ou objets</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** Glissement Vertical 6
+> - **12-16 :** Glissement Vertical 8
+> - **17+ :** Glissement Vertical 10
+> 
+> Les piliers disparaissent dès que les effets du Déplacement Forcé sont résolus.
+> 
+> **🔥 Coût :** 9 Discipline
 
-*Des piliers de glace jaillissent du sol et projettent vos ennemis dans les airs.*
-
-| **Psionique, À Distance** |                   **Action Principale** |
-|---------------------------|----------------------------------------:|
-| **📏 À Distance 10**      | **🎯 Trois créatures ou objets** |
-
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** Glissement Vertical 6
-- **12-16 :** Glissement Vertical 8
-- **17+ :** Glissement Vertical 10
-
-**Effet :** Les piliers disparaissent dès que les effets du Déplacement Forcé sont résolus.
-
-######## Mur de Glace (9 Discipline)
-
-*Vous créez un mur de glace.*
-
-| **Zone, Psionique, À Distance** | **Action Principale** |
-|---------------------------------|---------------------:|
-| **📏 Mur de 10 dans un rayon de 10**  |  **🎯 Spécial** |
-
-**Effet :** Vous pouvez placer ce mur dans des cases occupées, faisant glisser chaque créature dans la zone vers l'espace inoccupé le plus proche de votre choix. Le mur reste jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez Mourant. Les cases du mur sont traitées comme des cases de pierre pour les Dégâts, et vous et vos alliés pouvez vous déplacer librement à travers le mur. Chaque ennemi qui entre dans une case adjacente au mur et dont la F < MOYENNE est Ralenti (Sauvegarde Termine). Chaque ennemi qui subit un Déplacement Forcé dans le mur et dont la F < MOYENNE est Entravé (Sauvegarde Termine).
+> [!spell] Mur de Glace
+> 🏷️ *Zone • Psionique • À Distance*
+> 
+> ***Vous créez un mur de glace.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Mur de 10 dans un rayon de 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous pouvez placer ce mur dans des cases occupées, faisant glisser chaque créature dans la zone vers l'espace inoccupé le plus proche de votre choix. Le mur reste jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez Mourant. Les cases du mur sont traitées comme des cases de pierre pour les Dégâts, et vous et vos alliés pouvez vous déplacer librement à travers le mur. Chaque ennemi qui entre dans une case adjacente au mur et dont la F < MOYENNE est Ralenti (Sauvegarde Termine). Chaque ennemi qui subit un Déplacement Forcé dans le mur et dont la F < MOYENNE est Entravé (Sauvegarde Termine).
+> 
+> **🔥 Coût :** 9 Discipline
 
 ##### Aptitudes de Métacinétique de Niveau 6
-
 Choisissez une des aptitudes suivantes.
 
-######## Charge Gravitique (9 Discipline)
+> [!spell] Charge Gravitique
+> 🏷️ *Psionique*
+> 
+> ***Vous canalisez votre discipline en un élan qui défie la gravité.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** Glissement vertical 5
+> - **12-16 :** Glissement vertical 7
+> - **17+ :** Glissement vertical 9
+> 
+> Ce déplacement ignore la stabilité. Si vous glissez dans l'espace d'une autre créature, vous résolvez les dégâts pour vous deux comme si votre déplacement forcé s'était terminé, mais vous continuez à vous déplacer à travers l'espace de cette créature.
+> 
+> **🔥 Coût :** 9 Discipline
 
-*Vous canalisez votre discipline en un élan qui défie la gravité.*
-
-| **Psionique** | **Manœuvre** |
-|---------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** Glissement vertical 5
-- **12-16 :** Glissement vertical 7
-- **17+ :** Glissement vertical 9
-
-**Effet :** Ce déplacement ignore la stabilité. Si vous glissez dans l'espace d'une autre créature, vous résolvez les dégâts pour vous deux comme si votre déplacement forcé s'était terminé, mais vous continuez à vous déplacer à travers l'espace de cette créature.
-
-######## Corps de Fer (9 Discipline)
-
-*Vous vous concentrez jusqu'à ce que votre corps devienne aussi dur que le fer.*
-
-| **Psionique** | **Manœuvre** |
-|---------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Vous gagnez 20 points de Vigueur Temporaire. De plus, jusqu'à la fin de la rencontre, votre stabilité gagne un bonus égal à votre score d'Intuition.
+> [!spell] Corps de Fer
+> 🏷️ *Psionique*
+> 
+> ***Vous vous concentrez jusqu'à ce que votre corps devienne aussi dur que le fer.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous gagnez 20 points de Vigueur Temporaire. De plus, jusqu'à la fin de la rencontre, votre stabilité gagne un bonus égal à votre score d'Intuition.
+> 
+> **🔥 Coût :** 9 Discipline
 
 ### Aptitudes de Niveau 7
 
@@ -957,63 +1117,83 @@ En tant que manœuvre gratuite, vous pouvez dépenser 1d6 Vigueur pour supprimer
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 discipline à utiliser.
 
-######## Purge Arcanique (11 Discipline)
+> [!spell] Purge Arcanique
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***Vous concentrez votre champ de néant en une frappe de point de pression qui empêche votre ennemi de canaliser la sorcellerie.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 13 + Agi dégâts ; M < FAIBLE, la cible est supprimée (sauvegarde termine)
+> - **12-16 :** 19 + Agi dégâts ; M < MOYEN, la cible est supprimée (sauvegarde termine)
+> - **17+ :** 24 + Agi dégâts ; M < FORT, la cible est supprimée (sauvegarde termine)
+> 
+> Tant qu'elle est supprimée, une cible subit des dégâts psychiques égaux au double de votre score d'Intuition au début de ses tours, chaque fois qu'elle utilise une aptitude surnaturelle, ou chaque fois qu'elle utilise une aptitude qui coûte de la Malveillance.
+> 
+> **🔥 Coût :** 11 Discipline
 
-*Vous concentrez votre champ de néant en une frappe de point de pression qui empêche votre ennemi de canaliser la sorcellerie.*
+> [!spell] Projection de Phase
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***Vous projetez votre ennemi hors de phase avec ce plan, lui faisant blesser d'autres ennemis lors de son retour.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 9 + Agi dégâts ; poussée 5 ; I < FAIBLE, étourdi (sauvegarde termine)
+> - **12-16 :** 13 + Agi dégâts ; poussée 7 ; I < MOYEN, étourdi (sauvegarde termine)
+> - **17+ :** 18 + Agi dégâts ; poussée 10 ; I < FORT, étourdi (sauvegarde termine)
+> 
+> La cible et chaque créature ou objet avec lesquels elle entre en collision suite à ce déplacement forcé subissent des dégâts psychiques égaux au nombre total de cases sur lesquelles la cible a été déplacée de force. Tant que la cible est étourdie de cette manière, elle aperçoit des créatures d'autres parties du Chronoscape.
+> 
+> **🔥 Coût :** 11 Discipline
 
-| **Corps à Corps, Psionique, Frappe, Arme** |     **Action principale** |
-|---------------------------------------------|-------------------------:|
-| **📏 Corps à Corps 1**                     | **🎯 Une créature** |
+> [!spell] Assaut Scalaire
+> 🏷️ *Zone • Psionique*
+> 
+> ***Vous déformez la réalité pour faire pousser un membre pendant un instant et porter une seule attaque dévastatrice.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 3 à portée 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 12 dégâts psychiques ; poussée 3
+> - **12-16 :** 17 dégâts psychiques ; poussée 5
+> - **17+ :** 23 dégâts psychiques ; poussée 7
+> 
+> **🔥 Coût :** 11 Discipline
 
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 13 + A dégâts ; M < FAIBLE, la cible est supprimée (sauvegarde termine)
-- **12-16 :** 19 + A dégâts ; M < MOYEN, la cible est supprimée (sauvegarde termine)
-- **17+ :** 24 + A dégâts ; M < FORT, la cible est supprimée (sauvegarde termine)
-
-**Effet :** Tant qu'elle est supprimée, une cible subit des dégâts psychiques égaux au double de votre score d'Intuition au début de ses tours, chaque fois qu'elle utilise une aptitude surnaturelle, ou chaque fois qu'elle utilise une aptitude qui coûte de la Malveillance.
-
-######## Projection de Phase (11 Discipline)
-
-*Vous projetez votre ennemi hors de phase avec ce plan, lui faisant blesser d'autres ennemis lors de son retour.*
-
-| **Corps à Corps, Psionique, Frappe, Arme** |     **Action principale** |
-|---------------------------------------------|-------------------------:|
-| **📏 Corps à Corps 1**                     | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 9 + A dégâts ; poussée 5 ; I < FAIBLE, étourdi (sauvegarde termine)
-- **12-16 :** 13 + A dégâts ; poussée 7 ; I < MOYEN, étourdi (sauvegarde termine)
-- **17+ :** 18 + A dégâts ; poussée 10 ; I < FORT, étourdi (sauvegarde termine)
-
-**Effet :** La cible et chaque créature ou objet avec lesquels elle entre en collision suite à ce déplacement forcé subissent des dégâts psychiques égaux au nombre total de cases sur lesquelles la cible a été déplacée de force. Tant que la cible est étourdie de cette manière, elle aperçoit des créatures d'autres parties du Chronoscape.
-
-######## Assaut Scalaire (11 Discipline)
-
-*Vous déformez la réalité pour faire pousser un membre pendant un instant et porter une seule attaque dévastatrice.*
-
-| **Zone, Psionique**      |               **Action principale** |
-|---------------------------|------------------------------------:|
-| **📏 Cube de 3 à portée 1** | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 12 dégâts psychiques ; poussée 3
-- **12-16 :** 17 dégâts psychiques ; poussée 5
-- **17+ :** 23 dégâts psychiques ; poussée 7
-
-######## Ancre Synaptique (11 Discipline)
-
-*Vous perturbez la frappe d'un ennemi et créez une boucle de rétroaction dans son esprit, l'empêchant de se concentrer sur de futures attaques.*
-
-| **Psionique**            |           **Déclenchée gratuite** |
-|--------------------------|---------------------------------:|
-| **📏 Soi ; voir ci-dessous** |  **🎯 Soi ou une créature** |
-
-**Déclencheur :** La cible subit des dégâts de l'aptitude d'une autre créature alors qu'elle se trouve dans la zone de votre aptitude Champ de Néant.
-
-**Effet :** La cible subit la moitié des dégâts, et si la créature déclencheuse a I < MOYEN, elle est étourdie (sauvegarde termine). Tant que la créature déclencheuse est étourdie de cette manière, elle subit des dégâts psychiques égaux à votre score d'Intuition chaque fois qu'elle utilise une action principale.
+> [!spell] Ancre Synaptique
+> 🏷️ *Psionique*
+> 
+> ***Vous perturbez la frappe d'un ennemi et créez une boucle de rétroaction dans son esprit, l'empêchant de se concentrer sur de futures attaques.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi ; voir ci-dessous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou une créature</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible subit des dégâts de l'aptitude d'une autre créature alors qu'elle se trouve dans la zone de votre aptitude Champ de Néant.
+> 
+> **💫 Effet:** La cible subit la moitié des dégâts, et si la créature déclencheuse a I < MOYEN, elle est étourdie (sauvegarde termine). Tant que la créature déclencheuse est étourdie de cette manière, elle subit des dégâts psychiques égaux à votre score d'Intuition chaque fois qu'elle utilise une action principale.
+> 
+> **🔥 Coût :** 11 Discipline
 
 ### Aptitudes de Niveau 9
 
@@ -1031,103 +1211,131 @@ Votre tradition du néant vous accorde le choix entre deux aptitudes héroïques
 
 Choisissez une des aptitudes suivantes.
 
-######## Cycle d'Arrêt (11 Discipline)
+> [!spell] Cycle d'Arrêt
+> 🏷️ *Psionique • Distance*
+> 
+> ***Vous piégez votre ennemi dans une boucle temporelle cyclique, où il revit les dernières secondes encore et encore.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La créature déclencheuse commence son tour.
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** I < FAIBLE, la cible perd son tour
+> - **12-16 :** I < MOYEN, la cible perd son tour
+> - **17+ :** I < FORT, la cible perd son tour
+> 
+> Si la cible perd son tour, le tour de combat continue comme si elle avait agi. Une cible qui ne perd pas son tour subit des dégâts psychiques égaux à deux fois votre score d'Intuition pour chaque action principale qu'elle effectue jusqu'à la fin de son prochain tour.
+> 
+> **🔥 Coût :** 11 Discipline
 
-*Vous piégez votre ennemi dans une boucle temporelle cyclique, où il revit les dernières secondes encore et encore.*
-
-| **Psionique, Distance** |  **Action déclenchée gratuite** |
-|-------------------------|--------------------------------:|
-| **📏 Distance 10**      | **🎯 Une créature** |
-
-**Déclencheur :** La créature déclencheuse commence son tour.
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** I < FAIBLE, la cible perd son tour
-- **12-16 :** I < MOYEN, la cible perd son tour
-- **17+ :** I < FORT, la cible perd son tour
-
-**Effet :** Si la cible perd son tour, le tour de combat continue comme si elle avait agi. Une cible qui ne perd pas son tour subit des dégâts psychiques égaux à deux fois votre score d'Intuition pour chaque action principale qu'elle effectue jusqu'à la fin de son prochain tour.
-
-######## Boucle Temporelle (11 Discipline)
-
-*Vous montrez aux ombres ce qu'est la vraie vitesse.*
-
-| **Psionique** | **Action déclenchée gratuite** |
-|---------------|-------------------------------:|
-| **📏 Soi**    |        **🎯 Soi** |
-
-**Déclencheur :** Une autre créature sur la carte de rencontre termine son tour.
-
-**Effet :** Vous prenez un tour bonus immédiatement après la créature déclencheuse. Cette aptitude ne peut être utilisée qu'une seule fois par tour de combat.
+> [!spell] Boucle Temporelle
+> 🏷️ *Psionique*
+> 
+> ***Vous montrez aux ombres ce qu'est la vraie vitesse.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** Une autre créature sur la carte de rencontre termine son tour.
+> 
+> **💫 Effet:** Vous prenez un tour bonus immédiatement après la créature déclencheuse. Cette aptitude ne peut être utilisée qu'une seule fois par tour de combat.
+> 
+> **🔥 Coût :** 11 Discipline
 
 ##### Aptitudes de Cryokinésiste de Niveau 9
-
 Choisissez l'une des aptitudes suivantes.
 
-######## Zéro Absolu (11 Discipline)
+> [!spell] Zéro Absolu
+> 🏷️ *Psionique*
+> 
+> ***Vous devenez la chose la plus froide du Chronoscape.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** Vous gagnez 20 points de Vigueur Temporaire.
+> - **12-16 :** Vous gagnez 30 points de Vigueur Temporaire.
+> - **17+ :** Vous gagnez 40 points de Vigueur Temporaire.
+> 
+> Jusqu'à la fin de la rencontre ou jusqu'à votre mort, vous devenez un avatar du froid le plus absolu. Vous gagnez une immunité à tous les dégâts égale à l'Immunité aux Dégâts de froid accordée par votre trait Adaptabilité Entropique, vous ignorez les effets négatifs de l'état Mourant, et vous avez un bonus de +2 aux Seuils.
+> 
+> **🔥 Coût :** 11 Discipline
 
-*Vous devenez la chose la plus froide du Chronoscape.*
-
-| **Psionique** | **Manœuvre** |
-|---------------|-------------:|
-| **📏 Soi**    |  **🎯 Soi** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** Vous gagnez 20 points de Vigueur Temporaire.
-- **12-16 :** Vous gagnez 30 points de Vigueur Temporaire.
-- **17+ :** Vous gagnez 40 points de Vigueur Temporaire.
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à votre mort, vous devenez un avatar du froid le plus absolu. Vous gagnez une immunité à tous les dégâts égale à l'Immunité aux Dégâts de froid accordée par votre trait Adaptabilité Entropique, vous ignorez les effets négatifs de l'état Mourant, et vous avez un bonus de +2 aux Seuils.
-
-######## Drain de Chaleur (11 Discipline)
-
-*Vous drainez toute la chaleur de la Cible.*
-
-| **Corps à corps, Psionique, Frappe** |        **Manœuvre** |
-|--------------------------------------|--------------------:|
-| **📏 Corps à corps 1**               | **🎯 Une Créature** |
-
-**Jet de Pouvoir + Intuition :**
-
-- **≤11 :** 8 + I dégâts de froid ; M < FAIBLE, Entravé (Sauvegarde Termine)
-- **12-16 :** 11 + I dégâts de froid ; M < MOYEN, Entravé (Sauvegarde Termine)
-- **17+ :** 15 + I dégâts de froid ; M < FORT, Entravé (Sauvegarde Termine)
-
-**Effet :** Tant qu'elle est Entravée de cette manière, la Cible subit des dégâts de froid égaux à votre score d'Intuition au début de chacun de vos Tours. De plus, chaque fois que la Cible inflige des dégâts à une autre Créature tant qu'elle est Entravée de cette manière, tout Seuil associé aux Dégâts est réduit de 2.
+> [!spell] Drain de Chaleur
+> 🏷️ *Corps à corps • Psionique • Frappe*
+> 
+> ***Vous drainez toute la chaleur de la Cible.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une Créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Intuition :
+> 
+> - **≤11 :** 8 + Int dégâts de froid ; M < FAIBLE, Entravé (Sauvegarde Termine)
+> - **12-16 :** 11 + Int dégâts de froid ; M < MOYEN, Entravé (Sauvegarde Termine)
+> - **17+ :** 15 + Int dégâts de froid ; M < FORT, Entravé (Sauvegarde Termine)
+> 
+> Tant qu'elle est Entravée de cette manière, la Cible subit des dégâts de froid égaux à votre score d'Intuition au début de chacun de vos Tours. De plus, chaque fois que la Cible inflige des dégâts à une autre Créature tant qu'elle est Entravée de cette manière, tout Seuil associé aux Dégâts est réduit de 2.
+> 
+> **🔥 Coût :** 11 Discipline
 
 ##### Aptitudes de Métacinétique de Niveau 9
-
 Choisissez l'une des aptitudes suivantes.
 
-######## Absorption Inertielle (11 Discipline)
+> [!spell] Absorption Inertielle
+> 🏷️ *Psionique*
+> 
+> ***Vous absorbez une attaque pour renforcer votre corps.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** Une autre créature vous inflige des dégâts en utilisant une aptitude.
+> 
+> **💫 Effet:** Vous subissez la moitié des dégâts, annulez tous les effets associés aux dégâts vous concernant, et gagnez 3 impulsions.
+> 
+> **🔥 Coût :** 11 Discipline
 
-*Vous absorbez une attaque pour renforcer votre corps.*
-
-| **Psionique** |                  **Action déclenchée gratuite** |
-| -----------------------------|------------------------------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Déclencheur :** Une autre créature vous inflige des dégâts en utilisant une aptitude.
-
-**Effet :** Vous subissez la moitié des dégâts, annulez tous les effets associés aux dégâts vous concernant, et gagnez 3 impulsions.
-
-######## Realitas (11 Discipline)
-
-*Votre hyperréalité essentielle perturbe la connexion de votre ennemi à l'existence.*
-
-| **Corps à corps, Psionique, Frappe, Arme** |     **Action principale** |
-|------------------------------------|--------------------:|
-| **📏 Corps à corps 1**                     | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 7 + A dégâts psychiques ; I < FAIBLE, étourdi
-- **12-16 :** 10 + A dégâts psychiques ; I < MOYEN, étourdi
-- **17+ :** 13 + A dégâts psychiques ; I < FORT, étourdi
-
-**Effet :** Tant qu'elle est étourdie de cette manière, la cible subit des dégâts psychiques égaux au double de votre score d'Intuition au début de chacun de vos tours. Si cette aptitude fait qu'une créature qui n'est pas un leader ou une créature solo devient essoufflée, elle est à la place réduite à 0 Vigueur. Toute créature réduite à 0 Vigueur par cette aptitude est oubliée par toutes les créatures de votre niveau ou inférieur dans le Chronoscape qui ne sont pas présentes dans la rencontre. Les proches de la créature oubliée conservent un vague sentiment de mélancolie. Cet effet ne peut être inversé qu'à la discrétion du Directeur.
+> [!spell] Realitas
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***Votre hyperréalité essentielle perturbe la connexion de votre ennemi à l'existence.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jet de Pouvoir + Agilité :
+> 
+> - **≤11 :** 7 + Agi dégâts psychiques ; I < FAIBLE, étourdi
+> - **12-16 :** 10 + Agi dégâts psychiques ; I < MOYEN, étourdi
+> - **17+ :** 13 + Agi dégâts psychiques ; I < FORT, étourdi
+> 
+> Tant qu'elle est étourdie de cette manière, la cible subit des dégâts psychiques égaux au double de votre score d'Intuition au début de chacun de vos tours. Si cette aptitude fait qu'une créature qui n'est pas un leader ou une créature solo devient essoufflée, elle est à la place réduite à 0 Vigueur. Toute créature réduite à 0 Vigueur par cette aptitude est oubliée par toutes les créatures de votre niveau ou inférieur dans le Chronoscape qui ne sont pas présentes dans la rencontre. Les proches de la créature oubliée conservent un vague sentiment de mélancolie. Cet effet ne peut être inversé qu'à la discrétion du Directeur.
+> 
+> **🔥 Coût :** 11 Discipline
 
 ### Aptitudes de Niveau 10
 
