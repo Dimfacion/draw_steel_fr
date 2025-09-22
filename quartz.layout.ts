@@ -23,7 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.MobileOnly(Component.TableOfContents()),
+    Component.MobileOnly(Component.TableOfContents({collapsedByDefault: true})),
   ],
   left: [
     Component.PageTitle(),
@@ -65,7 +65,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.TableOfContents({collapsedByDefault: false})),
     Component.Backlinks(),
   ],
 }

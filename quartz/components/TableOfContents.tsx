@@ -11,10 +11,12 @@ import { concatenateResources } from "../util/resources"
 
 interface Options {
   layout: "modern" | "legacy"
+  collapsedByDefault: boolean,
 }
 
 const defaultOptions: Options = {
   layout: "modern",
+  collapsedByDefault: false,
 }
 
 let numTocs = 0
@@ -29,6 +31,7 @@ export default ((opts?: Partial<Options>) => {
     if (!fileData.toc) {
       return null
     }
+    fileData.collapseToc = opts?.collapsedByDefault;
 
     const id = `toc-${numTocs++}`
     return (
