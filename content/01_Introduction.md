@@ -76,15 +76,15 @@ Ben ... vous savez... il y a des dragons et des trucs.
 
 Il vaut la peine de préciser - même si tout le monde sait déjà ce que fantasy signifie dans ce contexte que nous avons en tête quelque chose d'un peu plus étendu que la fantasy médiévale classique. Cela dit, nous aimons aussi ce classicisme ! Vasloria, notre plan de type fantasy européenne médiévale, regorge de chevaliers à cheval et de magiciens dans des tours. Mais nous aimons tout autant l'intrigue urbaine propre à la high fantasy, et donc nous développons Capitale, la Cité du Grand Jeu - la Plus Grande Cité de Cet Âge ou de Tout Autre Âge. Vasloria est principalement habitée par des humains, des elfes, des orcs et des nains, mais Capitale a des dizaines, _des centaines_ d'héritages différents dedans.
 
-Quand on regarde en arrière des films comme Star Wars ou les œuvres d’artistes comme Chris Foss, certains éléments des années 70 apparaissent aujourd’hui comme de la fantasy pure. Il n’y a rien de scientifique — ni même de plausible — dans un sabre laser ou un vaisseau spatial dessiné par John Berkey. Mais qu’est-ce que c’est stylé !
+Quand on regarde en arrière des films comme Star Wars ou les œuvres d’artistes comme Chris Foss, certains éléments des années 70 apparaissent aujourd’hui comme de la fantasy pure. Il n’y a rien de scientifique - ni même de plausible - dans un sabre laser ou un vaisseau spatial dessiné par John Berkey. Mais qu’est-ce que c’est impressionnant !
 
-Notre univers se déploie dans le chronoscape — notre multivers — dont le monde d’Orden, qui abrite Capitale et Vasloria, n’est qu’un fragment. Le chronoscape, lui, relève plus ouvertement de la space fantasy.
+Notre univers se déploie dans le chronoscape - notre multivers - dont le monde d’Orden, qui abrite Capitale et Vasloria, n’est qu’un fragment. Le chronoscape, lui, relève plus ouvertement de la space fantasy.
 
 Ces règles de base couvrent principalement de la fantasy classique. Mais nous pensons que Capitale et le chronoscape vont nous permettre de proposer un jeu où davantage de personnes pourront reconnaître leur fantasy dans nos mondes.
 
-Pour nous, la fantasy inclut bien sûr la magie — avec des magiciens qui lancent des sorts — mais aussi les pouvoirs psioniques : cette aptitude naturelle et concentrée qu’ont certaines créatures à manipuler ou tordre la réalité par la seule force de leur esprit. Télékinésie, télépathie… vous voyez le genre. A la Jean Grey de X-Men !
+Pour nous, la fantasy inclut bien sûr la magie - avec des magiciens qui lancent des sorts - mais aussi les pouvoirs psioniques : cette aptitude naturelle et concentrée qu’ont certaines créatures à manipuler ou tordre la réalité par la seule force de leur esprit. Télékinésie, télépathie… vous voyez le genre. A la Jean Grey de X-Men !
 
-### Si vous venez de la Fantasy type d20
+### Si vous êtes un habitué de la Fantasy typé D20
 
 Nous savons que beaucoup de gens viennent à ce jeu ayant seulement expérimenté des JDR fantasy d20. Cette section détaille quelques distinctions clés entre ce jeu et la fantasy d20 typique que vous remarquerez tout de suite. Ce ne sont pas les seules distinctions, mais ce sont les plus évidentes.
 
