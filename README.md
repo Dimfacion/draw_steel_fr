@@ -1,4 +1,8 @@
-# Quartz v4
+# draw_steel_fr
+French translation of Draw Steel
+This is based on Quartz v4 and uses Obsidian markdown flavor.
+
+## Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
@@ -9,7 +13,7 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
+### Sponsors
 
 <p align="center">
   <a href="https://github.com/sponsors/jackyzha0">
