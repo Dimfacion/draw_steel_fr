@@ -1,0 +1,8 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+.toc.mobile-only {
+    .collapsed:not(.toc-header) {
+        display: none;
+    }
+}

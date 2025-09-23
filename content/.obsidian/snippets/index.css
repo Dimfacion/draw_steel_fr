@@ -1,0 +1,24 @@
+/* Callout Spell */
+.callout[data-callout="spell"] {
+  --callout-color: 65, 105, 225; /* Royal Blue */
+  border-left: 3px solid rgba(var(--callout-color), 0.8);
+  background: rgba(var(--callout-color), 0.1);
+}
+
+/* Ou encore plus spécifique : réduire l'espace au début du contenu */
+.callout[data-callout="spell"] .callout-content > p:first-child {
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.callout[data-callout="spell"] .callout-title {
+    color: rgb(var(--callout-color));
+    font-size: 110%;
+}
+
+/* Callout Spell */
+.callout[data-callout="creature"] {
+  --callout-color: 53, 94, 59; /* Royal Blue */
+  border-left: 3px solid rgba(var(--callout-color), 0.8);
+  background: rgba(var(--callout-color), 0.1);
+}
