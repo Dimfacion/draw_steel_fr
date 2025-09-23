@@ -1,3 +1,7 @@
+---
+title: Haut Elfe
+---
+
 ## Haut Elfe
 
 Enfants des célestes solaires créés pour entretenir leurs bibliothèques et servir les véritables elfes en tant que hérauts, l'histoire des hauts elfes décrit un âge meilleur, avant l'arrivée des Humains et de la guerre. Une époque où les célestes étaient encore dans le monde, et où seuls l'art et la beauté comptaient.

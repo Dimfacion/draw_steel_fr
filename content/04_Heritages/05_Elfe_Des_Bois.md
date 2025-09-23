@@ -1,3 +1,7 @@
+---
+title: Elfe des Bois
+---
+
 ## Elfe des Bois
 
 Enfants des célestes sylvestres et maîtres des forêts hantées par les elfes appelées wodes, les elfes des bois considèrent toutes les forêts comme leur domaine de droit divin. Ils connaissent et apprécient leur réputation parmi les Humains d'enlever les enfants qui s'aventurent trop loin dans les bois. Les Humains *devraient* craindre les arbres.

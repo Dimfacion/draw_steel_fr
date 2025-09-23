@@ -1,3 +1,7 @@
+---
+title: Introduction
+---
+
 # Introduction
 
 ## C'est quoi, ce jeu ?

@@ -1,3 +1,7 @@
+---
+title: Néant
+---
+
 ## Néant
 
 L'esprit ne fait qu'un avec le corps. La perfection de l'un exige la perfection de l'autre. Tu aspires à une discipline parfaite, un ordre parfait, la maîtrise de l'esprit et du corps, devenant un guerrier psionique désarmé qui atténue et absorbe la magie et les psioniques. Tu n'as besoin d'aucune arme, d'aucun outil. Tu te suffis à toi-même.

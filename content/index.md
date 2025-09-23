@@ -10,9 +10,3 @@ Nous vous suggérons de commencer par l'[[01_Introduction|Introduction]]
 Cette traduction est encore en cours et a été généré par IA pour avoir une première version imparfaite mais rapide. Nous sommes conscients de ses défauts mais nous travaillons constamment à l'améliorer.
 Nous avons aussi choisi de parfois s'éloigner légèrement de l'organisation originel pour assurer la transition d'un livre vers un site fait de sections non linéaires.
 Si vous voulez nous remonter un problème ou nous aider, vous pouvez vous rendre sur le projet [github](https://github.com/Dimfacion/draw_steel_fr).
-
----
-
-drawsteel.fr est un produit indépendant publié sous la Licence Créateur *DRAW STEEL* et n'est pas affilié à MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC. 
-
-drawsteel.fr is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC. 

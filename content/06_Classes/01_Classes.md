@@ -1,3 +1,7 @@
+---
+title: Classes
+---
+
 # Classes
 
 Bien que toutes vos décisions de création de personnage aient un poids narratif, aucune n'influence votre façon de jouer autant que le choix de votre classe. Votre classe détermine comment votre héros combat les menaces du Chronoscape et surmonte les autres obstacles. Pliez-vous les forces élémentaires à votre volonté grâce à la pratique experte de sorts magiques ? Canalisez-vous la Férocité du Chaos Primordial en déchirant le champ de bataille, abattant vos ennemis les uns après les autres ? Ou entonnez-vous des ballades héroïques qui redonnent un second souffle à vos alliés et les inspirent vers de plus grands exploits ?

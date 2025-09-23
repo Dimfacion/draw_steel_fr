@@ -1,3 +1,7 @@
+---
+title: Orc
+---
+
 ## Orc
 
 Une colère qui ne peut être dissimulée. Une furie qui les pousse au combat. Les orcs sont réputés dans le monde entier comme des guerriers consommés — une réputation que les orcs pacifiques trouvent déplaisante.

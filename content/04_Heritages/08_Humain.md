@@ -1,3 +1,7 @@
+---
+title: Humain
+---
+
 ## Humain
 
 Les Humains appartiennent au monde d'une façon que les autres peuples parlants ne connaissent pas. Vous pouvez sentir la présence du Surnaturel—cette... odeur huileuse dans l'air, comme je l'ai entendu décrire. Et la Présence des sans-mort fait se dresser les poils sur votre nuque.  Pour quelle autre raison pensez-vous que les cimetières vous affectent ainsi ? Quelle que soit la nature de la magie, son emprise sur vous est légère. Quoi que ce soit qui anime les sans-mort, votre nature se rebelle contre cela.

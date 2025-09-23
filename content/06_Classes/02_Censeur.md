@@ -1,3 +1,7 @@
+---
+title: Censeur
+---
+
 ## Censeur
 
 Les démons et les morts-vivants vous craignent. Les criminels fuient à la vue de votre ombre. Les agents du chaos, les blasphémateurs et les hérétiques tremblent au son de votre voix. Vous portez le pouvoir des dieux, armé de courroux et envoyé dans le monde d'abord pour chercher, puis censurer ceux dont les actions—ou même l'existence—sont l'anathème de votre église.

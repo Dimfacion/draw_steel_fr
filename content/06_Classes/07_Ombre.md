@@ -1,3 +1,7 @@
+---
+title: Ombre
+---
+
 ## Ombre
 
 La subtilité est votre art, la pointe de la lame votre pinceau. Vous avez étudié dans un collège secret, vous spécialisant en alchimie, illusion ou magie de l'ombre. Votre formation et vos connaissances vous placent parmi les rangs d'élite des assassins, espions et commandos. Mais plus puissante que n'importe quelle arme ou sorcellerie est votre perspicacité face aux faiblesses de vos ennemis.
@@ -244,69 +248,77 @@ Vous vous spécialisez dans l'art d'infliger des dégâts, puis de vous mettre �
 
 Choisissez une aptitude signature parmi les options suivantes. Les aptitudes signatures peuvent être utilisées à volonté. (*Construction Rapide :* Le Travail d'Équipe a sa Place.)
 
-######## Haleter de Douleur
+> [!spell] Haleter de Douleur
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Vos frappes précises permettent à vos alliés de tirer parti de l'agonie d'une cible.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 3 + A dégâts
+> - **12-16 :** 5 + A dégâts
+> - **17+ :** 8 + A dégâts ; I < FORT, à terre
+> 
+> **💫 Effet :** Un allié dans un rayon de 5 cases de la cible gagne 1 impulsion.
 
-*Vos frappes précises permettent à vos alliés de tirer parti de l'agonie d'une cible.*
+> [!spell] Je Travaille Mieux Seul
+> 🏷️ *Corps à corps • Distance • Frappe • Arme*
+> 
+> ***« C'est mieux, juste toi et moi. N'est-ce pas ? »***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 3 + A dégâts
+> - **12-16 :** 6 + A dégâts
+> - **17+ :** 9 + A dégâts
+> 
+> **💫 Effet :** Si la cible n'a aucun de vos alliés adjacent à elle, vous gagnez 1 impulsion avant de faire le jet de pouvoir.
 
-| **Corps à corps, Frappe, Arme** |     **Action principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à corps 1**           | **🎯 Une créature** |
+> [!spell] Le Travail d'Équipe a sa Place
+> 🏷️ *Corps à corps • Distance • Frappe • Arme*
+> 
+> ***Vous attaquez un ennemi tandis qu'un allié expose sa faiblesse.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 3 + A dégâts
+> - **12-16 :** 6 + A dégâts
+> - **17+ :** 9 + A dégâts
+> 
+> **💫 Effet :** Si un allié est adjacent à la cible, vous gagnez 1 impulsion avant de faire le jet de pouvoir.
 
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 3 + A dégâts
-- **12-16 :** 5 + A dégâts
-- **17+ :** 8 + A dégâts ; I < FORT, à terre
-
-**Effet :** Un allié dans un rayon de 5 cases de la cible gagne 1 impulsion.
-
-######## Je Travaille Mieux Seul
-
-*« C'est mieux, juste toi et moi. N'est-ce pas ? »*
-
-| **Corps à corps, Distance, Frappe, Arme** |     **Action principale** |
-|--------------------------------------------|---------------------------:|
-| **📏 Corps à corps 1 ou distance 5**      | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 3 + A dégâts
-- **12-16 :** 6 + A dégâts
-- **17+ :** 9 + A dégâts
-
-**Effet :** Si la cible n'a aucun de vos alliés adjacent à elle, vous gagnez 1 impulsion avant de faire le jet de pouvoir.
-
-######## Le Travail d'Équipe a sa Place
-
-*Vous attaquez un ennemi tandis qu'un allié expose sa faiblesse.*
-
-| **Corps à corps, Distance, Frappe, Arme** |               **Action principale** |
-|--------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1 ou distance 5**      | **🎯 Une créature ou objet** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 3 + A dégâts
-- **12-16 :** 6 + A dégâts
-- **17+ :** 9 + A dégâts
-
-**Effet :** Si un allié est adjacent à la cible, vous gagnez 1 impulsion avant de faire le jet de pouvoir.
-
-######## Tu Regardais le Mauvais
-
-*Ils ne peuvent pas vous surveiller tous les deux à la fois.*
-
-| **Corps à corps, Frappe, Arme** |     **Action principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 3 + A dégâts
-- **12-16 :** 5 + A dégâts
-- **17+ :** 8 + A dégâts
-
-**Effet :** Tant que vous avez un ou plusieurs alliés dans un rayon de 5 cases de la cible, vous gagnez 1 impulsion. Si vous flanquez la cible quand vous utilisez cette aptitude, choisissez un allié qui flanque avec vous. Cet allié gagne également 1 impulsion.
+> [!spell] Tu Regardais le Mauvais
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Ils ne peuvent pas vous surveiller tous les deux à la fois.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 3 + A dégâts
+> - **12-16 :** 5 + A dégâts
+> - **17+ :** 8 + A dégâts
+> 
+> **💫 Effet :** Tant que vous avez un ou plusieurs alliés dans un rayon de 5 cases de la cible, vous gagnez 1 impulsion. Si vous flanquez la cible quand vous utilisez cette aptitude, choisissez un allié qui flanque avec vous. Cet allié gagne également 1 impulsion.
 
 ##### Aptitudes Héroïques
 
@@ -316,121 +328,138 @@ Une gamme d'aptitudes héroïques définit vos prouesses au combat, toutes utili
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 perspicacité à utiliser. (*Construction Rapide :* Entrer et Sortir.)
 
-######## Frappe Désorientante (3 Perspicacité)
+> [!spell] Frappe Désorientante (3 Perspicacité)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Votre attaque les laisse chancelants, vous permettant d'enchaîner.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 4 + A dégâts ; glissement 2
+> - **12-16 :** 6 + A dégâts ; glissement 3
+> - **17+ :** 10 + A dégâts ; glissement 5
+> 
+> **💫 Effet :** Vous pouvez glisser dans n'importe quelle case que la cible quitte quand vous la faites glisser.
 
-*Votre attaque les laisse chancelants, vous permettant d'enchaîner.*
+> [!spell] Éviscération (3 Perspicacité)
+> 🏷️ *Corps à corps • Distance • Frappe • Arme*
+> 
+> ***Vous laissez votre ennemi se vider de son sang après une attaque dévastatrice.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 4 + A dégâts ; R < FAIBLE, saignement (sauvegarde termine)
+> - **12-16 :** 6 + A dégâts ; R < MOYEN, saignement (sauvegarde termine)
+> - **17+ :** 10 + A dégâts ; R < FORT, saignement (sauvegarde termine)
 
-| **Corps à corps, Frappe, Arme** |     **Action principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à corps 1**           | **🎯 Une créature** |
+> [!spell] Entrer et Sortir (3 Perspicacité)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Bougez de manière inattendue, frappez vite, et disparaissez !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 5 + A dégâts
+> - **12-16 :** 8 + A dégâts
+> - **17+ :** 11 + A dégâts
 
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 + A dégâts ; glissement 2
-- **12-16 :** 6 + A dégâts ; glissement 3
-- **17+ :** 10 + A dégâts ; glissement 5
-
-**Effet :** Vous pouvez glisser dans n'importe quelle case que la cible quitte quand vous la faites glisser.
-
-######## Éviscération (3 Perspicacité)
-
-*Vous laissez votre ennemi se vider de son sang après une attaque dévastatrice.*
-
-| **Corps à corps, Distance, Frappe, Arme** |     **Action principale** |
-|--------------------------------------------|---------------------------:|
-| **📏 Corps à corps 1 ou distance 5**      | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 + A dégâts ; R < FAIBLE, saignement (sauvegarde termine)
-- **12-16 :** 6 + A dégâts ; R < MOYEN, saignement (sauvegarde termine)
-- **17+ :** 10 + A dégâts ; R < FORT, saignement (sauvegarde termine)
-
-######## Entrer et Sortir (3 Perspicacité)
-
-*Bougez de manière inattendue, frappez vite, et disparaissez !*
-
-| **Corps à corps, Frappe, Arme** |     **Action principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 5 + A dégâts
-- **12-16 :** 8 + A dégâts
-- **17+ :** 11 + A dégâts
-
-######## Deux Gorges à la Fois (3 Perspicacité)
-
-*Une affaire.*
-
-| **Corps à corps, Distance, Frappe, Arme** |                 **Action principale** |
-|--------------------------------------------|---------------------------------------:|
-| **📏 Corps à corps 1 ou distance 5**      | **🎯 Deux créatures ou objets** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 dégâts
-- **12-16 :** 6 dégâts
-- **17+ :** 10 dégâts
+> [!spell] Deux Gorges à la Fois (3 Perspicacité)
+> 🏷️ *Corps à corps • Distance • Frappe • Arme*
+> 
+> ***Une affaire.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux créatures ou objets</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 4 dégâts
+> - **12-16 :** 6 dégâts
+> - **17+ :** 10 dégâts
 
 ##### Aptitude 5-Perspicacité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 perspicacité à utiliser. (Construction Rapide : Coup de Grâce.)
 
-######## Coup de Grâce (5 Perspicacité)
+> [!spell] Coup de Grâce (5 Perspicacité)
+> 🏷️ *Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Votre lame pourrait être la dernière chose qu'ils voient.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 2d6 + 7 + A dégâts
+> - **12-16 :** 2d6 + 11 + A dégâts
+> - **17+ :** 2d6 + 16 + A dégâts
 
-*Votre lame pourrait être la dernière chose qu'ils voient.*
+> [!spell] Cent Gorges (5 Perspicacité)
+> 🏷️ *Corps à Corps • Arme*
+> 
+> ***Alors que vous vous déplacez sur le champ de bataille, chaque ennemi à portée ressent votre courroux.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi ; voir ci-dessous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous glissez jusqu'à votre vitesse et effectuez un jet de pouvoir qui cible jusqu'à trois ennemis qui sont devenus adjacents à vous durant le déplacement.
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 3 dégâts
+> - **12-16 :** 6 dégâts
+> - **17+ :** 9 dégâts
 
-| **Corps à Corps, Distance, Frappe, Arme** |     **Action principale** |
-|-------------------------------------------|-------------------------:|
-| **📏 Corps à corps 1 ou distance 5**      | **🎯 Une créature** |
+> [!spell] Préparation (5 Perspicacité)
+> 🏷️ *Distance • Frappe • Arme*
+> 
+> ***Vos amis vous remercieront.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 6 + A dégâts ; R < FAIBLE, la cible a faiblesse aux dégâts 5 (sauvegarde termine)
+> - **12-16 :** 9 + A dégâts ; R < MOYEN, la cible a faiblesse aux dégâts 5 (sauvegarde termine)
+> - **17+ :** 13 + A dégâts ; R < FORT, la cible a faiblesse aux dégâts 5 (sauvegarde termine)
 
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 2d6 + 7 + A dégâts
-- **12-16 :** 2d6 + 11 + A dégâts
-- **17+ :** 2d6 + 16 + A dégâts
-
-######## Cent Gorges (5 Perspicacité)
-
-*Alors que vous vous déplacez sur le champ de bataille, chaque ennemi à portée ressent votre courroux.*
-
-| **Corps à Corps, Arme**      | **Action principale** |
-|------------------------------|---------------------:|
-| **📏 Soi ; voir ci-dessous** |     **🎯 Soi** |
-
-**Effet :** Vous glissez jusqu'à votre vitesse et effectuez un jet de pouvoir qui cible jusqu'à trois ennemis qui sont devenus adjacents à vous durant le déplacement.
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 3 dégâts
-- **12-16 :** 6 dégâts
-- **17+ :** 9 dégâts
-
-######## Préparation (5 Perspicacité)
-
-*Vos amis vous remercieront.*
-
-| **Distance, Frappe, Arme** |     **Action principale** |
-|----------------------------|-------------------------:|
-| **📏 Distance 5**          | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 6 + A dégâts ; R < FAIBLE, la cible a faiblesse aux dégâts 5 (sauvegarde termine)
-- **12-16 :** 9 + A dégâts ; R < MOYEN, la cible a faiblesse aux dégâts 5 (sauvegarde termine)
-- **17+ :** 13 + A dégâts ; R < FORT, la cible a faiblesse aux dégâts 5 (sauvegarde termine)
-
-######## Frappe d'Ombre (5 Perspicacité)
-
-*Ils n'ont aucune idée de ce que l'académie vous a enseigné.*
-
-| **Magie, Corps à Corps, Distance** | **Action principale** |
-|-----------------------------------|---------------------:|
-| **📏 Soi ; voir ci-dessous** |     **🎯 Soi** |
-
-**Effet :** Vous utilisez une aptitude signature de frappe deux fois.
+> [!spell] Frappe d'Ombre (5 Perspicacité)
+> 🏷️ *Magie • Corps à Corps • Distance*
+> 
+> ***Ils n'ont aucune idée de ce que l'académie vous a enseigné.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi ; voir ci-dessous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous utilisez une aptitude signature de frappe deux fois.
 
 ### Aptitudes de Niveau 2
 
@@ -474,99 +503,113 @@ Votre collège d'ombre vous accorde le choix entre deux aptitudes héroïques.
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Dans un Nuage de Cendre (5 Perspicacité)
+> [!spell] Dans un Nuage de Cendre (5 Perspicacité)
+> 🏷️ *Magie • Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Vous enchantez une frappe avec votre magie de téléportation.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 6 + A dégâts ; vous pouvez téléporter la cible de 1 case
+> - **12-16 :** 10 + A dégâts ; vous pouvez téléporter la cible jusqu'à 3 cases
+> - **17+ :** 14 + A dégâts ; vous pouvez téléporter la cible jusqu'à 5 cases
 
-*Vous enchantez une frappe avec votre magie de téléportation.*
-
-| **Magie, Corps à Corps, Distance, Frappe, Arme** |     **Action principale** |
-|--------------------------------------------------|-------------------------:|
-| **📏 Corps à corps 1 ou distance 5**            | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 6 + A dégâts ; vous pouvez téléporter la cible de 1 case
-- **12-16 :** 10 + A dégâts ; vous pouvez téléporter la cible jusqu'à 3 cases
-- **17+ :** 14 + A dégâts ; vous pouvez téléporter la cible jusqu'à 5 cases
-
-######## Trop Lent (5 Perspicacité)
-
-*Votre ennemi a commis une grave erreur.*
-
-| **-**                        | **Action déclenchée gratuite** |
-|------------------------------|-------------------------------:|
-| **📏 Personnel ; voir ci-dessous** |        **🎯 Personnel** |
-
-**Déclencheur :** Vous utilisez votre aptitude Dans Toute Cette Confusion.
-
-**Effet :** Vous ignorez tous les effets associés aux dégâts qui ont déclenché votre aptitude Dans Toute Cette Confusion. Avant de vous téléporter, vous pouvez effectuer une Frappe Gratuite contre une créature qui vous a infligé des dégâts pour déclencher Dans Toute Cette Confusion. Après vous être téléporté, vous pouvez dépenser une Récupération.
+> [!spell] Trop Lent (5 Perspicacité)
+> 🏷️ *Action déclenchée gratuite*
+> 
+> ***Votre ennemi a commis une grave erreur.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Personnel ; voir ci-dessous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Personnel</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** Vous utilisez votre aptitude Dans Toute Cette Confusion.
+> 
+> **💫 Effet:** Vous ignorez tous les effets associés aux dégâts qui ont déclenché votre aptitude Dans Toute Cette Confusion. Avant de vous téléporter, vous pouvez effectuer une Frappe Gratuite contre une créature qui vous a infligé des dégâts pour déclencher Dans Toute Cette Confusion. Après vous être téléporté, vous pouvez dépenser une Récupération.
 
 ##### Aptitude d'Alchimie Caustique de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Bombe Collante (5 Perspicacité)
+> [!spell] Bombe Collante (5 Perspicacité)
+> 🏷️ *À distance*
+> 
+> ***Les explosifs sont plus efficaces quand ils sont attachés à un ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous attachez une petite bombe à une créature. Si vous êtes caché de la créature, elle ne remarque pas la bombe et vous restez caché. Sinon, la créature remarque la bombe et peut la désarmer et la retirer par une action principale. Si elle ne le fait pas, à la fin de votre prochain tour, la bombe explose. Quand la bombe explose, vous effectuez un jet de pouvoir ciblant chaque ennemi dans un rayon de 2 cases.
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 4 + A dégâts de feu
+> - **12-16 :** 7 + A dégâts de feu
+> - **17+ :** 11 + A dégâts de feu
 
-*Les explosifs sont plus efficaces quand ils sont attachés à un ennemi.*
-
-| **À distance**       |     **Action principale** |
-|----------------------|---------------------------:|
-| **📏 À distance 10** | **🎯 Une créature** |
-
-**Effet :** Vous attachez une petite bombe à une créature. Si vous êtes caché de la créature, elle ne remarque pas la bombe et vous restez caché. Sinon, la créature remarque la bombe et peut la désarmer et la retirer par une action principale. Si elle ne le fait pas, à la fin de votre prochain tour, la bombe explose. Quand la bombe explose, vous effectuez un jet de pouvoir ciblant chaque ennemi dans un rayon de 2 cases.
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 + A dégâts de feu
-- **12-16 :** 7 + A dégâts de feu
-- **17+ :** 11 + A dégâts de feu
-
-######## Bombe Puante (5 Perspicacité)
-
-*Un gaz jaune putride explose d'une bombe que vous lancez.*
-
-| **Zone, À distance**        |                  **Action principale** |
-|------------------------------|-----------------------------------------:|
-| **📏 Cube de 3 à portée 10** | **🎯 Chaque créature dans la zone** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 2 dégâts de poison
-- **12-16 :** 5 dégâts de poison
-- **17+ :** 7 dégâts de poison
-
-**Effet :** Le gaz reste dans la zone jusqu'à la fin de la rencontre. Toute créature qui commence son tour dans la zone et dont la F < MOYENNE est affaiblie (sauvegarde termine).
+> [!spell] Bombe Puante (5 Perspicacité)
+> 🏷️ *Zone • À distance*
+> 
+> ***Un gaz jaune putride explose d'une bombe que vous lancez.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 3 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque créature dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 2 dégâts de poison
+> - **12-16 :** 5 dégâts de poison
+> - **17+ :** 7 dégâts de poison
+> 
+> **💫 Effet:** Le gaz reste dans la zone jusqu'à la fin de la rencontre. Toute créature qui commence son tour dans la zone et dont la F < MOYENNE est affaiblie (sauvegarde termine).
 
 ##### Aptitude de Masque d'Arlequin de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Machinations Sonores (5 Perspicacité)
+> [!spell] Machinations Sonores (5 Perspicacité)
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***Des sons illusoires poussent vos ennemis à se repositionner tandis qu'ils se terrent ou enquêtent sur la perturbation.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 3 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque créature dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** Glissement 4
+> - **12-16 :** Glissement 5
+> - **17+ :** Glissement 7
+> 
+> **💫 Effet:** Ce déplacement forcé ignore la stabilité. À la place, le déplacement forcé est réduit d'un nombre égal au score d'Intuition de la cible.
 
-*Des sons illusoires poussent vos ennemis à se repositionner tandis qu'ils se terrent ou enquêtent sur la perturbation.*
-
-| **Zone, Magie, Distance** |                     **Manœuvre** |
-|----------------------------|----------------------------------:|
-| **📏 Cube de 3 à portée 10** | **🎯 Chaque créature dans la zone** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** Glissement 4
-- **12-16 :** Glissement 5
-- **17+ :** Glissement 7
-
-**Effet :** Ce déplacement forcé ignore la stabilité. À la place, le déplacement forcé est réduit d'un nombre égal au score d'Intuition de la cible.
-
-######## Si Crédule (5 Perspicacité)
-
-*Quand votre ennemi frappe, vous révélez que vous étiez ailleurs depuis le début.*
-
-| **Magie**            | **Action déclenchée gratuite** |
-|----------------------|-------------------------------:|
-| **📏 Soi**           |                    **🎯 Soi** |
-
-**Déclencheur :** Une autre créature vous cible avec une frappe.
-
-**Effet :** Vous utilisez votre aptitude Ruse Astucieuse sans coût en perspicacité contre la créature et la frappe déclencheuses. Vous pouvez vous téléporter vers un espace inoccupé dans un rayon de 3 cases de cette créature et pouvez effectuer une frappe gratuite contre elle. Vous pouvez ensuite dépenser une Récupération.
+> [!spell] Si Crédule (5 Perspicacité)
+> 🏷️ *Magie*
+> 
+> ***Quand votre ennemi frappe, vous révélez que vous étiez ailleurs depuis le début.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** Une autre créature vous cible avec une frappe.
+> 
+> **💫 Effet:** Vous utilisez votre aptitude Ruse Astucieuse sans coût en perspicacité contre la créature et la frappe déclencheuses. Vous pouvez vous téléporter vers un espace inoccupé dans un rayon de 3 cases de cette créature et pouvez effectuer une frappe gratuite contre elle. Vous pouvez ensuite dépenser une Récupération.
 
 ### Aptitudes de Niveau 3
 
@@ -576,73 +619,85 @@ En tant qu'ombre de niveau 3, vous gagnez les aptitudes suivantes.
 
 Vous possédez l'aptitude suivante.
 
-######## Observation Attentive
-
-*Un moment de concentration permet de garder fermement un ennemi dans sa ligne de mire.*
-
-| **À Distance**       |        **Manœuvre** |
-|------------------|--------------------:|
-| **📏 Distance 20** | **🎯 Une créature** |
-
-**Effet :** Tant que vous restez à distance de la cible, maintenez une ligne d'effet vers elle, et ne frappez aucune autre créature en premier, vous gagnez un avantage sur la prochaine frappe que vous effectuez contre la créature évaluée, et gagnez 1 impulsion que vous ne pouvez utiliser que sur cette frappe.
+> [!spell] Observation Attentive
+> 🏷️ *À Distance*
+> 
+> ***Un moment de concentration permet de garder fermement un ennemi dans sa ligne de mire.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 20</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet:** Tant que vous restez à distance de la cible, maintenez une ligne d'effet vers elle, et ne frappez aucune autre créature en premier, vous gagnez un avantage sur la prochaine frappe que vous effectuez contre la créature évaluée, et gagnez 1 impulsion que vous ne pouvez utiliser que sur cette frappe.
 
 #### Aptitude à 7 Perspicacité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 perspicacité à utiliser.
 
-######## Danseur (7 Perspicacité)
+> [!spell] Danseur (7 Perspicacité)
+> 🏷️ *Manœuvre*
+> 
+> ***Vous entrez dans un état de fluidité qui vous rend presque impossible à immobiliser.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Jusqu'à la fin de la rencontre, chaque fois qu'un ennemi se déplace ou est déplacé de force adjacent à vous ou vous inflige des dégâts, vous pouvez effectuer l'Action de Déplacement - Désengagement comme une Action Déclenchée Gratuite.
 
-*Vous entrez dans un état de fluidité qui vous rend presque impossible à immobiliser.*
+> [!spell] Frappe Déroutante (7 Perspicacité)
+> 🏷️ *Corps à corps • Distance • Frappe • Arme*
+> 
+> ***« Pourquoi tu ME regardes ?! »***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 9 + A dégâts
+> - **12-16 :** 13 + A dégâts
+> - **17+ :** 18 + A dégâts
+> 
+> **💫 Effet:** La cible est sous l'effet de Narguer par un allié consentant dans un rayon de 5 cases de vous jusqu'à la fin du prochain tour de la cible.
 
-| **-**       | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
+> [!spell] Tir d'Immobilisation (7 Perspicacité)
+> 🏷️ *Distance • Frappe • Arme*
+> 
+> ***Un projectile — bien placé et bien enfoncé.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 8 + A dégâts ; A < FAIBLE, Entravé (Sauvegarde Termine)
+> - **12-16 :** 12 + A dégâts ; A < MOYEN, Entravé (Sauvegarde Termine)
+> - **17+ :** 16 + A dégâts ; A < FORT, Entravé (Sauvegarde Termine)
 
-**Effet :** Jusqu'à la fin de la rencontre, chaque fois qu'un ennemi se déplace ou est déplacé de force adjacent à vous ou vous inflige des dégâts, vous pouvez effectuer l'Action de Déplacement - Désengagement comme une Action Déclenchée Gratuite.
-
-######## Frappe Déroutante (7 Perspicacité)
-
-*« Pourquoi tu ME regardes ?! »*
-
-| **Corps à corps, Distance, Frappe, Arme** |     **Action Principale** |
-|-----------------------------------|--------------------:|
-| **📏 Corps à corps 1 ou distance 5**        | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 9 + A dégâts
-- **12-16 :** 13 + A dégâts
-- **17+ :** 18 + A dégâts
-
-**Effet :** La cible est sous l'effet de Narguer par un allié consentant dans un rayon de 5 cases de vous jusqu'à la fin du prochain tour de la cible.
-
-######## Tir d'Immobilisation (7 Perspicacité)
-
-*Un projectile — bien placé et bien enfoncé.*
-
-| **Distance, Frappe, Arme** |     **Action Principale** |
-|----------------------------|--------------------:|
-| **📏 Distance 5**            | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 8 + A dégâts ; A < FAIBLE, Entravé (Sauvegarde Termine)
-- **12-16 :** 12 + A dégâts ; A < MOYEN, Entravé (Sauvegarde Termine)
-- **17+ :** 16 + A dégâts ; A < FORT, Entravé (Sauvegarde Termine)
-
-######## Coup Étourdissant (7 Perspicacité)
-
-*Il n'y a pas de récupération possible après ça.*
-
-| **Corps à corps, Distance, Frappe, Arme** |     **Action Principale** |
-|-----------------------------------|--------------------:|
-| **📏 Corps à corps 1 ou distance 5**        | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 7 + A dégâts ; M < FAIBLE, Ralenti (Sauvegarde Termine)
-- **12-16 :** 11 + A dégâts ; M < MOYEN, À Terre et ne peut pas se lever (Sauvegarde Termine)
-- **17+ :** 16 + A dégâts ; M < FORT, À Terre et ne peut pas se lever (Sauvegarde Termine)
+> [!spell] Coup Étourdissant (7 Perspicacité)
+> 🏷️ *Corps à corps • Distance • Frappe • Arme*
+> 
+> ***Il n'y a pas de récupération possible après ça.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 7 + A dégâts ; M < FAIBLE, Ralenti (Sauvegarde Termine)
+> - **12-16 :** 11 + A dégâts ; M < MOYEN, À Terre et ne peut pas se lever (Sauvegarde Termine)
+> - **17+ :** 16 + A dégâts ; M < FORT, À Terre et ne peut pas se lever (Sauvegarde Termine)
 
 ### Aptitudes de Niveau 4
 
@@ -662,17 +717,20 @@ Votre sens de la discrétion montre à ceux qui vous entourent comment échapper
 
 De plus, vous disposez de l'aptitude suivante.
 
-######## Veille Nocturne
-
-*Une dague d'acier surgit de nulle part et dévie une autre arme de sa trajectoire.*
-
-| **À Distance, Arme** |   **Déclenchée** |
-|----------------------|-----------------:|
-| **📏 Distance 5**    | **🎯 Un allié** |
-
-**Déclencheur :** La cible subit des dégâts de l'aptitude d'une autre créature alors que vous êtes caché.
-
-**Effet :** La cible subit la moitié des dégâts. Vous restez caché.
+> [!spell] Veille Nocturne
+> 🏷️ *À Distance • Arme*
+> 
+> ***Une dague d'acier surgit de nulle part et dévie une autre arme de sa trajectoire.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible subit des dégâts de l'aptitude d'une autre créature alors que vous êtes caché.
+> 
+> **💫 Effet:** La cible subit la moitié des dégâts. Vous restez caché.
 
 #### Avantage
 
@@ -724,63 +782,72 @@ De plus, votre aptitude Roulade Défensive vous permet maintenant de glisser jus
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 perspicacité à utiliser.
 
-######## Blackout (9 Perspicacité)
+> [!spell] Blackout (9 Perspicacité)
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous faites jaillir un panache d'ombre de vos yeux et créez un nuage de ténèbres.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet:** Un nuage noir remplit la zone jusqu'à la fin de votre prochain tour, accordant dissimulation à vous et vos alliés contre les ennemis. Tant que vous êtes dans la zone, chaque fois qu'un ennemi termine son tour dans la zone, vous pouvez utiliser une action déclenchée gratuite pour glisser vers un nouvel emplacement dans la zone et effectuer une frappe gratuite contre lui.
 
-*Vous faites jaillir un panache d'ombre de vos yeux et créez un nuage de ténèbres.*
+> [!spell] Into the Shadows (9 Perspicacité)
+> 🏷️ *Magie • Corps à Corps • Frappe • Arme*
+> 
+> ***Vous faites perdre l'équilibre à votre adversaire et le plongez dans les ténèbres absolues.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous et la cible êtes retirés de la carte de rencontre jusqu'au début de votre prochain tour. Vous réapparaissez dans les espaces que vous avez quittés ou dans les espaces inoccupés les plus proches. Effectuez un jet de pouvoir à votre retour.
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 8 + A dégâts de corruption
+> - **12-16 :** 13 + A dégâts de corruption
+> - **17+ :** 17 + A dégâts de corruption
 
-| **Zone, Magie** |   **Manœuvre** |
-|------------------|---------------:|
-| **📏 Explosion 3**  | **🎯 Spécial** |
+> [!spell] Shadowfall (9 Perspicacité)
+> 🏷️ *Zone • Corps à Corps • Arme*
+> 
+> ***Vous disparaissez. Ils tombent. Vous réapparaissez.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Ligne 10 x 1 à portée 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 10 dégâts
+> - **12-16 :** 14 dégâts
+> - **17+ :** 20 dégâts
+> 
+> **💫 Effet:** Vous disparaissez avant d'effectuer le jet de pouvoir. Une fois le jet de pouvoir résolu, vous apparaissez dans le premier espace inoccupé à l'extrémité de la ligne.
 
-**Effet :** Un nuage noir remplit la zone jusqu'à la fin de votre prochain tour, accordant dissimulation à vous et vos alliés contre les ennemis. Tant que vous êtes dans la zone, chaque fois qu'un ennemi termine son tour dans la zone, vous pouvez utiliser une action déclenchée gratuite pour glisser vers un nouvel emplacement dans la zone et effectuer une frappe gratuite contre lui.
-
-######## Into the Shadows (9 Perspicacité)
-
-*Vous faites perdre l'équilibre à votre adversaire et le plongez dans les ténèbres absolues.*
-
-| **Magie, Corps à Corps, Frappe, Arme** |               **Action principale** |
-|----------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**                 | **🎯 Une créature ou un objet** |
-
-**Effet :** Vous et la cible êtes retirés de la carte de rencontre jusqu'au début de votre prochain tour. Vous réapparaissez dans les espaces que vous avez quittés ou dans les espaces inoccupés les plus proches. Effectuez un jet de pouvoir à votre retour.
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 8 + A dégâts de corruption
-- **12-16 :** 13 + A dégâts de corruption
-- **17+ :** 17 + A dégâts de corruption
-
-######## Shadowfall (9 Perspicacité)
-
-*Vous disparaissez. Ils tombent. Vous réapparaissez.*
-
-| **Zone, Corps à Corps, Arme**     |               **Action principale** |
-|-----------------------------------|------------------------------------:|
-| **📏 Ligne 10 x 1 à portée 1** | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 10 dégâts
-- **12-16 :** 14 dégâts
-- **17+ :** 20 dégâts
-
-**Effet :** Vous disparaissez avant d'effectuer le jet de pouvoir. Une fois le jet de pouvoir résolu, vous apparaissez dans le premier espace inoccupé à l'extrémité de la ligne.
-
-######## You Talk Too Much (9 Perspicacité)
-
-*Le silence est une vertu. Un couteau clouant leur bouche est ce qu'il y a de mieux ensuite.*
-
-| **Corps à Corps, Distance, Frappe, Arme** |     **Action principale** |
-|-------------------------------------------|-------------------------:|
-| **📏 Corps à corps 1 ou distance 5**        | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 10 + A dégâts ; P < FAIBLE, étourdi (sauvegarde termine)
-- **12-16 :** 15 + A dégâts ; P < MOYEN, étourdi (sauvegarde termine)
-- **17+ :** 21 + A dégâts ; P < FORT, étourdi (sauvegarde termine)
-
-**Effet :** La cible ne peut communiquer avec personne jusqu'à la fin de la rencontre.
+> [!spell] You Talk Too Much (9 Perspicacité)
+> 🏷️ *Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Le silence est une vertu. Un couteau clouant leur bouche est ce qu'il y a de mieux ensuite.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 10 + A dégâts ; P < FAIBLE, étourdi (sauvegarde termine)
+> - **12-16 :** 15 + A dégâts ; P < MOYEN, étourdi (sauvegarde termine)
+> - **17+ :** 21 + A dégâts ; P < FORT, étourdi (sauvegarde termine)
+> 
+> **💫 Effet:** La cible ne peut communiquer avec personne jusqu'à la fin de la rencontre.
 
 ### Aptitudes de Niveau 6
 
@@ -810,95 +877,110 @@ Votre collège d'ombre vous accorde le choix entre deux aptitudes héroïques.
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Éruption de Cendre Noire (9 Perspicacité)
+> [!spell] Éruption de Cendre Noire (9 Perspicacité)
+> 🏷️ *Magie • Corps à Corps • Frappe • Arme*
+> 
+> ***Votre attaque produit un nuage de cendre noire qui propulse un ennemi dans les airs.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 3 + A dégâts ; poussée verticale 5
+> - **12-16 :** 6 + A dégâts ; poussée verticale 10
+> - **17+ :** 9 + A dégâts ; poussée verticale 15
+> 
+> **💫 Effet :** Une créature déplacée de force par cette aptitude doit être déplacée directement vers le haut.
 
-*Votre attaque produit un nuage de cendre noire qui propulse un ennemi dans les airs.*
-
-| **Magie, Corps à Corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**                 | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 3 + A dégâts ; poussée verticale 5
-- **12-16 :** 6 + A dégâts ; poussée verticale 10
-- **17+ :** 9 + A dégâts ; poussée verticale 15
-
-**Effet :** Une créature déplacée de force par cette aptitude doit être déplacée directement vers le haut.
-
-######## Tempête de Braises (9 Perspicacité)
-
-*Vous téléportez vos amis dans une explosion de cendre et de feu.*
-
-| **Magie**      |                          **Manœuvre** |
-|----------------|--------------------------------------:|
-| **📏 Explosion 4** | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** Chaque cible peut se téléporter jusqu'à 5 cases. Pour chaque cible en plus de vous qui se téléporte en s'éloignant d'un espace adjacent à un ennemi ou en s'y téléportant, cet ennemi subit des dégâts de feu égaux à votre score d'Agilité. De plus, une cible qui termine ce déplacement en Dissimulation ou à l'Abri peut utiliser la Manœuvre - Se Cacher même si elle est observée.
+> [!spell] Tempête de Braises (9 Perspicacité)
+> 🏷️ *Magie*
+> 
+> ***Vous téléportez vos amis dans une explosion de cendre et de feu.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 4</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible peut se téléporter jusqu'à 5 cases. Pour chaque cible en plus de vous qui se téléporte en s'éloignant d'un espace adjacent à un ennemi ou en s'y téléportant, cet ennemi subit des dégâts de feu égaux à votre score d'Agilité. De plus, une cible qui termine ce déplacement en Dissimulation ou à l'Abri peut utiliser la Manœuvre - Se Cacher même si elle est observée.
 
 ##### Aptitudes d'Alchimie Caustique de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Une Fiole Vous Rend Plus Fort (9 Perspicacité)
+> [!spell] Une Fiole Vous Rend Plus Fort (9 Perspicacité)
+> 🏷️ *À Distance*
+> 
+> ***Un lancer de potion bien chronométré maintiendra vos alliés dans le combat.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois créatures</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous préparez, tendez ou lancez une potion à chaque cible, qui peut immédiatement boire la potion (aucune action requise). Si elle ne boit pas la potion immédiatement, elle doit utiliser la Manœuvre - Utiliser un Consommable pour la consommer plus tard. La potion perd sa puissance à la fin de la rencontre.
+> 
+> Une créature qui boit la potion peut dépenser jusqu'à 2 Récupérations, et bénéficie d'une immunité à l'acide, au feu ou au poison (à son choix) égale à votre niveau jusqu'à la fin de la rencontre.
 
-*Un lancer de potion bien chronométré maintiendra vos alliés dans le combat.*
-
-| **À Distance**   |           **Manœuvre** |
-|------------------|-----------------------:|
-| **📏 Portée 10** | **🎯 Trois créatures** |
-
-**Effet :** Vous préparez, tendez ou lancez une potion à chaque cible, qui peut immédiatement boire la potion (aucune action requise). Si elle ne boit pas la potion immédiatement, elle doit utiliser la Manœuvre - Utiliser un Consommable pour la consommer plus tard. La potion perd sa puissance à la fin de la rencontre.
-
-Une créature qui boit la potion peut dépenser jusqu'à 2 Récupérations, et bénéficie d'une immunité à l'acide, au feu ou au poison (à son choix) égale à votre niveau jusqu'à la fin de la rencontre.
-
-######## Une Fiole Vous Rend Plus Rapide (9 Perspicacité)
-
-*Chaque allié qui attrape une potion que vous lancez peut porter le combat au niveau supérieur.*
-
-| **À Distance**   |        **Action Principale** |
-|------------------|-----------------------------:|
-| **📏 Portée 10** |        **🎯 Trois créatures** |
-
-**Effet :** Vous préparez, tendez ou lancez une potion à chaque cible, qui peut immédiatement boire la potion (aucune action requise). Si elle ne boit pas la potion immédiatement, elle doit utiliser la Manœuvre - Utiliser un Consommable pour la consommer plus tard. La potion perd sa puissance à la fin de la rencontre.
-
-Une créature qui boit la potion reçoit des bénéfices basés sur votre Jet de Pouvoir.
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** La Vitesse de la créature est augmentée de 2 jusqu'à la fin de la rencontre.
-- **12-16 :** La créature peut Voler jusqu'à la fin de la rencontre.
-- **17+ :** La créature devient invisible jusqu'à la fin de son prochain Tour.
+> [!spell] Une Fiole Vous Rend Plus Rapide (9 Perspicacité)
+> 🏷️ *À Distance*
+> 
+> ***Chaque allié qui attrape une potion que vous lancez peut porter le combat au niveau supérieur.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois créatures</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous préparez, tendez ou lancez une potion à chaque cible, qui peut immédiatement boire la potion (aucune action requise). Si elle ne boit pas la potion immédiatement, elle doit utiliser la Manœuvre - Utiliser un Consommable pour la consommer plus tard. La potion perd sa puissance à la fin de la rencontre.
+> 
+> Une créature qui boit la potion reçoit des bénéfices basés sur votre Jet de Pouvoir.
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** La Vitesse de la créature est augmentée de 2 jusqu'à la fin de la rencontre.
+> - **12-16 :** La créature peut Voler jusqu'à la fin de la rencontre.
+> - **17+ :** La créature devient invisible jusqu'à la fin de son prochain Tour.
 
 ##### Aptitudes de Masque d'Arlequin de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Regardez ! (9 Perspicacité)
+> [!spell] Regardez ! (9 Perspicacité)
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous distrayez vos ennemis, permettant à vos alliés de tirer parti de cette distraction.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 5 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'au début de votre prochain tour, tout jet d'aptitude effectué contre une cible gagne un avantage.
 
-*Vous distrayez vos ennemis, permettant à vos alliés de tirer parti de cette distraction.*
-
-| **Zone, Magie** |                  **Manœuvre** |
-|-----------------|------------------------------:|
-| **📏 5 explosion**  | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Jusqu'au début de votre prochain tour, tout jet d'aptitude effectué contre une cible gagne un avantage.
-
-######## Fils de Marionnette (9 Perspicacité)
-
-*Vous piquez de petites aiguilles au bout de vos doigts dans les nerfs de vos ennemis et leur faites perdre le contrôle.*
-
-| **Magie, Corps à Corps**, **Frappe, Arme** |    **Action principale** |
-|--------------------------------------|-------------------:|
-| **📏 Corps à Corps 1**                       | **🎯 Deux ennemis** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 2 dégâts ; si la cible a R < FAIBLE, avant que les dégâts ne soient résolus, elle effectue une frappe gratuite.
-- **12-16 :** 5 dégâts ; si la cible a R < MOYEN, avant que les dégâts ne soient résolus, elle utilise une aptitude d'action principale de votre choix.
-- **17+ :** 7 dégâts ; si la cible a R < FORT, avant que les dégâts ne soient résolus, elle peut glisser jusqu'à sa vitesse et utiliser une aptitude d'action principale de votre choix.
-
-**Effet :** Vous choisissez les nouvelles cibles pour la frappe gratuite ou l'aptitude de la cible originale. De plus, si vous êtes caché ou déguisé, utiliser cette aptitude ne vous fait pas révéler.
+> [!spell] Fils de Marionnette (9 Perspicacité)
+> 🏷️ *Magie • Corps à Corps • Frappe • Arme*
+> 
+> ***Vous piquez de petites aiguilles au bout de vos doigts dans les nerfs de vos ennemis et leur faites perdre le contrôle.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux ennemis</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 2 dégâts ; si la cible a R < FAIBLE, avant que les dégâts ne soient résolus, elle effectue une frappe gratuite.
+> - **12-16 :** 5 dégâts ; si la cible a R < MOYEN, avant que les dégâts ne soient résolus, elle utilise une aptitude d'action principale de votre choix.
+> - **17+ :** 7 dégâts ; si la cible a R < FORT, avant que les dégâts ne soient résolus, elle peut glisser jusqu'à sa vitesse et utiliser une aptitude d'action principale de votre choix.
+> 
+> **💫 Effet :** Vous choisissez les nouvelles cibles pour la frappe gratuite ou l'aptitude de la cible originale. De plus, si vous êtes caché ou déguisé, utiliser cette aptitude ne vous fait pas révéler.
 
 ### Aptitudes de Niveau 7
 
@@ -956,77 +1038,89 @@ Votre déplacement ne provoque plus d'attaques d'opportunité. De plus, vous pou
 
 Vous avez une Immunité aux Dégâts contre les aptitudes et effets de zone égale à votre score d'Agilité. Vous avez également l'aptitude suivante, que vous pouvez utiliser une fois par tour lors de votre tour.
 
-######## Bombe à Retardement
-
-*Plus elle mijote longtemps, plus l'explosion est grosse.*
-
-| **Zone, À distance**        |             **Manœuvre gratuite** |
-|-------------------------|------------------------------:|
-| **📏 Cube de 2 à 3 m** | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Chaque cible subit des dégâts d'acide, de feu ou de poison (votre choix) égaux à votre score d'Agilité.
-
-Pour chaque Tour de Combat qui s'est écoulé depuis la dernière utilisation de cette aptitude dans la rencontre actuelle, la zone augmente de 1 et vous gagnez 1 Impulsion qui doit être utilisée avec cette aptitude. Après avoir utilisé l'aptitude ou à la fin de la rencontre, sa zone et ses Impulsions sont remises à zéro.
-
-**Dépenser 2+ Perspicacité :** Pour chaque tranche de 2 Perspicacité dépensée, vous augmentez la Taille du cube de 1 et gagnez 1 Impulsion qui ne peut être utilisée qu'avec cette aptitude.
+> [!spell] Bombe à Retardement
+> 🏷️ *Zone • À distance*
+> 
+> ***Plus elle mijote longtemps, plus l'explosion est grosse.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 2 à 3 m</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible subit des dégâts d'acide, de feu ou de poison (votre choix) égaux à votre score d'Agilité.
+> 
+> Pour chaque Tour de Combat qui s'est écoulé depuis la dernière utilisation de cette aptitude dans la rencontre actuelle, la zone augmente de 1 et vous gagnez 1 Impulsion qui doit être utilisée avec cette aptitude. Après avoir utilisé l'aptitude ou à la fin de la rencontre, sa zone et ses Impulsions sont remises à zéro.
+> 
+> **🔥 Dépenser 2+ Perspicacité :** Pour chaque tranche de 2 Perspicacité dépensée, vous augmentez la Taille du cube de 1 et gagnez 1 Impulsion qui ne peut être utilisée qu'avec cette aptitude.
 
 #### Aptitude de 11-Perspicacité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 perspicacité à utiliser.
 
-######## Assassiner (11 Perspicacité)
+> [!spell] Assassiner (11 Perspicacité)
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Une attaque maîtrisée tuera instantanément un ennemi déjà affaibli.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 12 + A dégâts
+> - **12-16 :** 18 + A dégâts
+> - **17+ :** 24 + A dégâts
+> 
+> **💫 Effet :** Une cible qui n'est pas une créature sbire, dirigeant ou solo et qui est essoufflée après avoir subi ces dégâts est réduite à 0 Vigueur.
 
-*Une attaque maîtrisée tuera instantanément un ennemi déjà affaibli.*
+> [!spell] Emprise d'Ombre (11 Perspicacité)
+> 🏷️ *Zone • Magie*
+> 
+> ***Les ombres autour de vous s'écartent, permettant à la créature d'ombre en vous de saisir vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 2 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 11 dégâts de corruption ; A < FAIBLE, entravé (sauvegarde termine)
+> - **12-16 :** 16 dégâts de corruption ; A < MOYEN, entravé (sauvegarde termine)
+> - **17+ :** 21 dégâts de corruption ; A < FORT, entravé (sauvegarde termine)
 
-| **Corps à Corps, Frappe, Arme** |               **Action principale** |
-|----------------------------------|------------------------------------:|
-| **📏 Corps à Corps 1**           | **🎯 Une créature ou un objet** |
+> [!spell] Vitesse des Ombres (11 Perspicacité)
+> 🏷️ *Magie*
+> 
+> ***Vous portez plusieurs frappes contre un ennemi avant même qu'il ne remarque qu'il est mort.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous pouvez utiliser une aptitude signature de frappe quatre fois, utiliser une aptitude signature de frappe qui gagne un avantage trois fois, ou utiliser une aptitude signature de frappe qui a un double avantage deux fois. Vous pouvez glisser jusqu'à 2 cases entre chaque utilisation.
 
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 12 + A dégâts
-- **12-16 :** 18 + A dégâts
-- **17+ :** 24 + A dégâts
-
-**Effet :** Une cible qui n'est pas une créature sbire, dirigeant ou solo et qui est essoufflée après avoir subi ces dégâts est réduite à 0 Vigueur.
-
-######## Emprise d'Ombre (11 Perspicacité)
-
-*Les ombres autour de vous s'écartent, permettant à la créature d'ombre en vous de saisir vos ennemis.*
-
-| **Zone, Magie** |               **Action principale** |
-|------------------|------------------------------------:|
-| **📏 2 explosion**  | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 11 dégâts de corruption ; A < FAIBLE, entravé (sauvegarde termine)
-- **12-16 :** 16 dégâts de corruption ; A < MOYEN, entravé (sauvegarde termine)
-- **17+ :** 21 dégâts de corruption ; A < FORT, entravé (sauvegarde termine)
-
-######## Vitesse des Ombres (11 Perspicacité)
-
-*Vous portez plusieurs frappes contre un ennemi avant même qu'il ne remarque qu'il est mort.*
-
-| **Magie**   | **Action principale** |
-|-------------|----------------------:|
-| **📏 Soi** |     **🎯 Soi** |
-
-**Effet :** Vous pouvez utiliser une aptitude signature de frappe quatre fois, utiliser une aptitude signature de frappe qui gagne un avantage trois fois, ou utiliser une aptitude signature de frappe qui a un double avantage deux fois. Vous pouvez glisser jusqu'à 2 cases entre chaque utilisation.
-
-######## Ils S'Alignent Toujours (11 Perspicacité)
-
-*Vous tirez un projectile si rapidement qu'il traverse une ligne d'ennemis, les estropiant.*
-
-| **Zone, À Distance, Arme**   |               **Action principale** |
-|------------------------------|------------------------------------:|
-| **📏 5 x 1 ligne dans un rayon de 5** | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 12 dégâts ; F < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 18 dégâts ; F < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 24 dégâts ; F < FORT, ralenti (sauvegarde termine)
+> [!spell] Ils S'Alignent Toujours (11 Perspicacité)
+> 🏷️ *Zone • À Distance • Arme*
+> 
+> ***Vous tirez un projectile si rapidement qu'il traverse une ligne d'ennemis, les estropiant.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 5 x 1 ligne dans un rayon de 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 12 dégâts ; F < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 18 dégâts ; F < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 24 dégâts ; F < FORT, ralenti (sauvegarde termine)
 
 ### Aptitudes de Niveau 9
 
@@ -1046,103 +1140,116 @@ Votre collège d'ombre vous accorde le choix entre deux aptitudes héroïques.
 
 Choisissez une des aptitudes suivantes.
 
-######## Cacophonie de Braises (11 Perspicacité)
+> [!spell] Cacophonie de Braises (11 Perspicacité)
+> 🏷️ *Magie • Corps à Corps • Arme*
+> 
+> ***Vous dévalez le champ de bataille, poignardant vos ennemis et téléportant vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi ; voir ci-dessous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous glissez jusqu'à deux fois votre Vitesse, effectuant un Jet de Pouvoir qui cible chaque Créature dont vous devenez Adjacent durant le glissement.
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** Un Ennemi subit 6 Dégâts ; un Allié peut effectuer une Téléportation jusqu'à 3 Cases.
+> - **12-16 :** Un Ennemi subit 10 Dégâts ; un Allié peut effectuer une Téléportation jusqu'à 5 Cases.
+> - **17+ :** Un Ennemi subit 14 Dégâts ; un Allié peut effectuer une Téléportation jusqu'à 7 Cases.
 
-*Vous dévalez le champ de bataille, poignardant vos ennemis et téléportant vos alliés.*
-
-| **Magie, Corps à Corps, Arme** | **Action principale** |
-|--------------------------------|----------------------:|
-| **📏 Soi ; voir ci-dessous**   |           **🎯 Soi** |
-
-**Effet :** Vous glissez jusqu'à deux fois votre Vitesse, effectuant un Jet de Pouvoir qui cible chaque Créature dont vous devenez Adjacent durant le glissement.
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** Un Ennemi subit 6 Dégâts ; un Allié peut effectuer une Téléportation jusqu'à 3 Cases.
-- **12-16 :** Un Ennemi subit 10 Dégâts ; un Allié peut effectuer une Téléportation jusqu'à 5 Cases.
-- **17+ :** Un Ennemi subit 14 Dégâts ; un Allié peut effectuer une Téléportation jusqu'à 7 Cases.
-
-######## Porte Démoniaque (11 Perspicacité)
-
-*Vous créez un portail temporaire permettant à une main démoniaque massive de passer au travers.*
-
-| **Magie, Corps à Corps, Frappe, Arme** | **Action principale** |
-|----------------------------------------|----------------------:|
-| **📏 Corps à Corps 3**                 |   **🎯 Une Créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 13 + A Dégâts de corruption ; Poussée 3
-- **12-16 :** 18 + A Dégâts de corruption ; Poussée 5
-- **17+ :** 25 + A Dégâts de corruption ; Poussée 7
-
-**Effet :** Sur un Coup Critique, la Cible est Agrippée par le démon et tirée à travers le portail avant qu'il ne se referme, pour ne plus jamais être revue.
+> [!spell] Porte Démoniaque (11 Perspicacité)
+> 🏷️ *Magie • Corps à Corps • Frappe • Arme*
+> 
+> ***Vous créez un portail temporaire permettant à une main démoniaque massive de passer au travers.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une Créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 13 + A Dégâts de corruption ; Poussée 3
+> - **12-16 :** 18 + A Dégâts de corruption ; Poussée 5
+> - **17+ :** 25 + A Dégâts de corruption ; Poussée 7
+> 
+> **💫 Effet :** Sur un Coup Critique, la Cible est Agrippée par le démon et tirée à travers le portail avant qu'il ne se referme, pour ne plus jamais être revue.
 
 ##### Aptitudes d'Alchimie Caustique de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Réaction en Chaîne (11 Perspicacité)
+> [!spell] Réaction en Chaîne (11 Perspicacité)
+> 🏷️ *À distance*
+> 
+> ***Une explosion, c'est une offense. Trois explosions, c'est un assaut. Neuf explosions, c'est une célébration.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque ennemi dans un rayon de 3 cases de la cible qui n'est pas actuellement ciblé par cette aptitude devient également ciblé par cette aptitude. Cet effet continue jusqu'à ce qu'il n'y ait plus de cibles disponibles. L'aptitude inflige des dégâts d'acide, de feu ou de poison (votre choix).
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 7 dégâts
+> - **12-16 :** 10 dégâts
+> - **17+ :** 15 dégâts
 
-*Une explosion, c'est une offense. Trois explosions, c'est un assaut. Neuf explosions, c'est une célébration.*
-
-| **À distance**   |               **Action principale** |
-|------------------|------------------------------------:|
-| **📏 Portée 10** | **🎯 Une créature ou un objet** |
-
-**Effet :** Chaque ennemi dans un rayon de 3 cases de la cible qui n'est pas actuellement ciblé par cette aptitude devient également ciblé par cette aptitude. Cet effet continue jusqu'à ce qu'il n'y ait plus de cibles disponibles. L'aptitude inflige des dégâts d'acide, de feu ou de poison (votre choix).
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 7 dégâts
-- **12-16 :** 10 dégâts
-- **17+ :** 15 dégâts
-
-######## Vers les Étoiles (11 Perspicacité)
-
-*Vous attachez votre explosif le plus puissant à votre ennemi. Dans des circonstances moins pressantes, vous êtes sûr que vous pourriez le lancer en orbite.*
-
-| **Corps à corps, À distance, Frappe**   |               **Action principale** |
-|------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1 ou portée 10** | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 4 + A dégâts de feu ; poussée verticale 8
-- **12-16 :** 7 + A dégâts de feu ; poussée verticale 10
-- **17+ :** 11 + A dégâts de feu ; poussée verticale 15
-
-**Effet :** Le sol sous une zone de 3 cubes autour de la position de départ de la cible devient un terrain difficile.
+> [!spell] Vers les Étoiles (11 Perspicacité)
+> 🏷️ *Corps à corps • À distance • Frappe*
+> 
+> ***Vous attachez votre explosif le plus puissant à votre ennemi. Dans des circonstances moins pressantes, vous êtes sûr que vous pourriez le lancer en orbite.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 4 + A dégâts de feu ; poussée verticale 8
+> - **12-16 :** 7 + A dégâts de feu ; poussée verticale 10
+> - **17+ :** 11 + A dégâts de feu ; poussée verticale 15
+> 
+> **💫 Effet :** Le sol sous une zone de 3 cubes autour de la position de départ de la cible devient un terrain difficile.
 
 ##### Aptitudes de Masque d'Arlequin de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Je Suis Toi (11 Perspicacité)
+> [!spell] Je Suis Vous (11 Perspicacité)
+> 🏷️ *Magie • À distance*
+> 
+> ***Votre masque reflète le visage de votre ennemi. Il n'en aura sûrement plus besoin très longtemps.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre, vous gagnez les immunités aux dégâts et la vitesse de la cible (si elles sont meilleures que les vôtres), et vous pouvez utiliser tous les types de déplacement qu'elle peut utiliser. Vous pouvez aussi utiliser l'aptitude signature de la cible, en utilisant son bonus pour le jet de pouvoir.
 
-*Ton masque reflète le visage de ton ennemi. Il n'en aura sûrement plus besoin très longtemps.*
-
-| **Magie, À distance** |            **Manœuvre** |
-|-------------------|------------------------:|
-| **📏 À distance 10**  |     **🎯 Une créature** |
-
-**Effet :** Jusqu'à la fin de la rencontre, tu gagnes les immunités aux dégâts et la vitesse de la cible (si elles sont meilleures que les tiennes), et tu peux utiliser tous les types de déplacement qu'elle peut utiliser. Tu peux aussi utiliser l'aptitude signature de la cible, en utilisant son bonus pour le jet de pouvoir.
-
-######## C'était Moi Depuis le Début (11 Perspicacité)
-
-*Après tout ce que vous avez vécu ensemble, tu retournes le couteau dans la plaie et rends la douleur encore plus personnelle.*
-
-| **Corps à corps, Frappe, Arme** |               **Action Principale** |
-|---------------------------|------------------------------:|
-| **📏 Corps à corps 1**            | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 15 + A dégâts
-- **12-16 :** 21 + A dégâts
-- **17+ :** 28 + A dégâts
-
-**Effet :** Si tu es déguisé en une créature que la cible connaissait en utilisant ton aptitude Je Ne Suis Pas Une Menace, cette aptitude inflige des dégâts supplémentaires égaux à trois fois ton score d'Agilité.
+> [!spell] C'était Moi Depuis le Début (11 Perspicacité)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Après tout ce que vous avez vécu ensemble, vous retournez le couteau dans la plaie et rendez la douleur encore plus personnelle.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 15 + A dégâts
+> - **12-16 :** 21 + A dégâts
+> - **17+ :** 28 + A dégâts
+> 
+> **💫 Effet :** Si vous êtes déguisé en une créature que la cible connaissait en utilisant votre aptitude Je Ne Suis Pas Une Menace, cette aptitude inflige des dégâts supplémentaires égaux à trois fois votre score d'Agilité.
 
 ### Aptitudes de Niveau 10
 

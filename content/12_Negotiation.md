@@ -1,3 +1,7 @@
+---
+title: Négociation
+---
+
 # Négociation
 
 La Négociation donne aux héros une chance d'obtenir ce qu'ils veulent sans combat... ou du moins sans combat supplémentaire ! Vous pourriez négocier avec un roi pour obtenir un soutien militaire contre une incursion de démons dans un pays voisin. Vous pourriez entamer des pourparlers avec un chef de bandits pour la convaincre d'arrêter d'attaquer les caravanes marchandes sur la route, et de cibler plutôt les nobles loyaux à un tyran. Vous pourriez tenter de convaincre un archimage de vous permettre l'accès à sa bibliothèque secrète afin de pouvoir rechercher l'emplacement d'une hache tueuse de dragons. La Négociation couvre tous ces scénarios et bien d'autres.

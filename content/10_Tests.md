@@ -1,3 +1,7 @@
+---
+title: Tests
+---
+
 # Tests
 
 Quand vous voulez que votre héros fouille un bureau pour localiser un document spécifique, escalade un mur de château, négocie un traité avec un monarque, ou entreprenne toute autre activité avec un risque d'échec, vous devrez faire un test pour déterminer votre degré de réussite dans cette tâche. Un test est tout Jet de Pouvoir qui présente l'échec ou des conséquences comme option.

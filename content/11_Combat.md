@@ -1,3 +1,7 @@
+---
+title: Combat
+---
+
 # Combat
 
 Quand les héros font face à un problème qui ne peut être résolu que par l'action, ou quand ils affrontent des créatures qui veulent leur faire du mal, il est temps de se battre !

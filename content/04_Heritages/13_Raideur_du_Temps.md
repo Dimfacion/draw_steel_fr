@@ -1,3 +1,7 @@
+---
+title: Raideur du Temps
+---
+
 ## Raideur du Temps
 
 Serviteurs originelle des synliroi—des psioniques maléfiques dotés d'un pouvoir quasi divin—les kuran'zoi se sont libérés durant la Première Guerre Psychique. Au cours des siècles qui ont suivi, ils ont bâti leur propre Culture et civilisation en tant que nomades du Chronoscape. L'exonyme « raideurs du temps » leur fut donné par les habitants des mondes inférieurs qui, voyant la technologie avancée que manient les kuran'zoi, en conclurent qu'ils devaient venir du futur.

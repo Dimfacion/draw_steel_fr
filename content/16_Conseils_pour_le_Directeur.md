@@ -1,3 +1,7 @@
+---
+title: Conseils pour le Directeur
+---
+
 # Pour le Directeur
 
 Au cinéma et à la télévision, le réalisateur collabore avec les scénaristes, les acteurs, les concepteurs et toutes les autres personnes qui travaillent ensemble sur une histoire collective, puis fait briller cette histoire. C'est aussi ce que fait le Directeur dans *Draw Steel* ! Si vous prévoyez d'être le Directeur d'une session ou d'une campagne de *Draw Steel*, ce chapitre du livre se concentre sur votre rôle dans le jeu.

@@ -11,6 +11,10 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
+    static: 
+`drawsteel.fr est un produit indépendant publié sous la Licence Créateur DRAW STEEL et n’est pas affilié à MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
+
+drawsteel.fr is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.`
   }),
 }
 
@@ -59,7 +63,9 @@ export const defaultContentPageLayout: PageLayout = {
         }
       },
       mapFn: (node) => {
-        node.displayName = node.displayName.substring(3).replaceAll("_", " ")
+        if(node.isFolder) {
+          node.displayName = node.displayName.substring(3).replaceAll("_", " ")
+        }
         return node
       },
     }),

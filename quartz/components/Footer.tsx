@@ -4,7 +4,8 @@ import { version } from "../../package.json"
 import { i18n } from "../i18n"
 
 interface Options {
-  links: Record<string, string>
+  links: Record<string, string>,
+  static?: string
 }
 
 export default ((opts?: Options) => {
@@ -24,6 +25,15 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        { opts?.static && (
+          <p>
+            <hr/>
+            <span style="white-space: pre-line">
+              {opts?.static}
+            </span>
+          </p>
+          )
+        }
       </footer>
     )
   }

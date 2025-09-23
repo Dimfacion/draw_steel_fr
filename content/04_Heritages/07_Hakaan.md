@@ -1,3 +1,7 @@
+---
+title: Hakaan
+---
+
 ## Hakaan
 
 Malgré leur nature amicale et extravertie, la rare présence d'un hakaan dans la société humaine est considérée comme un présage. Un signe de temps sombres.

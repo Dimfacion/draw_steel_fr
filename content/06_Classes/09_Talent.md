@@ -1,3 +1,7 @@
+---
+title: Talent
+---
+
 ## Talent
 
 Très peu de personnes naissent avec le potentiel de maîtriser le pouvoir psionique, mais seules celles qui vivent un éveil, un événement significatif qui active les aptitudes d'un talent, peuvent exploiter le plein potentiel de l'esprit. Vous êtes l'une de ces personnes—un maître de la psionique et une source d'incroyable pouvoir créé par la pure force de volonté. Vous pouvez déplacer et changer la matière, le temps, la gravité, les lois de la physique, ou l'esprit d'une autre créature.
@@ -92,21 +96,23 @@ Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépense
 
 Vous possédez l'aptitude suivante, qui peut être utilisée comme une frappe gratuite à distance.
 
-######## Pointe Mentale
-
-*Un éclair télépathique frappe instantanément le cerveau d'une créature.*
-
-| **Psionique, À Distance**, **Frappe, Télépathie** |     **Action principale** |
-|---------------------------------------------------|-------------------------:|
-| **📏 À Distance 10**                              | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 + R dégâts psychiques
-- **12-16 :** 4 + R dégâts psychiques
-- **17+ :** 6 + R dégâts psychiques
-
-**Sous Tension :** La cible subit 2 dégâts psychiques supplémentaires. Vous subissez également 2 dégâts psychiques qui ne peuvent être réduits d'aucune manière.
+> [!spell] Pointe Mentale
+> 🏷️ *Psionique • À Distance • Frappe • Télépathie*
+> 
+> ***Un éclair télépathique frappe instantanément le cerveau d'une créature.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 2 + R dégâts psychiques
+> - **12-16 :** 4 + R dégâts psychiques
+> - **17+ :** 6 + R dégâts psychiques
+> 
+> **⚡ Sous Tension :** La cible subit 2 dégâts psychiques supplémentaires. Vous subissez également 2 dégâts psychiques qui ne peuvent être réduits d'aucune manière.
 
 #### Augmentation Psionique
 
@@ -174,100 +180,117 @@ Votre tradition de talent vous accorde deux capacités, comme indiqué dans le t
 
 Vous possédez l'aptitude suivante.
 
-######## Accélération
-
-*Pour votre allié, il semble que le monde ait ralenti.*
-
-| **Psionique, À distance** |                **Manœuvre** |
-|---------------------------|----------------------------:|
-| **📏 À distance 10**      | **🎯 Soi ou une créature** |
-
-**Effet :** La cible glisse d'un nombre de cases égal à votre score de Raison.
-
-**Dépenser 2 Clarté :** La cible peut utiliser une manœuvre.
+> [!spell] Accélération
+> 🏷️ *Psionique • À distance*
+> 
+> ***Pour votre allié, il semble que le monde ait ralenti.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou une créature</p>
+> 
+> ---
+> 
+> **💫 Effet :** La cible glisse d'un nombre de cases égal à votre score de Raison.
+> 
+> **🔥 Dépenser 2 Clarté :** La cible peut utiliser une manœuvre.
 
 ##### Encore
 
 Vous avez l'aptitude suivante.
 
-######## Encore
-
-*Vous reculez d'une fraction de seconde pour voir si les choses se déroulent un peu différemment.*
-
-| **Psionique, À distance** |               **Déclenchée** |
-|---------------------------|-----------------------------:|
-| **📏 À distance 10**      | **🎯 Soi ou une créature** |
-
-**Déclencheur :** La cible effectue un jet d'aptitude.
-
-**Effet :** Vous pouvez utiliser cette aptitude après avoir vu le résultat du jet déclencheur. La cible doit relancer le jet de pouvoir et utiliser le nouveau jet.
+> [!spell] Encore
+> 🏷️ *Psionique • À distance*
+> 
+> ***Vous reculez d'une fraction de seconde pour voir si les choses se déroulent un peu différemment.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou une créature</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible effectue un jet d'aptitude.
+> 
+> **💫 Effet :** Vous pouvez utiliser cette aptitude après avoir vu le résultat du jet déclencheur. La cible doit relancer le jet de pouvoir et utiliser le nouveau jet.
 
 ##### Boucle de Rétroaction
 
 Vous possédez l'aptitude suivante.
 
-######## Boucle de Rétroaction
-
-*Créer un lien psychique temporaire entre un ennemi et sa cible donne à cet adversaire un avant-goût de sa propre médecine.*
-
-| **Psionique, À distance** |       **Déclenchée** |
-|---------------------------|---------------------:|
-| **📏 À distance 10**      | **🎯 Une créature** |
-
-**Déclencheur :** La cible inflige des dégâts à un allié.
-
-**Effet :** La cible subit des dégâts psychiques égaux à la moitié des dégâts déclencheurs.
+> [!spell] Boucle de Rétroaction
+> 🏷️ *Psionique • À distance*
+> 
+> ***Créer un lien psychique temporaire entre un ennemi et sa cible donne à cet adversaire un avant-goût de sa propre médecine.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible inflige des dégâts à un allié.
+> 
+> **💫 Effet :** La cible subit des dégâts psychiques égaux à la moitié des dégâts déclencheurs.
 
 ##### Télékinésie Mineure
 
 Vous disposez de l'aptitude suivante.
 
-######## Télékinésie Mineure
-
-*Des volutes d'énergie psychique ondulent visiblement depuis votre cerveau tandis que vous forcez la cible à se déplacer par la seule force de votre esprit.*
-
-| **Psionique, À Distance** |                                 **Manœuvre** |
-|----------------------------|---------------------------------------------:|
-| **📏 À Distance 10**       | **🎯 Vous-même ou une créature ou un objet de taille 1** |
-
-**Effet :** Vous effectuez un glissement de la cible d'un nombre de cases égal à votre score de Raison.
-
-**Dépenser 2+ Clarté :** La taille de la créature ou de l'objet que vous pouvez cibler augmente de 1 pour chaque tranche de 2 clarté dépensée.
-
-**Dépenser 3 Clarté :** Vous pouvez effectuer un glissement vertical de la cible.
+> [!spell] Télékinésie Mineure
+> 🏷️ *Psionique • À Distance*
+> 
+> ***Des volutes d'énergie psychique ondulent visiblement depuis votre cerveau tandis que vous forcez la cible à se déplacer par la seule force de votre esprit.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même ou une créature ou un objet de taille 1</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous effectuez un glissement de la cible d'un nombre de cases égal à votre score de Raison.
+> 
+> **🔥 Dépenser 2+ Clarté :** La taille de la créature ou de l'objet que vous pouvez cibler augmente de 1 pour chaque tranche de 2 clarté dépensée.
+> 
+> **🔥 Dépenser 3 Clarté :** Vous pouvez effectuer un glissement vertical de la cible.
 
 ##### Assistance à Distance
 
 Vous disposez de l'aptitude suivante.
 
-######## Assistance à Distance
-
-*Un allié bénéficie de votre intellect.*
-
-| **Psionique, À Distance** |                  **Manœuvre** |
-|----------------------------|------------------------------:|
-| **📏 À Distance 10**       | **🎯 Une créature ou un objet** |
-
-
-**Effet :** Le prochain jet d'aptitude qu'un allié effectue contre la cible avant le début de votre prochain tour gagne un avantage.
-
-**Dépenser 1 Clarté :** Vous ciblez une créature ou un objet supplémentaire.
+> [!spell] Assistance à Distance
+> 🏷️ *Psionique • À Distance*
+> 
+> ***Un allié bénéficie de votre intellect.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet :** Le prochain jet d'aptitude qu'un allié effectue contre la cible avant le début de votre prochain tour gagne un avantage.
+> 
+> **🔥 Dépenser 1 Clarté :** Vous ciblez une créature ou un objet supplémentaire.
 
 #### Repel
 
 Vous disposez de l'aptitude suivante.
 
-######## Repel
-
-*Ils ne vont nulle part, mais vous pourriez !*
-
-| **Psionique, Distance** |           **Déclenchée** |
-|-------------------------|-------------------------:|
-| **📏 Distance 10**      | **🎯 Soi ou un allié** |
-
-**Déclencheur :** La cible subit des dégâts ou fait l'objet d'un déplacement forcé.
-
-**Effet :** La cible subit la moitié des dégâts déclencheurs, ou la distance du déplacement forcé déclencheur est réduite d'un nombre de cases égal à votre score de Raison. Si la cible a subi des dégâts et a fait l'objet d'un déplacement forcé, vous choisissez l'effet. Si le déplacement forcé est réduit à 0 case, la cible peut effectuer une poussée sur la source du déplacement forcé d'un nombre de cases égal à votre score de Raison.
+> [!spell] Repel
+> 🏷️ *Psionique • Distance*
+> 
+> ***Ils ne vont nulle part, mais vous pourriez !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible subit des dégâts ou fait l'objet d'un déplacement forcé.
+> 
+> **💫 Effet :** La cible subit la moitié des dégâts déclencheurs, ou la distance du déplacement forcé déclencheur est réduite d'un nombre de cases égal à votre score de Raison. Si la cible a subi des dégâts et a fait l'objet d'un déplacement forcé, vous choisissez l'effet. Si le déplacement forcé est réduit à 0 case, la cible peut effectuer une poussée sur la source du déplacement forcé d'un nombre de cases égal à votre score de Raison.
 
 #### Aptitudes de Talent
 
@@ -277,143 +300,159 @@ Vous manifestez une variété de pouvoirs psioniques qui vous permettent d'impac
 
 Choisissez deux aptitudes signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Incinérer, Prise Cinétique.)
 
-######## Trait Entropique
+> [!spell] Trait Entropique
+> 🏷️ *Chronopathie • Psionique • Distance • Frappe*
+> 
+> ***Vous accélérez momentanément le vieillissement d'un ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 2 + P dégâts de corruption ; P < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 3 + P dégâts de corruption ; P < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 5 + P dégâts de corruption ; P < FORT, ralenti (sauvegarde termine)
+> 
+> **💫 Effet :** La cible subit 1 dégât de corruption supplémentaire pour chaque fois qu'elle est ciblée par cette aptitude durant la rencontre.
+> 
+> **⚡ Sous Tension :** Vous gagnez 1 clarté quand vous obtenez un résultat de tiers 2 ou tiers 3 sur le jet de pouvoir.
 
-*Vous accélérez momentanément le vieillissement d'un ennemi.*
+> [!spell] Givre Blanc
+> 🏷️ *Cryokinésie • Psionique • Distance • Frappe*
+> 
+> ***Vous frappez un adversaire d'une impulsion d'énergie glacée.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 2 + R dégâts de froid ; F < FAIBLE, ralenti (FdT)
+> - **12-16 :** 4 + R dégâts de froid ; F < MOYEN, ralenti (FdT)
+> - **17+ :** 6 + R dégâts de froid ; F < FORT, ralenti (FdT)
+> 
+> **⚡ Sous Tension :** Vous êtes ralenti jusqu'à la fin de votre prochain tour. De plus, une cible ralentie par cette aptitude est entravée à la place.
 
-| **Chronopathie, Psionique, Distance, Frappe** |               **Action principale** |
-|------------------------------------------------|------------------------------------:|
-| **📏 Distance 10**                             | **🎯 Une créature ou un objet** |
+> [!spell] Incinérer
+> 🏷️ *Zone • Feu • Psionique • Pyrokinésie • Distance*
+> 
+> ***L'air explose en une colonne de flammes sans fumée.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 3 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 2 dégâts de feu
+> - **12-16 :** 4 dégâts de feu
+> - **17+ :** 6 dégâts de feu
+> 
+> **💫 Effet :** Une colonne de feu reste dans la zone jusqu'au début de votre prochain tour. Chaque ennemi qui entre dans la zone pour la première fois dans un tour de combat ou qui y commence son tour subit 2 dégâts de feu.
+> 
+> **⚡ Sous Tension :** La taille du cube augmente de 2, mais le feu disparaît à la fin de votre tour.
 
-**Jet de Pouvoir + Présence :**
+> [!spell] Prise Cinétique
+> 🏷️ *Psionique • Distance • Télékinésie*
+> 
+> ***Vous soulevez et projetez votre adversaire loin de vous.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** Glissement 2 + R
+> - **12-16 :** Glissement 4 + R
+> - **17+ :** Glissement 6 + R ; à terre
+> 
+> **⚡ Sous Tension :** Vous devez pousser verticalement la cible au lieu de la faire glisser.
 
-- **≤11 :** 2 + P dégâts de corruption ; P < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 3 + P dégâts de corruption ; P < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 5 + P dégâts de corruption ; P < FORT, ralenti (sauvegarde termine)
+> [!spell] Impulsion Cinétique
+> 🏷️ *Zone • Psionique • Télépathie*
+> 
+> ***La force de votre esprit projette les ennemis vers l'arrière.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion de 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 2 dégâts psychiques
+> - **12-16 :** 5 dégâts psychiques ; poussée 1
+> - **17+ :** 7 dégâts psychiques ; poussée 2
+> 
+> **⚡ Sous Tension :** La taille de l'explosion augmente de 2, et vous saignez jusqu'au début de votre prochain tour.
 
-**Effet :** La cible subit 1 dégât de corruption supplémentaire pour chaque fois qu'elle est ciblée par cette aptitude durant la rencontre.
+> [!spell] Matérialiser
+> 🏷️ *Psionique • Distance • Résopathie • Frappe*
+> 
+> ***Vous visualisez un objet dans votre esprit et lui donnez forme—directement au-dessus de la tête de votre adversaire.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 3 + R dégâts
+> - **12-16 :** 5 + R dégâts
+> - **17+ :** 8 + R dégâts
+> 
+> **💫 Effet :** Un objet sans valeur de taille 1M tombe sur la cible pour infliger les dégâts, puis roule dans un espace adjacent inoccupé de votre choix. L'objet est fait de bois, de pierre ou de métal (votre choix).
+> 
+> **⚡ Sous Tension :** L'objet explose après que les dégâts soient infligés, et chaque créature adjacente à la cible subit des dégâts égaux à votre score de Raison. Vous subissez également des dégâts égaux à votre score de Raison qui ne peuvent être réduits d'aucune façon.
 
-**Sous Tension :** Vous gagnez 1 clarté quand vous obtenez un résultat de tiers 2 ou tiers 3 sur le jet de pouvoir.
+> [!spell] Rayon Optique
+> 🏷️ *Métamorphose • Psionique • Distance • Frappe*
+> 
+> ***Vos yeux émettent des rayons de force énervante puissante.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 2 + R dégâts ; F < FAIBLE, à terre
+> - **12-16 :** 4 + R dégâts ; F < MOYEN, à terre
+> - **17+ :** 6 + R dégâts ; F < FORT, à terre
+> 
+> **💫 Effet :** Quand vous ciblez un objet avec une surface réfléchissante solide ou une créature portant ou équipée d'un tel objet (comme un miroir, un bouclier métallique non peint, ou une armure de plaques métalliques brillantes), vous pouvez cibler une créature ou un objet supplémentaire à 3 cases ou moins de la première cible.
+> 
+> **⚡ Sous Tension :** Vous gagnez 1 impulsion que vous pouvez utiliser immédiatement, et vous subissez des dégâts égaux à votre score de Raison qui ne peuvent être réduits d'aucune façon.
 
-######## Givre Blanc
-
-*Vous frappez un adversaire d'une impulsion d'énergie glacée.*
-
-| **Cryokinésie, Psionique, Distance, Frappe** |     **Action principale** |
-|-----------------------------------------------|---------------------------:|
-| **📏 Distance 10**                            | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 + R dégâts de froid ; F < FAIBLE, ralenti (FdT)
-- **12-16 :** 4 + R dégâts de froid ; F < MOYEN, ralenti (FdT)
-- **17+ :** 6 + R dégâts de froid ; F < FORT, ralenti (FdT)
-
-**Sous Tension :** Vous êtes ralenti jusqu'à la fin de votre prochain tour. De plus, une cible ralentie par cette aptitude est entravée à la place.
-
-######## Incinérer
-
-*L'air explose en une colonne de flammes sans fumée.*
-
-| **Zone, Feu, Psionique, Pyrokinésie, Distance** |               **Action principale** |
-|--------------------------------------------------|------------------------------------:|
-| **📏 Cube de 3 à portée 10**                    | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 dégâts de feu
-- **12-16 :** 4 dégâts de feu
-- **17+ :** 6 dégâts de feu
-
-**Effet :** Une colonne de feu reste dans la zone jusqu'au début de votre prochain tour. Chaque ennemi qui entre dans la zone pour la première fois dans un tour de combat ou qui y commence son tour subit 2 dégâts de feu.
-
-**Sous Tension :** La taille du cube augmente de 2, mais le feu disparaît à la fin de votre tour.
-
-######## Prise Cinétique
-
-*Vous soulevez et projetez votre adversaire loin de vous.*
-
-| **Psionique, Distance, Télékinésie** |               **Action principale** |
-|--------------------------------------|------------------------------------:|
-| **📏 Distance 10**                   | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** Glissement 2 + R
-- **12-16 :** Glissement 4 + R
-- **17+ :** Glissement 6 + R ; à terre
-
-**Sous Tension :** Vous devez pousser verticalement la cible au lieu de la faire glisser.
-
-######## Impulsion Cinétique
-
-*La force de votre esprit projette les ennemis vers l'arrière.*
-
-| **Zone, Psionique, Télépathie** |               **Action principale** |
-|----------------------------------|------------------------------------:|
-| **📏 Explosion de 1**            | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 dégâts psychiques
-- **12-16 :** 5 dégâts psychiques ; poussée 1
-- **17+ :** 7 dégâts psychiques ; poussée 2
-
-**Sous Tension :** La taille de l'explosion augmente de 2, et vous saignez jusqu'au début de votre prochain tour.
-
-######## Matérialiser
-
-*Vous visualisez un objet dans votre esprit et lui donnez forme—directement au-dessus de la tête de votre adversaire.*
-
-| **Psionique, Distance, Résopathie, Frappe** |               **Action principale** |
-|----------------------------------------------|------------------------------------:|
-| **📏 Distance 10**                           | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 3 + R dégâts
-- **12-16 :** 5 + R dégâts
-- **17+ :** 8 + R dégâts
-
-**Effet :** Un objet sans valeur de taille 1M tombe sur la cible pour infliger les dégâts, puis roule dans un espace adjacent inoccupé de votre choix. L'objet est fait de bois, de pierre ou de métal (votre choix).
-
-**Sous Tension :** L'objet explose après que les dégâts soient infligés, et chaque créature adjacente à la cible subit des dégâts égaux à votre score de Raison. Vous subissez également des dégâts égaux à votre score de Raison qui ne peuvent être réduits d'aucune façon.
-
-######## Rayon Optique
-
-*Vos yeux émettent des rayons de force énervante puissante.*
-
-| **Métamorphose, Psionique, Distance, Frappe** |               **Action principale** |
-|------------------------------------------------|------------------------------------:|
-| **📏 Distance 10**                             | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 + R dégâts ; F < FAIBLE, à terre
-- **12-16 :** 4 + R dégâts ; F < MOYEN, à terre
-- **17+ :** 6 + R dégâts ; F < FORT, à terre
-
-**Effet :** Quand vous ciblez un objet avec une surface réfléchissante solide ou une créature portant ou équipée d'un tel objet (comme un miroir, un bouclier métallique non peint, ou une armure de plaques métalliques brillantes), vous pouvez cibler une créature ou un objet supplémentaire à 3 cases ou moins de la première cible.
-
-**Sous Tension :** Vous gagnez 1 impulsion que vous pouvez utiliser immédiatement, et vous subissez des dégâts égaux à votre score de Raison qui ne peuvent être réduits d'aucune façon.
-
-######## Épée Spirituelle
-
-*Vous formez une lame d'énergie mentale et poignardez votre cible, vous revigorant.*
-
-| **Animapathie, Corps à Corps, Psionique, Frappe** |               **Action principale** |
-|----------------------------------------------------|------------------------------------:|
-| **📏 Corps à Corps 2**                             | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 3 + P dégâts
-- **12-16 :** 6 + P dégâts
-- **17+ :** 9 + P dégâts
-
-**Effet :** Vous gagnez 1 impulsion.
-
-**Sous Tension :** La cible subit 3 dégâts supplémentaires. Vous subissez également 3 dégâts qui ne peuvent être réduits d'aucune façon.
+> [!spell] Épée Spirituelle
+> 🏷️ *Animapathie • Corps à Corps • Psionique • Frappe*
+> 
+> ***Vous formez une lame d'énergie mentale et poignardez votre cible, vous revigorant.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 3 + P dégâts
+> - **12-16 :** 6 + P dégâts
+> - **17+ :** 9 + P dégâts
+> 
+> **💫 Effet :** Vous gagnez 1 impulsion.
+> 
+> **⚡ Sous Tension :** La cible subit 3 dégâts supplémentaires. Vous subissez également 3 dégâts qui ne peuvent être réduits d'aucune façon.
 
 ##### Aptitudes Héroïques
 
@@ -423,115 +462,136 @@ Vous connaissez un éventail d'aptitudes héroïques, qui coûtent toutes de la 
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 clarté à utiliser. (*Construction Rapide :* Étranglement.)
 
-######## Effroi (3 Clarté)
+> [!spell] Effroi (3 Clarté)
+> 🏷️ *Psionique • À Distance • Frappe • Télépathie*
+> 
+> ***Vous projetez de l'énergie psionique vers une créature et prenez une nouvelle apparence dans son esprit.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet :** Si vous ciblez un allié, il gagne une Vigueur Temporaire égale à trois fois votre score de Présence, et il peut mettre fin à un effet sur lui qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour. Si vous ciblez un ennemi, vous effectuez un jet de pouvoir.
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 3 + P dégâts psychiques ; I < FAIBLE, effrayé (sauvegarde termine)
+> - **12-16 :** 6 + P dégâts psychiques ; I < MOYEN, effrayé (sauvegarde termine)
+> - **17+ :** 9 + P dégâts psychiques ; I < FORT, effrayé (sauvegarde termine)
 
-*Vous projetez de l'énergie psionique vers une créature et prenez une nouvelle apparence dans son esprit.*
+> [!spell] Étranglement (3 Clarté)
+> 🏷️ *Psionique • À Distance • Frappe • Télékinésie*
+> 
+> ***Vous écrasez un ennemi dans une étreinte télékinétique.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 3 + R dégâts ; M < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 5 + R dégâts ; M < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 8 + R dégâts ; M < FORT, entravé (sauvegarde termine)
+> 
+> **💫 Effet :** Vous pouvez effectuer une traction vertical de la cible jusqu'à 2 cases. Si la cible est entravée par cette aptitude, ce déplacement forcé ignore sa stabilité.
 
-| **Psionique, À Distance, Frappe, Télépathie** |     **Action principale** |
-|-----------------------------------------------|-------------------------:|
-| **📏 À Distance 10**                          | **🎯 Une créature** |
+> [!spell] Précognition (3 Clarté)
+> 🏷️ *Chronopathie • Corps à Corps • Psionique*
+> 
+> ***Vous donnez à une cible un aperçu du futur pour qu'elle soit prête à ce qui va suivre.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** Les jets d'aptitude effectués contre la cible subissent un fléau jusqu'au début de votre prochain tour. Chaque fois que la cible subit des dégâts sous cet effet, elle peut utiliser une action déclenchée pour effectuer une frappe gratuite contre la source des dégâts.
 
-**Effet :** Si vous ciblez un allié, il gagne une Vigueur Temporaire égale à trois fois votre score de Présence, et il peut mettre fin à un effet sur lui qui se termine par un jet de sauvegarde ou qui se termine à la fin de son tour. Si vous ciblez un ennemi, vous effectuez un jet de pouvoir.
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 3 + P dégâts psychiques ; I < FAIBLE, effrayé (sauvegarde termine)
-- **12-16 :** 6 + P dégâts psychiques ; I < MOYEN, effrayé (sauvegarde termine)
-- **17+ :** 9 + P dégâts psychiques ; I < FORT, effrayé (sauvegarde termine)
-
-######## Étranglement (3 Clarté)
-
-*Vous écrasez un ennemi dans une étreinte télékinétique.*
-
-| **Psionique, À Distance, Frappe, Télékinésie** |     **Action principale** |
-|------------------------------------------------|-------------------------:|
-| **📏 À Distance 10**                           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 3 + R dégâts ; M < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 5 + R dégâts ; M < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 8 + R dégâts ; M < FORT, entravé (sauvegarde termine)
-
-**Effet :** Vous pouvez effectuer une traction vertical de la cible jusqu'à 2 cases. Si la cible est entravée par cette aptitude, ce déplacement forcé ignore sa stabilité.
-
-######## Précognition (3 Clarté)
-
-*Vous donnez à une cible un aperçu du futur pour qu'elle soit prête à ce qui va suivre.*
-
-| **Chronopathie, Corps à Corps, Psionique** |         **Action principale** |
-|--------------------------------------------|-----------------------------:|
-| **📏 Corps à Corps 2**                     | **🎯 Soi-même ou un allié** |
-
-**Effet :** Les jets d'aptitude effectués contre la cible subissent un fléau jusqu'au début de votre prochain tour. Chaque fois que la cible subit des dégâts sous cet effet, elle peut utiliser une action déclenchée pour effectuer une frappe gratuite contre la source des dégâts.
-
-######## Combustion (3 Clarté)
-
-*La fumée s'échappe de votre ennemi comme des larmes tandis que sa peau commence à noircir et à s'écailler.*
-
-| **Psionique, Pyrokinésie, À Distance, Frappe** |     **Action principale** |
-|------------------------------------------------|-------------------------:|
-| **📏 À Distance 10**                           | **🎯 Une créature** |
-
-**Effet :** Choisissez le type de dégâts et la faiblesse pour cette aptitude parmi les suivants : acide, corruption ou feu. La cible subit des dégâts avant que cette aptitude n'impose une faiblesse.
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 3 + R dégâts ; R < FAIBLE, la cible a une faiblesse 5 (sauvegarde termine)
-- **12-16 :** 6 + R dégâts ; R < MOYEN, la cible a une faiblesse 5 (sauvegarde termine)
-- **17+ :** 9 + R dégâts ; R < FORT, la cible a une faiblesse égale à 5 + votre score de Raison (sauvegarde termine)
+> [!spell] Combustion (3 Clarté)
+> 🏷️ *Psionique • Pyrokinésie • À Distance • Frappe*
+> 
+> ***La fumée s'échappe de votre ennemi comme des larmes tandis que sa peau commence à noircir et à s'écailler.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet :** Choisissez le type de dégâts et la faiblesse pour cette aptitude parmi les suivants : acide, corruption ou feu. La cible subit des dégâts avant que cette aptitude n'impose une faiblesse.
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 3 + R dégâts ; R < FAIBLE, la cible a une faiblesse 5 (sauvegarde termine)
+> - **12-16 :** 6 + R dégâts ; R < MOYEN, la cible a une faiblesse 5 (sauvegarde termine)
+> - **17+ :** 9 + R dégâts ; R < FORT, la cible a une faiblesse égale à 5 + votre score de Raison (sauvegarde termine)
 
 ###### Aptitude de Clarté 5
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 points de clarté à utiliser. (*Construction Rapide :* Absorption d'Inertie.)
 
-######## Flashback (5 Clarté)
+> [!spell] Flashback (5 Clarté)
+> 🏷️ *Chronopathie • Psionique • Distance*
+> 
+> ***La cible est projetée quelques secondes en arrière dans le temps et peut tout recommencer.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** La cible utilise une aptitude avec un coût de base en Ressource Héroïque de 7 ou moins qu'elle a déjà utilisée ce tour, sans avoir besoin de dépenser le coût de base. Les améliorations de l'aptitude peuvent être payées normalement.
+> 
+> **⚡ Sous Tension :** Vous subissez 1d6 dégâts et êtes ralenti (sauvegarde termine).
 
-*La cible est projetée quelques secondes en arrière dans le temps et peut tout recommencer.*
+> [!spell] Absorption d'Inertie (5 Clarté)
+> 🏷️ *Psionique • Distance • Télékinésie*
+> 
+> ***Votre énergie psionique entoure la cible et repousse tout le reste loin d'elle.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** La cible ignore le terrain difficile et ne subit aucun dégât du déplacement forcé jusqu'au début de votre prochain tour. Chaque fois que la cible entre dans une case sous cet effet, elle peut repousser une créature adjacente d'un nombre de cases égal à votre score de Raison. Lors du déplacement d'un allié, la cible peut ignorer la stabilité de cet allié. Une créature ne peut être déplacée de force de cette manière qu'une fois par tour.
+> 
+> **⚡ Sous Tension :** Vous êtes affaibli (sauvegarde termine). Tant que vous êtes affaibli de cette manière, chaque fois que vous subissez un déplacement forcé, la distance de déplacement forcé gagne un bonus de +5.
 
-| **Chronopathie, Psionique, Distance** |            **Manœuvre** |
-|---------------------------------------|------------------------:|
-| **📏 Distance 10**                    | **🎯 Soi ou un allié** |
+> [!spell] Fer (5 Clarté)
+> 🏷️ *Métamorphose • Psionique • Distance*
+> 
+> ***La peau de la cible se transforme en métal dur et sombre, impénétrable et dense.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** La stabilité de la cible augmente d'un montant égal à votre score de Raison, et elle gagne 10 points de Vigueur Temporaire et 2 impulsions. Cette augmentation de stabilité dure jusqu'à ce que la cible n'ait plus de Vigueur Temporaire de cette aptitude.
+> 
+> **⚡ Sous Tension :** Vous ne pouvez pas utiliser de manœuvres (sauvegarde termine).
 
-**Effet :** La cible utilise une aptitude avec un coût de base en Ressource Héroïque de 7 ou moins qu'elle a déjà utilisée ce tour, sans avoir besoin de dépenser le coût de base. Les améliorations de l'aptitude peuvent être payées normalement.
-
-**Sous Tension :** Vous subissez 1d6 dégâts et êtes ralenti (sauvegarde termine).
-
-######## Absorption d'Inertie (5 Clarté)
-
-*Votre énergie psionique entoure la cible et repousse tout le reste loin d'elle.*
-
-| **Psionique, Distance, Télékinésie** |            **Manœuvre** |
-|--------------------------------------|------------------------:|
-| **📏 Distance 10**                   | **🎯 Soi ou un allié** |
-
-**Effet :** La cible ignore le terrain difficile et ne subit aucun dégât du déplacement forcé jusqu'au début de votre prochain tour. Chaque fois que la cible entre dans une case sous cet effet, elle peut repousser une créature adjacente d'un nombre de cases égal à votre score de Raison. Lors du déplacement d'un allié, la cible peut ignorer la stabilité de cet allié. Une créature ne peut être déplacée de force de cette manière qu'une fois par tour.
-
-**Sous Tension :** Vous êtes affaibli (sauvegarde termine). Tant que vous êtes affaibli de cette manière, chaque fois que vous subissez un déplacement forcé, la distance de déplacement forcé gagne un bonus de +5.
-
-######## Fer (5 Clarté)
-
-*La peau de la cible se transforme en métal dur et sombre, impénétrable et dense.*
-
-| **Métamorphose, Psionique, Distance** |            **Manœuvre** |
-|---------------------------------------|------------------------:|
-| **📏 Distance 10**                    | **🎯 Soi ou un allié** |
-
-**Effet :** La stabilité de la cible augmente d'un montant égal à votre score de Raison, et elle gagne 10 points de Vigueur Temporaire et 2 impulsions. Cette augmentation de stabilité dure jusqu'à ce que la cible n'ait plus de Vigueur Temporaire de cette aptitude.
-
-**Sous Tension :** Vous ne pouvez pas utiliser de manœuvres (sauvegarde termine).
-
-######## Clarté Parfaite (5 Clarté)
-
-*Vous libérez l'esprit de tout sauf de l'objectif.*
-
-| **Psionique, Distance, Télépathie** |            **Manœuvre** |
-|-------------------------------------|------------------------:|
-| **📏 Distance 10**                  | **🎯 Soi ou un allié** |
-
-**Effet :** Jusqu'au début de votre prochain tour, la cible gagne un bonus de +3 à la vitesse, et elle a un double avantage sur le prochain jet de pouvoir qu'elle effectue. Si la cible obtient un résultat de tiers 3 sur ce jet, vous gagnez 1 point de clarté.
-
-**Sous Tension :** Vous subissez 1d6 dégâts, et vous ne pouvez pas utiliser d'actions déclenchées (sauvegarde termine).
+> [!spell] Clarté Parfaite (5 Clarté)
+> 🏷️ *Psionique • Distance • Télépathie*
+> 
+> ***Vous libérez l'esprit de tout sauf de l'objectif.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'au début de votre prochain tour, la cible gagne un bonus de +3 à la vitesse, et elle a un double avantage sur le prochain jet de pouvoir qu'elle effectue. Si la cible obtient un résultat de tiers 3 sur ce jet, vous gagnez 1 point de clarté.
+> 
+> **⚡ Sous Tension :** Vous subissez 1d6 dégâts, et vous ne pouvez pas utiliser d'actions déclenchées (sauvegarde termine).
 
 ### Aptitudes de Niveau 2
 
@@ -573,115 +633,127 @@ Votre tradition de talent vous accorde le choix entre deux aptitudes héroïques
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Chronométrie Appliquée (5 Clarté)
+> [!spell] Chronométrie Appliquée (5 Clarté)
+> 🏷️ *Chronopathie • Psionique • À Distance*
+> 
+> ***Le temps ralentit autour de vous. Votre rythme cardiaque est le seul indicateur des moments supplémentaires que vous avez gagnés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** Vous ciblez deux créatures, dont l'une peut être vous.
+> - **12-16 :** Vous ciblez trois créatures, dont l'une peut être vous.
+> - **17+ :** Vous ciblez quatre créatures, dont l'une peut être vous.
+> 
+> **💫 Effet :** Jusqu'au début de votre prochain tour, chaque cible gagne un bonus de +5 à la vitesse, elle ne peut pas être étourdie, et elle peut utiliser une manœuvre supplémentaire à son tour. Si une cible est déjà étourdie, cette condition prend fin pour elle.
+> 
+> **⚡ Sous Tension :** Votre vitesse est réduite de moitié jusqu'à la fin de la rencontre.
 
-*Le temps ralentit autour de vous. Votre rythme cardiaque est le seul indicateur des moments supplémentaires que vous avez gagnés.*
-
-| **Chronopathie, Psionique, À Distance** |   **Manœuvre** |
-|-----------------------------------------|---------------:|
-| **📏 À Distance 10**                    | **🎯 Spécial** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** Vous ciblez deux créatures, dont l'une peut être vous.
-- **12-16 :** Vous ciblez trois créatures, dont l'une peut être vous.
-- **17+ :** Vous ciblez quatre créatures, dont l'une peut être vous.
-
-**Effet :** Jusqu'au début de votre prochain tour, chaque cible gagne un bonus de +5 à la vitesse, elle ne peut pas être étourdie, et elle peut utiliser une manœuvre supplémentaire à son tour. Si une cible est déjà étourdie, cette condition prend fin pour elle.
-
-**Sous Tension :** Votre vitesse est réduite de moitié jusqu'à la fin de la rencontre.
-
-######## Ralentissement (5 Clarté)
-
-*Peut-être se demandent-ils pourquoi tous les autres bougent si rapidement ?*
-
-| **Chronopathie, Psionique, À Distance** |                      **Manœuvre** |
-|-----------------------------------------|----------------------------------:|
-| **📏 À Distance 10**                    | **🎯 Trois créatures ou objets** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** La vitesse de la cible est réduite de moitié (Sauvegarde Termine), ou si S < FAIBLE, la cible est ralentie (Sauvegarde Termine).
-- **12-16 :** La cible est ralentie (Sauvegarde Termine), ou si S < MOYEN, la vitesse de la cible est de 0 (Sauvegarde Termine).
-- **17+ :** La cible est ralentie (Sauvegarde Termine), ou si S < FORT, la vitesse de la cible est de 0 (Sauvegarde Termine).
-
-**Effet :** Une cible ne peut pas utiliser d'actions déclenchées tant que sa vitesse est réduite de cette façon.
-
-**Sous Tension :** Le seuil de cette aptitude augmente de 1 et vous subissez 1d6 dégâts. Au début de chaque tour de combat tant qu'une cible est affectée par cette aptitude, vous subissez 1d6 dégâts. Vous pouvez mettre fin à l'effet sur toutes les cibles affectées à tout moment (aucune action requise).
+> [!spell] Ralentissement (5 Clarté)
+> 🏷️ *Chronopathie • Psionique • À Distance*
+> 
+> ***Peut-être se demandent-ils pourquoi tous les autres bougent si rapidement ?***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois créatures ou objets</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** La vitesse de la cible est réduite de moitié (Sauvegarde Termine), ou si S < FAIBLE, la cible est ralentie (Sauvegarde Termine).
+> - **12-16 :** La cible est ralentie (Sauvegarde Termine), ou si S < MOYEN, la vitesse de la cible est de 0 (Sauvegarde Termine).
+> - **17+ :** La cible est ralentie (Sauvegarde Termine), ou si S < FORT, la vitesse de la cible est de 0 (Sauvegarde Termine).
+> 
+> **💫 Effet :** Une cible ne peut pas utiliser d'actions déclenchées tant que sa vitesse est réduite de cette façon.
+> 
+> **⚡ Sous Tension :** Le seuil de cette aptitude augmente de 1 et vous subissez 1d6 dégâts. Au début de chaque tour de combat tant qu'une cible est affectée par cette aptitude, vous subissez 1d6 dégâts. Vous pouvez mettre fin à l'effet sur toutes les cibles affectées à tout moment (aucune action requise).
 
 ##### Aptitude de Télékinésie de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Explosion Gravitique (5 Clarté)
+> [!spell] Explosion Gravitique (5 Clarté)
+> 🏷️ *Zone • Psionique • Télékinésie*
+> 
+> ***Tout le monde, éloignez-vous de moi !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 3 dégâts ; poussée verticale 2
+> - **12-16 :** 6 dégâts ; poussée verticale 4
+> - **17+ :** 9 dégâts ; poussée verticale 6
+> 
+> **⚡ Sous Tension :** La taille de l'explosion augmente de 1, et vous êtes affaibli jusqu'à la fin de votre tour.
 
-*Tout le monde, éloignez-vous de moi !*
-
-| **Zone, Psionique, Télékinésie** |               **Action principale** |
-|-----------------------------------|------------------------------------:|
-| **📏 Explosion 1**                | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 3 dégâts ; poussée verticale 2
-- **12-16 :** 6 dégâts ; poussée verticale 4
-- **17+ :** 9 dégâts ; poussée verticale 6
-
-**Sous Tension :** La taille de l'explosion augmente de 1, et vous êtes affaibli jusqu'à la fin de votre tour.
-
-######## Légèreté et Gravité (5 Clarté)
-
-*Vous soulevez légèrement la cible dans les airs, puis l'écrasez contre le sol.*
-
-| **Psionique, À Distance, Frappe, Télékinésie** |               **Action principale** |
-|-------------------------------------------------|------------------------------------:|
-| **📏 À distance 10**                            | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 6 + R dégâts ; M < FAIBLE, à terre
-- **12-16 :** 10 + R dégâts ; M < MOYEN, à terre
-- **17+ :** 14 + R dégâts ; M < FORT, à terre et ne peut pas se lever (sauvegarde termine)
-
-**Sous Tension :** Vous subissez la moitié des dégâts que subit la cible.
+> [!spell] Légèreté et Gravité (5 Clarté)
+> 🏷️ *Psionique • À Distance • Frappe • Télékinésie*
+> 
+> ***Vous soulevez légèrement la cible dans les airs, puis l'écrasez contre le sol.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 6 + R dégâts ; M < FAIBLE, à terre
+> - **12-16 :** 10 + R dégâts ; M < MOYEN, à terre
+> - **17+ :** 14 + R dégâts ; M < FORT, à terre et ne peut pas se lever (sauvegarde termine)
+> 
+> **⚡ Sous Tension :** Vous subissez la moitié des dégâts que subit la cible.
 
 ##### Aptitude de Télépathie de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Surcharge (5 Clarté)
+> [!spell] Surcharge (5 Clarté)
+> 🏷️ *Psionique • À Distance • Frappe • Télépathie*
+> 
+> ***Vous surchargez leurs sens, transformant toutes leurs pensées subconscientes en pensées conscientes.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 6 + R dégâts psychiques ; I < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 10 + R dégâts psychiques ; I < MOYEN, affaibli (sauvegarde termine)
+> - **17+ :** 14 + R dégâts psychiques ; I < FORT, étourdi (sauvegarde termine)
+> 
+> **⚡ Sous Tension :** Vous commencez à pleurer, et vous ne pouvez pas utiliser d'actions déclenchées ou effectuer de frappes gratuites jusqu'à la fin du prochain tour de la cible.
 
-*Vous surchargez leurs sens, transformant toutes leurs pensées subconscientes en pensées conscientes.*
-
-| **Psionique, À Distance, Frappe, Télépathie** |     **Action principale** |
-|-----------------------------------------------|-------------------------:|
-| **📏 À Distance 10**                          | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 6 + R dégâts psychiques ; I < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 10 + R dégâts psychiques ; I < MOYEN, affaibli (sauvegarde termine)
-- **17+ :** 14 + R dégâts psychiques ; I < FORT, étourdi (sauvegarde termine)
-
-**Sous Tension :** Vous commencez à pleurer, et vous ne pouvez pas utiliser d'actions déclenchées ou effectuer de frappes gratuites jusqu'à la fin du prochain tour de la cible.
-
-######## Contrôle Synaptique (5 Clarté)
-
-*Vous contrôlez le système nerveux d'un ennemi. Comme c'est agréable pour lui.*
-
-| **Psionique, À Distance, Télépathie** |  **Action principale** |
-|---------------------------------------|----------------------:|
-| **📏 À Distance 10**                  | **🎯 Un ennemi** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** La cible effectue une frappe gratuite contre un ennemi de votre choix.
-- **12-16 :** La cible glisse jusqu'à sa vitesse et utilise son aptitude signature contre tous ennemis de votre choix.
-- **17+ :** La cible se déplace jusqu'à sa vitesse et utilise son aptitude signature contre tous ennemis de votre choix.
-
-**Effet :** Vous contrôlez le déplacement de la cible. La cible ne peut pas être déplacée d'une manière qui lui causerait du mal (comme au-dessus d'une falaise), la laisserait mourante, ou l'amènerait à subir une condition ou autre effet négatif. Cependant, vous pouvez la déplacer pour provoquer des attaques d'opportunité.
-
-**Sous Tension :** Vous subissez 1d6 dégâts et êtes affaibli jusqu'à la fin de votre tour.
+> [!spell] Contrôle Synaptique (5 Clarté)
+> 🏷️ *Psionique • À Distance • Télépathie*
+> 
+> ***Vous contrôlez le système nerveux d'un ennemi. Comme c'est agréable pour lui.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un ennemi</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** La cible effectue une frappe gratuite contre un ennemi de votre choix.
+> - **12-16 :** La cible glisse jusqu'à sa vitesse et utilise son aptitude signature contre tous ennemis de votre choix.
+> - **17+ :** La cible se déplace jusqu'à sa vitesse et utilise son aptitude signature contre tous ennemis de votre choix.
+> 
+> **💫 Effet :** Vous contrôlez le déplacement de la cible. La cible ne peut pas être déplacée d'une manière qui lui causerait du mal (comme au-dessus d'une falaise), la laisserait mourante, ou l'amènerait à subir une condition ou autre effet négatif. Cependant, vous pouvez la déplacer pour provoquer des attaques d'opportunité.
+> 
+> **⚡ Sous Tension :** Vous subissez 1d6 dégâts et êtes affaibli jusqu'à la fin de votre tour.
 
 ### Aptitudes de Niveau 3
 
@@ -695,73 +767,82 @@ Vous pouvez étendre vos sens psioniques au-delà de leur portée habituelle. Un
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 points de clarté à utiliser.
 
-######## Projection dans le Temps (7 Clarté)
+> [!spell] Projection dans le Temps (7 Clarté)
+> 🏷️ *Chronopathie • Psionique • Distance • Frappe*
+> 
+> ***Vous projetez la cible à travers les annales du temps, la forçant à revivre chaque instant de son existence simultanément.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 3 + P dégâts de corruption ; P < FAIBLE, affaibli (sauvegarde termine)
+> - **12-16 :** 5 + P dégâts de corruption ; la cible est projetée dans le temps, et si P < MOYEN, elle est affaiblie (sauvegarde termine)
+> - **17+ :** 8 + P dégâts de corruption ; la cible est projetée dans le temps, et si P < FORT, elle est affaiblie (sauvegarde termine)
+> 
+> **💫 Effet :** Une cible qui est projetée dans le temps est retirée de la carte de rencontre jusqu'à la fin de son prochain tour, réapparaissant dans son espace d'origine ou l'espace libre le plus proche.
+> 
+> **⚡ Sous Tension :** Vous subissez 2d6 dégâts et vieillissez visiblement de façon permanente (l'équivalent de 10 ans pour un humain). Si vous obtenez un résultat de tiers 3 sur le jet de pouvoir, vous gagnez 2 points de clarté.
 
-*Vous projetez la cible à travers les annales du temps, la forçant à revivre chaque instant de son existence simultanément.*
+> [!spell] Orbes de Force (7 Clarté)
+> 🏷️ *Psionique • Distance • Frappe • Télékinésie*
+> 
+> ***Des sphères d'énergie psionique solide flottent autour de vous.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi ; voir ci-dessous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous créez trois orbes de taille 1T qui gravitent autour de votre corps. Chaque orbe vous confère une immunité aux dégâts 1 cumulative. Chaque fois que vous subissez des dégâts, vous perdez 1 orbe.
+> 
+> Une fois par tour, vous pouvez utiliser une manœuvre gratuite pour tirer un orbe sur une créature ou un objet dans un rayon de 5 cases comme une frappe à distance, perdant l'orbe après la frappe.
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 2 dégâts
+> - **12-16 :** 3 dégâts
+> - **17+ :** 5 dégâts
+> 
+> **⚡ Sous Tension :** Vous créez cinq orbes, et vous êtes affaibli tant que vous avez des orbes actifs.
 
-| **Chronopathie, Psionique, Distance**, **Frappe** |               **Action principale** |
-|---------------------------------------------------|------------------------------------:|
-| **📏 Distance 10**                                | **🎯 Une créature ou un objet** |
+> [!spell] Champ Réflecteur (7 Clarté)
+> 🏷️ *Zone • Psionique • Télépathie*
+> 
+> ***Un champ protecteur inverse l'élan des attaques entrantes.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Aura 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet :** L'aura dure jusqu'au début de votre prochain tour. Chaque fois qu'un ennemi cible un allié dans la zone avec une aptitude à distance, l'aptitude est annulée sur l'allié et renvoyée vers l'ennemi. L'aptitude inflige la moitié des dégâts à l'ennemi qu'elle aurait infligés à l'allié et perd tous ses effets supplémentaires.
+> 
+> **⚡ Sous Tension :** La taille de l'aura augmente de 1. Chaque fois que votre aura renvoie une aptitude, vous subissez 2d6 dégâts et oubliez un souvenir, comme déterminé par vous et le Directeur.
 
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 3 + S dégâts de corruption ; S < FAIBLE, affaibli (sauvegarde termine)
-- **12-16 :** 5 + S dégâts de corruption ; la cible est projetée dans le temps, et si S < MOYEN, elle est affaiblie (sauvegarde termine)
-- **17+ :** 8 + S dégâts de corruption ; la cible est projetée dans le temps, et si S < FORT, elle est affaiblie (sauvegarde termine)
-
-**Effet :** Une cible qui est projetée dans le temps est retirée de la carte de rencontre jusqu'à la fin de son prochain tour, réapparaissant dans son espace d'origine ou l'espace libre le plus proche.
-
-**Sous Tension :** Vous subissez 2d6 dégâts et vieillissez visiblement de façon permanente (l'équivalent de 10 ans pour un humain). Si vous obtenez un résultat de tiers 3 sur le jet de pouvoir, vous gagnez 2 points de clarté.
-
-######## Orbes de Force (7 Clarté)
-
-*Des sphères d'énergie psionique solide flottent autour de vous.*
-
-| **Psionique, Distance, Frappe, Télékinésie** | **Action principale** |
-|----------------------------------------------|----------------------:|
-| **📏 Soi ; voir ci-dessous**                 |          **🎯 Soi** |
-
-**Effet :** Vous créez trois orbes de taille 1T qui gravitent autour de votre corps. Chaque orbe vous confère une immunité aux dégâts 1 cumulative. Chaque fois que vous subissez des dégâts, vous perdez 1 orbe.
-
-Une fois par tour, vous pouvez utiliser une manœuvre gratuite pour tirer un orbe sur une créature ou un objet dans un rayon de 5 cases comme une frappe à distance, perdant l'orbe après la frappe.
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 dégâts
-- **12-16 :** 3 dégâts
-- **17+ :** 5 dégâts
-
-**Sous Tension :** Vous créez cinq orbes, et vous êtes affaibli tant que vous avez des orbes actifs.
-
-######## Champ Réflecteur (7 Clarté)
-
-*Un champ protecteur inverse l'élan des attaques entrantes.*
-
-| **Zone, Psionique, Télépathie** | **Action principale** |
-|---------------------------------|----------------------:|
-| **📏 Aura 3**                   |     **🎯 Spécial** |
-
-**Effet :** L'aura dure jusqu'au début de votre prochain tour. Chaque fois qu'un ennemi cible un allié dans la zone avec une aptitude à distance, l'aptitude est annulée sur l'allié et renvoyée vers l'ennemi. L'aptitude inflige la moitié des dégâts à l'ennemi qu'elle aurait infligés à l'allié et perd tous ses effets supplémentaires.
-
-**Sous Tension :** La taille de l'aura augmente de 1. Chaque fois que votre aura renvoie une aptitude, vous subissez 2d6 dégâts et oubliez un souvenir, comme déterminé par vous et le Directeur.
-
-######## Brûlure d'Âme (7 Clarté)
-
-*Vous expulsez leur âme de leur corps, la laissant flotter impuissante avant qu'elle ne retourne vers une enveloppe affaiblie.*
-
-| **Animapathie, Psionique, Distance**, **Frappe** |     **Action principale** |
-|--------------------------------------------------|---------------------------:|
-| **📏 Distance 10**                               | **🎯 Une créature** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 6 + S dégâts ; S < FAIBLE, étourdi (sauvegarde termine)
-- **12-16 :** 10 + S dégâts ; S < MOYEN, étourdi (sauvegarde termine)
-- **17+ :** 14 + S dégâts ; S < FORT, étourdi (sauvegarde termine)
-
-**Effet :** La cible subit un fléau sur les tests de Présence jusqu'à la fin de la rencontre.
-
-**Sous Tension :** Le seuil de cette aptitude augmente de 1. Vous subissez 2d6 dégâts et gagnez 3 impulsions que vous pouvez utiliser immédiatement.
+> [!spell] Brûlure d'Âme (7 Clarté)
+> 🏷️ *Animapathie • Psionique • Distance • Frappe*
+> 
+> ***Vous expulsez leur âme de leur corps, la laissant flotter impuissante avant qu'elle ne retourne vers une enveloppe affaiblie.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 6 + P dégâts ; P < FAIBLE, étourdi (sauvegarde termine)
+> - **12-16 :** 10 + P dégâts ; P < MOYEN, étourdi (sauvegarde termine)
+> - **17+ :** 14 + P dégâts ; P < FORT, étourdi (sauvegarde termine)
+> 
+> **💫 Effet :** La cible subit un fléau sur les tests de Présence jusqu'à la fin de la rencontre.
+> 
+> **⚡ Sous Tension :** Le seuil de cette aptitude augmente de 1. Vous subissez 2d6 dégâts et gagnez 3 impulsions que vous pouvez utiliser immédiatement.
 
 ### Aptitudes de Niveau 4
 
@@ -841,71 +922,80 @@ Chaque fois qu'un allié utilise une aptitude à distance alors que vous vous tr
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 points de clarté à utiliser.
 
-######## Bouclier Exothermique (9 Clarté)
+> [!spell] Bouclier Exothermique (9 Clarté)
+> 🏷️ *Pyrokinésie • Psionique • À Distance*
+> 
+> ***Vous enveloppez la cible dans des flammes psioniques et lui permettez de scintiller sans craindre de s'épuiser.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'au début de votre prochain tour, la cible a une immunité au froid 10 et une immunité au feu 10, et ses frappes infligent des dégâts de feu supplémentaires égaux au double de votre score de Raison. De plus, chaque fois qu'un ennemi utilise une aptitude de corps à corps contre la cible tant qu'elle est sous cet effet, l'ennemi subit 5 dégâts de feu.
+> 
+> **⚡ Sous Tension :** La cible gagne 2 impulsions. Vous êtes affaibli et ralenti (sauvegarde termine).
 
-*Vous enveloppez la cible dans des flammes psioniques et lui permettez de scintiller sans craindre de s'épuiser.*
+> [!spell] Hypersonique (9 Clarté)
+> 🏷️ *Zone • Charge • Psionique • Télékinésie*
+> 
+> ***Vous vous déplacez assez vite pour faire demi-tour et regarder vos ennemis subir les conséquences.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Ligne 5 x 2 à portée 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous vous téléportez vers une case du côté opposé de la zone avant de faire le jet de pouvoir.
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 12 dégâts soniques
+> - **12-16 :** 18 dégâts soniques
+> - **17+ :** 24 dégâts soniques
+> 
+> **⚡ Sous Tension :** Si vous obtenez un résultat de tiers 2 ou mieux, vous êtes ralenti jusqu'à la fin de votre tour et chaque cible est ralentie jusqu'à la fin de son tour.
 
-| **Pyrokinésie, Psionique, À Distance** |            **Manœuvre** |
-|----------------------------------------|------------------------:|
-| **📏 À Distance 10**                   | **🎯 Soi ou un allié** |
+> [!spell] Piège Mental (9 Clarté)
+> 🏷️ *Psionique • À Distance • Frappe • Télépathie*
+> 
+> ***Vous vous accrochez au cerveau de votre proie et ne lâchez pas prise, comme une chanson qu'elle n'arrive pas à sortir de sa tête.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 10 + R dégâts psychiques ; R < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 14 + R dégâts psychiques ; R < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 20 + R dégâts psychiques ; R < FORT, ralenti (sauvegarde termine)
+> 
+> **💫 Effet :** Tant qu'elle est ralentie de cette façon, la cible subit 3 dégâts psychiques pour chaque case qu'elle quitte volontairement.
+> 
+> **⚡ Sous Tension :** Tant qu'elle est ralentie de cette façon, la cible subit à la place 5 dégâts psychiques pour chaque case qu'elle quitte volontairement. Vous avez un double fléau sur les jets d'aptitude effectués contre la cible tant qu'elle est ralentie de cette façon.
 
-**Effet :** Jusqu'au début de votre prochain tour, la cible a une immunité au froid 10 et une immunité au feu 10, et ses frappes infligent des dégâts de feu supplémentaires égaux au double de votre score de Raison. De plus, chaque fois qu'un ennemi utilise une aptitude de corps à corps contre la cible tant qu'elle est sous cet effet, l'ennemi subit 5 dégâts de feu.
-
-**Sous Tension :** La cible gagne 2 impulsions. Vous êtes affaibli et ralenti (sauvegarde termine).
-
-######## Hypersonique (9 Clarté)
-
-*Vous vous déplacez assez vite pour faire demi-tour et regarder vos ennemis subir les conséquences.*
-
-| **Zone, Charge, Psionique, Télékinésie** |               **Action Principale** |
-|------------------------------------------|------------------------------------:|
-| **📏 Ligne 5 x 2 à portée 1**            | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Vous vous téléportez vers une case du côté opposé de la zone avant de faire le jet de pouvoir.
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 12 dégâts soniques
-- **12-16 :** 18 dégâts soniques
-- **17+ :** 24 dégâts soniques
-
-**Sous Tension :** Si vous obtenez un résultat de tiers 2 ou mieux, vous êtes ralenti jusqu'à la fin de votre tour et chaque cible est ralentie jusqu'à la fin de son tour.
-
-######## Piège Mental (9 Clarté)
-
-*Vous vous accrochez au cerveau de votre proie et ne lâchez pas prise, comme une chanson qu'elle n'arrive pas à sortir de sa tête.*
-
-| **Psionique, À Distance, Frappe, Télépathie** |     **Action Principale** |
-|-----------------------------------------------|---------------------------:|
-| **📏 À Distance 10**                          | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 10 + R dégâts psychiques ; R < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 14 + R dégâts psychiques ; R < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 20 + R dégâts psychiques ; R < FORT, ralenti (sauvegarde termine)
-
-**Effet :** Tant qu'elle est ralentie de cette façon, la cible subit 3 dégâts psychiques pour chaque case qu'elle quitte volontairement.
-
-**Sous Tension :** Tant qu'elle est ralentie de cette façon, la cible subit à la place 5 dégâts psychiques pour chaque case qu'elle quitte volontairement. Vous avez un double fléau sur les jets d'aptitude effectués contre la cible tant qu'elle est ralentie de cette façon.
-
-######## Lien d'Âmes (9 Clarté)
-
-*Vous tirez un trait perçant d'énergie psychique qui transperce deux ennemis et laisse un fil intangible ténu entre eux.*
-
-| **Animapathie, Psionique, À Distance, Frappe** |    **Action Principale** |
-|------------------------------------------------|-------------------------:|
-| **📏 À Distance 10**                           | **🎯 Deux ennemis** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 8 dégâts ; A < FAIBLE, la cible est cousue à l'autre cible (sauvegarde termine)
-- **12-16 :** 13 dégâts ; A < MOYEN, la cible est cousue à l'autre cible (sauvegarde termine)
-- **17+ :** 17 dégâts ; A < FORT, la cible est cousue à l'autre cible (sauvegarde termine)
-
-**Effet :** Si une cible devient cousue à l'autre, les deux cibles sont cousues ensemble. Tant qu'elles sont cousues ensemble, une cible subit un fléau sur les jets de pouvoir tant qu'elle n'est pas adjacente à une créature à laquelle elle est cousue. Chaque fois qu'une cible cousue subit des dégâts qui n'ont pas été infligés par ou également subis par une autre cible cousue, chaque autre cible cousue subit la moitié des dégâts que la cible initiale a subis.
-
-**Sous Tension :** Vous ciblez à la place vous-même et trois ennemis.
+> [!spell] Lien d'Âmes (9 Clarté)
+> 🏷️ *Animapathie • Psionique • À Distance • Frappe*
+> 
+> ***Vous tirez un trait perçant d'énergie psychique qui transperce deux ennemis et laisse un fil intangible ténu entre eux.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux ennemis</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 8 dégâts ; A < FAIBLE, la cible est cousue à l'autre cible (sauvegarde termine)
+> - **12-16 :** 13 dégâts ; A < MOYEN, la cible est cousue à l'autre cible (sauvegarde termine)
+> - **17+ :** 17 dégâts ; A < FORT, la cible est cousue à l'autre cible (sauvegarde termine)
+> 
+> **💫 Effet :** Si une cible devient cousue à l'autre, les deux cibles sont cousues ensemble. Tant qu'elles sont cousues ensemble, une cible subit un fléau sur les jets de pouvoir tant qu'elle n'est pas adjacente à une créature à laquelle elle est cousue. Chaque fois qu'une cible cousue subit des dégâts qui n'ont pas été infligés par ou également subis par une autre cible cousue, chaque autre cible cousue subit la moitié des dégâts que la cible initiale a subis.
+> 
+> **⚡ Sous Tension :** Vous ciblez à la place vous-même et trois ennemis.
 
 ### Aptitudes de Niveau 6
 
@@ -955,119 +1045,131 @@ Votre tradition de talent vous accorde le choix entre deux aptitudes héroïques
 
 Choisissez une des aptitudes suivantes.
 
-######## Destin (9 Clarté)
+> [!spell] Destin (9 Clarté)
+> 🏷️ *Chronopathie • Psionique • Corps à Corps*
+> 
+> ***Votre ennemi entrevoit comment cela se terminera pour lui.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un ennemi</p>
+> 
+> ---
+> 
+> **💫 Effet :** La cible a une faiblesse aux dégâts 5 jusqu'à la fin de votre prochain tour. Chaque fois que la cible subit des dégâts tant qu'elle a cette faiblesse, elle tombe à terre.
+> 
+> **⚡ Sous Tension :** Cette aptitude gagne le mot-clé Frappe car la vision blesse le psychisme de la cible. Vous effectuez un jet de pouvoir, puis êtes affaibli (sauvegarde termine).
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 8 + P dégâts psychiques
+> - **12-16 :** 13 + P dégâts psychiques
+> - **17+ :** 17 + P dégâts psychiques
 
-*Votre ennemi entrevoit comment cela se terminera pour lui.*
-
-| **Chronopathie, Psionique, Corps à Corps** |  **Action principale** |
-|---------------------------------------------|----------------------:|
-| **📏 Corps à Corps 2**                     | **🎯 Un ennemi** |
-
-**Effet :** La cible a une faiblesse aux dégâts 5 jusqu'à la fin de votre prochain tour. Chaque fois que la cible subit des dégâts tant qu'elle a cette faiblesse, elle tombe à terre.
-
-**Sous Tension :** Cette aptitude gagne le mot-clé Frappe car la vision blesse le psychisme de la cible. Vous effectuez un jet de pouvoir, puis êtes affaibli (sauvegarde termine).
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 8 + P dégâts psychiques
-- **12-16 :** 13 + P dégâts psychiques
-- **17+ :** 17 + P dégâts psychiques
-
-######## Champ de Stase (9 Clarté)
-
-*Gardez tout comme c'était. Ignorez tout ce qui sera.*
-
-| **Zone, Chronopathie, Psionique, Distance** |                             **Action principale** |
-|----------------------------------------------|--------------------------------------------------:|
-| **📏 Cube de 4 à portée 10**                | **🎯 Chaque créature et objet dans la zone** |
-
-**Effet :** La zone est figée dans le temps jusqu'au début de votre prochain tour. Chaque objet dans la zone est entravé et ne peut pas tomber jusqu'à la fin de l'effet. Jusqu'à la fin de l'effet, les créatures dans la zone qui sont réduites à 0 Vigueur ou qui mourraient restent vivantes, et les objets dans la zone qui sont réduits à 0 Vigueur restent intacts.
-
-Effectuez un jet de pouvoir qui cible chaque ennemi dans la zone.
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** P < FAIBLE, la cible est ralentie jusqu'à la fin de l'effet
-- **12-16 :** P < MOYEN, la vitesse de la cible est 0 jusqu'à la fin de l'effet
-- **17+ :** P < FORT, la cible est entravée jusqu'à la fin de l'effet
-
-**Sous Tension :** Toute créature ou objet subissant un déplacement forcé dans la zone subit 2 dégâts de corruption pour chaque case de la zone dans laquelle ils entrent. Les créatures et objets entravés dans la zone peuvent subir un déplacement forcé. Vous êtes entravé jusqu'à la fin de l'effet.
+> [!spell] Champ de Stase (9 Clarté)
+> 🏷️ *Zone • Chronopathie • Psionique • Distance*
+> 
+> ***Gardez tout comme c'était. Ignorez tout ce qui sera.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 4 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque créature et objet dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** La zone est figée dans le temps jusqu'au début de votre prochain tour. Chaque objet dans la zone est entravé et ne peut pas tomber jusqu'à la fin de l'effet. Jusqu'à la fin de l'effet, les créatures dans la zone qui sont réduites à 0 Vigueur ou qui mourraient restent vivantes, et les objets dans la zone qui sont réduits à 0 Vigueur restent intacts.
+> 
+> Effectuez un jet de pouvoir qui cible chaque ennemi dans la zone.
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** P < FAIBLE, la cible est ralentie jusqu'à la fin de l'effet
+> - **12-16 :** P < MOYEN, la vitesse de la cible est 0 jusqu'à la fin de l'effet
+> - **17+ :** P < FORT, la cible est entravée jusqu'à la fin de l'effet
+> 
+> **⚡ Sous Tension :** Toute créature ou objet subissant un déplacement forcé dans la zone subit 2 dégâts de corruption pour chaque case de la zone dans laquelle ils entrent. Les créatures et objets entravés dans la zone peuvent subir un déplacement forcé. Vous êtes entravé jusqu'à la fin de l'effet.
 
 ##### Aptitudes de Télékinésie de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Puits Gravitique (9 Clarté)
+> [!spell] Puits Gravitique (9 Clarté)
+> 🏷️ *Zone • Psionique • À Distance • Télékinésie*
+> 
+> ***Vous pliez la gravité en un point précis et attirez vos ennemis vers lui.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube de 4 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque créature et objet dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 6 dégâts ; Traction verticale de 5 vers le centre de la zone
+> - **12-16 :** 9 dégâts ; Traction verticale de 7 vers le centre de la zone
+> - **17+ :** 13 dégâts ; Traction verticale de 10 vers le centre de la zone
+> 
+> **💫 Effet :** Les cibles les plus proches du centre de la zone sont attirées en premier.
+> 
+> **⚡ Sous Tension :** La taille de la zone augmente de 2. Vous vous ciblez également ainsi que chaque allié à portée.
 
-*Vous pliez la gravité en un point précis et attirez vos ennemis vers lui.*
-
-| **Zone, Psionique, À Distance, Télékinésie** |                             **Action Principale** |
-|-----------------------------------------------|---------------------------------------------------:|
-| **📏 Cube de 4 à portée 10**                 | **🎯 Chaque créature et objet dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 6 dégâts ; Traction verticale de 5 vers le centre de la zone
-- **12-16 :** 9 dégâts ; Traction verticale de 7 vers le centre de la zone
-- **17+ :** 13 dégâts ; Traction verticale de 10 vers le centre de la zone
-
-**Effet :** Les cibles les plus proches du centre de la zone sont attirées en premier.
-
-**Sous Tension :** La taille de la zone augmente de 2. Vous vous ciblez également ainsi que chaque allié à portée.
-
-######## Emprise Cinétique Supérieure (9 Clarté)
-
-*Vous soulevez la cible dans les airs sans le moindre effort.*
-
-| **Psionique, À Distance, Frappe, Télékinésie** |               **Action Principale** |
-|-------------------------------------------------|------------------------------------:|
-| **📏 À distance 10**                           | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** Glissement 4 + R ; F < FAIBLE, le Déplacement Forcé est vertical
-- **12-16 :** Glissement 8 + R ; F < MOYENNE, le Déplacement Forcé est vertical
-- **17+ :** Glissement 12 + R ; À Terre ; F < FORTE, le Déplacement Forcé est vertical
-
-**Sous Tension :** Le Déplacement Forcé ignore la Stabilité. Vous subissez 2d6 dégâts et êtes Affaibli (Sauvegarde Termine).
+> [!spell] Emprise Cinétique Supérieure (9 Clarté)
+> 🏷️ *Psionique • À Distance • Frappe • Télékinésie*
+> 
+> ***Vous soulevez la cible dans les airs sans le moindre effort.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** Glissement 4 + R ; F < FAIBLE, le Déplacement Forcé est vertical
+> - **12-16 :** Glissement 8 + R ; F < MOYENNE, le Déplacement Forcé est vertical
+> - **17+ :** Glissement 12 + R ; À Terre ; F < FORTE, le Déplacement Forcé est vertical
+> 
+> **⚡ Sous Tension :** Le Déplacement Forcé ignore la Stabilité. Vous subissez 2d6 dégâts et êtes Affaibli (Sauvegarde Termine).
 
 ##### Aptitudes de Télépathie de Niveau 6
 
 Choisissez une des aptitudes suivantes.
 
-######## Conditionnement Synaptique (9 Clarté)
+> [!spell] Conditionnement Synaptique (9 Clarté)
+> 🏷️ *Psionique • Corps à Corps • Frappe • Télépathie*
+> 
+> ***C'est un changement d'état d'esprit subtil. Ce n'est pas qu'ils soient vos ennemis—vous ne les aimez simplement pas !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 10 dégâts psychiques ; la cible subit un fléau sur les jets d'aptitude effectués pour vous blesser ou blesser vos alliés (sauvegarde termine)
+> - **12-16 :** 14 dégâts psychiques ; la cible subit un double fléau sur les jets d'aptitude effectués pour vous blesser ou blesser vos alliés (sauvegarde termine)
+> - **17+ :** 20 dégâts psychiques ; la cible vous considère ainsi que vos alliés comme ses alliés lors de l'utilisation d'aptitudes et de capacités (sauvegarde termine)
+> 
+> **⚡ Sous Tension :** Tant que la cible est sous cet effet, vous ne considérez plus vos ennemis comme vos ennemis lors de l'utilisation de vos aptitudes et capacités.
 
-*C'est un changement d'état d'esprit subtil. Ce n'est pas qu'ils soient vos ennemis—vous ne les aimez simplement pas !*
-
-| **Psionique, Corps à Corps**, **Frappe, Télépathie** |     **Action Principale** |
-|-------------------------------------------------------|---------------------------:|
-| **📏 Corps à Corps 2**                               | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 10 dégâts psychiques ; la cible subit un fléau sur les jets d'aptitude effectués pour vous blesser ou blesser vos alliés (sauvegarde termine)
-- **12-16 :** 14 dégâts psychiques ; la cible subit un double fléau sur les jets d'aptitude effectués pour vous blesser ou blesser vos alliés (sauvegarde termine)
-- **17+ :** 20 dégâts psychiques ; la cible vous considère ainsi que vos alliés comme ses alliés lors de l'utilisation d'aptitudes et de capacités (sauvegarde termine)
-
-**Sous Tension :** Tant que la cible est sous cet effet, vous ne considérez plus vos ennemis comme vos ennemis lors de l'utilisation de vos aptitudes et capacités.
-
-######## Dissipation Synaptique (9 Clarté)
-
-*Vous manipulez l'esprit de vos ennemis et les faites se demander si vous avez jamais vraiment été là.*
-
-| **Psionique, À Distance, Frappe, Télépathie** |   **Manœuvre** |
-|-----------------------------------------------|---------------:|
-| **📏 À Distance 10**                          | **🎯 Spécial** |
-
-**Effet :** Vous ciblez un nombre de créatures avec cette aptitude déterminé par le résultat de votre jet de pouvoir. Vous et vos alliés êtes invisibles à chaque cible jusqu'au début de votre prochain tour.
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** Deux créatures
-- **12-16 :** Trois créatures
-- **17+ :** Cinq créatures
-
-**Sous Tension :** L'effet se termine prématurément si vous subissez des dégâts d'une aptitude d'ennemi.
+> [!spell] Dissipation Synaptique (9 Clarté)
+> 🏷️ *Psionique • À Distance • Frappe • Télépathie*
+> 
+> ***Vous manipulez l'esprit de vos ennemis et les faites se demander si vous avez jamais vraiment été là.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous ciblez un nombre de créatures avec cette aptitude déterminé par le résultat de votre jet de pouvoir. Vous et vos alliés êtes invisibles à chaque cible jusqu'au début de votre prochain tour.
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** Deux créatures
+> - **12-16 :** Trois créatures
+> - **17+ :** Cinq créatures
+> 
+> **⚡ Sous Tension :** L'effet se termine prématurément si vous subissez des dégâts d'une aptitude d'ennemi.
 
 ### Aptitudes de Niveau 7
 
@@ -1121,17 +1223,20 @@ Tant que vous avez 5 Victoires ou plus, vous pouvez entreprendre une activité d
 
 Vous avez l'aptitude suivante.
 
-######## Champ de Lévitation
-
-*Vous manipulez l'air autour de vos alliés pour qu'ils puissent se déplacer dans le ciel aussi librement que vous.*
-
-| **Zone, Psionique** |                 **Manœuvre** |
-|---------------------|-----------------------------:|
-| **📏 3 explosion**  | **🎯 Chaque allié dans la zone** |
-
-**Effet :** Chaque cible peut voler jusqu'au début de votre prochain tour, et peut immédiatement glisser jusqu'à sa vitesse. Vous pouvez également glisser jusqu'à votre vitesse. En volant, la stabilité d'une cible est réduite à 0 et ne peut pas être augmentée.
-
-**Dépenser 5 Clarté :** Les effets durent 1 heure à la place.
+> [!spell] Champ de Lévitation
+> 🏷️ *Zone • Psionique*
+> 
+> ***Vous manipulez l'air autour de vos alliés pour qu'ils puissent se déplacer dans le ciel aussi librement que vous.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 3 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible peut voler jusqu'au début de votre prochain tour, et peut immédiatement glisser jusqu'à sa vitesse. Vous pouvez également glisser jusqu'à votre vitesse. En volant, la stabilité d'une cible est réduite à 0 et ne peut pas être augmentée.
+> 
+> **🔥 Dépenser 5 Clarté :** Les effets durent 1 heure à la place.
 
 ##### Faible Gravité
 
@@ -1145,19 +1250,22 @@ Pendant un répit, vous pouvez choisir un nombre de créatures jusqu'à votre sc
 
 Vous possédez l'aptitude suivante.
 
-######## Bouclier de Stase (3 Clarté)
-
-*Vous figez le temps juste assez longtemps pour mettre la victime en sécurité !*
-
-| **Psionique, À distance** |                          **Déclenchée** |
-|---------------------------|----------------------------------------:|
-| **📏 À distance 10**      | **🎯 Soi, ou une créature ou un objet** |
-
-**Déclencheur :** La cible subit des dégâts.
-
-**Effet :** La cible est téléportée vers un espace inoccupé adjacent à vous, ne subissant aucun dégât et aucun effet supplémentaire si ce déplacement la met hors de danger.
-
-**Sous Tension :** Vous ne pouvez pas vous cibler vous-même, et vous subissez les dégâts et tous les effets supplémentaires à la place de la cible.
+> [!spell] Bouclier de Stase (3 Clarté)
+> 🏷️ *Psionique • À distance*
+> 
+> ***Vous figez le temps juste assez longtemps pour mettre la victime en sécurité !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi, ou une créature ou un objet</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible subit des dégâts.
+> 
+> **💫 Effet :** La cible est téléportée vers un espace inoccupé adjacent à vous, ne subissant aucun dégât et aucun effet supplémentaire si ce déplacement la met hors de danger.
+> 
+> **⚡ Sous Tension :** Vous ne pouvez pas vous cibler vous-même, et vous subissez les dégâts et tous les effets supplémentaires à la place de la cible.
 
 #### Connexion Universelle
 
@@ -1167,69 +1275,78 @@ La portée de votre aptitude Parole Télépathique s'étend à n'importe où sur
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 clarté à utiliser.
 
-######## Doute (11 Clarté)
+> [!spell] Doute (11 Clarté)
+> 🏷️ *Animapathie • Psionique • Distance • Frappe*
+> 
+> ***Vous tirez sur les fils de l'anima de l'ennemi et les démêlez, permettant à quelqu'un d'autre de tirer parti de leur élan.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 10 + P dégâts ; P < FAIBLE, affaibli (sauvegarde termine)
+> - **12-16 :** 14 + P dégâts ; P < MOYEN, affaibli (sauvegarde termine)
+> - **17+ :** 20 + P dégâts ; P < FORT, affaibli et ralenti (sauvegarde termine)
+> 
+> **💫 Effet :** Cette aptitude gagne un avantage contre une cible avec une âme (voir *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). Après avoir effectué le jet de pouvoir, vous ou un allié à portée avez un double avantage sur le prochain jet de pouvoir que vous effectuez avant la fin de la rencontre.
+> 
+> **⚡ Sous Tension :** Vous vous sentez découragé jusqu'à ce que vous terminiez un répit. Si vous obtenez un résultat de tiers 3 sur le jet de pouvoir, vous et la cible avez chacun une faiblesse aux dégâts 5 (sauvegarde termine).
 
-*Vous tirez sur les fils de l'anima de l'ennemi et les démêlez, permettant à quelqu'un d'autre de tirer parti de leur élan.*
+> [!spell] Effacement Mental (11 Clarté)
+> 🏷️ *Corps à Corps • Psionique • Frappe • Télépathie*
+> 
+> ***Vous tentez de leur faire oublier tout leur entraînement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 12 + R dégâts ; R < FAIBLE, la cible subit un fléau sur son prochain jet de pouvoir
+> - **12-16 :** 17 + R dégâts ; R < MOYEN, la cible subit un fléau sur les jets de pouvoir (sauvegarde termine)
+> - **17+ :** 23 + R dégâts ; R < FORT, la cible a un double fléau sur les jets de pouvoir (sauvegarde termine)
+> 
+> **💫 Effet :** La cible ne peut communiquer avec personne jusqu'à la fin de la rencontre.
+> 
+> **⚡ Sous Tension :** Vous subissez 3d6 dégâts.
 
-| **Animapathie, Psionique, Distance**, **Frappe** |               **Action principale** |
-|--------------------------------------------------|------------------------------------:|
-| **📏 Distance 10**                               | **🎯 Une créature ou un objet** |
+> [!spell] Rajeunissement (11 Clarté)
+> 🏷️ *Chronopathie • Psionique • Distance*
+> 
+> ***Vous remodellez le flux temporel dans le corps de la cible pour le ramener à un état antérieur.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** Choisissez deux des effets suivants :
+> - La cible peut dépenser n'importe quel nombre de Récupérations.
+> - La cible gagne 1 de sa Ressource Héroïque, et peut mettre fin à tous les effets sur elle qui se terminent par un jet de sauvegarde ou qui se terminent à la fin de son tour.
+> - La cible gagne 2 impulsions, et gagne un bonus de +3 à la vitesse jusqu'à la fin de la rencontre.
+> 
+> **⚡ Sous Tension :** Vous et la cible rajeunissez tous les deux visiblement de façon permanente (l'équivalent de 20 années humaines, jusqu'au minimum d'un âge de 18 ans). De plus, vous êtes affaibli et ralenti (sauvegarde termine).
 
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 10 + P dégâts ; P < FAIBLE, affaibli (sauvegarde termine)
-- **12-16 :** 14 + P dégâts ; P < MOYEN, affaibli (sauvegarde termine)
-- **17+ :** 20 + P dégâts ; P < FORT, affaibli et ralenti (sauvegarde termine)
-
-**Effet :** Cette aptitude gagne un avantage contre une cible avec une âme (voir *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). Après avoir effectué le jet de pouvoir, vous ou un allié à portée avez un double avantage sur le prochain jet de pouvoir que vous effectuez avant la fin de la rencontre.
-
-**Sous Tension :** Vous vous sentez découragé jusqu'à ce que vous terminiez un répit. Si vous obtenez un résultat de tiers 3 sur le jet de pouvoir, vous et la cible avez chacun une faiblesse aux dégâts 5 (sauvegarde termine).
-
-######## Effacement Mental (11 Clarté)
-
-*Vous tentez de leur faire oublier tout leur entraînement.*
-
-| **Corps à Corps, Psionique, Frappe, Télépathie** |     **Action principale** |
-|--------------------------------------------------|-------------------------:|
-| **📏 Corps à Corps 2**                          | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 12 + R dégâts ; R < FAIBLE, la cible subit un fléau sur son prochain jet de pouvoir
-- **12-16 :** 17 + R dégâts ; R < MOYEN, la cible subit un fléau sur les jets de pouvoir (sauvegarde termine)
-- **17+ :** 23 + R dégâts ; R < FORT, la cible a un double fléau sur les jets de pouvoir (sauvegarde termine)
-
-**Effet :** La cible ne peut communiquer avec personne jusqu'à la fin de la rencontre.
-
-**Sous Tension :** Vous subissez 3d6 dégâts.
-
-######## Rajeunissement (11 Clarté)
-
-*Vous remodellez le flux temporel dans le corps de la cible pour le ramener à un état antérieur.*
-
-| **Chronopathie, Psionique, Distance** |            **Manœuvre** |
-|---------------------------------------|------------------------:|
-| **📏 Distance 10**                    | **🎯 Soi-même ou un allié** |
-
-**Effet :** Choisissez deux des effets suivants :
-
-- La cible peut dépenser n'importe quel nombre de Récupérations.
-- La cible gagne 1 de sa Ressource Héroïque, et peut mettre fin à tous les effets sur elle qui se terminent par un jet de sauvegarde ou qui se terminent à la fin de son tour.
-- La cible gagne 2 impulsions, et gagne un bonus de +3 à la vitesse jusqu'à la fin de la rencontre.
-
-**Sous Tension :** Vous et la cible rajeunissez tous les deux visiblement de façon permanente (l'équivalent de 20 années humaines, jusqu'au minimum d'un âge de 18 ans). De plus, vous êtes affaibli et ralenti (sauvegarde termine).
-
-######## Acier (11 Clarté)
-
-*La peau de la cible se recouvre de métal résistant.*
-
-| **Métamorphose, Psionique, Distance** |            **Manœuvre** |
-|---------------------------------------|------------------------:|
-| **📏 Distance 10**                    | **🎯 Soi-même ou un allié** |
-
-**Effet :** La cible a une immunité aux dégâts 5 et ne peut être ralentie ou affaiblie jusqu'au début de votre prochain tour. Chaque fois que la cible effectue un déplacement forcé sur une créature ou un objet sous cet effet, la distance du déplacement forcé gagne un bonus de +5.
-
-**Sous Tension :** Vous ne pouvez pas utiliser de manœuvres (sauvegarde termine).
+> [!spell] Acier (11 Clarté)
+> 🏷️ *Métamorphose • Psionique • Distance*
+> 
+> ***La peau de la cible se recouvre de métal résistant.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** La cible a une immunité aux dégâts 5 et ne peut être ralentie ou affaiblie jusqu'au début de votre prochain tour. Chaque fois que la cible effectue un déplacement forcé sur une créature ou un objet sous cet effet, la distance du déplacement forcé gagne un bonus de +5.
+> 
+> **⚡ Sous Tension :** Vous ne pouvez pas utiliser de manœuvres (sauvegarde termine).
 
 ### Aptitudes de Niveau 9
 
@@ -1253,113 +1370,126 @@ Votre tradition de talent vous accorde le choix entre deux aptitudes héroïques
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Champ d'Accélération (11 Clarté)
+> [!spell] Champ d'Accélération (11 Clarté)
+> 🏷️ *Chronopathie • Psionique • À distance*
+> 
+> ***Vous bourrez de force plus d'instants dans un point critique du temps, sachant pertinemment que vous pourriez devoir en voler certains à votre propre futur.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois alliés</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible peut utiliser n'importe quelle action principale qui lui est disponible comme une action déclenchée gratuite, mais elle perd son action principale lors de son prochain tour.
+> 
+> **⚡ Sous Tension :** Effectuez un jet de pouvoir qui vous cible ainsi que chaque ennemi à portée.
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 4 dégâts de corruption ; ralenti (sauvegarde termine)
+> - **12-16 :** 6 dégâts de corruption ; ralenti (sauvegarde termine)
+> - **17+ :** 10 dégâts de corruption ; ralenti (sauvegarde termine)
 
-*Vous bourrez de force plus d'instants dans un point critique du temps, sachant pertinemment que vous pourriez devoir en voler certains à votre propre futur.*
-
-| **Chronopathie, Psionique, À distance** |     **Action principale** |
-|-----------------------------------------|-------------------------:|
-| **📏 À distance 5**                     | **🎯 Trois alliés** |
-
-**Effet :** Chaque cible peut utiliser n'importe quelle action principale qui lui est disponible comme une action déclenchée gratuite, mais elle perd son action principale lors de son prochain tour.
-
-**Sous Tension :** Effectuez un jet de pouvoir qui vous cible ainsi que chaque ennemi à portée.
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 4 dégâts de corruption ; ralenti (sauvegarde termine)
-- **12-16 :** 6 dégâts de corruption ; ralenti (sauvegarde termine)
-- **17+ :** 10 dégâts de corruption ; ralenti (sauvegarde termine)
-
-######## Emprunter au Futur (11 Clarté)
-
-*Vous vous appuyez sur l'héroïsme futur pour vous assister dans le présent.*
-
-| **Zone, Chronopathie, Psionique** |                 **Manœuvre** |
-|-----------------------------------|-----------------------------:|
-| **📏 Explosion 2**                | **🎯 Chaque allié dans la zone** |
-
-**Effet :** Les cibles se partagent 6 points de leur Ressource Héroïque entre elles, selon votre choix. Une cible ne peut pas gagner plus de 3 points de sa Ressource Héroïque de cette manière. Après avoir utilisé cette aptitude, vous ne pouvez pas gagner de clarté jusqu'à la fin du prochain tour de combat.
+> [!spell] Emprunter au Futur (11 Clarté)
+> 🏷️ *Zone • Chronopathie • Psionique*
+> 
+> ***Vous vous appuyez sur l'héroïsme futur pour vous assister dans le présent.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Les cibles se partagent 6 points de leur Ressource Héroïque entre elles, selon votre choix. Une cible ne peut pas gagner plus de 3 points de sa Ressource Héroïque de cette manière. Après avoir utilisé cette aptitude, vous ne pouvez pas gagner de clarté jusqu'à la fin du prochain tour de combat.
 
 ##### Aptitudes de Télékinésie de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Point d'Appui (11 Clarté)
+> [!spell] Point d'Appui (11 Clarté)
+> 🏷️ *Zone • Psionique • Télékinésie*
+> 
+> ***Vous manipulez avec précision les créatures qui vous entourent.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Spécial</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi et objet dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Effectuez un jet de pouvoir pour déterminer la zone de cette aptitude. Chaque cible subit une poussée verticale de 6 cases. Vous ne pouvez cibler que des objets de taille 1L ou plus petite.
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** Explosion 2
+> - **12-16 :** Explosion 3
+> - **17+ :** Explosion 4
+> 
+> **⚡ Sous Tension :** Vous pouvez choisir de réduire la taille de l'explosion de 2 (minimum explosion 1) pour donner un bonus de +2 à la distance de déplacement forcé. Vous subissez la moitié du total des dégâts que toutes les cibles subissent du déplacement forcé.
 
-*Vous manipulez avec précision les créatures qui vous entourent.*
-
-| **Zone, Psionique, Télékinésie** |                          **Action principale** |
-|--------------------------------|-----------------------------------------:|
-| **📏 Spécial**                 | **🎯 Chaque ennemi et objet dans la zone** |
-
-**Effet :** Effectuez un jet de pouvoir pour déterminer la zone de cette aptitude. Chaque cible subit une poussée verticale de 6 cases. Vous ne pouvez cibler que des objets de taille 1L ou plus petite.
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** Explosion 2
-- **12-16 :** Explosion 3
-- **17+ :** Explosion 4
-
-**Sous Tension :** Vous pouvez choisir de réduire la taille de l'explosion de 2 (minimum explosion 1) pour donner un bonus de +2 à la distance de déplacement forcé. Vous subissez la moitié du total des dégâts que toutes les cibles subissent du déplacement forcé.
-
-######## Nova Gravitique (11 Clarté)
-
-*Une énergie psionique débridée jaillit de votre corps et explose vers l'extérieur, repoussant violemment vos ennemis.*
-
-| **Zone, Psionique, Télékinésie** |                          **Action principale** |
-|--------------------------------|-----------------------------------------:|
-| **📏 Explosion 3**                 | **🎯 Chaque ennemi et objet dans la zone** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 6 dégâts ; poussée 7
-- **12-16 :** 9 dégâts ; poussée 10
-- **17+ :** 13 dégâts ; poussée 15
-
-**Effet :** Sur un coup critique, la taille de la zone augmente de 3, et cette aptitude inflige 10 dégâts supplémentaires.
-
-**Sous Tension :** Vous êtes affaibli (sauvegarde termine). Si vous avez obtenu un coup critique avec cette aptitude, vous mourez.
+> [!spell] Nova Gravitique (11 Clarté)
+> 🏷️ *Zone • Psionique • Télékinésie*
+> 
+> ***Une énergie psionique débridée jaillit de votre corps et explose vers l'extérieur, repoussant violemment vos ennemis.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi et objet dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 6 dégâts ; poussée 7
+> - **12-16 :** 9 dégâts ; poussée 10
+> - **17+ :** 13 dégâts ; poussée 15
+> 
+> **💫 Effet :** Sur un coup critique, la taille de la zone augmente de 3, et cette aptitude inflige 10 dégâts supplémentaires.
+> 
+> **⚡ Sous Tension :** Vous êtes affaibli (sauvegarde termine). Si vous avez obtenu un coup critique avec cette aptitude, vous mourez.
 
 ##### Aptitudes de Télépathie de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Pic Mental Résonnant (11 Clarté)
+> [!spell] Pic Mental Résonnant (11 Clarté)
+> 🏷️ *Psionique • À Distance • Frappe • Télépathie*
+> 
+> ***Vous tirez un trait télépathique alimenté par chaque conscience à portée directement dans l'esprit de votre ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 15 + R dégâts psychiques
+> - **12-16 :** 24 + R dégâts psychiques
+> - **17+ :** 28 + R dégâts psychiques
+> 
+> **💫 Effet :** Cette aptitude ignore l'abri et la dissimulation.
+> 
+> **⚡ Sous Tension :** Le jet d'aptitude obtient un coup critique sur un 17 naturel ou plus. Vous subissez la moitié des dégâts que la cible subit, et vous ne pouvez réduire ces dégâts d'aucune manière.
 
-*Vous tirez un trait télépathique alimenté par chaque conscience à portée directement dans l'esprit de votre ennemi.*
-
-| **Psionique, À Distance, Frappe, Télépathie** |     **Action Principale** |
-| ------------------------------------|--------------------:|
-| **📏 À Distance 10**  | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 15 + R dégâts psychiques
-- **12-16 :** 24 + R dégâts psychiques
-- **17+ :** 28 + R dégâts psychiques
-
-**Effet :** Cette aptitude ignore l'abri et la dissimulation.
-
-**Sous Tension :** Le jet d'aptitude obtient un coup critique sur un 17 naturel ou plus. Vous subissez la moitié des dégâts que la cible subit, et vous ne pouvez réduire ces dégâts d'aucune manière.
-
-######## Terreur Synaptique (11 Clarté)
-
-*Vous projetez une image terrifiante dans le cerveau de vos ennemis, et leur peur revigore psioniquement vos alliés.*
-
-| **Zone, Psionique, Télépathie** |                        **Action Principale** |
-|------------------------------|---------------------------------------:|
-| **📏 Explosion 3**               | **🎯 Chaque allié et ennemi dans la zone** |
-
-**Effet :** Vous et chaque allié ciblé ne pouvez obtenir moins qu'un résultat de tiers 2 sur les jets de pouvoir jusqu'au début de votre prochain tour. Chaque ennemi ciblé est affecté par le jet de pouvoir de l'aptitude.
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** R < FAIBLE, effrayé (sauvegarde termine)
-- **12-16 :** R < MOYEN, effrayé (sauvegarde termine)
-- **17+ :** R < FORT, effrayé (sauvegarde termine)
-
-**Sous Tension :** Vous ne pouvez utiliser cette aptitude si cela vous ferait avoir une clarté négative.
+> [!spell] Terreur Synaptique (11 Clarté)
+> 🏷️ *Zone • Psionique • Télépathie*
+> 
+> ***Vous projetez une image terrifiante dans le cerveau de vos ennemis, et leur peur revigore psioniquement vos alliés.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque allié et ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous et chaque allié ciblé ne pouvez obtenir moins qu'un résultat de tiers 2 sur les jets de pouvoir jusqu'au début de votre prochain tour. Chaque ennemi ciblé est affecté par le jet de pouvoir de l'aptitude.
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** R < FAIBLE, effrayé (sauvegarde termine)
+> - **12-16 :** R < MOYEN, effrayé (sauvegarde termine)
+> - **17+ :** R < FORT, effrayé (sauvegarde termine)
+> 
+> **⚡ Sous Tension :** Vous ne pouvez utiliser cette aptitude si cela vous ferait avoir une clarté négative.
 
 ### Aptitudes de Niveau 10
 

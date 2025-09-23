@@ -1,4 +1,8 @@
-# Dieux et Religion
+---
+title: Dieux et Religions
+---
+
+# Dieux et Religions
 
 Orden est un monde fantastique dans lequel les dieux existent objectivement. Malgré cela, les habitants d'Orden, quel que soit leur héritage, ne croient pas que les dieux contrôlent tout ce qui arrive dans le monde. Ils croient que les dieux ont créé un monde naturel avec ses propres cycles qui sont parfois prévisibles, mais qui ne peuvent être compris. Il a plu le Lyleth dernier, et le Lyleth d'avant, donc il pleuvra probablement ce Lyleth—mais peut-être pas ! Et si ce n'est pas le cas, c'est peut-être parce que les dieux sont mécontents. Mais cela pourrait tout aussi bien être parce que les dieux s'ennuient, ou sont capricieux ou—plus probablement encore, cela n'a rien à voir avec les dieux, et il n'y a aucun moyen de savoir lequel.
 

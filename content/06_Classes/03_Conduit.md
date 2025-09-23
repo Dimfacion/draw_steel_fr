@@ -1,3 +1,7 @@
+---
+title: Conduit
+---
+
 ## Conduit
 
 Le pouvoir des Dieux coule en vous ! En tant que réceptacle du pouvoir divin, vous ne vous contentez pas de maintenir vos alliés dans le combat. Vous rendez ces alliés plus efficaces, tout en faisant pleuvoir l'énergie divine sur vos ennemis. Bien que la divinité ou le Saint que vous servez puisse avoir d'autres fidèles et membres du clergé, vous êtes spécial parmi les adorateurs, recevant vos aptitudes directement de votre divinité.

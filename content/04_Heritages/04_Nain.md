@@ -1,3 +1,7 @@
+---
+title: Nain
+---
+
 ## Nain
 
 Dotés d'une force qui dément leur taille, les nains ont une chair imprégnée de pierre—un hybride silico-organique qui les rend physiquement plus denses que les autres humanoïdes. Ils jouissent d'une réputation à Orden d'ingénieurs et de technologues avisés grâce aux connaissances qu'ils ont héritées de leurs frères aînés, les nains d'acier depuis longtemps disparus.

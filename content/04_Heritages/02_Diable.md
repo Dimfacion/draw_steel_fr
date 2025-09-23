@@ -1,3 +1,7 @@
+---
+title: Diable
+---
+
 ## Diable
 
 Héritage natif des Sept Cités de l'Enfer, les diables sont des humanoïdes à la peau rouge ou bleue exprimée dans une grande variété de teintes, du cramoisi éclatant au violet profond. Chaque diable naît avec une *marque infernale* - des cornes, une queue, des sabots fourchus, une langue fourchue, des incisives crochues, ou même des ailes.

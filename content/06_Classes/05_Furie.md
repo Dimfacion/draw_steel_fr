@@ -1,3 +1,7 @@
+---
+title: Furie
+---
+
 ## Furie
 
 Tu ne tempères pas la chaleur du combat qui brûle en toi. Tu la libères ! Ton expérience dans la nature sauvage t'a enseigné les secrets des prédateurs, et maintenant, comme le rapace, la panthère, le loup, tu canalises une colère débridée en prouesse martiale. Le Chaos Primordial est ton allié. Laisse les autres user de finesse pour nettoyer les décombres que tu laisses dans ton sillage.

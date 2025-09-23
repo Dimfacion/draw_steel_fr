@@ -1,3 +1,7 @@
+---
+title: Liste
+---
+
 ### Panoplies de A à Z
 
 Cette section détaille chaque panoplie, dont les bonus et avantages sont résumés dans le tableau des Panoplies.

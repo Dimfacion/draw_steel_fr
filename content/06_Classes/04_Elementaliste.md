@@ -1,3 +1,7 @@
+---
+title: Élémentaliste
+---
+
 ## Élémentaliste
 
 L'air pour le Déplacement. La terre pour la permanence. Le feu pour la destruction. L'eau pour le changement. Le vert pour la croissance. La pourriture pour la mort. Le vide pour le mystère de ce qui ne peut être connu. Des années d'étude, de pratique et de lecture assidue de grimoires t'ont apporté les révélations qui te permettent de manipuler ces éléments fondamentaux de la réalité. Désormais, tu utilises ta maîtrise des sept éléments pour détruire, créer et déformer le monde par la magie.

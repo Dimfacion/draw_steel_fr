@@ -1,3 +1,7 @@
+---
+title: Projets Personnels
+---
+
 # Projets de Temps Libre
 
 En équipe, vous et vos compagnons héros pouvez accomplir de grandes choses. Mais le temps entre les aventures vous donne l'occasion de poursuivre vos propres objectifs individuels : découvrir des connaissances interdites dans d'anciens grimoires, forger des armes d'un grand pouvoir, construire des navires capables de naviguer dans les cieux, et bien plus encore. Les règles de *Draw Steel* pour les projets de temps libre permettent aux héros d'utiliser leur temps pendant les répits pour obtenir des informations importantes, fabriquer de nouveaux équipements, et s'engager dans d'autres activités pour soutenir leurs aventures.

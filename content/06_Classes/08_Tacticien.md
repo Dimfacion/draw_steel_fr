@@ -1,3 +1,7 @@
+---
+title: Tacticien
+---
+
 ## Tacticien
 
 Stratège. Défenseur. Leader. Arme en main, tu mènes tes alliés dans la gueule de la bataille, aboyant des ordres qui inspirent tes compagnons héros à se déplacer plus vite et frapper avec plus de précision. Pendant ce temps, tu te dresses entre tes compatriotes et la mort, narguant les Suivants du mal de te défier s'ils le peuvent.
@@ -132,47 +136,56 @@ Votre doctrine tactique vous accorde une action déclenchée, comme indiqué dan
 | Cerveau       | Surveillance      |
 | Avant-garde   | Parade            |
 
-######## Tactiques Avancées
+> [!spell] Tactiques Avancées
+> 🏷️ *À distance*
+> 
+> ***Votre leadership aide un allié.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible inflige des dégâts à une autre créature.
+> 
+> **💫 Effet:** La cible gagne 2 impulsions, qu'elle peut utiliser sur les dégâts déclencheurs.
+> 
+> **🔥 Dépenser 1 Concentration:** Si les dégâts ont un effet de seuil associé, le seuil est augmenté de 1.
 
-*Votre leadership aide un allié.*
+> [!spell] Surveillance
+> 🏷️ *À distance*
+> 
+> ***Sous votre direction, un allié attend le moment parfait pour frapper.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** La cible se déplace.
+> 
+> **💫 Effet:** À tout moment durant le déplacement de la cible, un allié peut effectuer une frappe gratuite contre elle.
+> 
+> **🔥 Dépenser 1 Concentration:** Si la cible a R < MOYEN, elle est ralentie (FdT).
 
-| **À distance**   |   **Déclenchée** |
-|------------------|----------------:|
-| **📏 Distance 10** | **🎯 Un allié** |
-
-**Déclencheur :** La cible inflige des dégâts à une autre créature.
-
-**Effet :** La cible gagne 2 impulsions, qu'elle peut utiliser sur les dégâts déclencheurs.
-
-**Dépenser 1 Concentration :** Si les dégâts ont un effet de seuil associé, le seuil est augmenté de 1.
-
-######## Surveillance
-
-*Sous votre direction, un allié attend le moment parfait pour frapper.*
-
-| **À distance**   |       **Déclenchée** |
-|------------------|--------------------:|
-| **📏 Distance 10** | **🎯 Une créature** |
-
-**Déclencheur :** La cible se déplace.
-
-**Effet :** À tout moment durant le déplacement de la cible, un allié peut effectuer une frappe gratuite contre elle.
-
-**Dépenser 1 Concentration :** Si la cible a R < MOYEN, elle est ralentie (FdT).
-
-######## Parade
-
-*Vos réflexes rapides privent un ennemi de la précision qu'il recherche.*
-
-| **Corps à corps, Arme** |            **Déclenchée** |
-|-------------------------|-------------------------:|
-| **📏 Corps à corps 2**  |  **🎯 Soi ou un allié** |
-
-**Déclencheur :** Une créature inflige des dégâts à la cible.
-
-**Effet :** Vous pouvez glisser de 1 case. Si la cible c'est vous, ou si vous terminez ce glissement adjacent à la cible, la cible subit la moitié des dégâts. Si les dégâts ont un effet de seuil associé, le seuil est diminué de 1.
-
-**Dépenser 1 Concentration :** La distance de cette aptitude devient Corps à corps 1 + votre score de Raison, et vous pouvez glisser d'un nombre de cases égal à votre score de Raison au lieu d'1 case.
+> [!spell] Parade
+> 🏷️ *Corps à corps • Arme*
+> 
+> ***Vos réflexes rapides privent un ennemi de la précision qu'il recherche.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** Une créature inflige des dégâts à la cible.
+> 
+> **💫 Effet:** Vous pouvez glisser de 1 case. Si la cible c'est vous, ou si vous terminez ce glissement adjacent à la cible, la cible subit la moitié des dégâts. Si les dégâts ont un effet de seuil associé, le seuil est diminué de 1.
+> 
+> **🔥 Dépenser 1 Concentration:** La distance de cette aptitude devient Corps à corps 1 + votre score de Raison, et vous pouvez glisser d'un nombre de cases égal à votre score de Raison au lieu d'1 case.
 
 #### Arsenal de Terrain
 
@@ -197,42 +210,48 @@ Les aptitudes signature de panoplie ont déjà les bonus de leur panoplie appliq
 
 Vous savez comment concentrer l'attention de vos alliés en les poussant vers la victoire. Vous disposez de l'aptitude suivante.
 
-######## Marquer
-
-*Vous attirez l'attention de vos alliés sur un ennemi spécifique—avec un effet dévastateur.*
-
-| **À Distance**       |        **Manœuvre** |
-|------------------|--------------------:|
-| **📏 Distance 10** | **🎯 Une créature** |
-
-**Effet :** La cible est marquée par vous jusqu'à la fin de la rencontre, jusqu'à ce que vous soyez mourant, ou jusqu'à ce que vous utilisiez cette aptitude à nouveau. Vous pouvez volontairement mettre fin à votre marque sur une créature (aucune action requise), et si un autre tacticien marque une créature, votre marque sur cette créature prend fin. Quand une créature marquée par vous tombe à 0 Vigueur, vous pouvez utiliser une action déclenchée gratuite pour marquer une nouvelle cible à distance.
-
-Vous ne pouvez initialement marquer qu'une seule créature avec cette aptitude, bien que d'autres aptitudes de tacticien vous permettent de marquer des créatures supplémentaires en même temps. La capacité Anticipation de la doctrine tactique du cerveau vous permet de cibler des créatures supplémentaires avec cette aptitude à partir du 5e niveau.
-
-Tant qu'une créature marquée par vous se trouve dans votre ligne d'effet, vous et vos alliés dans votre ligne d'effet gagnez un avantage sur les jets de pouvoir effectués contre cette créature. De plus, chaque fois que vous ou n'importe quel allié utilisez une aptitude pour infliger des dégâts lancés à une créature marquée par vous, vous pouvez dépenser 1 concentration pour obtenir l'un des bénéfices suivants en tant qu'action déclenchée gratuite :
-
-- L'aptitude inflige des dégâts supplémentaires égaux au double de votre score de Raison.
-- La créature infligeant les dégâts peut dépenser une Récupération.
-- La créature infligeant les dégâts peut glisser d'un nombre de cases égal à votre score de Raison.
-- Si vous infligez des dégâts à une créature marquée par vous avec une aptitude de corps à corps, la créature est narguée par vous jusqu'à la fin de son prochain tour.
-
-Vous ne pouvez pas obtenir plus d'un bénéfice du même déclencheur.
+> [!spell] Marquer
+> 🏷️ *À Distance*
+> 
+> ***Vous attirez l'attention de vos alliés sur un ennemi spécifique—avec un effet dévastateur.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet :** La cible est marquée par vous jusqu'à la fin de la rencontre, jusqu'à ce que vous soyez mourant, ou jusqu'à ce que vous utilisiez cette aptitude à nouveau. Vous pouvez volontairement mettre fin à votre marque sur une créature (aucune action requise), et si un autre tacticien marque une créature, votre marque sur cette créature prend fin. Quand une créature marquée par vous tombe à 0 Vigueur, vous pouvez utiliser une action déclenchée gratuite pour marquer une nouvelle cible à distance.
+> 
+> Vous ne pouvez initialement marquer qu'une seule créature avec cette aptitude, bien que d'autres aptitudes de tacticien vous permettent de marquer des créatures supplémentaires en même temps. La capacité Anticipation de la doctrine tactique du cerveau vous permet de cibler des créatures supplémentaires avec cette aptitude à partir du 5e niveau.
+> 
+> Tant qu'une créature marquée par vous se trouve dans votre ligne d'effet, vous et vos alliés dans votre ligne d'effet gagnez un avantage sur les jets de pouvoir effectués contre cette créature. De plus, chaque fois que vous ou n'importe quel allié utilisez une aptitude pour infliger des dégâts lancés à une créature marquée par vous, vous pouvez dépenser 1 concentration pour obtenir l'un des bénéfices suivants en tant qu'action déclenchée gratuite :
+> 
+> - L'aptitude inflige des dégâts supplémentaires égaux au double de votre score de Raison.
+> - La créature infligeant les dégâts peut dépenser une Récupération.
+> - La créature infligeant les dégâts peut glisser d'un nombre de cases égal à votre score de Raison.
+> - Si vous infligez des dégâts à une créature marquée par vous avec une aptitude de corps à corps, la créature est narguée par vous jusqu'à la fin de son prochain tour.
+> 
+> Vous ne pouvez pas obtenir plus d'un bénéfice du même déclencheur.
 
 #### Frapper Maintenant
 
 Vous disposez de l'aptitude suivante.
 
-######## « Frapper Maintenant ! »
-
-*Votre ennemi a laissé une ouverture. Vous le signalez à un allié !*
-
-| **À distance** | **Action principale** |
-| ---------------------------------------|----------------:|
-| **📏 Distance 10**  | **🎯 Un allié** |
-
-**Effet :** La cible peut utiliser une aptitude signature comme action déclenchée gratuite.
-
-**Dépenser 5 Concentration :** Vous ciblez deux alliés au lieu d'un.
+> [!spell] « Frapper Maintenant ! »
+> 🏷️ *À distance*
+> 
+> ***Votre ennemi a laissé une ouverture. Vous le signalez à un allié !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** La cible peut utiliser une aptitude signature comme action déclenchée gratuite.
+> 
+> **🔥 Dépenser 5 Concentration :** Vous ciblez deux alliés au lieu d'un.
 
 #### Aptitudes de Tacticien
 
@@ -250,115 +269,134 @@ Vos aptitudes héroïques couvrent un éventail de tactiques de combat, qui néc
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 points de concentration à utiliser. (*Construction Rapide :* Frappe Inspirante.)
 
-######## Cri de Guerre (3 Concentration)
+> [!spell] Cri de Guerre (3 Concentration)
+> 🏷️ *À Distance*
+> 
+> ***Vous criez une phrase qui galvanise votre équipe.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois alliés</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** Chaque cible gagne 1 impulsion.
+> - **12-16 :** Chaque cible gagne 2 impulsions.
+> - **17+ :** Chaque cible gagne 3 impulsions.
 
-*Vous criez une phrase qui galvanise votre équipe.*
+> [!spell] Frappe Percutante (3 Concentration)
+> 🏷️ *Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Votre frappe précise laisse votre adversaire en difficulté pour réagir.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 3 + F dégâts ; F < FAIBLE, étourdi (sauvegarde termine)
+> - **12-16 :** 5 + F dégâts ; F < MOYEN, étourdi (sauvegarde termine)
+> - **17+ :** 8 + F dégâts ; F < FORT, étourdi (sauvegarde termine)
 
-| **À Distance**   |        **Manœuvre** |
-|------------------|--------------------:|
-| **📏 Distance 10** | **🎯 Trois alliés** |
+> [!spell] Frappe Inspirante (3 Concentration)
+> 🏷️ *Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Votre attaque redonne espoir à un allié.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 3 + F dégâts ; vous ou un allié dans un rayon de 10 cases de vous peut dépenser une récupération
+> - **12-16 :** 5 + F dégâts ; vous ou un allié dans un rayon de 10 cases de vous peut dépenser une récupération
+> - **17+ :** 8 + F dégâts ; vous et un allié dans un rayon de 10 cases de vous pouvez dépenser une récupération, et vous gagnez chacun un avantage sur le prochain jet d'aptitude que vous effectuez durant la rencontre
 
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** Chaque cible gagne 1 impulsion.
-- **12-16 :** Chaque cible gagne 2 impulsions.
-- **17+ :** Chaque cible gagne 3 impulsions.
-
-######## Frappe Percutante (3 Concentration)
-
-*Votre frappe précise laisse votre adversaire en difficulté pour réagir.*
-
-| **Corps à Corps, Distance, Frappe, Arme** |               **Action principale** |
-|-----------------------------------|------------------------------:|
-| **📏 Corps à corps 1 ou distance 5**        | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 3 + F dégâts ; F < FAIBLE, étourdi (sauvegarde termine)
-- **12-16 :** 5 + F dégâts ; F < MOYEN, étourdi (sauvegarde termine)
-- **17+ :** 8 + F dégâts ; F < FORT, étourdi (sauvegarde termine)
-
-######## Frappe Inspirante (3 Concentration)
-
-*Votre attaque redonne espoir à un allié.*
-
-| **Corps à Corps, Distance, Frappe, Arme** |               **Action principale** |
-|-----------------------------------|------------------------------:|
-| **📏 Corps à corps 1 ou distance 5**        | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 3 + F dégâts ; vous ou un allié dans un rayon de 10 cases de vous peut dépenser une récupération
-- **12-16 :** 5 + F dégâts ; vous ou un allié dans un rayon de 10 cases de vous peut dépenser une récupération
-- **17+ :** 8 + F dégâts ; vous et un allié dans un rayon de 10 cases de vous pouvez dépenser une récupération, et vous gagnez chacun un avantage sur le prochain jet d'aptitude que vous effectuez durant la rencontre
-
-######## Escouade ! En Avant ! (3 Concentration)
-
-*Sur votre ordre, vous et vos alliés repoussez la ligne ennemie.*
-
-| **À Distance**   |               **Manœuvre** |
-|------------------|---------------------------:|
-| **📏 Distance 10** | **🎯 Vous-même et deux alliés** |
-
-**Effet :** Chaque cible peut se déplacer jusqu'à sa vitesse.
+> [!spell] Escouade ! En Avant ! (3 Concentration)
+> 🏷️ *À Distance*
+> 
+> ***Sur votre ordre, vous et vos alliés repoussez la ligne ennemie.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et deux alliés</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible peut se déplacer jusqu'à sa vitesse.
 
 #### Aptitude à 5 Concentration
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 concentration à utiliser. (*Construction Rapide :* Marteau et Enclume.)
 
-######## Marteau et Enclume (5 Concentration)
+> [!spell] Marteau et Enclume (5 Concentration)
+> 🏷️ *Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***« Ne discutons pas pour savoir qui est le marteau et qui est l'enclume ! »***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 5 + F dégâts ; un allié dans un rayon de 10 cases de vous peut utiliser une aptitude signature de frappe contre la cible comme action déclenchée gratuite
+> - **12-16 :** 9 + F dégâts ; un allié dans un rayon de 10 cases de vous peut utiliser une aptitude signature de frappe qui gagne un avantage contre la cible comme action déclenchée gratuite
+> - **17+ :** 12 + F dégâts ; deux alliés dans un rayon de 10 cases de vous peuvent chacun utiliser une aptitude signature de frappe qui gagne un avantage contre la cible comme action déclenchée gratuite
+> 
+> **💫 Effet :** Si la cible est réduite à 0 Vigueur avant qu'un ou les deux alliés choisis aient effectué leur frappe, l'allié ou les alliés peuvent choisir une cible différente.
 
-*« Ne discutons pas pour savoir qui est le marteau et qui est l'enclume ! »*
+> [!spell] Jeu Mental (5 Concentration)
+> 🏷️ *Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Votre attaque démoralise votre adversaire. Vos alliés commencent à penser que vous pouvez gagner.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous marquez la cible.
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 4 + F dégâts ; R < FAIBLE, affaibli (sauvegarde termine)
+> - **12-16 :** 6 + F dégâts ; R < MOYEN, affaibli (sauvegarde termine)
+> - **17+ :** 10 + F dégâts ; R < FORT, affaibli (sauvegarde termine)
+> 
+> **💫 Effet :** Avant le début de votre prochain tour, la première fois qu'un allié inflige des dégâts à une cible marquée par vous, cet allié peut dépenser une Récupération.
 
-| **Corps à Corps, Distance, Frappe, Arme** |               **Action principale** |
-|--------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1 ou distance 5**      | **🎯 Une créature ou un objet** |
+> [!spell] Maintenant ! (5 Concentration)
+> 🏷️ *Distance*
+> 
+> ***Vos alliés attendent votre commandement—puis déchaînent la mort !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois alliés</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible peut effectuer une frappe gratuite.
 
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 5 + F dégâts ; un allié dans un rayon de 10 cases de vous peut utiliser une aptitude signature de frappe contre la cible comme action déclenchée gratuite
-- **12-16 :** 9 + F dégâts ; un allié dans un rayon de 10 cases de vous peut utiliser une aptitude signature de frappe qui gagne un avantage contre la cible comme action déclenchée gratuite
-- **17+ :** 12 + F dégâts ; deux alliés dans un rayon de 10 cases de vous peuvent chacun utiliser une aptitude signature de frappe qui gagne un avantage contre la cible comme action déclenchée gratuite
-
-**Effet :** Si la cible est réduite à 0 Vigueur avant qu'un ou les deux alliés choisis aient effectué leur frappe, l'allié ou les alliés peuvent choisir une cible différente.
-
-######## Jeu Mental (5 Concentration)
-
-*Votre attaque démoralise votre adversaire. Vos alliés commencent à penser que vous pouvez gagner.*
-
-| **Corps à Corps, Distance, Frappe, Arme** |               **Action principale** |
-|--------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1 ou distance 5**      | **🎯 Une créature ou un objet** |
-
-**Effet :** Vous marquez la cible.
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 4 + F dégâts ; R < FAIBLE, affaibli (sauvegarde termine)
-- **12-16 :** 6 + F dégâts ; R < MOYEN, affaibli (sauvegarde termine)
-- **17+ :** 10 + F dégâts ; R < FORT, affaibli (sauvegarde termine)
-
-**Effet :** Avant le début de votre prochain tour, la première fois qu'un allié inflige des dégâts à une cible marquée par vous, cet allié peut dépenser une Récupération.
-
-######## Maintenant ! (5 Concentration)
-
-*Vos alliés attendent votre commandement—puis déchaînent la mort !*
-
-| **Distance**       |        **Manœuvre** |
-|--------------------|--------------------:|
-| **📏 Distance 10** | **🎯 Trois alliés** |
-
-**Effet :** Chaque cible peut effectuer une frappe gratuite.
-
-######## C'est Pour Ça Qu'On S'Est Entraînés (5 Concentration)
-
-*Tous ces exercices de coordination que vous leur avez fait faire finissent par payer.*
-
-| **Distance**       |      **Manœuvre** |
-|--------------------|------------------:|
-| **📏 Distance 10** | **🎯 Deux alliés** |
-
-**Effet :** Chaque cible qui n'a pas encore agi ce tour de combat peut prendre son tour dans n'importe quel ordre immédiatement après le vôtre.
+> [!spell] C'est Pour Ça Qu'On S'Est Entraînés (5 Concentration)
+> 🏷️ *Distance*
+> 
+> ***Tous ces exercices de coordination que vous leur avez fait faire finissent par payer.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux alliés</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible qui n'a pas encore agi ce tour de combat peut prendre son tour dans n'importe quel ordre immédiatement après le vôtre.
 
 ### Aptitudes de Niveau 2
 
@@ -402,97 +440,112 @@ Votre doctrine tactique vous accorde le choix entre deux aptitudes héroïques.
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Brouillard de Guerre (5 Concentration)
+> [!spell] Brouillard de Guerre (5 Concentration)
+> 🏷️ *À Distance*
+> 
+> ***Votre stratégie peu orthodoxe pousse les ennemis à frapper par peur, sans se soucier de qui ils pourraient attaquer.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux créatures</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible est marquée par vous, et doit immédiatement effectuer une frappe gratuite contre une créature de votre choix dans un rayon de 5 cases.
+> 
+> **🎖️ Bénéfice de Marque :** Jusqu'à la fin de la rencontre, chaque fois que vous ou un allié effectuez une frappe contre une créature marquée par vous, vous pouvez dépenser 2 points de concentration pour forcer cette cible à effectuer une frappe gratuite contre une créature de votre choix dans un rayon de 5 cases.
 
-*Votre stratégie peu orthodoxe pousse les ennemis à frapper par peur, sans se soucier de qui ils pourraient attaquer.*
-
-| **À Distance**       |         **Manœuvre** |
-|---------------------|---------------------:|
-| **📏 Distance 10**  | **🎯 Deux créatures** |
-
-**Effet :** Chaque cible est marquée par vous, et doit immédiatement effectuer une frappe gratuite contre une créature de votre choix dans un rayon de 5 cases.
-
-**Bénéfice de Marque :** Jusqu'à la fin de la rencontre, chaque fois que vous ou un allié effectuez une frappe contre une créature marquée par vous, vous pouvez dépenser 2 points de concentration pour forcer cette cible à effectuer une frappe gratuite contre une créature de votre choix dans un rayon de 5 cases.
-
-######## Essaie Plutôt Avec Moi (5 Concentration)
-
-*« Essaie plutôt de t'attaquer à quelqu'un de ta taille. »*
-
-| **Corps à Corps, Frappe, Arme** | **Action principale** |
-|----------------------------------|----------------------:|
-| **📏 Soi ; voir ci-dessous**     |           **🎯 Soi** |
-
-**Effet :** Vous glissez jusqu'à votre vitesse directement vers un allié, en terminant adjacent à lui, puis échangez vos positions avec cet allié tant que vous pouvez tenir dans l'espace de l'autre. L'allié peut dépenser une Récupération, et vous pouvez effectuer la frappe d'arme suivante avec une distance de corps à corps 1 contre une créature.
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 2 + R dégâts ; R < FAIBLE, effrayé (sauvegarde termine)
-- **12-16 :** 3 + R dégâts ; R < MOYEN, effrayé (sauvegarde termine)
-- **17+ :** 4 + R dégâts ; R < FORT, effrayé (sauvegarde termine)
+> [!spell] Essaie Plutôt Avec Moi (5 Concentration)
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***« Essaie plutôt de t'attaquer à quelqu'un de ta taille. »***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi ; voir ci-dessous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous glissez jusqu'à votre vitesse directement vers un allié, en terminant adjacent à lui, puis échangez vos positions avec cet allié tant que vous pouvez tenir dans l'espace de l'autre. L'allié peut dépenser une Récupération, et vous pouvez effectuer la frappe d'arme suivante avec une distance de corps à corps 1 contre une créature.
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 2 + R dégâts ; R < FAIBLE, effrayé (sauvegarde termine)
+> - **12-16 :** 3 + R dégâts ; R < MOYEN, effrayé (sauvegarde termine)
+> - **17+ :** 4 + R dégâts ; R < FORT, effrayé (sauvegarde termine)
 
 ##### Aptitude de Cerveau de 2e Niveau
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Je Te Couvre (5 Concentration)
+> [!spell] Je Te Couvre (5 Concentration)
+> 🏷️ *À Distance • Frappe • Arme*
+> 
+> ***Ton ennemi réfléchira à deux fois avant d'attaquer ton ami.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Raison :**
+> - **≤11 :** 5 + R dégâts ; narguer (FdT)
+> - **12-16 :** 9 + R dégâts ; narguer (FdT)
+> - **17+ :** 12 + R dégâts ; narguer (FdT)
+> 
+> **💫 Effet :** Un allié adjacent à la cible peut dépenser une Récupération.
 
-*Ton ennemi réfléchira à deux fois avant d'attaquer ton ami.*
-
-| **À Distance, Frappe, Arme** |     **Action principale** |
-|----------------------------|--------------------:|
-| **📏 À Distance 5**            | **🎯 Une créature** |
-
-**Jet de Pouvoir + Raison :**
-
-- **≤11 :** 5 + R dégâts ; narguer (FdT)
-- **12-16 :** 9 + R dégâts ; narguer (FdT)
-- **17+ :** 12 + R dégâts ; narguer (FdT)
-
-**Effet :** Un allié adjacent à la cible peut dépenser une Récupération.
-
-######## Cibles d'Opportunité (5 Concentration)
-
-*Tu indiques des cibles faciles à tes amis, leur permettant d'inclure plus d'ennemis dans leurs attaques.*
-
-| **À Distance**      |         **Manœuvre** |
-|-----------------|---------------------:|
-| **📏 À Distance 5** | **🎯 Deux créatures** |
-
-**Effet :** Chaque cible est marquée par toi, et tu gagnes deux impulsions.
-
-**Bénéfice de Marque :** Jusqu'à la fin de la rencontre, à chaque fois que toi ou n'importe quel allié effectue une frappe contre une créature marquée par toi, tu peux dépenser 2 concentration pour ajouter une cible supplémentaire à la frappe.
+> [!spell] Cibles d'Opportunité (5 Concentration)
+> 🏷️ *À Distance*
+> 
+> ***Tu indiques des cibles faciles à tes amis, leur permettant d'inclure plus d'ennemis dans leurs attaques.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux créatures</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible est marquée par toi, et tu gagnes deux impulsions.
+> 
+> **🎖️ Bénéfice de Marque :** Jusqu'à la fin de la rencontre, à chaque fois que toi ou n'importe quel allié effectue une frappe contre une créature marquée par toi, tu peux dépenser 2 concentration pour ajouter une cible supplémentaire à la frappe.
 
 ##### Aptitude de Vanguard de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Pas de Mourant Sous Ma Garde (5 Concentration)
+> [!spell] Pas de Mourant Sous Ma Garde (5 Concentration)
+> 🏷️ *À Distance • Frappe • Arme*
+> 
+> ***Vous privilégiez sauver un allié plutôt que votre propre sécurité.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un ennemi</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible inflige des dégâts à un allié.
+> 
+> **💫 Effet :** Vous vous déplacez jusqu'à votre vitesse vers l'allié déclencheur, terminant ce déplacement adjacent à lui ou dans la case la plus proche si vous ne pouvez pas atteindre une case adjacente. L'allié déclencheur peut dépenser une Récupération et gagne 5 Vigueur Temporaire pour chaque ennemi dont vous êtes devenu adjacent durant le déplacement. Vous effectuez ensuite un jet de pouvoir contre la cible.
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** R < FAIBLE, la cible est effrayée par l'allié déclencheur (sauvegarde termine)
+> - **12-16 :** R < MOYEN, la cible est effrayée par l'allié déclencheur (sauvegarde termine)
+> - **17+ :** R < FORT, la cible est effrayée par l'allié déclencheur (sauvegarde termine)
 
-*Vous privilégiez sauver un allié plutôt que votre propre sécurité.*
-
-| **À Distance, Frappe, Arme** |    **Déclenchée** |
-|----------------------------|-----------------:|
-| **📏 À Distance 5**            | **🎯 Un ennemi** |
-
-**Déclencheur :** La cible inflige des dégâts à un allié.
-
-**Effet :** Vous vous déplacez jusqu'à votre vitesse vers l'allié déclencheur, terminant ce déplacement adjacent à lui ou dans la case la plus proche si vous ne pouvez pas atteindre une case adjacente. L'allié déclencheur peut dépenser une Récupération et gagne 5 Vigueur Temporaire pour chaque ennemi dont vous êtes devenu adjacent durant le déplacement. Vous effectuez ensuite un jet de pouvoir contre la cible.
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** R < FAIBLE, la cible est effrayée par l'allié déclencheur (sauvegarde termine)
-- **12-16 :** R < MOYEN, la cible est effrayée par l'allié déclencheur (sauvegarde termine)
-- **17+ :** R < FORT, la cible est effrayée par l'allié déclencheur (sauvegarde termine)
-
-######## Escouade ! Ralliez-vous ! (5 Concentration)
-
-*Ensemble nous sommes invincibles !*
-
-| **Zone**       |                          **Manœuvre** |
-|----------------|--------------------------------------:|
-| **📏 Explosion 1** | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** Jusqu'au début de votre prochain tour, chaque cible a un bonus à la stabilité égal à votre score de Force. De plus, chaque cible gagne 2 impulsions.
+> [!spell] Escouade ! Ralliez-vous ! (5 Concentration)
+> 🏷️ *Zone*
+> 
+> ***Ensemble nous sommes invincibles !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'au début de votre prochain tour, chaque cible a un bonus à la stabilité égal à votre score de Force. De plus, chaque cible gagne 2 impulsions.
 
 ### Aptitudes de Niveau 3
 
@@ -506,45 +559,57 @@ Même avant que la bataille ne commence, vos ennemis peinent à suivre vos tacti
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 concentration à utiliser.
 
-######## Assaut Frontal (7 Concentration)
+> [!spell] Assaut Frontal (7 Concentration)
+> 🏷️ *Manœuvre*
+> 
+> ***Le but d'une charge est de briser leur moral et de forcer une retraite.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, la première fois dans un tour que vous ou n'importe quel allié infligez des dégâts à une cible marquée par vous, la créature qui a infligé les dégâts peut pousser la cible jusqu'à 2 cases puis glisser jusqu'à 2 cases. De plus, tout allié utilisant l'action principale - charge pour cibler une créature marquée par vous peut utiliser une aptitude signature de frappe au corps à corps ou une aptitude héroïque de frappe au corps à corps au lieu d'une frappe gratuite au corps à corps.
 
-*Le but d'une charge est de briser leur moral et de forcer une retraite.*
+> [!spell] Frappez Fort ! (7 Concentration)
+> 🏷️ *Manœuvre*
+> 
+> ***Vos alliés voient les avantages d'attaquer les cibles que vous sélectionnez.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois que vous ou n'importe quel allié infligez des dégâts à une cible marquée par vous, cette créature gagne 2 impulsions, qu'elle peut utiliser immédiatement.
 
-| **-**       | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
+> [!spell] Déroute (7 Concentration)
+> 🏷️ *Manœuvre*
+> 
+> ***La marée commence à tourner.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois que vous ou n'importe quel allié infligez des dégâts à une cible marquée par vous qui a R < MOYENNE, la cible est effrayée de la créature qui a infligé les dégâts (sauvegarde termine).
 
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, la première fois dans un tour que vous ou n'importe quel allié infligez des dégâts à une cible marquée par vous, la créature qui a infligé les dégâts peut pousser la cible jusqu'à 2 cases puis glisser jusqu'à 2 cases. De plus, tout allié utilisant l'action principale - charge pour cibler une créature marquée par vous peut utiliser une aptitude signature de frappe au corps à corps ou une aptitude héroïque de frappe au corps à corps au lieu d'une frappe gratuite au corps à corps.
-
-######## Frappez Fort ! (7 Concentration)
-
-*Vos alliés voient les avantages d'attaquer les cibles que vous sélectionnez.*
-
-| **-**       | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois que vous ou n'importe quel allié infligez des dégâts à une cible marquée par vous, cette créature gagne 2 impulsions, qu'elle peut utiliser immédiatement.
-
-######## Déroute (7 Concentration)
-
-*La marée commence à tourner.*
-
-| **-**       | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois que vous ou n'importe quel allié infligez des dégâts à une cible marquée par vous qui a R < MOYENNE, la cible est effrayée de la créature qui a infligé les dégâts (sauvegarde termine).
-
-######## Restez Forts et Concentrez-vous ! (7 Concentration)
-
-*« Nous pouvons le faire ! Gardez la foi et tenez bon ! »*
-
-| **-**       | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois que vous ou n'importe quel allié infligez des dégâts à une cible marquée par vous, la créature qui a infligé les dégâts peut dépenser une récupération.
+> [!spell] Restez Forts et Concentrez-vous ! (7 Concentration)
+> 🏷️ *Manœuvre*
+> 
+> ***« Nous pouvons le faire ! Gardez la foi et tenez bon ! »***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois que vous ou n'importe quel allié infligez des dégâts à une cible marquée par vous, la créature qui a infligé les dégâts peut dépenser une récupération.
 
 ### Aptitudes de Niveau 4
 
@@ -614,51 +679,62 @@ Quand vous utilisez l'Action Principale - Charge pour attaquer une créature mar
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 points de concentration à utiliser.
 
-######## Escouade ! Vérification de l'Équipement ! (9 Concentration)
+> [!spell] Escouade ! Vérification de l'Équipement ! (9 Concentration)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Vous distrayez un ennemi pendant que vos alliés sécurisent leur équipement défensif.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 9 + F dégâts
+> - **12-16 :** 13 + F dégâts
+> - **17+ :** 18 + F dégâts
+> 
+> **💫 Effet :** Vous et chaque allié adjacent à la cible gagnez 10 points de Vigueur Temporaire.
 
-*Vous distrayez un ennemi pendant que vos alliés sécurisent leur équipement défensif.*
+> [!spell] Escouade ! Souvenez-vous de votre Entraînement ! (9 Concentration)
+> 🏷️ *À distance*
+> 
+> ***Vous rappelez à vos alliés comment utiliser au mieux leur équipement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et deux alliés</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible gagne 1 impulsion et peut utiliser une aptitude signature qui a un double avantage.
 
-| **Corps à corps, Frappe, Arme** | **Action principale**     |
-|---------------------------|---------------------|
-| **📏 Corps à corps 1**            | **🎯 Une créature** |
+> [!spell] Remportez cette Journée ! (9 Concentration)
+> 🏷️ *Zone*
+> 
+> ***Vous inspirez vos alliés à récupérer et rassembler leurs forces.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible gagne 2 impulsions. De plus, elle peut dépenser une Récupération, retirer toutes les conditions ou effets qui l'affectent, et se lever si elle est à terre.
 
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 9 + F dégâts
-- **12-16 :** 13 + F dégâts
-- **17+ :** 18 + F dégâts
-
-**Effet :** Vous et chaque allié adjacent à la cible gagnez 10 points de Vigueur Temporaire.
-
-######## Escouade ! Souvenez-vous de votre Entraînement ! (9 Concentration)
-
-*Vous rappelez à vos alliés comment utiliser au mieux leur équipement.*
-
-| **À distance**                |                         **Action principale** |
-|------------------------------|----------------------------------------:|
-| **📏 À distance 10**  | **🎯 Vous-même et deux alliés** |
-
-**Effet :** Chaque cible gagne 1 impulsion et peut utiliser une aptitude signature qui a un double avantage.
-
-######## Remportez cette Journée ! (9 Concentration)
-
-*Vous inspirez vos alliés à récupérer et rassembler leurs forces.*
-
-| **Zone**       |                       **Action principale** |
-|----------------|--------------------------------------:|
-| **📏 Explosion 3** | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** Chaque cible gagne 2 impulsions. De plus, elle peut dépenser une Récupération, retirer toutes les conditions ou effets qui l'affectent, et se lever si elle est à terre.
-
-######## Il Vous Reste Encore Quelque Chose (9 Concentration)
-
-*Vous poussez un allié à utiliser une aptitude héroïque plus tôt qu'il ne le ferait normalement.*
-
-| **À distance**       | **Action principale** |
-|------------------|----------------:|
-| **📏 À distance 10** | **🎯 Un allié** |
-
-**Effet :** La cible utilise une aptitude héroïque avec le mot-clé Frappe comme une action déclenchée gratuite, et inflige des dégâts supplémentaires avec cette aptitude égaux à votre score de Raison. L'aptitude voit son coût en Ressource Héroïque réduit de 1 + votre score de Raison (coût minimum 0).
+> [!spell] Il Vous Reste Encore Quelque Chose (9 Concentration)
+> 🏷️ *À distance*
+> 
+> ***Vous poussez un allié à utiliser une aptitude héroïque plus tôt qu'il ne le ferait normalement.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** La cible utilise une aptitude héroïque avec le mot-clé Frappe comme une action déclenchée gratuite, et inflige des dégâts supplémentaires avec cette aptitude égaux à votre score de Raison. L'aptitude voit son coût en Ressource Héroïque réduit de 1 + votre score de Raison (coût minimum 0).
 
 ### Aptitudes de Niveau 6
 
@@ -680,97 +756,112 @@ Votre doctrine tactique vous accorde le choix entre deux aptitudes héroïques.
 
 Choisissez une des capacités suivantes.
 
-> ######## Exécution Coordonnée (9 Concentration)
->
-> *Vous dirigez votre allié pour porter un coup mortel.*
->
-> | **À distance**       | **Libre déclenchée** |
-> |----------------------|----------------------:|
-> | **📏 À distance 10** |      **🎯 Un allié** |
->
-> **Déclencheur :** La cible utilise une capacité pour infliger des dégâts avec jets de dés à une créature tout en étant cachée.
->
-> **Effet :** Si la cible de la capacité déclencheuse n'est pas une créature chef ou solo, elle est réduite à 0 Endurance. Si la cible de la capacité déclencheuse est un sbire, toute l'escouade est tuée. Si la cible de la capacité déclencheuse est une créature chef ou solo, le jet de puissance de la capacité déclencheuse obtient automatiquement un résultat de niveau 3.
+> [!spell] Exécution Coordonnée (9 Concentration)
+> 🏷️ *À distance*
+> 
+> ***Vous dirigez votre allié pour porter un coup mortel.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Libre déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible utilise une capacité pour infliger des dégâts avec jets de dés à une créature tout en étant cachée.
+> 
+> **💫 Effet :** Si la cible de la capacité déclencheuse n'est pas une créature chef ou solo, elle est réduite à 0 Endurance. Si la cible de la capacité déclencheuse est un sbire, toute l'escouade est tuée. Si la cible de la capacité déclencheuse est une créature chef ou solo, le jet de puissance de la capacité déclencheuse obtient automatiquement un résultat de niveau 3.
 
-> ######## Panique dans Leurs Rangs (9 Concentration)
->
-> *Vous semez la confusion chez vos ennemis, les poussant à se retourner les uns contre les autres.*
->
-> | **Corps à corps, À distance, Frappe, Arme** |     **Action principale** |
-> |----------------------------------------------|---------------------------:|
-> | **📏 Corps à corps 1 ou à distance 5**      | **🎯 Deux créatures** |
->
-> **Jet de Puissance + Puissance :**
->
-> - **≤11 :** 6 + P dégâts ; glissement 1
-> - **12-16 :** 9 + P dégâts ; glissement 3
-> - **17+ :** 13 + P dégâts ; glissement 5
->
-> **Effet :** Si une cible subit un mouvement forcé contre une autre créature, elle doit effectuer une frappe libre contre cette créature.
+> [!spell] Panique dans Leurs Rangs (9 Concentration)
+> 🏷️ *Corps à corps • À distance • Frappe • Arme*
+> 
+> ***Vous semez la confusion chez vos ennemis, les poussant à se retourner les uns contre les autres.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou à distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux créatures</p>
+> 
+> ---
+> 
+> **🎲 Jet de Puissance + Force :**
+> - **≤11 :** 6 + F dégâts ; glissement 1
+> - **12-16 :** 9 + F dégâts ; glissement 3
+> - **17+ :** 13 + F dégâts ; glissement 5
+> 
+> **💫 Effet :** Si une cible subit un mouvement forcé contre une autre créature, elle doit effectuer une frappe libre contre cette créature.
 
 ##### Capacités de Stratège de 6ème Niveau
 
 Choisissez une des capacités suivantes.
 
-> ######## Plan de Bataille (9 Concentration)
->
-> *Avec une nouvelle compréhension de vos ennemis, vous créez le plan parfait pour remporter la bataille.*
->
-> | **À distance**       |           **Manœuvre** |
-> |----------------------|------------------------:|
-> | **📏 À distance 10** | **🎯 Trois créatures** |
->
-> **Effet :** Chaque cible est marquée par vous. Immédiatement et jusqu'à la fin de la rencontre, le Directeur vous indique si des créatures marquées par vous ont une immunité aux dégâts ou une faiblesse et la valeur de cette immunité ou faiblesse. De plus, vous et chaque allié à moins de 3 cases de vous gagnez 2 élans.
->
-> **Bénéfice de Marque :** Jusqu'à la fin de la rencontre, chaque fois que vous ou n'importe quel allié effectuez une frappe contre une créature marquée par vous, vous pouvez dépenser 2 concentration pour faire ignorer l'immunité aux dégâts à la frappe et infliger des dégâts supplémentaires égaux à trois fois votre score de Raison.
+> [!spell] Plan de Bataille (9 Concentration)
+> 🏷️ *À distance*
+> 
+> ***Avec une nouvelle compréhension de vos ennemis, vous créez le plan parfait pour remporter la bataille.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois créatures</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible est marquée par vous. Immédiatement et jusqu'à la fin de la rencontre, le Directeur vous indique si des créatures marquées par vous ont une immunité aux dégâts ou une faiblesse et la valeur de cette immunité ou faiblesse. De plus, vous et chaque allié à moins de 3 cases de vous gagnez 2 élans.
+> 
+> **🎖️ Bénéfice de Marque :** Jusqu'à la fin de la rencontre, chaque fois que vous ou n'importe quel allié effectuez une frappe contre une créature marquée par vous, vous pouvez dépenser 2 concentration pour faire ignorer l'immunité aux dégâts à la frappe et infliger des dégâts supplémentaires égaux à trois fois votre score de Raison.
 
-> ######## Remuez-vous ! (9 Concentration)
->
-> *Vous et vos alliés vous coordonnez pour former une nouvelle ligne de bataille.*
->
-> | **Zone**       |                          **Manœuvre** |
-> |----------------|---------------------------------------:|
-> | **📏 Explosion 2** | **🎯 Vous-même et chaque allié dans la zone** |
->
-> **Effet :** Vous marquez deux ennemis à moins de 10 cases de vous. Chaque cible peut se déplacer jusqu'à sa vitesse. Vous et chaque cible gagnez 2 élans.
+> [!spell] Remuez-vous ! (9 Concentration)
+> 🏷️ *Zone*
+> 
+> ***Vous et vos alliés vous coordonnez pour former une nouvelle ligne de bataille.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous marquez deux ennemis à moins de 10 cases de vous. Chaque cible peut se déplacer jusqu'à sa vitesse. Vous et chaque cible gagnez 2 élans.
 
 ##### Capacités d'Avant-garde de 6ème Niveau
 
 Choisissez une des capacités suivantes.
 
-> ######## Riposte Instantanée (9 Concentration)
->
-> *Vous parez avec une vitesse presque surnaturelle.*
->
-> | **Corps à corps, Arme** | **Libre déclenchée** |
-> |-------------------------|----------------------:|
-> | **📏 Corps à corps 1**  |      **🎯 Un allié** |
->
-> **Déclencheur :** Une créature inflige des dégâts à la cible.
->
-> **Effet :** La cible subit la moitié des dégâts. Vous effectuez ensuite un jet de puissance contre la créature déclencheuse.
->
-> **Jet de Puissance + Puissance :**
->
+> [!spell] Riposte Instantanée (9 Concentration)
+> 🏷️ *Corps à corps • Arme*
+> 
+> ***Vous parez avec une vitesse presque surnaturelle.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Libre déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** Une créature inflige des dégâts à la cible.
+> 
+> **💫 Effet :** La cible subit la moitié des dégâts. Vous effectuez ensuite un jet de puissance contre la créature déclencheuse.
+> 
+> **🎲 Jet de Puissance + Force :**
 > - **≤11 :** A < FAIBLE, étourdi (fin sur sauvegarde)
 > - **12-16 :** A < MOYEN, étourdi (fin sur sauvegarde)
 > - **17+ :** A < FORT, étourdi (fin sur sauvegarde)
 
-> ######## À Moi, Escouade ! (9 Concentration)
->
-> *Vous menez vos alliés dans une charge.*
->
-> | **Charge, Corps à corps, Frappe, Arme** |     **Action principale** |
-> |-----------------------------------------|---------------------------:|
-> | **📏 Corps à corps 1**                  | **🎯 Une créature** |
->
-> **Jet de Puissance + Puissance :**
->
-> - **≤11 :** 6 + P dégâts ; un allié à moins de 10 cases peut utiliser l'action principale Charge comme action libre déclenchée, et peut utiliser une capacité signature de frappe de corps à corps au lieu d'une frappe libre pour la charge
-> - **12-16 :** 9 + P dégâts ; un allié à moins de 10 cases peut utiliser l'action principale Charge comme action libre déclenchée, et peut utiliser une capacité signature de frappe de corps à corps qui gagne un avantage au lieu d'une frappe libre pour la charge
-> - **17+ :** 13 + P dégâts ; deux alliés à moins de 10 cases peuvent utiliser l'action principale Charge comme action libre déclenchée, et peuvent chacun utiliser une capacité signature de frappe de corps à corps qui gagne un avantage au lieu d'une frappe libre pour la charge
->
-> **Effet :** Si la cible est touchée par deux frappes ou plus dans le cadre de cette capacité et qu'elle a R < FORT, elle est étourdie (fin sur sauvegarde). Si la cible est réduite à 0 Endurance avant qu'un ou les deux alliés aient effectué leur frappe, l'allié ou les alliés peuvent choisir une cible différente.
+> [!spell] À Moi, Escouade ! (9 Concentration)
+> 🏷️ *Charge • Corps à corps • Frappe • Arme*
+> 
+> ***Vous menez vos alliés dans une charge.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Puissance + Force :**
+> - **≤11 :** 6 + F dégâts ; un allié à moins de 10 cases peut utiliser l'action principale Charge comme action libre déclenchée, et peut utiliser une capacité signature de frappe de corps à corps au lieu d'une frappe libre pour la charge
+> - **12-16 :** 9 + F dégâts ; un allié à moins de 10 cases peut utiliser l'action principale Charge comme action libre déclenchée, et peut utiliser une capacité signature de frappe de corps à corps qui gagne un avantage au lieu d'une frappe libre pour la charge
+> - **17+ :** 13 + F dégâts ; deux alliés à moins de 10 cases peuvent utiliser l'action principale Charge comme action libre déclenchée, et peuvent chacun utiliser une capacité signature de frappe de corps à corps qui gagne un avantage au lieu d'une frappe libre pour la charge
+> 
+> **💫 Effet :** Si la cible est touchée par deux frappes ou plus dans le cadre de cette capacité et qu'elle a R < FORT, elle est étourdie (fin sur sauvegarde). Si la cible est réduite à 0 Endurance avant qu'un ou les deux alliés aient effectué leur frappe, l'allié ou les alliés peuvent choisir une cible différente.
 
 ### Aptitudes de Niveau 7
 
@@ -858,53 +949,64 @@ Vous avez entraîné votre escouade à maximiser l'impact et à percer les ligne
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 points de concentration à utiliser.
 
-######## Allez-y et Que la Vitesse Vous Accompagne (11 Concentration)
+> [!spell] Allez-y et Que la Vitesse Vous Accompagne (11 Concentration)
+> 🏷️ *À distance*
+> 
+> ***Vous dirigez une attaque pour qu'elle frappe juste.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même ou un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** La cible gagne 2 impulsions et peut utiliser une aptitude signature ou héroïque comme action déclenchée gratuite. L'aptitude bénéficie d'un double avantage sur le jet de pouvoir, ignore l'immunité aux dégâts, et augmente le seuil de tous les effets de seuil de 1.
 
-*Vous dirigez une attaque pour qu'elle frappe juste.*
+> [!spell] Achevez-les ! (11 Concentration)
+> 🏷️ *À distance*
+> 
+> ***Vous signalez une ouverture à votre allié pour qu'il puisse porter un coup fatal.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible n'est pas une créature dirigeante ou solo, et devient essoufflée.
+> 
+> **💫 Effet :** La cible est tuée. De plus, la créature qui a causé l'essoufflement de la cible peut dépenser une récupération.
 
-| **À distance**   |         **Action principale** |
-|------------------|------------------------------:|
-| **📏 Portée 10** | **🎯 Vous-même ou un allié** |
+> [!spell] Les Vannes s'Ouvrent (11 Concentration)
+> 🏷️ *À distance*
+> 
+> ***Vous dirigez votre équipe pour qu'elle frappe à l'unisson avec un effet dévastateur.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois alliés</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible gagne 1 impulsion et peut utiliser une aptitude signature comme action déclenchée gratuite. Cette aptitude gagne un avantage sur le jet de pouvoir et augmente le seuil de tous les effets de seuil de 1.
 
-**Effet :** La cible gagne 2 impulsions et peut utiliser une aptitude signature ou héroïque comme action déclenchée gratuite. L'aptitude bénéficie d'un double avantage sur le jet de pouvoir, ignore l'immunité aux dégâts, et augmente le seuil de tous les effets de seuil de 1.
-
-######## Achevez-les ! (11 Concentration)
-
-*Vous signalez une ouverture à votre allié pour qu'il puisse porter un coup fatal.*
-
-| **À distance**   |  **Action déclenchée gratuite** |
-|------------------|--------------------------------:|
-| **📏 Portée 10** |            **🎯 Une créature** |
-
-**Déclencheur :** La cible n'est pas une créature dirigeante ou solo, et devient essoufflée.
-
-**Effet :** La cible est tuée. De plus, la créature qui a causé l'essoufflement de la cible peut dépenser une récupération.
-
-######## Les Vannes s'Ouvrent (11 Concentration)
-
-*Vous dirigez votre équipe pour qu'elle frappe à l'unisson avec un effet dévastateur.*
-
-| **À distance**   |     **Action principale** |
-|------------------|---------------------------:|
-| **📏 Portée 10** | **🎯 Trois alliés** |
-
-**Effet :** Chaque cible gagne 1 impulsion et peut utiliser une aptitude signature comme action déclenchée gratuite. Cette aptitude gagne un avantage sur le jet de pouvoir et augmente le seuil de tous les effets de seuil de 1.
-
-######## J'Ouvre et Vous Fermez (11 Concentration)
-
-*Vous créez une ouverture pour un allié.*
-
-| **Corps à corps, À distance, Frappe, Arme** |     **Action principale** |
-|---------------------------------------------|---------------------------:|
-| **📏 Corps à corps 1 ou portée 5**         | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 6 + F dégâts
-- **12-16 :** 10 + F dégâts
-- **17+ :** 14 + F dégâts
-
-**Effet :** Un allié dans un rayon de 10 cases de vous peut utiliser une aptitude héroïque contre la cible comme action déclenchée gratuite sans dépenser de sa ressource héroïque, tant qu'il possède suffisamment de ressource héroïque pour payer l'aptitude. Si la cible est réduite à 0 vigueur avant que l'allié choisi n'ait utilisé son aptitude, l'allié peut choisir une cible différente.
+> [!spell] J'Ouvre et Vous Fermez (11 Concentration)
+> 🏷️ *Corps à corps • À distance • Frappe • Arme*
+> 
+> ***Vous créez une ouverture pour un allié.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou portée 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 6 + F dégâts
+> - **12-16 :** 10 + F dégâts
+> - **17+ :** 14 + F dégâts
+> 
+> **💫 Effet :** Un allié dans un rayon de 10 cases de vous peut utiliser une aptitude héroïque contre la cible comme action déclenchée gratuite sans dépenser de sa ressource héroïque, tant qu'il possède suffisamment de ressource héroïque pour payer l'aptitude. Si la cible est réduite à 0 vigueur avant que l'allié choisi n'ait utilisé son aptitude, l'allié peut choisir une cible différente.
 
 ### Capacités de 9ème Niveau
 
@@ -922,95 +1024,110 @@ Votre doctrine tactique vous accorde le choix entre deux aptitudes héroïques.
 
 Choisissez une des aptitudes suivantes.
 
-######## Escouade ! Frappe et Fuite ! (11 Concentration)
+> [!spell] Escouade ! Frappe et Fuite ! (11 Concentration)
+> 🏷️ *À Distance*
+> 
+> ***J'ai dû arracher ce secret aux collèges de l'ombre.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même et deux alliés</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible gagne 2 impulsions, et peut utiliser une action déclenchée gratuite pour utiliser une aptitude signature qui gagne un avantage. Après avoir résolu leur aptitude, chaque cible peut glisser jusqu'à 2 cases et devenir cachée même si elle n'a pas d'abri ou de dissimulation, ou si elle est observée.
 
-*J'ai dû arracher ce secret aux collèges de l'ombre.*
-
-| **À Distance**   |            **Action principale** |
-|------------------|--------------------------------:|
-| **📏 Portée 10** | **🎯 Soi-même et deux alliés** |
-
-**Effet :** Chaque cible gagne 2 impulsions, et peut utiliser une action déclenchée gratuite pour utiliser une aptitude signature qui gagne un avantage. Après avoir résolu leur aptitude, chaque cible peut glisser jusqu'à 2 cases et devenir cachée même si elle n'a pas d'abri ou de dissimulation, ou si elle est observée.
-
-######## Leur Manque de Concentration Est Leur Perte (11 Concentration)
-
-*Vous dupez vos ennemis pour qu'ils s'attaquent entre eux et les laissez confus par les conséquences.*
-
-| **Magie, À Distance, Arme** |      **Action principale** |
-|-----------------------------|---------------------------:|
-| **📏 Portée 10**            | **🎯 Trois ennemis** |
-
-**Effet :** Chaque cible utilise une aptitude signature contre une ou plusieurs cibles de votre choix, chaque aptitude obtenant automatiquement un résultat de tiers 3 sur le jet de pouvoir. Après avoir résolu les aptitudes des cibles, vous effectuez un jet de pouvoir contre chaque cible originale.
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** R < FAIBLE, étourdi (sauvegarde termine)
-- **12-16 :** R < MOYEN, étourdi (sauvegarde termine)
-- **17+ :** R < FORT, étourdi (sauvegarde termine)
+> [!spell] Leur Manque de Concentration Est Leur Perte (11 Concentration)
+> 🏷️ *Magie • À Distance • Arme*
+> 
+> ***Vous dupez vos ennemis pour qu'ils s'attaquent entre eux et les laissez confus par les conséquences.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Trois ennemis</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible utilise une aptitude signature contre une ou plusieurs cibles de votre choix, chaque aptitude obtenant automatiquement un résultat de tiers 3 sur le jet de pouvoir. Après avoir résolu les aptitudes des cibles, vous effectuez un jet de pouvoir contre chaque cible originale.
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** R < FAIBLE, étourdi (sauvegarde termine)
+> - **12-16 :** R < MOYEN, étourdi (sauvegarde termine)
+> - **17+ :** R < FORT, étourdi (sauvegarde termine)
 
 ##### Aptitudes de Cerveau de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Obscurcir le Soleil ! (11 Concentration)
+> [!spell] Obscurcir le Soleil ! (11 Concentration)
+> 🏷️ *Zone*
+> 
+> ***Qu'est-ce qui fait un bon soldat ? La capacité de tirer quatre coups par minute par tous les temps.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 3 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible peut effectuer une frappe gratuite à distance qui gagne un avantage contre tout ennemi marqué par vous à distance de sa frappe gratuite à distance. Une cible ignore les fléaux et double fléaux lors de cette frappe.
 
-*Qu'est-ce qui fait un bon soldat ? La capacité de tirer quatre coups par minute par tous les temps.*
-
-| **Zone**       |                       **Action principale** |
-|----------------|--------------------------------------------:|
-| **📏 3 explosion** | **🎯 Soi-même et chaque allié dans la zone** |
-
-**Effet :** Chaque cible peut effectuer une frappe gratuite à distance qui gagne un avantage contre tout ennemi marqué par vous à distance de sa frappe gratuite à distance. Une cible ignore les fléaux et double fléaux lors de cette frappe.
-
-######## Contre-stratégie (11 Concentration)
-
-*J'ai identifié un moyen de neutraliser leurs forces.*
-
-| **-**       | **Action principale** |
-|-------------|---------------------:|
-| **📏 Soi-même** |     **🎯 Soi-même** |
-
-**Effet :** Vous gagnez 6 impulsions. Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois que le Directeur dépense de la Malveillance (voir *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), choisissez vous-même ou un allié dans un rayon de 10 cases. Le personnage choisi gagne 2 points de sa Ressource Héroïque.
+> [!spell] Contre-stratégie (11 Concentration)
+> 🏷️ *Action principale*
+> 
+> ***J'ai identifié un moyen de neutraliser leurs forces.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi-même</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous gagnez 6 impulsions. Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois que le Directeur dépense de la Malveillance (voir *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), choisissez vous-même ou un allié dans un rayon de 10 cases. Le personnage choisi gagne 2 points de sa Ressource Héroïque.
 
 ##### Aptitudes d'Avant-garde de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
-######## Aucune Échappatoire (11 Concentration)
+> [!spell] Aucune Échappatoire (11 Concentration)
+> 🏷️ *Charge • Corps à Corps • Frappe • Arme*
+> 
+> ***Rien ne vous empêchera d'atteindre votre ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous marquez la cible.
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 11 + F dégâts
+> - **12-16 :** 16 + F dégâts
+> - **17+ :** 21 + F dégâts
+> 
+> **💫 Effet :** Si vous utilisez cette aptitude dans le cadre de l'Action Principale - Charge, les espaces des ennemis ne comptent pas comme du Terrain Difficile pour votre Déplacement. De plus, si vous vous déplacez à travers l'espace d'une créature, vous pouvez faire glisser cette créature d'1 case hors du chemin de votre charge.
 
-*Rien ne vous empêchera d'atteindre votre ennemi.*
-
-| **Charge, Corps à Corps, Frappe, Arme** |     **Action principale** |
-| ---------------------------------------- | -------------------------: |
-| **📏 Corps à Corps 1**                   | **🎯 Une créature** |
-
-**Effet :** Vous marquez la cible.
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 11 + F dégâts
-- **12-16 :** 16 + F dégâts
-- **17+ :** 21 + F dégâts
-
-**Effet :** Si vous utilisez cette aptitude dans le cadre de l'Action Principale - Charge, les espaces des ennemis ne comptent pas comme du Terrain Difficile pour votre Déplacement. De plus, si vous vous déplacez à travers l'espace d'une créature, vous pouvez faire glisser cette créature d'1 case hors du chemin de votre charge.
-
-######## Celui-là Est à Moi ! (11 Concentration)
-
-*Vous vous concentrez pour rendre un ennemi insignifiant.*
-
-| **Corps à Corps, Distance, Frappe, Arme** |     **Action principale** |
-|-------------------------------------------|---------------------------:|
-| **📏 Corps à Corps 1 ou Distance 5**      | **🎯 Une créature** |
-
-**Effet :** La cible est marquée par vous.
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** 8 + F dégâts
-- **12-16 :** 13 + F dégâts
-- **17+ :** 17 + F dégâts
-
-**Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez Mourant, vous pouvez utiliser une Aptitude Signature ou Héroïque au lieu d'une Frappe Gratuite contre toute cible marquée par vous.
+> [!spell] Celui-là Est à Moi ! (11 Concentration)
+> 🏷️ *Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Vous vous concentrez pour rendre un ennemi insignifiant.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1 ou Distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet :** La cible est marquée par vous.
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** 8 + F dégâts
+> - **12-16 :** 13 + F dégâts
+> - **17+ :** 17 + F dégâts
+> 
+> **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez Mourant, vous pouvez utiliser une Aptitude Signature ou Héroïque au lieu d'une Frappe Gratuite contre toute cible marquée par vous.
 
 ### Aptitudes de Niveau 10
 

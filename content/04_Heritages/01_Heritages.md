@@ -1,3 +1,7 @@
+---
+title: Héritages
+---
+
 # Héritages
 
 Des peuples fantastiques habitent les mondes de *Draw Steel*. Parmi eux se trouvent les diables, les nains, les elfes, les raideurs du temps — et bien sûr les humains, dont la culture et l'histoire dominent de nombreux mondes.

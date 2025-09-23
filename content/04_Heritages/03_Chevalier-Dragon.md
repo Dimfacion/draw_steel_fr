@@ -1,3 +1,7 @@
+---
+title: Chevalier-Dragon
+---
+
 ## Chevalier-Dragon
 
 Le rituel de Dracogenèse qui confère le pouvoir de créer une génération de chevaliers-dragons—également connus sous le nom de draconiens ou seigneurs-wyrms—est obscur et extrêmement difficile à maîtriser, même pour un sorcier expérimenté. Les petites populations de draconiens à Khemhara, Higara et Khoursir en témoignent. Descendants des générations originelles créées il y a des millénaires par de puissants magiciens, ils n'ont jamais été nombreux. Une couvée typique ne produit qu'un seul œuf. Après seulement quelques générations, ces draconiens commencent à montrer de nouvelles adaptations comme des plumes ou des crêtes frangées.

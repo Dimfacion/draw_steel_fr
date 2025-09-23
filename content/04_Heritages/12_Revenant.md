@@ -1,3 +1,7 @@
+---
+title: Revenant
+---
+
 ## Revenant
 
 Les morts marchent parmi nous. Certains d'entre eux en sont plus heureux que d'autres.

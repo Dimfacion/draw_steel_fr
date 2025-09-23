@@ -1,3 +1,7 @@
+---
+title: Les Bases
+---
+
 # Les Bases
 
 Le déroulement d'une partie de *Draw Steel* ressemble à celui de tout autre jeu de rôle sur table avec un Directeur (aussi appelé Maître de Jeu ou MJ dans d'autres jeux). La partie est une conversation entre le Directeur et les héros qui décrit l'histoire. Le Directeur plante le décor en décrivant les éléments importants de l'environnement que les héros remarqueraient.

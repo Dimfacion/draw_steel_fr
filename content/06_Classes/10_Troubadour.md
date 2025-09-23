@@ -1,3 +1,7 @@
+---
+title: Troubadour
+---
+
 ## Troubadour
 
 Le monde entier est une scène, et tous ceux qui s'y trouvent, des acteurs. Personne ne le sait mieux que le troubadour. Vous puisez votre énergie dans le drame de la vie quotidienne et savez comment faire naître le spectacle même des situations les plus classiques. Vous accentuez les hauts et approfondissez les bas au service de quiconque pourrait assister à votre représentation.
@@ -110,25 +114,31 @@ Vous entrez dans chaque bataille avec un ensemble d'aptitudes de représentation
 
 Vous commencez avec les aptitudes de représentation Chorégraphie et Limerick Revitalisant. Votre choix de numéro de classe vous accorde des représentations supplémentaires.
 
-######## Chorégraphie
+> [!spell] Chorégraphie
+> 🏷️ *Zone • Magie • Représentation*
+> 
+> ***Claquettes, coups de pied, pas. Tout cela, c'est de la "chorégraphie".***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action triviale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Aura 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Tant que cette représentation est active, chaque cible qui commence son tour dans la zone gagne un bonus de +2 à la vitesse jusqu'à la fin de son tour.
 
-*Claquettes, coups de pied, pas. Tout cela, c'est de la "chorégraphie".*
-
-| **Zone, Magie, Représentation** |                         **Action triviale** | 
-|----------------------------------|---------------------------------------------:|
-| **📏 Aura 5**                    | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** Tant que cette représentation est active, chaque cible qui commence son tour dans la zone gagne un bonus de +2 à la vitesse jusqu'à la fin de son tour.
-
-######## Limerick Revitalisant
-
-*Il était une fois un homme de la Capitale...*
-
-| **Zone, Magie, Représentation** |                         **Action triviale** |
-|----------------------------------|---------------------------------------------:|
-| **📏 Aura 5**                    | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** À la fin de chacun de vos tours tant que cette représentation est active, vous pouvez choisir jusqu'à un nombre de cibles égal à votre score de Présence. Chaque cible choisie peut dépenser une Récupération.
+> [!spell] Limerick Revitalisant
+> 🏷️ *Zone • Magie • Représentation*
+> 
+> ***Il était une fois un homme de la Capitale...***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action triviale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Aura 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** À la fin de chacun de vos tours tant que cette représentation est active, vous pouvez choisir jusqu'à un nombre de cibles égal à votre score de Présence. Chaque cible choisie peut dépenser une Récupération.
 
 #### Aptitudes d'Acte de Classe de Niveau 1
 
@@ -146,113 +156,132 @@ Votre acte de classe de troubadour vous accorde deux aptitudes, comme indiqué d
 
 Vous possédez l'aptitude de représentation suivante, qui peut être utilisée avec votre capacité Numéros.
 
-######## Acrobaties
-
-*Les gens adorent une bonne cascade.*
-
-| **Zone, Magie, Représentation** |                         **Action Triviale** | 
-|----------------------------------|---------------------------------------------:|
-| **📏 Aura de 5**                 | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** Tant que cette représentation est active, chaque cible qui commence son tour dans la zone peut automatiquement obtenir un résultat de tiers 3 sur un test effectué pour faire un saut, une roulade, ou escalader dans le cadre de son déplacement avant la fin de son tour.
+> [!spell] Acrobaties
+> 🏷️ *Zone • Magie • Représentation*
+> 
+> ***Les gens adorent une bonne cascade.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Triviale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Aura de 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Tant que cette représentation est active, chaque cible qui commence son tour dans la zone peut automatiquement obtenir un résultat de tiers 3 sur un test effectué pour faire un saut, une roulade, ou escalader dans le cadre de son déplacement avant la fin de son tour.
 
 ##### Blocage
 
 Vous disposez de l'aptitude de représentation suivante, qui est utilisable avec votre capacité Routines.
 
-######## Blocage
-
-*Non, non, non, vous perdez le public comme ça. Essayez plutôt comme ceci...*
-
-| **Zone, Magie, Représentation** |                    **Action triviale** | 
-|----------------------------------|-----------------------------------------:|
-| **📏 2 aura**                    | **🎯 Chaque créature dans la zone** |
-
-**Effet :** À la fin de chacun de vos tours tant que cette représentation est active, vous pouvez choisir jusqu'à un nombre de cibles égal à votre score de Présence et téléporter ces cibles vers des espaces inoccupés dans la zone. Une cible ne peut pas être téléportée d'une manière qui lui causerait du mal (comme au-dessus d'une falaise), la laisserait mourante, ou l'amènerait à subir un état ou tout autre effet négatif.
+> [!spell] Blocage
+> 🏷️ *Zone • Magie • Représentation*
+> 
+> ***Non, non, non, vous perdez le public comme ça. Essayez plutôt comme ceci...***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action triviale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 2 aura</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque créature dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** À la fin de chacun de vos tours tant que cette représentation est active, vous pouvez choisir jusqu'à un nombre de cibles égal à votre score de Présence et téléporter ces cibles vers des espaces inoccupés dans la zone. Une cible ne peut pas être téléportée d'une manière qui lui causerait du mal (comme au-dessus d'une falaise), la laisserait mourante, ou l'amènerait à subir un état ou tout autre effet négatif.
 
 ##### Monologue Dramatique
 
 Vous possédez l'aptitude suivante.
 
-######## Monologue Dramatique
-
-*Pas besoin que ce soit cohérent. Dites-le simplement avec émotion.*
-
-| **Magie, Distance** |   **Manœuvre** |
-|---------------------|---------------:|
-| **📏 Distance 10**  | **🎯 Spécial** |
-
-**Effet :** Choisissez l'un des effets suivants :
-
-- Vous déclarez un récit inspirant de victoire. Un allié à portée gagne un avantage sur le prochain Jet de Pouvoir qu'il effectue avant le début de votre prochain tour.
-- Vous tissez un récit d'héroïsme à haut risque. Un allié à portée gagne 1 impulsion.
-- Vous insultez un adversaire là où il est le plus vulnérable. Un ennemi à portée subit un fléau sur le prochain Jet de Pouvoir qu'il effectue avant la fin de son prochain tour.
-
-**Dépensez 1 Drame :** Vous pouvez choisir deux cibles pour l'effet choisi.
+> [!spell] Monologue Dramatique
+> 🏷️ *Magie • Distance*
+> 
+> ***Pas besoin que ce soit cohérent. Dites-le simplement avec émotion.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Spécial</p>
+> 
+> ---
+> 
+> **💫 Effet :** Choisissez l'un des effets suivants :
+> 
+> - Vous déclarez un récit inspirant de victoire. Un allié à portée gagne un avantage sur le prochain Jet de Pouvoir qu'il effectue avant le début de votre prochain tour.
+> - Vous tissez un récit d'héroïsme à haut risque. Un allié à portée gagne 1 impulsion.
+> - Vous insultez un adversaire là où il est le plus vulnérable. Un ennemi à portée subit un fléau sur le prochain Jet de Pouvoir qu'il effectue avant la fin de son prochain tour.
+> 
+> **🔥 Dépensez 1 Drame :** Vous pouvez choisir deux cibles pour l'effet choisi.
 
 ##### Accord de Pouvoir
 
 Vous avez l'aptitude suivante.
 
-######## Accord de Pouvoir
-
-*Votre instrument sonne juste et votre musique époustoufle tout le monde.*
-
-| **Zone, Magie** |                  **Manœuvre** |
-|-----------------|------------------------------:|
-| **📏 2 explosion**  | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** Poussée 1
-- **12-16 :** Poussée 2
-- **17+ :** Poussée 3
+> [!spell] Accord de Pouvoir
+> 🏷️ *Zone • Magie*
+> 
+> ***Votre instrument sonne juste et votre musique époustoufle tout le monde.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 2 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** Poussée 1
+> - **12-16 :** Poussée 2
+> - **17+ :** Poussée 3
 
 ##### Pouvoir Stellaire
 
 Vous possédez l'aptitude suivante.
 
-######## Pouvoir Stellaire (1 Drame)
-
-*Vos années de pratique de l'escrime et de la danse portent leurs fruits sur le champ de bataille.*
-
-| **-**       | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Vous gagnez un bonus de +2 à la vitesse jusqu'à la fin de votre tour. De plus, le prochain jet de pouvoir que vous effectuez ce tour ne peut pas avoir un résultat inférieur au tiers 2.
-
-**Dépenser 1 Drame :** Vous gagnez un bonus de +4 à la vitesse à la place.
+> [!spell] Pouvoir Stellaire (1 Drame)
+> 🏷️ *Manœuvre*
+> 
+> ***Vos années de pratique de l'escrime et de la danse portent leurs fruits sur le champ de bataille.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous gagnez un bonus de +2 à la vitesse jusqu'à la fin de votre tour. De plus, le prochain jet de pouvoir que vous effectuez ce tour ne peut pas avoir un résultat inférieur au tiers 2.
+> 
+> **🔥 Dépenser 1 Drame :** Vous gagnez un bonus de +4 à la vitesse à la place.
 
 ##### Performances de Virtuose
 
 Vous disposez des aptitudes de performance suivantes, qui sont utilisables avec votre capacité Routines.
 
-######## "Mère Tonnerre"
+> [!spell] "Mère Tonnerre"
+> 🏷️ *Magie • Performance • Distance • Frappe*
+> 
+> ***Tout pour mère tonnerrre ! ♪ Courez vous mettre à l'abrrri !♪***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Triviale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **💫 Effet :** À la fin de chaque tour de combat tant que cette performance est active, vous pouvez faire un jet de pouvoir contre la cible qui ignore l'abri. Vous ne pouvez pas cibler la même créature deux fois avec cet effet.
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** Dégâts de foudre égaux à votre niveau
+> - **12-16 :** Dégâts de foudre égaux à 5 + votre niveau
+> - **17+ :** Dégâts de foudre égaux à 10 + votre niveau
 
-*Tout pour mère tonnerrre ! ♪ Courez vous mettre à l'abrrri !♪*
-
-| **Magie, Performance, Distance, Frappe** |       **Action Triviale** | 
-|------------------------------------------|---------------------------:|
-| **📏 Distance 10**                       | **🎯 Une créature** |
-
-**Effet :** À la fin de chaque tour de combat tant que cette performance est active, vous pouvez faire un jet de pouvoir contre la cible qui ignore l'abri. Vous ne pouvez pas cibler la même créature deux fois avec cet effet.
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** Dégâts de foudre égaux à votre niveau
-- **12-16 :** Dégâts de foudre égaux à 5 + votre niveau
-- **17+ :** Dégâts de foudre égaux à 10 + votre niveau
-
-######## "Ballade de la Bête"
-
-*Les crocs sont nus ! ♪ Les yeux noirs ! ♪ Impossible d'échapper à la bête !♪*
-
-| **Zone, Magie, Performance** |                         **Action Triviale** |
-|------------------------------|---------------------------------------------:|
-| **📏 Aura 5**                | **🎯 Vous-même et chaque allié dans la zone** |
-
-**Effet :** Tant que cette performance est active, chaque cible qui commence son tour dans la zone gagne 1 impulsion.
+> [!spell] "Ballade de la Bête"
+> 🏷️ *Zone • Magie • Performance*
+> 
+> ***Les crocs sont nus ! ♪ Les yeux noirs ! ♪ Impossible d'échapper à la bête !♪***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Triviale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Aura 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Vous-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Tant que cette performance est active, chaque cible qui commence son tour dans la zone gagne 1 impulsion.
 
 #### Action Déclenchée d'Acte de Classe
 
@@ -266,45 +295,54 @@ Votre acte de classe de troubadour vous accorde une action déclenchée, comme i
 | Duelliste      | Riposte                     |
 | Virtuose       | Harmoniser                  |
 
-######## Harmoniser (3 Drame)
+> [!spell] Harmoniser (3 Drame)
+> 🏷️ *À distance*
+> 
+> ***Donnez un peu de punch au chœur.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible utilise une aptitude qui ne vise qu'un seul ennemi et coûte 3 points ou moins de sa Ressource Héroïque.
+> 
+> **💫 Effet :** La cible peut choisir une cible supplémentaire pour l'aptitude déclencheuse. Tous les dégâts infligés à la cible supplémentaire sont des dégâts soniques.
+> 
+> **🔥 Dépenser 1+ Drame :** Vous pouvez déclencher cette aptitude quand une cible utilise une aptitude qui a un coût en Ressource Héroïque de 3 + chaque drame supplémentaire dépensé.
 
-*Donnez un peu de punch au chœur.*
+> [!spell] Riposte
+> 🏷️ *Corps à corps*
+> 
+> ***« J'aurais apporté des friandises si j'avais su que j'allais me battre contre un chien. »***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi ou un allié</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible subit des dégâts d'une frappe au corps à corps.
+> 
+> **💫 Effet :** La cible effectue une frappe gratuite contre la créature qui a effectué la frappe déclencheuse.
 
-| **À distance**      |   **Déclenchée** |
-|---------------------|----------------:|
-| **📏 Distance 5**   | **🎯 Un allié** |
-
-**Déclencheur :** La cible utilise une aptitude qui ne vise qu'un seul ennemi et coûte 3 points ou moins de sa Ressource Héroïque.
-
-**Effet :** La cible peut choisir une cible supplémentaire pour l'aptitude déclencheuse. Tous les dégâts infligés à la cible supplémentaire sont des dégâts soniques.
-
-**Dépenser 1+ Drame :** Vous pouvez déclencher cette aptitude quand une cible utilise une aptitude qui a un coût en Ressource Héroïque de 3 + chaque drame supplémentaire dépensé.
-
-######## Riposte
-
-*« J'aurais apporté des friandises si j'avais su que j'allais me battre contre un chien. »*
-
-| **Corps à corps**      |           **Déclenchée** |
-|------------------------|-------------------------:|
-| **📏 Corps à corps 1** | **🎯 Soi ou un allié**  |
-
-**Déclencheur :** La cible subit des dégâts d'une frappe au corps à corps.
-
-**Effet :** La cible effectue une frappe gratuite contre la créature qui a effectué la frappe déclencheuse.
-
-######## Les Rôles Sont Inversés
-
-*Tout est permis en amour et en tout le reste.*
-
-| **À distance**       |       **Déclenchée** |
-|----------------------|---------------------:|
-| **📏 Distance 10**   | **🎯 Une créature** |
-
-**Déclencheur :** La cible effectue un jet d'aptitude qui a un avantage, un double avantage, un fléau, ou un double fléau.
-
-**Effet :** Un avantage sur le jet déclencheur devient un fléau, ou un double avantage devient un avantage. Un fléau devient un avantage, ou un double fléau devient un fléau.
-
-**Dépenser 3 Drame :** Un avantage sur le jet déclencheur devient un double fléau, ou un double avantage est annulé. Un fléau devient un double avantage, ou un double fléau est annulé.
+> [!spell] Les Rôles Sont Inversés
+> 🏷️ *À distance*
+> 
+> ***Tout est permis en amour et en tout le reste.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible effectue un jet d'aptitude qui a un avantage, un double avantage, un fléau, ou un double fléau.
+> 
+> **💫 Effet :** Un avantage sur le jet déclencheur devient un fléau, ou un double avantage devient un avantage. Un fléau devient un avantage, ou un double fléau devient un fléau.
+> 
+> **🔥 Dépenser 3 Drame :** Un avantage sur le jet déclencheur devient un double fléau, ou un double avantage est annulé. Un fléau devient un double avantage, ou un double fléau est annulé.
 
 #### Aptitudes de Troubadour
 
@@ -314,71 +352,79 @@ Votre performance se concentre sur les manœuvres à travers la scène de batail
 
 Choisissez une aptitude signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Échange Spirituel.)
 
-######## Parade Artistique
+> [!spell] Parade Artistique
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Et ils disaient que s'entraîner à l'escrime était une perte de temps !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux créatures ou objets</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 2 dégâts
+> - **12-16 :** 5 dégâts
+> - **17+ :** 7 dégâts
+> 
+> **💫 Effet :** Vous pouvez glisser jusqu'à 3 cases.
+> 
+> **🔥 Dépenser 2+ Drame :** Vous pouvez cibler une créature ou un objet supplémentaire pour chaque tranche de 2 drame dépensé.
 
-*Et ils disaient que s'entraîner à l'escrime était une perte de temps !*
+> [!spell] Sarcasme Cinglant
+> 🏷️ *Magie • Distance • Frappe • Arme*
+> 
+> ***Te voilà, rayonnant de ton charisme habituel.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 2 + P dégâts psychiques ; P < FAIBLE, saignement (sauvegarde termine)
+> - **12-16 :** 5 + P dégâts psychiques ; P < MOYEN, saignement (sauvegarde termine)
+> - **17+ :** 7 + P dégâts psychiques ; P < FORT, saignement (sauvegarde termine)
 
-| **Corps à Corps, Frappe, Arme** |                 **Action principale** |
-|---------------------------|--------------------------------:|
-| **📏 Corps à Corps 1**            | **🎯 Deux créatures ou objets** |
+> [!spell] Instigateur
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Ce n'est pas moi qui l'ai fait ! Quoi ?***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 3 + P dégâts
+> - **12-16 :** 6 + P dégâts
+> - **17+ :** 9 + P dégâts
+> 
+> **💫 Effet :** La cible est narguée par vous ou un allié consentant adjacent à vous jusqu'à la fin du prochain tour de la cible.
 
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 2 dégâts
-- **12-16 :** 5 dégâts
-- **17+ :** 7 dégâts
-
-**Effet :** Vous pouvez glisser jusqu'à 3 cases.
-
-**Dépenser 2+ Drame :** Vous pouvez cibler une créature ou un objet supplémentaire pour chaque tranche de 2 drame dépensé.
-
-######## Sarcasme Cinglant
-
-*Te voilà, rayonnant de ton charisme habituel.*
-
-| **Magie, Distance, Frappe, Arme** |     **Action principale** |
-|-----------------------------------|--------------------:|
-| **📏 Distance 10**                  | **🎯 Une créature** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 2 + P dégâts psychiques ; P < FAIBLE, saignement (sauvegarde termine)
-- **12-16 :** 5 + P dégâts psychiques ; P < MOYEN, saignement (sauvegarde termine)
-- **17+ :** 7 + P dégâts psychiques ; P < FORT, saignement (sauvegarde termine)
-
-######## Instigateur
-
-*Ce n'est pas moi qui l'ai fait ! Quoi ?*
-
-| **Corps à Corps, Frappe, Arme**             | **Action principale** |
-|---------------------------------------|----------------:|
-| **📏 Corps à Corps 1**                        | **🎯 Une créature** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 3 + P dégâts
-- **12-16 :** 6 + P dégâts
-- **17+ :** 9 + P dégâts
-
-**Effet :** La cible est narguée par vous ou un allié consentant adjacent à vous jusqu'à la fin du prochain tour de la cible.
-
-######## Échange Spirituel
-
-*Un coup lyrique (et physique) insulte un ennemi et inspire un allié.*
-
-| **Magie, Corps à Corps, Distance, Frappe** |     **Action principale** |
-|----------------------------------|--------------------:|
-| **📏 Corps à Corps 1 ou Distance 5**       | **🎯 Une créature** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 4 + P dégâts psychiques
-- **12-16 :** 5 + P dégâts psychiques
-- **17+ :** 7 + P dégâts psychiques
-
-**Effet :** Un allié dans un rayon de 10 cases de vous peut mettre fin à un effet qui l'affecte et qui se termine par un jet de sauvegarde ou à la fin de son tour.
-
-**Dépenser 1 Drame :** L'allié choisi peut dépenser une Récupération.
+> [!spell] Échange Spirituel
+> 🏷️ *Magie • Corps à Corps • Distance • Frappe*
+> 
+> ***Un coup lyrique (et physique) insulte un ennemi et inspire un allié.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1 ou Distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 4 + P dégâts psychiques
+> - **12-16 :** 5 + P dégâts psychiques
+> - **17+ :** 7 + P dégâts psychiques
+> 
+> **💫 Effet :** Un allié dans un rayon de 10 cases de vous peut mettre fin à un effet qui l'affecte et qui se termine par un jet de sauvegarde ou à la fin de son tour.
+> 
+> **🔥 Dépenser 1 Drame :** L'allié choisi peut dépenser une Récupération.
 
 ##### Aptitudes Héroïques
 
@@ -388,123 +434,141 @@ Vous maîtrisez un éventail d'aptitudes héroïques, qui coûtent toutes du dra
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 drame à utiliser. (*Construction Rapide :* Critique Sévère.)
 
-######## Critique Sévère (3 Drame)
+> [!spell] Critique Sévère (3 Drame)
+> 🏷️ *Magie • Corps à Corps • Distance • Frappe*
+> 
+> ***Une seule mauvaise critique suffit à leur gâcher la journée.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1 ou distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 7 + P dégâts soniques
+> - **12-16 :** 10 + P dégâts soniques
+> - **17+ :** 13 + P dégâts soniques
+> 
+> **💫 Effet :** La première fois que la cible utilise une aptitude avant le début de votre prochain tour, tous les effets des résultats de tiers de l'aptitude autres que les dégâts sont annulés pour toutes les cibles. Les effets d'aptitude qui se produisent toujours indépendamment du jet de pouvoir fonctionnent normalement.
 
-*Une seule mauvaise critique suffit à leur gâcher la journée.*
+> [!spell] Harmoniques Hypnotiques (3 Drame)
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous produisez une note envoûtante qui déforme les sens de façon spectaculaire.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** Glisser 1 ; I < FAIBLE, étourdi (sauvegarde termine)
+> - **12-16 :** Glisser 1 ; I < MOYEN, étourdi (sauvegarde termine)
+> - **17+ :** Glisser 2 ; I < FORT, étourdi (sauvegarde termine)
+> 
+> **🔥 Dépenser 2+ Drame :** La taille de l'explosion augmente de 1 pour chaque tranche de 2 drame dépensé.
 
-| **Magie, Corps à Corps, Distance, Frappe** |               **Action principale** |
-|---------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1 ou distance 10**      | **🎯 Une créature ou un objet** |
+> [!spell] Réécriture Rapide (3 Drame)
+> 🏷️ *Zone • Magie • Distance*
+> 
+> ***Vous écrivez quelque chose d'inattendu dans la scène qui entrave votre ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Cube 3 à portée 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** 4 dégâts ; P < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 5 dégâts ; P < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 6 dégâts ; P < FORT, entravé (sauvegarde termine)
+> 
+> **💫 Effet :** La zone est un terrain difficile pour les ennemis.
 
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 7 + P dégâts soniques
-- **12-16 :** 10 + P dégâts soniques
-- **17+ :** 13 + P dégâts soniques
-
-**Effet :** La première fois que la cible utilise une aptitude avant le début de votre prochain tour, tous les effets des résultats de tiers de l'aptitude autres que les dégâts sont annulés pour toutes les cibles. Les effets d'aptitude qui se produisent toujours indépendamment du jet de pouvoir fonctionnent normalement.
-
-######## Harmoniques Hypnotiques (3 Drame)
-
-*Vous produisez une note envoûtante qui déforme les sens de façon spectaculaire.*
-
-| **Zone, Magie** |               **Action principale** |
-|------------------|------------------------------------:|
-| **📏 Explosion 2**  | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** Glisser 1 ; I < FAIBLE, étourdi (sauvegarde termine)
-- **12-16 :** Glisser 1 ; I < MOYEN, étourdi (sauvegarde termine)
-- **17+ :** Glisser 2 ; I < FORT, étourdi (sauvegarde termine)
-
-**Dépenser 2+ Drame :** La taille de l'explosion augmente de 1 pour chaque tranche de 2 drame dépensé.
-
-######## Réécriture Rapide (3 Drame)
-
-*Vous écrivez quelque chose d'inattendu dans la scène qui entrave votre ennemi.*
-
-| **Zone, Magie, Distance**     |               **Action principale** |
-|-------------------------------|------------------------------------:|
-| **📏 Cube 3 à portée 10**     | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** 4 dégâts ; P < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 5 dégâts ; P < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 6 dégâts ; P < FORT, entravé (sauvegarde termine)
-
-**Effet :** La zone est un terrain difficile pour les ennemis.
-
-######## Voler la Vedette (3 Drame)
-
-*Alors que vous vous faufilez et ondoyez dans la foule, vous ne pouvez vous empêcher de laisser le public en redemander.*
-
-| **Corps à Corps, Frappe, Arme** | **Manœuvre** |
-|----------------------------------|-------------:|
-| **📏 Soi ; voir ci-dessous**    |  **🎯 Soi** |
-
-**Effet :** Vous glissez jusqu'à votre vitesse. Vous effectuez un jet de pouvoir qui cible chaque ennemi dont vous devenez adjacent durant ce glissement.
-
-**Jet de Pouvoir + Agilité ou Présence :**
-
-- **≤11 :** Narguer (FdT) ; A < FAIBLE, à terre
-- **12-16 :** Narguer (FdT) ; A < MOYEN, à terre
-- **17+ :** Narguer (FdT) ; A < FORT, à terre et ne peut pas se lever (FdT)
+> [!spell] Voler la Vedette (3 Drame)
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Alors que vous vous faufilez et ondoyez dans la foule, vous ne pouvez vous empêcher de laisser le public en redemander.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi ; voir ci-dessous</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous glissez jusqu'à votre vitesse. Vous effectuez un jet de pouvoir qui cible chaque ennemi dont vous devenez adjacent durant ce glissement.
+> 
+> **🎲 Jet de Pouvoir + Agilité ou Présence :**
+> - **≤11 :** Narguer (FdT) ; A < FAIBLE, à terre
+> - **12-16 :** Narguer (FdT) ; A < MOYEN, à terre
+> - **17+ :** Narguer (FdT) ; A < FORT, à terre et ne peut pas se lever (FdT)
 
 ###### Aptitude à 5 Drame
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 drame à utiliser. (*Construction Rapide :* Retournement Dramatique.)
 
-######## Retournement Dramatique (5 Drame)
+> [!spell] Retournement Dramatique (5 Drame)
+> 🏷️ *Zone • Magie*
+> 
+> ***Offrez une surprise au public.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** La cible peut glisser d'1 case et effectuer une frappe gratuite.
+> - **12-16 :** La cible peut glisser jusqu'à 2 cases et effectuer une frappe gratuite qui gagne un avantage.
+> - **17+ :** La cible peut glisser jusqu'à 3 cases et effectuer une frappe gratuite qui gagne un avantage, puis peut dépenser une Récupération.
 
-*Offrez une surprise au public.*
+> [!spell] Simuler sa Mort (5 Drame)
+> 🏷️ *Magie*
+> 
+> ***Ô heureuse dague, voici ton fourreau !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi-même</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous devenez invisible et créez une illusion magique de votre cadavre tombant dans votre espace. Tant que vous êtes invisible, vous gagnez un bonus de +3 à la vitesse et vous ignorez le terrain difficile. L'illusion et votre invisibilité durent jusqu'à la fin de votre prochain tour, ou jusqu'à ce que l'illusion soit manipulée, que vous subissiez des dégâts, ou que vous utilisiez une action principale ou une manœuvre.
 
-| **Zone, Magie** |                       **Action principale** |
-|------------------|--------------------------------------------:|
-| **📏 Explosion 3**  | **🎯 Soi-même et chaque allié dans la zone** |
+> [!spell] Renverser le Scénario (5 Drame)
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous tentez une approche différente des événements, justifiant les nouvelles positions où tout le monde s'est retrouvé.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible peut se téléporter jusqu'à 5 cases. Toute cible téléportée qui était ralentie ne l'est plus.
 
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** La cible peut glisser d'1 case et effectuer une frappe gratuite.
-- **12-16 :** La cible peut glisser jusqu'à 2 cases et effectuer une frappe gratuite qui gagne un avantage.
-- **17+ :** La cible peut glisser jusqu'à 3 cases et effectuer une frappe gratuite qui gagne un avantage, puis peut dépenser une Récupération.
-
-######## Simuler sa Mort (5 Drame)
-
-*Ô heureuse dague, voici ton fourreau !*
-
-| **Magie**   | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi-même** |  **🎯 Soi-même** |
-
-**Effet :** Vous devenez invisible et créez une illusion magique de votre cadavre tombant dans votre espace. Tant que vous êtes invisible, vous gagnez un bonus de +3 à la vitesse et vous ignorez le terrain difficile. L'illusion et votre invisibilité durent jusqu'à la fin de votre prochain tour, ou jusqu'à ce que l'illusion soit manipulée, que vous subissiez des dégâts, ou que vous utilisiez une action principale ou une manœuvre.
-
-######## Renverser le Scénario (5 Drame)
-
-*Vous tentez une approche différente des événements, justifiant les nouvelles positions où tout le monde s'est retrouvé.*
-
-| **Zone, Magie** |                       **Action principale** |
-|------------------|--------------------------------------------:|
-| **📏 Explosion 3**  | **🎯 Soi-même et chaque allié dans la zone** |
-
-**Effet :** Chaque cible peut se téléporter jusqu'à 5 cases. Toute cible téléportée qui était ralentie ne l'est plus.
-
-######## Jeu d'Acteur (5 Drame)
-
-*Ils sont si blessés par votre performance que vous commencez à y croire vous-même.*
-
-| **Corps à corps, Frappe, Arme** |     **Action principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Agilité :**
-
-- **≤11 :** 6 + A dégâts ; P < FAIBLE, affaibli (sauvegarde termine)
-- **12-16 :** 10 + A dégâts ; P < MOYEN, affaibli (sauvegarde termine)
-- **17+ :** 14 + A dégâts ; P < FORT, affaibli (sauvegarde termine)
-
-**Effet :** Vous pouvez devenir saignement (sauvegarde termine) pour infliger 5 dégâts de corruption supplémentaires à la cible.
+> [!spell] Jeu d'Acteur (5 Drame)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Ils sont si blessés par votre performance que vous commencez à y croire vous-même.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité :**
+> - **≤11 :** 6 + A dégâts ; P < FAIBLE, affaibli (sauvegarde termine)
+> - **12-16 :** 10 + A dégâts ; P < MOYEN, affaibli (sauvegarde termine)
+> - **17+ :** 14 + A dégâts ; P < FORT, affaibli (sauvegarde termine)
+> 
+> **💫 Effet :** Vous pouvez devenir saignement (sauvegarde termine) pour infliger 5 dégâts de corruption supplémentaires à la cible.
 
 ### Aptitudes de Niveau 2
 

@@ -1,3 +1,7 @@
+---
+title: Liste
+---
+
 ### Carrières de A à Z
 
 Les carrières que votre personnage peut choisir sont présentées par ordre alphabétique.

@@ -1,3 +1,7 @@
+---
+title: Complications
+---
+
 # Complications
 
 Au-delà des aptitudes et caractéristiques accordées par l'héritage et la classe, votre héros pourrait avoir quelque chose d'autre qui le rend... inhabituel. Peut-être qu'un élémentaire de terre vit dans votre corps. Votre lame mystique dévaste peut-être les ennemis mais se nourrit de votre propre vitalité. Une complication est une caractéristique optionnelle que vous pouvez sélectionner pour enrichir l'histoire personnelle de votre héros, chaque complication vous apportant à la fois un bénéfice positif et un inconvénient négatif.

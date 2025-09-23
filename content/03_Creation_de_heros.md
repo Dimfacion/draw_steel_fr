@@ -1,3 +1,7 @@
+---
+title: Création de héros
+---
+
 # Créer un Héros
 
 Si vous n'êtes pas le Directeur, alors vous créez et incarnez l'un des personnages principaux de l'histoire du jeu—un héros. Votre héros est une personne motivée à combattre les forces du mal pour protéger les innocents, mais chaque héros a sa propre Raison personnelle de le faire. Vous n'avez pas besoin d'être un pur phare de bonté. Les Héros ont des défauts et sont complexes, tout comme les gens du monde réel. Mais votre héros devrait être quelqu'un qui n'a pas peur de combattre les monstres pour des raisons altruistes. Si vous n'êtes intéressé que par jouer un mercenaire cupide, vous pouvez y parvenir avec ces règles, mais vous serez probablement plus heureux en jouant à un autre jeu.

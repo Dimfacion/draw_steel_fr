@@ -1,3 +1,7 @@
+---
+title: Panoplies
+---
+
 # Panoplies
 
 Le chevalier en armure étincelante. Le prêtre-guerrier. Le tireur d'élite. Les Censeurs, les Furies, les Ombres, les Tacticiens et les Troubadours peuvent puiser dans ces concepts archétypaux et bien d'autres grâce aux panoplies. Une panoplie est une combinaison d'armes, d'armures et de techniques de combat qui vous permet de personnaliser votre héros martial pour la bataille.
