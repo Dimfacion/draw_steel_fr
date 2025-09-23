@@ -96,51 +96,58 @@ Votre collège d'ombre vous accorde une ou deux aptitudes, comme indiqué dans l
 
 Vous avez l'aptitude suivante.
 
-######## Téléportation de Cendre Noire
-
-*Dans un tourbillon de cendre noire, vous passez d'un endroit à un autre.*
-
-| **Magie**   | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Vous vous téléportez jusqu'à 5 cases. Si vous bénéficiez de dissimulation ou d'un abri à votre destination, vous pouvez utiliser la Manœuvre - Se Cacher même si vous êtes observé. Si vous réussissez à vous cacher en utilisant cette manœuvre, vous gagnez 1 impulsion.
-
-**Dépenser 1+ Perspicacité :** Vous vous téléportez d'1 case supplémentaire par point de perspicacité dépensé.
+> [!spell] Téléportation de Cendre Noire
+> 🏷️ *Magie*
+> 
+> ***Dans un tourbillon de cendre noire, vous passez d'un endroit à un autre.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous vous téléportez jusqu'à 5 cases. Si vous bénéficiez de dissimulation ou d'un abri à votre destination, vous pouvez utiliser la Manœuvre - Se Cacher même si vous êtes observé. Si vous réussissez à vous cacher en utilisant cette manœuvre, vous gagnez 1 impulsion.
+> 
+> **🔥 Dépenser 1+ Perspicacité :** Vous vous téléportez d'1 case supplémentaire par point de perspicacité dépensé.
 
 ##### Enduire la Lame
-
 Vous possédez l'aptitude suivante.
 
-######## Enduire la Lame
-
-*Un peu de poison fait beaucoup d'effet.*
-
-| **-**       | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Vous gagnez 2 impulsions. De plus, chaque fois que vous utilisez une impulsion avant la fin de la rencontre, vous pouvez choisir qu'elle inflige des dégâts de poison.
-
-**Dépenser 1+ Perspicacité :** Pour chaque perspicacité que vous dépensez, vous gagnez 1 impulsion supplémentaire.
+> [!spell] Enduire la Lame
+> 🏷️ *—*
+> 
+> ***Un peu de poison fait beaucoup d'effet.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous gagnez 2 impulsions. De plus, chaque fois que vous utilisez une impulsion avant la fin de la rencontre, vous pouvez choisir qu'elle inflige des dégâts de poison.
+> 
+> **🔥 Dépenser 1+ Perspicacité :** Pour chaque perspicacité que vous dépensez, vous gagnez 1 impulsion supplémentaire.
 
 ##### Je Ne Suis Pas Une Menace
-
 Vous possédez l'aptitude suivante.
 
-######## Je Ne Suis Pas Une Menace
-
-*Adopter une apparence illusoire vous donne un avantage en matière de subterfuge.*
-
-| **Magie**   | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |    **🎯 Soi** |
-
-**Effet :** Vous vous enveloppez dans une illusion qui vous fait paraître inoffensif et sans danger aux yeux de vos ennemis. Vous pourriez prendre l'apparence d'un animal inoffensif de votre taille, comme un mouton ou un capybara, ou vous pourriez apparaître comme une version moins héroïque et désarmée de vous-même. Tant que cette illusion dure, vos frappes gagnent un avantage, et quand vous effectuez l'action de déplacement - désengagement, vous gagnez un bonus de +1 à la distance que vous pouvez glisser.
-
-L'illusion se termine quand vous blessez une autre créature, quand vous interagissez physiquement avec une créature, quand vous utilisez cette aptitude à nouveau, ou quand vous mettez fin à l'illusion (action triviale requise). Si vous mettez fin à cette illusion en blessant une autre créature, vous gagnez 1 impulsion.
-
-**Dépenser 1 Perspicacité :** Choisissez une créature dont la taille n'excède pas la vôtre de plus de 1 et qui se trouve dans un rayon de 10 cases. L'illusion de cette aptitude vous fait apparaître comme cette créature. Cette illusion couvre tout votre corps, y compris les vêtements et l'armure, et altère votre voix pour qu'elle ressemble à celle de la créature. Vous gagnez un avantage sur les tests effectués pour convaincre les alliés de la créature que vous êtes cette créature.
+> [!spell] Je Ne Suis Pas Une Menace
+> 🏷️ *Magie*
+> 
+> ***Adopter une apparence illusoire vous donne un avantage en matière de subterfuge.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet:** Vous vous enveloppez dans une illusion qui vous fait paraître inoffensif et sans danger aux yeux de vos ennemis. Vous pourriez prendre l'apparence d'un animal inoffensif de votre taille, comme un mouton ou un capybara, ou vous pourriez apparaître comme une version moins héroïque et désarmée de vous-même. Tant que cette illusion dure, vos frappes gagnent un avantage, et quand vous effectuez l'action de déplacement - désengagement, vous gagnez un bonus de +1 à la distance que vous pouvez glisser.
+> 
+> L'illusion se termine quand vous blessez une autre créature, quand vous interagissez physiquement avec une créature, quand vous utilisez cette aptitude à nouveau, ou quand vous mettez fin à l'illusion (action triviale requise). Si vous mettez fin à cette illusion en blessant une autre créature, vous gagnez 1 impulsion.
+> 
+> **🔥 Dépenser 1 Perspicacité :** Choisissez une créature dont la taille n'excède pas la vôtre de plus de 1 et qui se trouve dans un rayon de 10 cases. L'illusion de cette aptitude vous fait apparaître comme cette créature. Cette illusion couvre tout votre corps, y compris les vêtements et l'armure, et altère votre voix pour qu'elle ressemble à celle de la créature. Vous gagnez un avantage sur les tests effectués pour convaincre les alliés de la créature que vous êtes cette créature.
 
 ##### Bombe Fumigène
 
@@ -158,61 +165,72 @@ Votre collège d'ombre vous accorde une action déclenchée, comme indiqué dans
 | Alchimie Caustique | Roulade Défensive   |
 | Masque d'Arlequin  | Ruse Astucieuse      |
 
-######## Ruse Astucieuse (1 Perspicacité)
+> [!spell] Ruse Astucieuse (1 Perspicacité)
+> 🏷️ *Magie • Déclenchée*
+> 
+> ***Vous semez un moment de confusion au combat, au péril de votre ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** Un ennemi vous cible avec une frappe.
+> 
+> **💫 Effet:** Choisissez un ennemi à distance de la frappe déclencheuse, y compris l'ennemi qui vous a ciblé. La frappe cible cet ennemi à la place.
 
-*Vous semez un moment de confusion au combat, au péril de votre ennemi.*
+> [!spell] Roulade Défensive
+> 🏷️ *Déclenchée*
+> 
+> ***Quand un ennemi attaque, vous roulez avec l'impact pour réduire les dégâts.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** Une autre créature vous inflige des dégâts.
+> 
+> **💫 Effet:** Vous subissez la moitié des dégâts déclencheurs, puis pouvez glisser jusqu'à 2 cases après que l'effet déclencheur se résout. Si vous terminez ce glissement avec dissimulation ou abri, vous pouvez utiliser la Manœuvre - Se Cacher même si vous êtes observé.
+> 
+> **🔥 Dépenser 1 Perspicacité:** Le seuil de tous les effets associés aux dégâts est réduit de 1 pour vous.
 
-| **Magie**   | **Déclenchée** |
-|-------------|---------------:|
-| **📏 Soi**  |     **🎯 Soi** |
-
-**Déclencheur :** Un ennemi vous cible avec une frappe.
-
-**Effet :** Choisissez un ennemi à distance de la frappe déclencheuse, y compris l'ennemi qui vous a ciblé. La frappe cible cet ennemi à la place.
-
-######## Roulade Défensive
-
-*Quand un ennemi attaque, vous roulez avec l'impact pour réduire les dégâts.*
-
-| **-**       | **Déclenchée** |
-|-------------|---------------:|
-| **📏 Soi**  |       **🎯 Soi** |
-
-**Déclencheur :** Une autre créature vous inflige des dégâts.
-
-**Effet :** Vous subissez la moitié des dégâts déclencheurs, puis pouvez glisser jusqu'à 2 cases après que l'effet déclencheur se résout. Si vous terminez ce glissement avec dissimulation ou abri, vous pouvez utiliser la Manœuvre - Se Cacher même si vous êtes observé.
-
-**Dépenser 1 Perspicacité :** Le seuil de tous les effets associés aux dégâts est réduit de 1 pour vous.
-
-######## Dans Toute Cette Confusion
-
-*Vous disparaissez dans un panache de fumée noire pour éviter le danger.*
-
-| **Magie**   | **Déclenchée** |
-|-------------|---------------:|
-| **📏 Soi**  |     **🎯 Soi** |
-
-**Déclencheur :** Vous subissez des dégâts.
-
-**Effet :** Vous subissez la moitié des dégâts, puis pouvez vous téléporter jusqu'à 4 cases après que l'effet déclencheur se résout.
-
-**Dépenser 1+ Perspicacité :** Vous vous téléportez de 1 case supplémentaire pour chaque perspicacité dépensée.
+> [!spell] Dans Toute Cette Confusion
+> 🏷️ *Magie • Déclenchée*
+> 
+> ***Vous disparaissez dans un panache de fumée noire pour éviter le danger.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** Vous subissez des dégâts.
+> 
+> **💫 Effet:** Vous subissez la moitié des dégâts, puis pouvez vous téléporter jusqu'à 4 cases après que l'effet déclencheur se résout.
+> 
+> **🔥 Dépenser 1+ Perspicacité:** Vous vous téléportez de 1 case supplémentaire pour chaque perspicacité dépensée.
 
 #### L'Hésitation est une Faiblesse
-
 Vous possédez l'aptitude suivante.
 
-######## L'Hésitation est une Faiblesse (1 Perspicacité)
-
-*Maintenez l'attaque. Ne leur accordez jamais un moment de répit.*
-
-| **-**       | **Déclenchée gratuite** |
-|-------------|------------------------:|
-| **📏 Soi** |              **🎯 Soi** |
-
-**Déclencheur :** Un autre héros termine son tour. Ce héros ne peut pas avoir utilisé cette aptitude pour commencer son tour.
-
-**Effet :** Vous jouez votre tour après le héros déclencheur.
+> [!spell] L'Hésitation est une Faiblesse (1 Perspicacité)
+> 🏷️ *Déclenchée gratuite*
+> 
+> ***Maintenez l'attaque. Ne leur accordez jamais un moment de répit.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur:** Un autre héros termine son tour. Ce héros ne peut pas avoir utilisé cette aptitude pour commencer son tour.
+> 
+> **💫 Effet:** Vous jouez votre tour après le héros déclencheur.
 
 #### Panoplie
 
