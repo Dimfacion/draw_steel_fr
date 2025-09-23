@@ -30,7 +30,9 @@ Très peu de personnes naissent avec le potentiel de maîtriser le pouvoir psion
 
 **Compétences :** Vous gagnez les compétences Psioniques et Cerner les Gens (voir Compétences au Chapitre 9 : Tests). Puis choisissez deux compétences parmi les groupes de compétences interpersonnelles ou de savoir. (*Construction Rapide :* Empathie, Psioniques, Cerner les Gens, Chronoscape.)
 
-[ERREUR DE TRADUCTION - 529]
+### Capacités de 1er Niveau
+
+En tant que talent de 1er niveau, vous gagnez les capacités suivantes.
 
 #### Tradition de Talent
 
@@ -47,7 +49,9 @@ Les aptitudes psioniques sont regroupées en catégories selon leurs effets, cha
 
 Vous choisissez une tradition de talent parmi les options suivantes : chronopathie, télékinésie ou télépathie. Votre tradition de talent est votre sous-classe, et votre choix de tradition détermine de nombreuses aptitudes que vous obtiendrez en gagnant de nouveaux niveaux. (D'autres traditions de talent seront présentées dans de futurs produits.) (*Construction Rapide :* Télékinésie.)
 
-[ERREUR DE TRADUCTION - 529]
+#### Clarté et Tension
+
+La concentration et la précision de vos pensées vous accordent une Ressource Héroïque appelée clarté qui renforce vos capacités psioniques.
 
 ##### Clarté en Combat
 
@@ -813,7 +817,9 @@ Votre tradition de talent vous accorde deux aptitudes, comme indiqué dans le ta
 
 Chaque fois que vous obtenez un succès sur un test utilisant une compétence du groupe de compétences interpersonnelles lors d'une interaction avec un PNJ, vous pouvez lui poser une question en utilisant votre aptitude Parole Télépathique. Le PNJ doit répondre à la question de manière véridique au mieux de ses capacités.
 
-[ERREUR DE TRADUCTION - 529]
+##### Distorsion Temporelle
+
+Tant que vous n'êtes pas mourant, le temps se comporte de manière irrégulière autour de vous dans une aura de 3. Cette zone est un terrain difficile pour les ennemis. De plus, quand un allié entre dans la zone pour la première fois d'un round de combat ou commence son tour là, il gagne un bonus de +2 à la vitesse jusqu'à la fin du tour.
 
 ##### Amplificateur Cinétique
 

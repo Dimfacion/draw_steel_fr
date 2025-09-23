@@ -666,7 +666,15 @@ La panoplie Épée et Bouclier ne vous donne pas seulement un bouclier—elle fa
 
 Vous portez une armure intermédiaire et maniez un bouclier ainsi qu'une arme intermédiaire.
 
-[ERREUR DE TRADUCTION - 529]
+##### Bonus de Panoplie
+
+**Bonus de Vigueur :** +9 par échelon
+
+**Bonus de Stabilité :** +1
+
+**Bonus de Dégâts au Corps à Corps :** +2/+2/+2
+
+**Bonus de Désengagement :** +1
 
 ##### Aptitude Signature
 

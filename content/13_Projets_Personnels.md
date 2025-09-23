@@ -248,18 +248,18 @@ Une armure imprégnée d'une amélioration vous accorde des avantages spéciaux 
 
 ###### Tableau des Améliorations d'Armure de Niveau 1
 
-| Amélioration               | Prérequis d'Objet                                                                                           | Langage de Source de Projet |
-|----------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------|
-| Révérence                  | Une mèche de cheveux d'une fée, prise dans un marché amical pour Charmant ou par violence pour Menaçant    | Khelt                      |
-| Immunité aux Dégâts I      | Sable élémentaire laissé derrière quand un élémentaire entre dans Orden depuis la Quintessence             | Zaliac                     |
-| Déguisement                | Le sang d'un lycanthrope                                                                                    | Khelt                      |
-| Iridescent                 | Fourrure d'un ployeur de lumière                                                                           | Hyrallic                   |
-| Résistance Magique I       | Une écaille de dragon                                                                                       | Le Premier Langage         |
-| Fleur d'Ortie              | Une rose de la haie magique d'une sorcière                                                                 | Khelt                      |
-| Passage Spectral I         | Ichor d'un spectre détruit                                                                                 | Szetch                     |
-| Résistance Psionique I     | Cristaux rares qui résonnent avec l'énergie psionique, souvent trouvés sur des sites d'expérimentation psionique | Voll                       |
-| Véloce                     | La plume d'un faucon tué alors qu'il plongeait                                                             | Yllyric                    |
-| Tempête I                  | Une bande de métal stellaire frappée par la foudre                                                         | Ullorvic                   |
+| Amélioration           | Prérequis d'Objet                                                                                                | Langage de Source de Projet |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| Révérence              | Une mèche de cheveux d'une fée, prise dans un marché amical pour Charmant ou par violence pour Menaçant          | Khelt                       |
+| Immunité aux Dégâts I  | Sable élémentaire laissé derrière quand un élémentaire entre dans Orden depuis la Quintessence                   | Zaliac                      |
+| Déguisement            | Le sang d'un lycanthrope                                                                                         | Khelt                       |
+| Iridescent             | Fourrure d'un ployeur de lumière                                                                                 | Hyrallic                    |
+| Résistance Magique I   | Une écaille de dragon                                                                                            | Le Premier Langage          |
+| Fleur d'Ortie          | Une rose de la haie magique d'une sorcière                                                                       | Khelt                       |
+| Passage Spectral I     | Ichor d'un spectre détruit                                                                                       | Szetch                      |
+| Résistance Psionique I | Cristaux rares qui résonnent avec l'énergie psionique, souvent trouvés sur des sites d'expérimentation psionique | Voll                        |
+| Véloce                 | La plume d'un faucon tué alors qu'il plongeait                                                                   | Yllyric                     |
+| Tempête I              | Une bande de métal stellaire frappée par la foudre                                                               | Ullorvic                    |
 
 ###### Amélioration d'Armure de 5e Niveau
 
@@ -363,7 +363,20 @@ Vous pouvez utiliser une aptitude absorbée comme si vous la connaissiez, en eff
 
 **Inflexible :** Vous ne pouvez pas être soumis à un déplacement forcé à moins que vous ne choisissiez de l'être. Les effets qui ignorent la Stabilité ignorent aussi cette amélioration.
 
-[ERREUR DE TRADUCTION - 529]
+# Tableau des Améliorations d'Armure de 9ème Niveau
+
+| Amélioration               | Prérequis d'Objet                                                                                              | Langage de Source de Projet |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| Pacte Diabolique           | L'aile d'un archidiable                                                                                        | Anjali                      |
+| Âme de Dragon II           | Une offrande de gemmes, pièces et œuvres d'art volées du trésor d'un dragon, sacrifiées dans un feu rituel     | Vastariax                   |
+| Invulnérable               | Plaques métalliques récupérées d'un moteur de guerre servok                                                    | Rallarian                   |
+| Marcheur de Ligne de Force | Une bouture d'un arbre éthéré qui ne se manifeste dans le monde ordinaire qu'une fois par an                   | Yllyric                     |
+| Vie                        | La larme d'un saint                                                                                            | Haut Kuric                  |
+| Résistance à la Magie III  | Une écaille d'un dragon ancien                                                                                 | Le Premier Langage          |
+| Déphasage III              | Du verre parfaitement transparent d'une maison qui a disparu dans le Plan Éthéré                               | Szetch                      |
+| Résistance Psionique III   | Le crâne d'un parleur sans voix âgé d'au moins un siècle                                                       | Voll                        |
+| Flux Temporel              | Un condensateur temporel expérimental inventé par les kuran'zoi                                                | Voll                        |
+| Inflexible                 | Une pointe de lance ou autre arme brisée dans le corps d'un géant de pierre, et ossifiée pendant un an ou plus | Haut Kuric                  |
 
 ##### Imprégner un Canal
 

@@ -682,7 +682,9 @@ Vous gagnez un avantage de votre choix.
 
 Vous gagnez une compétence de votre choix. Voir Compétences au Chapitre 9 : Tests.
 
-[ERREUR DE TRADUCTION - 529]
+#### Élan d'Intuition
+
+La première fois à chaque round de combat que vous infligez des dégâts incorporant 1 ou plusieurs élans, vous gagnez 2 intuition au lieu de 1.
 
 ### Aptitudes de Niveau 5
 

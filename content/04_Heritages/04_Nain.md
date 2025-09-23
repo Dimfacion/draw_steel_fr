@@ -128,7 +128,9 @@ Vous ne pouvez avoir qu'une rune active à la fois, et pouvez changer ou retirer
 
 Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Ancré au Sol, Étincelles sur la Peau.)
 
-[ERREUR DE TRADUCTION - 529]
+##### Grande Fortitude (2 Points)
+
+Votre constitution robuste vous empêche de perdre de la force. Vous ne pouvez pas être affaibli(e).
 
 ##### Ancré au sol (1 Point)
 

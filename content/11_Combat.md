@@ -325,7 +325,15 @@ Bien que vous ne puissiez pas librement effectuer une Poussée, une Traction ou 
 
 Quand une créature plus grande force le déplacement d'une cible plus petite avec une aptitude d'arme de corps à corps, la distance du déplacement forcé est augmentée de 1. Si une créature plus petite force le déplacement d'une cible plus grande avec une aptitude d'arme de corps à corps, la distance ne change pas.
 
-[ERREUR DE TRADUCTION - 529]
+##### Percuter des Créatures
+
+Lorsque vous forcez une créature à se déplacer contre une autre créature, le mouvement s'arrête et les deux créatures subissent 1 dégât pour chaque case restante dans le mouvement forcé de la première créature. Vous pouvez également forcer un objet à se déplacer contre une créature. Le mouvement de l'objet s'arrête, et la créature subit 1 dégât pour chaque case restante dans le mouvement forcé de l'objet.
+
+Il est possible de déplacer une créature ou un objet de grande taille contre plusieurs créatures de plus petite taille en même temps. Quand cela arrive, la créature la plus grande dans la collision ne subit des dégâts qu'une seule fois, et non une fois pour chaque créature plus petite qu'elle percute.
+
+Si une créature est tuée par les dégâts d'une capacité ou d'un effet qui la force également à se déplacer, une seconde créature qu'elle percute subit toujours des dégâts, sauf si le Directeur en décide autrement.
+
+Vous pouvez forcer une autre créature à se déplacer contre vous-même avec une traction ou un glissement.
 
 ##### Percuter des Objets
 
@@ -478,7 +486,9 @@ Les tests complexes ou chronophages pourraient nécessiter une Action Principale
 
 La Manœuvre - Recherche de Créatures Cachées permet à une créature de tenter de localiser des créatures qui lui sont cachées (voir Se Cacher et Furtivité au Chapitre 9 : Tests).
 
-[ERREUR DE TRADUCTION - 529]
+#### Se Relever
+
+Une créature peut utiliser la manœuvre Se Relever pour se mettre debout si elle est à terre, mettant fin à cette condition. Alternativement, elle peut utiliser cette manœuvre pour faire se relever une créature adjacente consentante qui est à terre.
 
 #### Utiliser un Consommable
 

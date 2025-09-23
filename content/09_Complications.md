@@ -803,7 +803,12 @@ En période de stress, vous avez des maux de tête. L'énergie psionique s'accum
 
 **Inconvénient :** Chaque fois que vous devenez saignement, effrayé ou affaibli, vous devez utiliser Déflagration Psychique comme une action déclenchée gratuite.
 
-[ERREUR DE TRADUCTION - 529]
+#### Élevé(e) par les Bêtes
+Vous avez été orphelin(e) ou perdu(e) dans la nature, et une meute d'animaux amicaux (peut-être des singes, des ours ou des loups) vous a recueilli(e). Le retour à la soi-disant civilisation fut un choc, mais vous êtes maintenant déterminé(e) à apprendre tout ce que vous pouvez sur votre propre espèce.
+
+**Avantage :** Vous possédez la compétence Maîtrise des Animaux (du groupe de compétences interpersonnelles). De plus, choisissez un type d'animal lié aux animaux qui vous ont aidé(e), comme le loup. Vous gagnez un avantage aux tests qui utilisent la compétence Maîtrise des Animaux lors d'interactions avec des animaux de ce type. Vous pouvez également communiquer avec les animaux de ce type comme si vous partagiez une langue, et les animaux de ce type ne vous sont pas initialement hostiles à moins qu'ils ne soient contraints de l'être par des moyens surnaturels.
+
+**Inconvénient :** Vous n'avez pas de culture (voir Culture au Chapitre 4 : Historique), bien que vous puissiez parler le Caelien.
 
 #### Réfugié
 

@@ -34,7 +34,14 @@ Stratège. Défenseur. Leader. Arme en main, tu mènes tes alliés dans la gueul
 
 En tant que tacticien de niveau 1, vous gagnez les aptitudes suivantes.
 
-[ERREUR DE TRADUCTION - 529]
+#### Doctrine Tactique
+L'art de la guerre est aussi ancien que la civilisation—et peut-être même plus ancien. Alors que les batailles devenaient de plus en plus complexes, les chefs militaires ont inventé la doctrine tactique, définissant comment les combattants devaient être structurés, utilisés et déployés. La doctrine peut être apprise dans des académies militaires transmettant d'anciennes traditions martiales, ou directement par le sang et la sueur sur le champ de bataille. Quel que soit le chemin qui vous a mené à votre maîtrise de tactiques historiquement éprouvées, vous choisissez une doctrine tactique parmi les options suivantes, chacune vous accordant une compétence. (*Construction Rapide :* Avant-garde et la compétence Intimidation.)
+
+- **Insurgé :** Faire son devoir, jouer franc-jeu et mourir honorablement au combat, c'est le travail de votre adversaire. Vous ferez tout ce qu'il faut pour garder vos alliés en vie. Vous gagnez une compétence du groupe de compétences d'intrigue.
+- **Stratège :** Vous avez une connaissance encyclopédique de l'art de la guerre, voyant le champ de bataille comme un plateau de jeu et cherchant la victoire en pensant plusieurs coups d'avance sur vos adversaires. Vous gagnez une compétence du groupe de compétences de savoir.
+- **Avant-garde :** Vous avez appris les stratagèmes des héros antiques, vous permettant de mener depuis les premières lignes et de chercher la victoire par la pure force de volonté et de personnalité. Vous gagnez une compétence du groupe de compétences interpersonnelles.
+
+Votre doctrine tactique est votre sous-classe, et votre choix de doctrine détermine beaucoup des capacités que vous gagnerez en montant de niveau.
 
 #### Concentration
 
@@ -377,7 +384,9 @@ Votre doctrine tactique vous accorde une aptitude, comme indiqué dans le tablea
 
 Vous avez appris à exploiter la psychologie de vos ennemis marqués et à les provoquer pour qu'ils agissent avant d'être tactiquement prêts. Chaque fois qu'une créature marquée par vous utilise une frappe qui vous cible ou cible un allié dans votre ligne d'effet, vous pouvez utiliser une action déclenchée gratuite pour changer une cible de la frappe vers vous ou un autre allié dans votre ligne d'effet. La nouvelle cible doit être à distance de l'aptitude et dans la ligne d'effet de la créature qui l'utilise.
 
-[ERREUR DE TRADUCTION - 529]
+##### Tactiques d'Infiltration
+
+Vous avez entraîné votre escouade à travailler ensemble, rester silencieuse et attendre le moment opportun pour frapper. Chaque fois que vous ou n'importe quel allié à moins de 10 cases de vous devient caché, cette créature gagne 1 élan.
 
 ##### Supériorité au Corps à Corps
 
@@ -667,11 +676,101 @@ Vous gagnez un avantage d'exploration, interpersonnel ou d'intrigue de votre cho
 
 Votre doctrine tactique vous accorde le choix entre deux aptitudes héroïques.
 
-[ERREUR DE TRADUCTION - 529]
+##### Capacités d'Insurgé de 6ème Niveau
 
-[ERREUR DE TRADUCTION - 529]
+Choisissez une des capacités suivantes.
 
-[ERREUR DE TRADUCTION - 529]
+> ######## Exécution Coordonnée (9 Concentration)
+>
+> *Vous dirigez votre allié pour porter un coup mortel.*
+>
+> | **À distance**       | **Libre déclenchée** |
+> |----------------------|----------------------:|
+> | **📏 À distance 10** |      **🎯 Un allié** |
+>
+> **Déclencheur :** La cible utilise une capacité pour infliger des dégâts avec jets de dés à une créature tout en étant cachée.
+>
+> **Effet :** Si la cible de la capacité déclencheuse n'est pas une créature chef ou solo, elle est réduite à 0 Endurance. Si la cible de la capacité déclencheuse est un sbire, toute l'escouade est tuée. Si la cible de la capacité déclencheuse est une créature chef ou solo, le jet de puissance de la capacité déclencheuse obtient automatiquement un résultat de niveau 3.
+
+> ######## Panique dans Leurs Rangs (9 Concentration)
+>
+> *Vous semez la confusion chez vos ennemis, les poussant à se retourner les uns contre les autres.*
+>
+> | **Corps à corps, À distance, Frappe, Arme** |     **Action principale** |
+> |----------------------------------------------|---------------------------:|
+> | **📏 Corps à corps 1 ou à distance 5**      | **🎯 Deux créatures** |
+>
+> **Jet de Puissance + Puissance :**
+>
+> - **≤11 :** 6 + P dégâts ; glissement 1
+> - **12-16 :** 9 + P dégâts ; glissement 3
+> - **17+ :** 13 + P dégâts ; glissement 5
+>
+> **Effet :** Si une cible subit un mouvement forcé contre une autre créature, elle doit effectuer une frappe libre contre cette créature.
+
+##### Capacités de Stratège de 6ème Niveau
+
+Choisissez une des capacités suivantes.
+
+> ######## Plan de Bataille (9 Concentration)
+>
+> *Avec une nouvelle compréhension de vos ennemis, vous créez le plan parfait pour remporter la bataille.*
+>
+> | **À distance**       |           **Manœuvre** |
+> |----------------------|------------------------:|
+> | **📏 À distance 10** | **🎯 Trois créatures** |
+>
+> **Effet :** Chaque cible est marquée par vous. Immédiatement et jusqu'à la fin de la rencontre, le Directeur vous indique si des créatures marquées par vous ont une immunité aux dégâts ou une faiblesse et la valeur de cette immunité ou faiblesse. De plus, vous et chaque allié à moins de 3 cases de vous gagnez 2 élans.
+>
+> **Bénéfice de Marque :** Jusqu'à la fin de la rencontre, chaque fois que vous ou n'importe quel allié effectuez une frappe contre une créature marquée par vous, vous pouvez dépenser 2 concentration pour faire ignorer l'immunité aux dégâts à la frappe et infliger des dégâts supplémentaires égaux à trois fois votre score de Raison.
+
+> ######## Remuez-vous ! (9 Concentration)
+>
+> *Vous et vos alliés vous coordonnez pour former une nouvelle ligne de bataille.*
+>
+> | **Zone**       |                          **Manœuvre** |
+> |----------------|---------------------------------------:|
+> | **📏 Explosion 2** | **🎯 Vous-même et chaque allié dans la zone** |
+>
+> **Effet :** Vous marquez deux ennemis à moins de 10 cases de vous. Chaque cible peut se déplacer jusqu'à sa vitesse. Vous et chaque cible gagnez 2 élans.
+
+##### Capacités d'Avant-garde de 6ème Niveau
+
+Choisissez une des capacités suivantes.
+
+> ######## Riposte Instantanée (9 Concentration)
+>
+> *Vous parez avec une vitesse presque surnaturelle.*
+>
+> | **Corps à corps, Arme** | **Libre déclenchée** |
+> |-------------------------|----------------------:|
+> | **📏 Corps à corps 1**  |      **🎯 Un allié** |
+>
+> **Déclencheur :** Une créature inflige des dégâts à la cible.
+>
+> **Effet :** La cible subit la moitié des dégâts. Vous effectuez ensuite un jet de puissance contre la créature déclencheuse.
+>
+> **Jet de Puissance + Puissance :**
+>
+> - **≤11 :** A < FAIBLE, étourdi (fin sur sauvegarde)
+> - **12-16 :** A < MOYEN, étourdi (fin sur sauvegarde)
+> - **17+ :** A < FORT, étourdi (fin sur sauvegarde)
+
+> ######## À Moi, Escouade ! (9 Concentration)
+>
+> *Vous menez vos alliés dans une charge.*
+>
+> | **Charge, Corps à corps, Frappe, Arme** |     **Action principale** |
+> |-----------------------------------------|---------------------------:|
+> | **📏 Corps à corps 1**                  | **🎯 Une créature** |
+>
+> **Jet de Puissance + Puissance :**
+>
+> - **≤11 :** 6 + P dégâts ; un allié à moins de 10 cases peut utiliser l'action principale Charge comme action libre déclenchée, et peut utiliser une capacité signature de frappe de corps à corps au lieu d'une frappe libre pour la charge
+> - **12-16 :** 9 + P dégâts ; un allié à moins de 10 cases peut utiliser l'action principale Charge comme action libre déclenchée, et peut utiliser une capacité signature de frappe de corps à corps qui gagne un avantage au lieu d'une frappe libre pour la charge
+> - **17+ :** 13 + P dégâts ; deux alliés à moins de 10 cases peuvent utiliser l'action principale Charge comme action libre déclenchée, et peuvent chacun utiliser une capacité signature de frappe de corps à corps qui gagne un avantage au lieu d'une frappe libre pour la charge
+>
+> **Effet :** Si la cible est touchée par deux frappes ou plus dans le cadre de cette capacité et qu'elle a R < FORT, elle est étourdie (fin sur sauvegarde). Si la cible est réduite à 0 Endurance avant qu'un ou les deux alliés aient effectué leur frappe, l'allié ou les alliés peuvent choisir une cible différente.
 
 ### Aptitudes de Niveau 7
 
@@ -807,9 +906,13 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 
 **Effet :** Un allié dans un rayon de 10 cases de vous peut utiliser une aptitude héroïque contre la cible comme action déclenchée gratuite sans dépenser de sa ressource héroïque, tant qu'il possède suffisamment de ressource héroïque pour payer l'aptitude. Si la cible est réduite à 0 vigueur avant que l'allié choisi n'ait utilisé son aptitude, l'allié peut choisir une cible différente.
 
-[ERREUR DE TRADUCTION - 529]
+### Capacités de 9ème Niveau
 
-[ERREUR DE TRADUCTION - 529]
+En tant que tacticien de 9ème niveau, vous gagnez les capacités suivantes.
+
+#### Grand Maître d'Armes
+
+Votre expertise avec les armes a atteint une véritable maîtrise. Chaque fois que vous utilisez une capacité signature de l'un de vos kits équipés ou effectuez une frappe libre en utilisant une arme de l'un de vos kits équipés, vous obtenez automatiquement un résultat de niveau 3 sur le jet de puissance. Vous pouvez toujours lancer les dés pour déterminer si vous obtenez un coup critique.
 
 #### Aptitude de Doctrine de Niveau 9
 
