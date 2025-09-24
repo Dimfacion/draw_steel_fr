@@ -191,17 +191,18 @@ Si vous êtes sur le sol et adjacent à une créature qui se trouve sous terre e
 
 Si une créature qui ne peut pas creuser veut s'enfoncer dans le sol, elle peut utiliser l'aptitude suivante à condition que sa vitesse soit de 2 ou plus.
 
-######## Fouissement
-
-| **-**       | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** Vous pouvez vous déplacer de 1 case dans, hors de, ou à travers le sol que vous touchez et qui peut être creusé, et vous êtes ralenti et affaibli (FdT).
-- **12-16 :** Vous pouvez utiliser votre action principale ce tour pour vous déplacer de 1 case dans, hors de, ou à travers le sol que vous touchez et qui peut être creusé, et vous êtes ralenti (FdT).
-- **17+ :** Vous pouvez vous déplacer de 1 case dans, hors de, ou à travers le sol que vous touchez et qui peut être creusé.
+> [!spell] Fouissement
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** Vous pouvez vous déplacer de 1 case dans, hors de, ou à travers le sol que vous touchez et qui peut être creusé, et vous êtes ralenti et affaibli (FdT).
+> - **12-16 :** Vous pouvez utiliser votre action principale ce tour pour vous déplacer de 1 case dans, hors de, ou à travers le sol que vous touchez et qui peut être creusé, et vous êtes ralenti (FdT).
+> - **17+ :** Vous pouvez vous déplacer de 1 case dans, hors de, ou à travers le sol que vous touchez et qui peut être creusé.
 
 ###### Déplacement Forcé en Creusant
 
@@ -420,19 +421,20 @@ Une créature qui est Mourante (voir [Mourir et Mort](#page-292-1) dans [Vigueur
 
 Une créature qui est agrippée par une autre créature, un objet, ou un effet (voir [Saisir](#page-287-5) ci-dessous) peut tenter de s'échapper en utilisant l'aptitude suivante.
 
-######## Échapper à la Prise
-
-| **-**       | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** Aucun effet.
-- **12-16 :** Vous pouvez échapper à la prise, mais si vous le faites, une créature qui vous a agrippé peut effectuer une frappe gratuite au corps à corps contre vous avant que vous ne soyez plus agrippé.
-- **17+ :** Vous n'êtes plus agrippé.
-
-**Effet :** Vous subissez un fléau sur cette manœuvre si votre taille est inférieure à la taille de la créature, de l'objet, ou de l'effet qui vous a agrippé.
+> [!spell] Échapper à la Prise
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** Aucun effet.
+> - **12-16 :** Vous pouvez échapper à la prise, mais si vous le faites, une créature qui vous a agrippé peut effectuer une frappe gratuite au corps à corps contre vous avant que vous ne soyez plus agrippé.
+> - **17+ :** Vous n'êtes plus agrippé.
+> 
+> **💫 Effet :** Vous subissez un fléau sur cette manœuvre si votre taille est inférieure à la taille de la créature, de l'objet, ou de l'effet qui vous a agrippé.
 
 Voir [États](#page-91-2) dans [Chapitre 5 : Classes](#page-83-2) pour des informations sur l'état agrippé.
 
@@ -440,19 +442,21 @@ Voir [États](#page-91-2) dans [Chapitre 5 : Classes](#page-83-2) pour des infor
 
 Une créature cherchant à maintenir un ennemi proche et immobilisé peut tenter de saisir une créature en utilisant l'aptitude suivante.
 
-######## Saisir
-
-| **Corps à Corps, Arme** |        **Manœuvre** |
-|-------------------------|--------------------:|
-| **📏 Corps à Corps 1**  | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** Aucun effet.
-- **12-16 :** Vous pouvez saisir la cible, mais si vous le faites, la cible peut effectuer une frappe gratuite au corps à corps contre vous avant d'être agrippée.
-- **17+ :** La cible est agrippée par vous.
-
-**Effet :** Vous ne pouvez généralement cibler que des créatures de votre taille ou plus petites. Si votre score de Force est de 2 ou plus, vous pouvez cibler toute créature avec une taille égale ou inférieure à votre score de Force.
+> [!spell] Saisir
+> 🏷️ *Corps à Corps • Arme*
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** Aucun effet.
+> - **12-16 :** Vous pouvez saisir la cible, mais si vous le faites, la cible peut effectuer une frappe gratuite au corps à corps contre vous avant d'être agrippée.
+> - **17+ :** La cible est agrippée par vous.
+> 
+> **💫 Effet :** Vous ne pouvez généralement cibler que des créatures de votre taille ou plus petites. Si votre score de Force est de 2 ou plus, vous pouvez cibler toute créature avec une taille égale ou inférieure à votre score de Force.
 
 Sauf indication contraire, une créature ne peut saisir qu'une seule créature à la fois.
 
@@ -466,19 +470,21 @@ En utilisant la Manœuvre - Se Cacher, une créature tente de se cacher d'autres
 
 Une créature souhaitant pousser une créature adjacente pour l'éloigner d'elle peut tenter de bousculer cette créature en utilisant l'aptitude suivante.
 
-######## Manœuvre - Repousser
-
-| **Corps à Corps, Arme** |        **Manœuvre** |
-|-------------------------|--------------------:|
-| **📏 Corps à Corps 1**  | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force :**
-
-- **≤11 :** Poussée 1
-- **12-16 :** Poussée 2
-- **17+ :** Poussée 3
-
-**Effet :** Vous ne pouvez généralement cibler que des créatures de votre taille ou plus petites. Si votre score de Force est de 2 ou plus, vous pouvez cibler toute créature dont la taille est égale ou inférieure à votre score de Force.
+> [!spell] Manœuvre - Repousser
+> 🏷️ *Corps à Corps • Arme*
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force :**
+> - **≤11 :** Poussée 1
+> - **12-16 :** Poussée 2
+> - **17+ :** Poussée 3
+> 
+> **💫 Effet :** Vous ne pouvez généralement cibler que des créatures de votre taille ou plus petites. Si votre score de Force est de 2 ou plus, vous pouvez cibler toute créature dont la taille est égale ou inférieure à votre score de Force.
 
 #### Effectuer ou Assister un Test
 
@@ -546,29 +552,33 @@ Chaque héros dispose de deux aptitudes de frappe gratuite standard. Votre class
 
 Une frappe gratuite d'arme de corps à corps est une frappe au corps à corps effectuée avec une frappe à mains nues ou une arme improvisée. Une frappe gratuite d'arme à distance est une frappe à distance effectuée avec une arme improvisée. À la discrétion du Directeur, le type de dégâts d'une arme improvisée peut changer selon l'objet utilisé. Par exemple, si vous utilisez une torche enflammée comme arme improvisée, elle pourrait infliger des dégâts de feu lorsqu'elle est utilisée pour une frappe gratuite.
 
-######## Frappe Gratuite d'Arme de Corps à Corps
+> [!spell] Frappe Gratuite d'Arme de Corps à Corps
+> 🏷️ *Charge • Corps à corps • Frappe • Arme*
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 2 + F ou A dégâts
+> - **12-16 :** 5 + F ou A dégâts
+> - **17+ :** 7 + F ou A dégâts
 
-| **Charge, Corps à corps, Frappe, Arme** |               **Action principale** |
-| ---------------------------------------- | -----------------------------------:|
-| **📏 Corps à corps 1**                   | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 2 + F ou A dégâts
-- **12-16 :** 5 + F ou A dégâts
-- **17+ :** 7 + F ou A dégâts
-
-######## Frappe Gratuite d'Arme à Distance
-
-| **À distance, Frappe, Arme** |               **Action principale** |
-|------------------------------| -----------------------------------:|
-| **📏 À distance 5**          | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 2 + F ou A dégâts
-- **12-16 :** 4 + F ou A dégâts
-- **17+ :** 6 + F ou A dégâts
+> [!spell] Frappe Gratuite d'Arme à Distance
+> 🏷️ *À distance • Frappe • Arme*
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 5</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 2 + F ou A dégâts
+> - **12-16 :** 4 + F ou A dégâts
+> - **17+ :** 6 + F ou A dégâts
 
 ### Flanquer
 

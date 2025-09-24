@@ -32,21 +32,23 @@ Vous ne portez aucune armure et maniez un arc.
 
 ##### Aptitude Signature
 
-######## Flèche Explosive
-
-*Vos munitions explosent d'énergie magique.*
-
-| **Magie, Distance, Frappe, Arme** |               **Action Principale** |
-|-----------------------------------|-------------------------------------:|
-| **📏 Distance 15**                | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Agilité, Raison, Intuition ou Présence :**
-
-- **≤11 :** 5 + A, R, I ou P dégâts de feu
-- **12-16 :** 7 + A, R, I ou P dégâts de feu
-- **17+ :** 10 + A, R, I ou P dégâts de feu
-
-**Effet :** Une créature ou un objet de votre choix dans un rayon de 2 cases de la cible subit des dégâts de feu égaux au score de caractéristique utilisé pour le Jet de Pouvoir de cette aptitude.
+> [!spell] Flèche Explosive
+> 🏷️ *Magie • Distance • Frappe • Arme*
+> 
+> ***Vos munitions explosent d'énergie magique.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 15</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Agilité, Raison, Intuition ou Présence :**
+> - **≤11 :** 5 + A, R, I ou P dégâts de feu
+> - **12-16 :** 7 + A, R, I ou P dégâts de feu
+> - **17+ :** 10 + A, R, I ou P dégâts de feu
+> 
+> **💫 Effet :** Une créature ou un objet de votre choix dans un rayon de 2 cases de la cible subit des dégâts de feu égaux au score de caractéristique utilisé pour le Jet de Pouvoir de cette aptitude.
 
 #### Psychoguerrier
 
@@ -68,21 +70,23 @@ Vous portez une armure légère et maniez une arme moyenne.
 
 ##### Aptitude Signature
 
-######## Désamarrage
-
-*Votre arme libère une énergie psionique qui réduit le poids de votre cible.*
-
-| **Corps à Corps, Psionique, Frappe, Arme** |     **Action Principale** |
-|--------------------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**                     | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force, Raison, Intuition ou Présence :**
-
-- **≤11 :** 5 + F, R, I ou P dégâts
-- **12-16 :** 8 + F, R, I ou P dégâts
-- **17+ :** 11 + F, R, I ou P dégâts
-
-**Effet :** Jusqu'à la fin du prochain tour de la cible, tout Déplacement Forcé qui affecte la cible voit sa distance augmentée de 2.
+> [!spell] Désamarrage
+> 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
+> 
+> ***Votre arme libère une énergie psionique qui réduit le poids de votre cible.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force, Raison, Intuition ou Présence :**
+> - **≤11 :** 5 + F, R, I ou P dégâts
+> - **12-16 :** 8 + F, R, I ou P dégâts
+> - **17+ :** 11 + F, R, I ou P dégâts
+> 
+> **💫 Effet :** Jusqu'à la fin du prochain tour de la cible, tout Déplacement Forcé qui affecte la cible voit sa distance augmentée de 2.
 
 #### Cape et Dague
 
@@ -108,19 +112,21 @@ Vous portez une armure légère et maniez une ou deux armes légères.
 
 ##### Aptitude Signature
 
-######## Estompe
-
-*Un coup porté, et quelques pas rapides et prudents vers l'arrière.*
-
-| **Corps à Corps, Distance, Frappe, Arme** |     **Action Principale** |
-|-------------------------------------------|-------------------------:|
-| **📏 Corps à Corps 1 ou Distance 10**     | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 3 + F ou A dégâts ; vous pouvez glisser de 1 case
-- **12-16 :** 6 + F ou A dégâts ; vous pouvez glisser jusqu'à 2 cases
-- **17+ :** 8 + F ou A dégâts ; vous pouvez glisser jusqu'à 3 cases
+> [!spell] Estompe
+> 🏷️ *Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Un coup porté, et quelques pas rapides et prudents vers l'arrière.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1 ou Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 3 + F ou A dégâts ; vous pouvez glisser de 1 case
+> - **12-16 :** 6 + F ou A dégâts ; vous pouvez glisser jusqu'à 2 cases
+> - **17+ :** 8 + F ou A dégâts ; vous pouvez glisser jusqu'à 3 cases
 
 #### Double Maniement
 
@@ -142,21 +148,23 @@ Vous portez une armure intermédiaire et maniez une arme légère et une arme in
 
 ##### Aptitude Signature
 
-######## Double Frappe
-
-*Pourquoi frapper une fois quand on peut le faire deux fois ?*
-
-| **Corps à Corps, Frappe, Arme** |                 **Action Principale** |
-|---------------------------|--------------------------------:|
-| **📏 Corps à Corps 1**            | **🎯 Deux créatures ou objets** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 4 dégâts
-- **12-16 :** 6 dégâts
-- **17+ :** 8 dégâts
-
-**Effet :** Si vous utilisez cette aptitude lors de votre tour, vous pouvez l'utiliser contre une cible, puis utiliser votre manœuvre et votre action de déplacement pour ce tour avant d'utiliser l'aptitude contre une seconde cible. Vous utilisez toujours le même jet de pouvoir pour les deux cibles.
+> [!spell] Double Frappe
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Pourquoi frapper une fois quand on peut le faire deux fois ?***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux créatures ou objets</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 4 dégâts
+> - **12-16 :** 6 dégâts
+> - **17+ :** 8 dégâts
+> 
+> **💫 Effet :** Si vous utilisez cette aptitude lors de votre tour, vous pouvez l'utiliser contre une cible, puis utiliser votre manœuvre et votre action de déplacement pour ce tour avant d'utiliser l'aptitude contre une seconde cible. Vous utilisez toujours le même jet de pouvoir pour les deux cibles.
 
 #### Guisarmier
 
@@ -178,19 +186,21 @@ Vous portez une armure intermédiaire et maniez une arme d'hast.
 
 ##### Aptitude Signature
 
-######## Poussée Avant, Fracas Arrière
-
-*Entre tes mains, le manche vaut la lame.*
-
-| **Corps à Corps, Frappe, Arme** |                 **Action Principale** |
-|---------------------------|--------------------------------:|
-| **📏 Corps à Corps 2**            | **🎯 Deux créatures ou objets** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 4 dégâts
-- **12-16 :** 7 dégâts
-- **17+ :** 9 dégâts
+> [!spell] Poussée Avant, Fracas Arrière
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Entre tes mains, le manche vaut la lame.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux créatures ou objets</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 4 dégâts
+> - **12-16 :** 7 dégâts
+> - **17+ :** 9 dégâts
 
 #### Artiste Martial
 
@@ -212,21 +222,23 @@ Vous ne portez aucune armure et ne maniez que vos frappes à mains nues.
 
 ##### Aptitude Signature
 
-######## Grâce Martiale
-
-*Vous feignez de bouger pour placer vos ennemis en position parfaite.*
-
-| **Corps à Corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 5 + F ou A dégâts
-- **12-16 :** 8 + F ou A dégâts ; vous pouvez échanger vos positions avec la cible
-- **17+ :** 11 + F ou A dégâts ; vous pouvez échanger vos positions avec la cible
-
-**Effet :** Si vous obtenez un résultat de Tiers 2 ou Tiers 3 et ne pouvez pas échanger vos positions avec la cible parce que l'un de vous deux ou vous deux êtes trop grands pour tenir dans l'espace échangé, vous restez tous les deux dans vos espaces d'origine et la cible subit 1 dégât supplémentaire.
+> [!spell] Grâce Martiale
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Vous feignez de bouger pour placer vos ennemis en position parfaite.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 5 + F ou A dégâts
+> - **12-16 :** 8 + F ou A dégâts ; vous pouvez échanger vos positions avec la cible
+> - **17+ :** 11 + F ou A dégâts ; vous pouvez échanger vos positions avec la cible
+> 
+> **💫 Effet :** Si vous obtenez un résultat de Tiers 2 ou Tiers 3 et ne pouvez pas échanger vos positions avec la cible parce que l'un de vous deux ou vous deux êtes trop grands pour tenir dans l'espace échangé, vous restez tous les deux dans vos espaces d'origine et la cible subit 1 dégât supplémentaire.
 
 #### Montagne
 
@@ -246,21 +258,23 @@ Vous portez une armure lourde et maniez une arme lourde.
 
 ##### Aptitude Signature
 
-######## Douleur pour Douleur
-
-*Un ennemi qui t'a touché va payer pour ça.*
-
-| **Corps à Corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 3 + F ou A dégâts
-- **12-16 :** 5 + F ou A dégâts
-- **17+ :** 13 + F ou A dégâts
-
-**Effet :** Si la cible vous a infligé des dégâts depuis la fin de votre dernier tour, cette frappe inflige des dégâts supplémentaires égaux à votre score de Force ou d'Agilité (à votre choix).
+> [!spell] Douleur pour Douleur
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Un ennemi qui t'a touché va payer pour ça.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 3 + F ou A dégâts
+> - **12-16 :** 5 + F ou A dégâts
+> - **17+ :** 13 + F ou A dégâts
+> 
+> **💫 Effet :** Si la cible vous a infligé des dégâts depuis la fin de votre dernier tour, cette frappe inflige des dégâts supplémentaires égaux à votre score de Force ou d'Agilité (à votre choix).
 
 #### Panthère
 
@@ -282,21 +296,23 @@ Vous ne portez aucune armure et maniez une arme lourde.
 
 ##### Aptitude Signature
 
-######## Ruée Dévastatrice
-
-*Plus vous bougez vite, plus vous frappez fort.*
-
-| **Corps à Corps, Frappe, Arme** |               **Action Principale** |
-|---------------------------|------------------------------:|
-| **📏 Corps à Corps 1**            | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 3 + F ou A dégâts
-- **12-16 :** 6 + F ou A dégâts
-- **17+ :** 13 + F ou A dégâts
-
-**Effet :** Vous pouvez vous déplacer jusqu'à 3 cases en ligne droite vers la cible avant cette frappe, qui inflige des dégâts supplémentaires égaux au nombre de cases parcourues de cette façon.
+> [!spell] Ruée Dévastatrice
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Plus vous bougez vite, plus vous frappez fort.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 3 + F ou A dégâts
+> - **12-16 :** 6 + F ou A dégâts
+> - **17+ :** 13 + F ou A dégâts
+> 
+> **💫 Effet :** Vous pouvez vous déplacer jusqu'à 3 cases en ligne droite vers la cible avant cette frappe, qui inflige des dégâts supplémentaires égaux au nombre de cases parcourues de cette façon.
 
 #### Pugiliste
 
@@ -318,21 +334,23 @@ Vous ne portez aucune armure et ne maniez que vos frappes à mains nues.
 
 ##### Aptitude Signature
 
-######## Dansons
-
-*Faire trébucher vos ennemis sur le champ de bataille est une seconde nature pour vous.*
-
-| **Corps à Corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 3 + F ou A dégâts
-- **12-16 :** 6 + F ou A dégâts ; glissement 1
-- **17+ :** 8 + F ou A dégâts ; glissement 2
-
-**Effet :** Vous pouvez glisser dans n'importe quelle case que la cible quitte après l'avoir fait glisser.
+> [!spell] Dansons
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Faire trébucher vos ennemis sur le champ de bataille est une seconde nature pour vous.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 3 + F ou A dégâts
+> - **12-16 :** 6 + F ou A dégâts ; glissement 1
+> - **17+ :** 8 + F ou A dégâts ; glissement 2
+> 
+> **💫 Effet :** Vous pouvez glisser dans n'importe quelle case que la cible quitte après l'avoir fait glisser.
 
 #### Raideur
 
@@ -358,21 +376,23 @@ Vous portez une armure légère et maniez un bouclier et une arme légère.
 
 ##### Aptitude Signature
 
-######## Effroi du Raideur
-
-*Vous exécutez une frappe brutale qui laisse votre adversaire chancelant. (Anciennement connue sous le nom "Choc et Effroi")*
-
-| **Corps à Corps, Distance, Frappe, Arme** |     **Action Principale** |
-|-------------------------------------------|-------------------------:|
-| **📏 Corps à Corps 1 ou Distance 10**     | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 3 + F ou A dégâts
-- **12-16 :** 6 + F ou A dégâts
-- **17+ :** 8 + F ou A dégâts
-
-**Effet :** La cible subit un fléau sur son prochain jet de pouvoir effectué avant la fin de son prochain tour.
+> [!spell] Effroi du Raideur
+> 🏷️ *Corps à Corps • Distance • Frappe • Arme*
+> 
+> ***Vous exécutez une frappe brutale qui laisse votre adversaire chancelant. (Anciennement connue sous le nom "Choc et Effroi")***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1 ou Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 3 + F ou A dégâts
+> - **12-16 :** 6 + F ou A dégâts
+> - **17+ :** 8 + F ou A dégâts
+> 
+> **💫 Effet :** La cible subit un fléau sur son prochain jet de pouvoir effectué avant la fin de son prochain tour.
 
 #### Rôdeur
 
@@ -398,19 +418,21 @@ Vous portez une armure intermédiaire et maniez un arc et une arme intermédiair
 
 ##### Aptitude Signature
 
-######## Tir aux Jarrets
-
-*Un tir bien placé laisse votre ennemi en difficulté pour se déplacer.*
-
-| **À Distance, Frappe, Arme** |     **Action Principale** |
-|----------------------------|--------------------:|
-| **📏 À Distance 10**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 3 + F ou A dégâts ; A < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 5 + F ou A dégâts ; A < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 7 + F ou A dégâts ; A < FORT, ralenti (sauvegarde termine)
+> [!spell] Tir aux Jarrets
+> 🏷️ *À Distance • Frappe • Arme*
+> 
+> ***Un tir bien placé laisse votre ennemi en difficulté pour se déplacer.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 3 + F ou A dégâts ; A < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 5 + F ou A dégâts ; A < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 7 + F ou A dégâts ; A < FORT, ralenti (sauvegarde termine)
 
 #### Tir Rapide
 
@@ -434,19 +456,21 @@ Vous portez une armure légère et maniez un arc.
 
 ##### Aptitude Signature
 
-######## Tir Double
-
-*Quand vous tirez deux flèches coup sur coup, toutes deux atteignent leur cible.*
-
-| **Distance, Frappe, Arme** |                 **Action Principale** |
-|----------------------------|--------------------------------------:|
-| **📏 Distance 12**         | **🎯 Deux créatures ou objets** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 4 dégâts
-- **12-16 :** 6 dégâts
-- **17+ :** 8 dégâts
+> [!spell] Tir Double
+> 🏷️ *Distance • Frappe • Arme*
+> 
+> ***Quand vous tirez deux flèches coup sur coup, toutes deux atteignent leur cible.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 12</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Deux créatures ou objets</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 4 dégâts
+> - **12-16 :** 6 dégâts
+> - **17+ :** 8 dégâts
 
 #### Retiarius
 
@@ -470,19 +494,21 @@ Vous portez une armure légère et maniez plusieurs armes d'entrave ainsi qu'une
 
 ##### Aptitude Signature
 
-######## Filet et Poignard
-
-*Le filet bien lancé qui suit votre attaque principale laisse vos ennemis exactement où vous les voulez.*
-
-| **Corps à corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à corps 2**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 4 + F ou A dégâts ; A < FAIBLE, ralenti (FdT)
-- **12-16 :** 6 + F ou A dégâts ; A < MOYEN, ralenti (FdT)
-- **17+ :** 8 + F ou A dégâts ; A < FORT, entravé (FdT)
+> [!spell] Filet et Poignard
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Le filet bien lancé qui suit votre attaque principale laisse vos ennemis exactement où vous les voulez.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 4 + F ou A dégâts ; A < FAIBLE, ralenti (FdT)
+> - **12-16 :** 6 + F ou A dégâts ; A < MOYEN, ralenti (FdT)
+> - **17+ :** 8 + F ou A dégâts ; A < FORT, entravé (FdT)
 
 #### Armure Étincelante
 
@@ -502,21 +528,23 @@ Vous portez une armure lourde et maniez un bouclier et une arme moyenne.
 
 ##### Aptitude Signature
 
-######## Attaque Protectrice
-
-*La puissance de votre assaut rend impossible pour votre adversaire de vous ignorer.*
-
-| **Corps à Corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 5 + F ou A dégâts
-- **12-16 :** 8 + F ou A dégâts
-- **17+ :** 11 + F ou A dégâts
-
-**Effet :** La cible subit Narguer jusqu'à la fin de son prochain tour.
+> [!spell] Attaque Protectrice
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***La puissance de votre assaut rend impossible pour votre adversaire de vous ignorer.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 5 + F ou A dégâts
+> - **12-16 :** 8 + F ou A dégâts
+> - **17+ :** 11 + F ou A dégâts
+> 
+> **💫 Effet :** La cible subit Narguer jusqu'à la fin de son prochain tour.
 
 #### Tireur d'Élite
 
@@ -538,21 +566,23 @@ Vous ne portez aucune armure et maniez un arc.
 
 ##### Aptitude Signature
 
-######## Tir Patient
-
-*Respire... vise... attends... puis frappe !*
-
-| **À Distance, Frappe, Arme** |     **Action Principale** |
-|----------------------------|--------------------:|
-| **📏 À Distance 15**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 3 + F ou A dégâts
-- **12-16 :** 6 + F ou A dégâts
-- **17+ :** 13 + F ou A dégâts
-
-**Effet :** Si vous ne prenez pas d'Action de Déplacement ce tour, cette frappe inflige des dégâts supplémentaires égaux à votre score de Force ou d'Agilité (au choix).
+> [!spell] Tir Patient
+> 🏷️ *À Distance • Frappe • Arme*
+> 
+> ***Respire... vise... attends... puis frappe !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 15</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 3 + F ou A dégâts
+> - **12-16 :** 6 + F ou A dégâts
+> - **17+ :** 13 + F ou A dégâts
+> 
+> **💫 Effet :** Si vous ne prenez pas d'Action de Déplacement ce tour, cette frappe inflige des dégâts supplémentaires égaux à votre score de Force ou d'Agilité (au choix).
 
 #### Épéiste-Mage
 
@@ -574,21 +604,23 @@ Vous portez une armure légère et maniez un bouclier et une arme moyenne.
 
 ##### Aptitude Signature
 
-######## Foudre Bondissante
-
-*La foudre jaillit de votre arme lorsque vous frappez pour blesser un ennemi proche.*
-
-| **Magie, Corps à Corps, Frappe, Arme** |               **Action Principale** |
-|----------------------------------------|------------------------------------:|
-| **📏 Corps à Corps 1**                 | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force, Raison, Intuition ou Présence :**
-
-- **≤11 :** 5 + F, R, I ou P dégâts de foudre
-- **12-16 :** 8 + F, R, I ou P dégâts de foudre
-- **17+ :** 11 + F, R, I ou P dégâts de foudre
-
-**Effet :** Une créature ou un objet de votre choix dans un rayon de 2 cases de la cible subit des dégâts de foudre égaux au score de caractéristique utilisé pour le jet de pouvoir de cette aptitude.
+> [!spell] Foudre Bondissante
+> 🏷️ *Magie • Corps à Corps • Frappe • Arme*
+> 
+> ***La foudre jaillit de votre arme lorsque vous frappez pour blesser un ennemi proche.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force, Raison, Intuition ou Présence :**
+> - **≤11 :** 5 + F, R, I ou P dégâts de foudre
+> - **12-16 :** 8 + F, R, I ou P dégâts de foudre
+> - **17+ :** 11 + F, R, I ou P dégâts de foudre
+> 
+> **💫 Effet :** Une créature ou un objet de votre choix dans un rayon de 2 cases de la cible subit des dégâts de foudre égaux au score de caractéristique utilisé pour le jet de pouvoir de cette aptitude.
 
 #### Bâton et Robe
 
@@ -612,19 +644,21 @@ Vous portez une armure légère et maniez une arme d'hast.
 
 ##### Aptitude Signature
 
-######## Où Je Te Veux
-
-*Quand ton bâton parle, ton ennemi bouge.*
-
-| **Corps à Corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à Corps 2**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 4 + F ou A dégâts
-- **12-16 :** 7 + F ou A dégâts ; glissement 1
-- **17+ :** 10 + F ou A dégâts ; glissement 3
+> [!spell] Où Je Te Veux
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Quand ton bâton parle, ton ennemi bouge.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 2</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 4 + F ou A dégâts
+> - **12-16 :** 7 + F ou A dégâts ; glissement 1
+> - **17+ :** 10 + F ou A dégâts ; glissement 3
 
 #### Bretteur
 
@@ -646,21 +680,23 @@ Vous portez une armure légère et maniez une arme moyenne.
 
 ##### Aptitude Signature
 
-######## Jeu de Jambes Fantaisiste
-
-*Tout combat est une danse—et c'est toi qui mèneras.*
-
-| **Corps à Corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 5 + F ou A dégâts
-- **12-16 :** 7 + F ou A dégâts ; poussée 1
-- **17+ :** 10 + F ou A dégâts ; poussée 2
-
-**Effet :** Tu peux glisser dans n'importe quelle case que la cible quitte après que tu l'aies poussée.
+> [!spell] Jeu de Jambes Fantaisiste
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Tout combat est une danse—et c'est vous qui mènerez.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 5 + F ou A dégâts
+> - **12-16 :** 7 + F ou A dégâts ; poussée 1
+> - **17+ :** 10 + F ou A dégâts ; poussée 2
+> 
+> **💫 Effet :** Vous pouvez glisser dans n'importe quelle case que la cible quitte après que vous l'ayez poussée.
 
 #### Épée et Bouclier
 
@@ -682,19 +718,21 @@ Vous portez une armure intermédiaire et maniez un bouclier ainsi qu'une arme in
 
 ##### Aptitude Signature
 
-######## Coup de Bouclier
-
-*Entre tes mains, un bouclier ne sert pas qu'à se protéger.*
-
-| **Corps à Corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à Corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 4 + F ou A dégâts ; poussée 1
-- **12-16 :** 7 + F ou A dégâts ; poussée 2
-- **17+ :** 9 + F ou A dégâts ; poussée 3 ; F < FORT, à terre
+> [!spell] Coup de Bouclier
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Entre tes mains, un bouclier ne sert pas qu'à se protéger.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 4 + F ou A dégâts ; poussée 1
+> - **12-16 :** 7 + F ou A dégâts ; poussée 2
+> - **17+ :** 9 + F ou A dégâts ; poussée 3 ; F < FORT, à terre
 
 #### Prêtre Guerrier
 
@@ -716,21 +754,23 @@ Vous portez une armure lourde et maniez une arme légère.
 
 ##### Aptitude Signature
 
-######## Marque Affaiblissante
-
-*L'impact de votre arme marque votre cible pour la destruction.*
-
-| **Magie, Corps à Corps, Frappe, Arme** |               **Action Principale** |
-|-----------------------------------------|------------------------------------:|
-| **📏 Corps à Corps 1**                 | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force, Raison, Intuition ou Présence :**
-
-- **≤11 :** 3 + F, Ra, I ou P dégâts sacrés
-- **12-16 :** 5 + F, Ra, I ou P dégâts sacrés
-- **17+ :** 8 + F, Ra, I ou P dégâts sacrés
-
-**Effet :** Jusqu'à la fin du prochain tour de la cible, elle a une Faiblesse aux Dégâts égale au score de caractéristique utilisé pour le Jet de Pouvoir de cette aptitude.
+> [!spell] Marque Affaiblissante
+> 🏷️ *Magie • Corps à Corps • Frappe • Arme*
+> 
+> ***L'impact de votre arme marque votre cible pour la destruction.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force, Raison, Intuition ou Présence :**
+> - **≤11 :** 3 + F, R, I ou P dégâts sacrés
+> - **12-16 :** 5 + F, R, I ou P dégâts sacrés
+> - **17+ :** 8 + F, R, I ou P dégâts sacrés
+> 
+> **💫 Effet :** Jusqu'à la fin du prochain tour de la cible, elle a une Faiblesse aux Dégâts égale au score de caractéristique utilisé pour le Jet de Pouvoir de cette aptitude.
 
 #### Tourbillon
 
@@ -752,17 +792,19 @@ Vous ne portez aucune armure et maniez un fouet.
 
 ##### Aptitude Signature
 
-######## Extension de Mon Bras
-
-*Quand tu ramènes ton fouet après une attaque, ton ennemi est attiré toujours plus près.*
-
-| **Corps à Corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à Corps 3**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 4 + F ou A dégâts ; traction verticale 1
-- **12-16 :** 7 + F ou A dégâts ; traction verticale 2
-- **17+ :** 10 + F ou A dégâts ; traction verticale 3
+> [!spell] Extension de Mon Bras
+> 🏷️ *Corps à Corps • Frappe • Arme*
+> 
+> ***Quand tu ramènes ton fouet après une attaque, ton ennemi est attiré toujours plus près.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à Corps 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 4 + F ou A dégâts ; traction verticale 1
+> - **12-16 :** 7 + F ou A dégâts ; traction verticale 2
+> - **17+ :** 10 + F ou A dégâts ; traction verticale 3
 

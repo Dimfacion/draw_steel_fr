@@ -286,15 +286,18 @@ Votre mentor vous a tout enseigné et vous lui faisiez entièrement confiance ju
 
 **Avantage :** Vous connaissez la manœuvre Esprit Corrompu, que votre mentor vous a enseignée. (Rétrospectivement, cela aurait probablement dû éveiller vos soupçons.)
 
-######## Esprit Corrompu
-
-*Vous percez les secrets sinistres de la douleur.*
-
-| **Magie**   | **Manœuvre** |
-|-------------|-------------:|
-| **📏 Soi** |  **🎯 Soi** |
-
-**Effet :** Jusqu'à la fin de votre tour, chaque fois que vous utilisez une aptitude héroïque infligeant des dégâts contre une cible unique, vous pouvez affaiblir la force vitale de cette cible. L'aptitude inflige des dégâts de corruption supplémentaires égaux à votre score de caractéristique le plus élevé.
+> [!spell] Esprit Corrompu
+> 🏷️ *Magie*
+> 
+> ***Vous percez les secrets sinistres de la douleur.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Soi</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi</p>
+> 
+> ---
+> 
+> **💫 Effet :** Jusqu'à la fin de votre tour, chaque fois que vous utilisez une aptitude héroïque infligeant des dégâts contre une cible unique, vous pouvez affaiblir la force vitale de cette cible. L'aptitude inflige des dégâts de corruption supplémentaires égaux à votre score de caractéristique le plus élevé.
 
 **Inconvénient :** Vous avez une faiblesse sacrée 1. Chaque fois que vous utilisez Esprit Corrompu, votre faiblesse sacrée augmente de 1, jusqu'à un maximum égal à vos points de récupération. Chaque fois que vous subissez des dégâts sacrés, cette faiblesse revient à 1.
 
@@ -638,15 +641,18 @@ Un bredbeddle a volé votre tête ! Habituellement, être décapité par l'un de
 
 **Avantage :** Vous disposez de l'aptitude suivante.
 
-######## Partager une Tête
-
-*Vous n'avez pas de tête, mais vous pouvez emprunter psioniquement celle d'un autre.*
-
-| **Psionique, À Distance** |                **Manœuvre** |
-|---------------------------|----------------------------:|
-| **📏 À Distance 10**      | **🎯 Une créature consentante** |
-
-**Effet :** Vous pouvez voir, entendre et sentir comme si vous étiez dans l'espace de la cible. De plus, vous pouvez emprunter sa bouche pour parler quand vous le souhaitez, en parlant avec votre propre voix. Cet effet se termine quand vous utilisez Partager une Tête sur une cible différente, quand la cible se déplace à plus de 10 cases de vous, ou quand la cible ne souhaite plus partager sa tête avec vous.
+> [!spell] Partager une Tête
+> 🏷️ *Psionique • À Distance*
+> 
+> ***Vous n'avez pas de tête, mais vous pouvez emprunter psioniquement celle d'un autre.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature consentante</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous pouvez voir, entendre et sentir comme si vous étiez dans l'espace de la cible. De plus, vous pouvez emprunter sa bouche pour parler quand vous le souhaitez, en parlant avec votre propre voix. Cet effet se termine quand vous utilisez Partager une Tête sur une cible différente, quand la cible se déplace à plus de 10 cases de vous, ou quand la cible ne souhaite plus partager sa tête avec vous.
 
 **Inconvénient :** N'ayant pas de tête, vous ne pouvez pas voir, entendre, sentir, goûter ou vous exprimer verbalement sauf en utilisant l'aptitude Partager une Tête. De plus, vous ne pouvez pas porter d'équipement qui nécessite une tête, comme un casque ou un chapeau.
 
@@ -680,21 +686,23 @@ Vous pouvez percevoir les fantômes et les esprits que les autres ne ressentent 
 
 **Avantage et Inconvénient :** Les morts-vivants intangibles dans un rayon de 10 cases peuvent communiquer télépathiquement avec vous. De plus, vous possédez l'aptitude Contacter les Esprits.
 
-######## Contacter les Esprits
-
-*Les morts sans repos vous parlent.*
-
-| **Magie**        | **Action principale** |
-|------------------|-----------------------:|
-| **📏 Personnel** |      **🎯 Personnel** |
-
-**Jet de Pouvoir + Intuition ou Présence :**
-
-- **≤11 :** Vous subissez des dégâts de corruption égaux à 5 + votre niveau.
-- **12-16 :** L'esprit de toute personne que vous connaissez et qui est morte vous parle, à condition qu'elle se trouve sur le même monde que vous. Vous apprenez comment elle est morte et pouvez lui poser une question, à laquelle elle peut répondre de manière véridique ou mensongère. L'esprit connaît tout ce qu'il savait de son vivant, et est conscient des événements qui ont eu lieu dans son environnement immédiat depuis sa mort.
-- **17+ :** Comme le Tiers 2, mais vous pouvez poser trois questions.
-
-**Effet :** Si des créatures intelligentes sont mortes à proximité au cours des dernières 24 heures, vous avez un Double Fléau sur le jet de pouvoir de cette aptitude si certaines de ces créatures vous étaient hostiles, ou un Double Avantage si certaines d'entre elles vous étaient amicales. Quand vous utilisez cette aptitude, vous ne pouvez plus le faire jusqu'à ce que vous obteniez 1 Victoire ou plus.
+> [!spell] Contacter les Esprits
+> 🏷️ *Magie*
+> 
+> ***Les morts sans repos vous parlent.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Personnel</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Personnel</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Intuition ou Présence :**
+> - **≤11 :** Vous subissez des dégâts de corruption égaux à 5 + votre niveau.
+> - **12-16 :** L'esprit de toute personne que vous connaissez et qui est morte vous parle, à condition qu'elle se trouve sur le même monde que vous. Vous apprenez comment elle est morte et pouvez lui poser une question, à laquelle elle peut répondre de manière véridique ou mensongère. L'esprit connaît tout ce qu'il savait de son vivant, et est conscient des événements qui ont eu lieu dans son environnement immédiat depuis sa mort.
+> - **17+ :** Comme le Tiers 2, mais vous pouvez poser trois questions.
+> 
+> **💫 Effet :** Si des créatures intelligentes sont mortes à proximité au cours des dernières 24 heures, vous avez un Double Fléau sur le jet de pouvoir de cette aptitude si certaines de ces créatures vous étaient hostiles, ou un Double Avantage si certaines d'entre elles vous étaient amicales. Quand vous utilisez cette aptitude, vous ne pouvez plus le faire jusqu'à ce que vous obteniez 1 Victoire ou plus.
 
 #### Sang de Méduse
 
@@ -702,21 +710,23 @@ Votre mère et votre père ne se sont jamais regardés dans les yeux. Vous le sa
 
 **Avantage :** Vous possédez l'aptitude suivante.
 
-######## Regard de Pierre
-
-*Votre regard ne tue pas—il pétrifie.*
-
-| **Magie, Distance, Frappe** |     **Action Principale** |
-|------------------------------|---------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Présence :**
-
-- **≤11 :** 2 dégâts ; M < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 4 dégâts ; M < MOYEN, ralenti (sauvegarde termine)
-- **17+ :** 6 dégâts ; M < FORT, ralenti (sauvegarde termine)
-
-**Effet :** Cette aptitude n'a aucun effet sur une créature qui ne peut pas vous voir ou qui évite délibérément de regarder vos yeux. Une créature réduite à 0 Vigueur par cette aptitude est transformée en pierre inanimée.
+> [!spell] Regard de Pierre
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Votre regard ne tue pas—il pétrifie.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Présence :**
+> - **≤11 :** 2 dégâts ; M < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 4 dégâts ; M < MOYEN, ralenti (sauvegarde termine)
+> - **17+ :** 6 dégâts ; M < FORT, ralenti (sauvegarde termine)
+> 
+> **💫 Effet :** Cette aptitude n'a aucun effet sur une créature qui ne peut pas vous voir ou qui évite délibérément de regarder vos yeux. Une créature réduite à 0 Vigueur par cette aptitude est transformée en pierre inanimée.
 
 **Inconvénient :** En dehors des combats, vous utilisez votre aptitude Regard de Pierre sur quiconque croise votre regard, que vous en ayez l'intention ou non. Vos compagnons savent qu'il ne faut pas établir de contact visuel, mais les étrangers risquent de déclencher l'aptitude à moins que vous ne vous couvriez les yeux.
 
@@ -788,22 +798,23 @@ En période de stress, vous avez des maux de tête. L'énergie psionique s'accum
 
 **Avantage :** Vous disposez de l'aptitude héroïque suivante.
 
-######## Déflagration Psychique (Coût Spécial en Ressource Héroïque)
-
-*L'énergie psionique jaillit de votre corps dans un chatoiement iridescent.*
-
-
-| **Zone, Psionique** |               **Action principale** |
-|---------------------|------------------------------------:|
-| **📏 Explosion 3**  | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Utiliser cette aptitude coûte toute votre Ressource Héroïque.
-
-**Jet de Pouvoir + Votre Score de Caractéristique le Plus Élevé :**
-
-- **≤11 :** 1 dégât psychique par Ressource Héroïque dépensée, jusqu'à un maximum égal à votre niveau
-- **12-16 :** 1 dégât psychique par Ressource Héroïque dépensée, jusqu'à un maximum égal à votre niveau + votre caractéristique la plus élevée
-- **17+ :** 1 dégât psychique par Ressource Héroïque dépensée
+> [!spell] Déflagration Psychique (Coût Spécial en Ressource Héroïque)
+> 🏷️ *Zone • Psionique*
+> 
+> ***L'énergie psionique jaillit de votre corps dans un chatoiement iridescent.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Utiliser cette aptitude coûte toute votre Ressource Héroïque.
+> 
+> **🎲 Jet de Pouvoir + Votre Score de Caractéristique le Plus Élevé :**
+> - **≤11 :** 1 dégât psychique par Ressource Héroïque dépensée, jusqu'à un maximum égal à votre niveau
+> - **12-16 :** 1 dégât psychique par Ressource Héroïque dépensée, jusqu'à un maximum égal à votre niveau + votre caractéristique la plus élevée
+> - **17+ :** 1 dégât psychique par Ressource Héroïque dépensée
 
 **Inconvénient :** Chaque fois que vous devenez saignement, effrayé ou affaibli, vous devez utiliser Déflagration Psychique comme une action déclenchée gratuite.
 
@@ -836,19 +847,21 @@ Vous êtes le seul survivant d'un événement psionique cataclysmique—une exp�
 
 **Avantage :** Vous disposez de l'Aptitude suivante, que vous pouvez utiliser comme Frappe Gratuite à Distance.
 
-######## Emprise Télékinétique
-
-*Vous tendez votre esprit pour déplacer une Créature ou un Objet.*
-
-| **Psionique, À Distance**, **Frappe** |                  **Manœuvre** |
-|---------------------------------------|------------------------------:|
-| **📏 À Distance 10**                  | **🎯 Une Créature ou un Objet** |
-
-**Jet de Pouvoir + Force, Intuition ou Présence :**
-
-- **≤11 :** Poussée ou Traction 1
-- **12-16 :** Poussée ou Traction 2
-- **17+ :** Poussée ou Traction 3
+> [!spell] Emprise Télékinétique
+> 🏷️ *Psionique • À Distance • Frappe*
+> 
+> ***Vous tendez votre esprit pour déplacer une Créature ou un Objet.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une Créature ou un Objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force, Intuition ou Présence :**
+> - **≤11 :** Poussée ou Traction 1
+> - **12-16 :** Poussée ou Traction 2
+> - **17+ :** Poussée ou Traction 3
 
 **Inconvénient :** Vous avez une faiblesse psychique 5.
 
@@ -1038,15 +1051,18 @@ Vous portez un collier de loyauté provenant de l'un des chiens de guerre d'Ajax
 
 **Avantage :** Même si vous êtes vous-même un chien de guerre, les autres chiens de guerre ne peuvent pas utiliser leur aptitude Promotion Posthume sur vous tant que vous portez votre collier. De plus, vous disposez de l'aptitude suivante.
 
-######## Retraite Posthume
-
-*Vous faites exploser votre collier modifié.*
-
-| **Zone, Magie** |                  **Manœuvre** |
-|-----------------|------------------------------:|
-| **📏 Explosion 1**  | **🎯 Chaque ennemi dans la zone** |
-
-**Effet :** Votre collier de loyauté détone, infligeant des dégâts de feu égaux à 5 plus votre niveau à chaque cible. Une fois que vous utilisez cette aptitude, vous ne pouvez plus l'utiliser jusqu'à ce que vous passiez 1 minute ininterrompue hors combat à réinitialiser le collier.
+> [!spell] Retraite Posthume
+> 🏷️ *Zone • Magie*
+> 
+> ***Vous faites exploser votre collier modifié.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Votre collier de loyauté détone, infligeant des dégâts de feu égaux à 5 plus votre niveau à chaque cible. Une fois que vous utilisez cette aptitude, vous ne pouvez plus l'utiliser jusqu'à ce que vous passiez 1 minute ininterrompue hors combat à réinitialiser le collier.
 
 **Inconvénient :** Chaque fois que vous utilisez votre aptitude Retraite Posthume, le Directeur peut dépenser 3 Malveillance pour faire dysfonctionner votre collier et vous infliger ses dégâts en plus des cibles habituelles.
 
@@ -1072,21 +1088,23 @@ Vous avez failli perdre la vie en mer, mais alors vous avez entendu la voix. Que
 
 **Avantage :** Vous pouvez automatiquement nager à pleine vitesse en vous déplaçant, et vous pouvez respirer sous l'eau. De plus, vous avez l'aptitude suivante.
 
-######## Vague Scélérate
-
-*Vous invoquez une vague d'eau pour malmener votre ennemi.*
-
-| **Magie, Distance, Frappe** |               **Action Principale** |
-|------------------------------| ------------------------------------:|
-| **📏 Distance 10**           | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Votre Score de Caractéristique le Plus Élevé :**
-
-- **≤11 :** 2 dégâts ; poussée ou traction 1
-- **12-16 :** 5 dégâts ; poussée ou traction 2
-- **17+ :** 7 dégâts ; poussée ou traction 3
-
-**Effet :** Vous pouvez renoncer à infliger des dégâts avec cette aptitude.
+> [!spell] Vague Scélérate
+> 🏷️ *Magie • Distance • Frappe*
+> 
+> ***Vous invoquez une vague d'eau pour malmener votre ennemi.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Votre Score de Caractéristique le Plus Élevé :**
+> - **≤11 :** 2 dégâts ; poussée ou traction 1
+> - **12-16 :** 5 dégâts ; poussée ou traction 2
+> - **17+ :** 7 dégâts ; poussée ou traction 3
+> 
+> **💫 Effet :** Vous pouvez renoncer à infliger des dégâts avec cette aptitude.
 
 **Inconvénient :** Vous avez une faiblesse à la foudre 5. De plus, l'océan ou une créature qu'il envoie pour vous chercher peut vous assigner une quête. Si vous n'obéissez pas aux ordres de l'océan, il pourrait temporairement vous refuser les avantages de cette complication—y compris la capacité de respirer sous l'eau—à un moment inopportun.
 

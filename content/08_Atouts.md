@@ -226,23 +226,25 @@ Cette section présente les avantages surnaturels par ordre alphabétique.
 
 Vous possédez l'aptitude suivante.
 
-######## Tour Arcanique
-
-*Vous lancez un sort divertissant qui crée un effet magique mineur mais impressionnant.*
-
-| **Magie**                    | **Action principale** |
-|------------------------------|----------------------:|
-| **📏 Personnel ; voir plus bas** |        **🎯 Personnel** |
-
-**Effet :** Choisissez l'un des effets suivants :
-
-- Vous téléportez un objet de taille 1S ou plus petit adjacent à vous dans un espace inoccupé adjacent à vous.
-- Jusqu'au début de votre prochain tour, une partie de votre corps projette une pluie d'étincelles bruyantes et inoffensives qui éclairent chaque case adjacente à vous.
-- Vous allumez ou éteignez (à votre choix) toute source de lumière classique de 1L ou plus petite adjacente à vous.
-- Vous transformez jusqu'à 500 grammes de nourriture comestible que vous touchez pour lui donner un goût délicieux ou dégoûtant.
-- Jusqu'au début de votre prochain tour, vous faites en sorte que votre corps dégage une odeur particulière que vous avez déjà sentie. Cette odeur peut être perçue par chaque créature dans un rayon de 5 cases de vous, mais ne peut imposer aucun état ou autre inconvénient à ces créatures.
-- Vous placez une petite inscription magique sur la surface d'un objet classique que vous touchez, ou vous pouvez retirer une inscription qui a été créée par vous ou par une autre créature utilisant Tour Arcanique.
-- Vous touchez un objet de taille 1T pour le recouvrir d'une illusion qui le fait ressembler à un objet différent. Toute créature qui manipule l'objet prend conscience de l'illusion. L'illusion se termine quand vous cessez de toucher l'objet.
+> [!spell] Tour Arcanique
+> 🏷️ *Magie*
+> 
+> ***Vous lancez un sort divertissant qui crée un effet magique mineur mais impressionnant.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Personnel ; voir plus bas</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Personnel</p>
+> 
+> ---
+> 
+> **💫 Effet :** Choisissez l'un des effets suivants :
+> - Vous téléportez un objet de taille 1S ou plus petit adjacent à vous dans un espace inoccupé adjacent à vous.
+> - Jusqu'au début de votre prochain tour, une partie de votre corps projette une pluie d'étincelles bruyantes et inoffensives qui éclairent chaque case adjacente à vous.
+> - Vous allumez ou éteignez (à votre choix) toute source de lumière classique de 1L ou plus petite adjacente à vous.
+> - Vous transformez jusqu'à 500 grammes de nourriture comestible que vous touchez pour lui donner un goût délicieux ou dégoûtant.
+> - Jusqu'au début de votre prochain tour, vous faites en sorte que votre corps dégage une odeur particulière que vous avez déjà sentie. Cette odeur peut être perçue par chaque créature dans un rayon de 5 cases de vous, mais ne peut imposer aucun état ou autre inconvénient à ces créatures.
+> - Vous placez une petite inscription magique sur la surface d'un objet classique que vous touchez, ou vous pouvez retirer une inscription qui a été créée par vous ou par une autre créature utilisant Tour Arcanique.
+> - Vous touchez un objet de taille 1T pour le recouvrir d'une illusion qui le fait ressembler à un objet différent. Toute créature qui manipule l'objet prend conscience de l'illusion. L'illusion se termine quand vous cessez de toucher l'objet.
 
 #### Sens des Créatures
 
@@ -276,29 +278,35 @@ Si votre familier est détruit, vous pouvez le restaurer comme activité de rép
 
 Vous possédez l'aptitude suivante.
 
-######## Force Invisible
-
-*Vous manipulez un petit objet par la pensée.*
-
-| **Psionique, À distance** |              **Manœuvre** |
-|---------------------------|--------------------------:|
-| **📏 À distance 10**      | **🎯 Un objet de taille 1T** |
-
-**Effet :** Vous pouvez saisir ou manipuler l'objet cible par la pensée, déplaçant l'objet d'un nombre de cases égal à votre score de Raison, d'Intuition ou de Présence (à votre choix). Vous pouvez utiliser cette aptitude pour tourner des poignées de porte, actionner des leviers, et ainsi de suite. Vous pouvez manipuler n'importe quelle petite partie mobile d'un objet plus grand tant que cette partie n'est pas gardée et de taille 1T. Vous ne pouvez pas utiliser cette aptitude pour détacher une partie plus petite d'un objet plus grand.
+> [!spell] Force Invisible
+> 🏷️ *Psionique • À distance*
+> 
+> ***Vous manipulez un petit objet par la pensée.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un objet de taille 1T</p>
+> 
+> ---
+> 
+> **💫 Effet :** Vous pouvez saisir ou manipuler l'objet cible par la pensée, déplaçant l'objet d'un nombre de cases égal à votre score de Raison, d'Intuition ou de Présence (à votre choix). Vous pouvez utiliser cette aptitude pour tourner des poignées de porte, actionner des leviers, et ainsi de suite. Vous pouvez manipuler n'importe quelle petite partie mobile d'un objet plus grand tant que cette partie n'est pas gardée et de taille 1T. Vous ne pouvez pas utiliser cette aptitude pour détacher une partie plus petite d'un objet plus grand.
 
 #### Murmure Psychique
 
 Vous possédez l'aptitude suivante.
 
-######## Murmure Psychique
-
-*Vous envoyez un message télépathique à sens unique à un ami.*
-
-| **Psionique, À distance** |    **Manœuvre** |
-|---------------------------|----------------:|
-| **📏 À distance 10**      | **🎯 Un allié** |
-
-**Effet :** Tant que la cible comprend une ou plusieurs langues, vous lui envoyez un message télépathique qui prend 10 secondes ou moins à prononcer. La cible sait de qui vient le message et peut décider de l'ignorer ainsi que les messages suivants.
+> [!spell] Murmure Psychique
+> 🏷️ *Psionique • À distance*
+> 
+> ***Vous envoyez un message télépathique à sens unique à un ami.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** Tant que la cible comprend une ou plusieurs langues, vous lui envoyez un message télépathique qui prend 10 secondes ou moins à prononcer. La cible sait de qui vient le message et peut décider de l'ignorer ainsi que les messages suivants.
 
 #### Ritualiste
 

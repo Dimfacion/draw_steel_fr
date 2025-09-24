@@ -335,19 +335,21 @@ Vous pouvez utiliser une aptitude absorbée comme si vous la connaissiez, en eff
 
 **Âme de Dragon II :** Tant que vous êtes essoufflé, votre tête se transforme en tête de dragon et vous avez l'aptitude suivante.
 
-######## Feu du Dragon
-
-*Vous ouvrez votre gueule et déchaînez l'enfer.*
-
-| **Zone, Magique**          |               **Action principale** |
-|----------------------------|------------------------------------:|
-| **📏 Ligne 5 x 1 à portée 1** | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Votre Score de Caractéristique le Plus Élevé :**
-
-- **≤11 :** 5 dégâts de feu
-- **12-16 :** 8 dégâts de feu
-- **17+ :** 11 dégâts de feu
+> [!spell] Feu du Dragon
+> 🏷️ *Zone • Magique*
+> 
+> ***Vous ouvrez votre gueule et déchaînez l'enfer.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Ligne 5 x 1 à portée 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Votre Score de Caractéristique le Plus Élevé :**
+> - **≤11 :** 5 dégâts de feu
+> - **12-16 :** 8 dégâts de feu
+> - **17+ :** 11 dégâts de feu
 
 **Invulnérable :** Quand un jet d'aptitude fait contre vous obtient un résultat de tiers 1, vous pouvez ignorer ses dégâts et effets.
 
@@ -576,17 +578,20 @@ Un héros qui possède une panoplie utilisant les frappes à mains nues, comme l
 
 **Brise-charge :** Tant que vous maniez cette arme, vous avez l'aptitude suivante.
 
-######## Arrête-toi Là
-
-*Leur élan, votre impact.*
-
-| **Corps à corps, Frappe, Arme** | **Déclenchée gratuite** |
-|----------------------------------|------------------------:|
-| **📏 Corps à corps 1**           |     **🎯 Un ennemi** |
-
-**Déclencheur :** La cible se déplace volontairement pour devenir adjacente à vous.
-
-**Effet :** La cible subit 5 dégâts.
+> [!spell] Arrête-toi Là
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***Leur élan, votre impact.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée gratuite</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Un ennemi</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** La cible se déplace volontairement pour devenir adjacente à vous.
+> 
+> **💫 Effet :** La cible subit 5 dégâts.
 
 **Glaçante II :** Chaque fois que vous infligez des dégâts à une créature avec une aptitude utilisant cette arme et obtenez un résultat de tiers 3, cette créature subit 6 dégâts de froid et est ralentie (sauvegarde termine). Ceci remplace le bénéfice de Glaçante I.
 
@@ -642,19 +647,21 @@ Un héros qui possède une panoplie utilisant les frappes à mains nues, comme l
 
 **Nova :** Chaque fois que vous infligez des dégâts à une créature avec cette arme, chaque ennemi adjacent à vous subit des dégâts basés sur le résultat de tiers du jet de pouvoir - 2 dégâts pour le tiers 1, 6 pour le tiers 2, ou 10 pour le tiers 3. De plus, tant que vous êtes essoufflé, vous avez l'aptitude suivante.
 
-######## Nova
-
-*Je suis une flamme éternelle, bébé !*
-
-| **Zone, Magique** |               **Action principale** |
-|-------------------|------------------------------------:|
-| **📏 Explosion 3** | **🎯 Chaque ennemi dans la zone** |
-
-**Jet de Pouvoir + Votre Score de Caractéristique le Plus Élevé :**
-
-- **≤11 :** 7 dégâts de feu
-- **12-16 :** 11 dégâts de feu
-- **17+ :** 16 dégâts de feu
+> [!spell] Nova
+> 🏷️ *Zone • Magique*
+> 
+> ***Je suis une flamme éternelle, bébé !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Votre Score de Caractéristique le Plus Élevé :**
+> - **≤11 :** 7 dégâts de feu
+> - **12-16 :** 11 dégâts de feu
+> - **17+ :** 16 dégâts de feu
 
 **Terrifiant III :** Chaque fois que vous infligez des dégâts à une créature avec une aptitude utilisant cette arme et obtenez un résultat de tiers 3, cette créature subit 6 dégâts psychiques et est effrayée (sauvegarde termine). Ceci remplace le bénéfice de Terrifiant II.
 

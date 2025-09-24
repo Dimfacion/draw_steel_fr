@@ -1118,15 +1118,18 @@ Tant que les yeux tournent autour de votre tête, vous pouvez utiliser une manœ
 
 De plus, vous disposez de l'aptitude suivante.
 
-######## Champ d'Hallucination
-
-*Un voile d'illusion se déploie autour de vous et de vos alliés, vous faisant paraître comme si vous apparteniez naturellement à l'endroit où vous vous trouvez.*
-
-| **Psionique, À Distance** |             **Manœuvre** |
-|---------------------------|-------------------------:|
-| **📏 Distance 10**        | **🎯 Soi et tout allié** |
-
-**Effet :** Chaque cible est recouverte d'une illusion qui la fait apparaître exactement comme n'importe quelle créature (humanoïde, animal, mort-vivant, etc.) qu'un observateur s'attend le plus à voir. L'illusion se termine pour toutes les cibles si une créature sous son effet blesse ou interagit physiquement avec une créature non affectée par l'illusion, si vous utilisez à nouveau cette aptitude, ou si vous choisissez de mettre fin à l'effet (aucune action triviale requise). L'illusion se termine également pour tout allié affecté qui s'éloigne de vous d'une distance supérieure à la portée de cette aptitude.
+> [!spell] Champ d'Hallucination
+> 🏷️ *Psionique • À Distance*
+> 
+> ***Un voile d'illusion se déploie autour de vous et de vos alliés, vous faisant paraître comme si vous apparteniez naturellement à l'endroit où vous vous trouvez.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi et tout allié</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible est recouverte d'une illusion qui la fait apparaître exactement comme n'importe quelle créature (humanoïde, animal, mort-vivant, etc.) qu'un observateur s'attend le plus à voir. L'illusion se termine pour toutes les cibles si une créature sous son effet blesse ou interagit physiquement avec une créature non affectée par l'illusion, si vous utilisez à nouveau cette aptitude, ou si vous choisissez de mettre fin à l'effet (aucune action triviale requise). L'illusion se termine également pour tout allié affecté qui s'éloigne de vous d'une distance supérieure à la portée de cette aptitude.
 
 ##### Anneau Résonateur de Champ de Néant
 
@@ -1146,21 +1149,23 @@ De plus, vous disposez de l'aptitude suivante.
 
 De plus, vous avez l'aptitude suivante.
 
-######## Frappe de l'Anneau de Néant
-
-*Votre coup de poing délivre une explosion dévastatrice d'énergie psionique.*
-
-| **Corps à corps, Psionique**, **Frappe, Arme** |               **Action Principale** |
-|------------------------------------------------|------------------------------------:|
-| **📏 Corps à corps 1**                         | **🎯 Une créature ou un objet** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 3 dégâts psychiques
-- **12-16 :** 5 dégâts psychiques ; I < MOYEN, ralenti (Sauvegarde Termine)
-- **17+ :** 8 dégâts psychiques ; I < FORT, ralenti (Sauvegarde Termine)
-
-**Effet :** Tant qu'elle est ralentie de cette manière, la cible subit un fléau sur les aptitudes magiques ou psioniques.
+> [!spell] Frappe de l'Anneau de Néant
+> 🏷️ *Corps à corps • Psionique • Frappe • Arme*
+> 
+> ***Votre coup de poing délivre une explosion dévastatrice d'énergie psionique.***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature ou un objet</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 3 dégâts psychiques
+> - **12-16 :** 5 dégâts psychiques ; I < MOYEN, ralenti (Sauvegarde Termine)
+> - **17+ :** 8 dégâts psychiques ; I < FORT, ralenti (Sauvegarde Termine)
+> 
+> **💫 Effet :** Tant qu'elle est ralentie de cette manière, la cible subit un fléau sur les aptitudes magiques ou psioniques.
 
 ##### Anneau de Translation
 
@@ -2265,15 +2270,18 @@ De plus, la faction constitue une bonne source d'informations. Le Directeur choi
 
 - *Come Out to Play :* Vous avez l'aptitude suivante, qui peut être payée en utilisant la Ressource Héroïque de votre classe.
 
-######## Come Out to Play (1 Ressource Héroïque)
-
-*Sortez jouer—ouais !*
-
-| **Zone, Magie** |                                **Manœuvre** |
-|-----------------|--------------------------------------------:|
-| **📏 5 explosion**  | **🎯 Chaque ennemi dans la zone caché de vous** |
-
-**Effet :** Chaque cible qui a P < MOYENNE est narguée par vous jusqu'à la fin de son prochain tour, et vous connaissez l'emplacement de chaque créature narguée de cette façon.
+> [!spell] Come Out to Play (1 Ressource Héroïque)
+> 🏷️ *Zone • Magie*
+> 
+> ***Sortez jouer—ouais !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 5 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi dans la zone caché de vous</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible qui a P < MOYENNE est narguée par vous jusqu'à la fin de son prochain tour, et vous connaissez l'emplacement de chaque créature narguée de cette façon.
 
 - *Deadly and Big :* Vos frappes gagnent un bonus de +3 dégâts contre les créatures dont la taille est plus petite que la vôtre.
 
@@ -2344,15 +2352,18 @@ Le Directeur choisit l'un des avantages suivants, selon le sort que vos ravisseu
 - *Santé Divine :* Vous gagnez une immunité à la corruption égale à votre score de caractéristique le plus élevé. De plus, vous ne pouvez pas être transformé en créature morte-vivante.
 - *Terreur Sacrée :* Vous avez l'aptitude suivante, qui peut être payée en utilisant la Ressource Héroïque de votre classe.
 
-######## Terreur Sacrée (3 Ressource Héroïque)
-
-*Retourne dans ta tombe !*
-
-| **Zone, Magie** |                         **Manœuvre** |
-|-----------------|-------------------------------------:|
-| **📏 3 explosion**  | **🎯 Chaque ennemi mort-vivant dans la zone** |
-
-**Effet :** Chaque cible subit des dégâts sacrés égaux à votre score de Raison, d'Intuition ou de Présence (votre choix). De plus, chaque cible qui a P < FORTE est effrayée (sauvegarde termine).
+> [!spell] Terreur Sacrée (3 Ressource Héroïque)
+> 🏷️ *Zone • Magie*
+> 
+> ***Retourne dans ta tombe !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Manœuvre</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 3 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque ennemi mort-vivant dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible subit des dégâts sacrés égaux à votre score de Raison, d'Intuition ou de Présence (votre choix). De plus, chaque cible qui a P < FORTE est effrayée (sauvegarde termine).
 
 ### Titres de 2e Échelon
 
@@ -2371,19 +2382,21 @@ Les titres adaptés aux personnages de 2e échelon sont présentés par ordre al
 - *Célébrité Instantanée :* Vous gagnez 1 Renommée.
 - *Coup de Grâce :* Vous avez l'aptitude suivante, qui peut être payée en utilisant la Ressource Héroïque de votre classe.
 
-######## Coup de Grâce (5 Ressource Héroïque)
-
-| **Corps à corps, Frappe, Arme** |     **Action principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 6 dégâts ; I < FAIBLE, ralenti (sauvegarde termine)
-- **12-16 :** 10 dégâts ; I < MOYEN, effrayé (sauvegarde termine)
-- **17+ :** 14 dégâts ; I < FORT, étourdi (sauvegarde termine)
-
-**Effet :** Si vous tuez un adversaire non-sbire en utilisant cette aptitude, chaque ennemi dans un rayon de 3 cases de vous est effrayé (sauvegarde termine).
+> [!spell] Coup de Grâce (5 Ressource Héroïque)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 6 dégâts ; I < FAIBLE, ralenti (sauvegarde termine)
+> - **12-16 :** 10 dégâts ; I < MOYEN, effrayé (sauvegarde termine)
+> - **17+ :** 14 dégâts ; I < FORT, étourdi (sauvegarde termine)
+> 
+> **💫 Effet :** Si vous tuez un adversaire non-sbire en utilisant cette aptitude, chaque ennemi dans un rayon de 3 cases de vous est effrayé (sauvegarde termine).
 
 #### Éveillé
 
@@ -2407,18 +2420,20 @@ Les titres adaptés aux personnages de 2e échelon sont présentés par ordre al
 
 - *Charge ! :* Vous disposez de l'aptitude suivante, qui peut être payée en utilisant la Ressource Héroïque de votre classe.
 
-######## Charge ! (9 Ressource Héroïque)
-
-*Suivez-moi !*
-
-| **Zone**       |                       **Action principale** |
-|----------------|--------------------------------------------:|
-| **📏 Explosion 3** | **🎯 Soi-même et chaque allié dans la zone** |
-
-**Effet :** Chaque cible peut utiliser l'Action Principale - Charge.
-
-- *Guerrier Renommé :* Vous gagnez 1 Renommée.
-- *Étudiant de la Guerre :* Choisissez une capacité de doctrine de niveau 1 de la classe Tacticien. Vous obtenez cette capacité même si vous ne possédez pas la capacité Doctrine Tactique.
+> [!spell] Charge ! (9 Ressource Héroïque)
+> 🏷️ *Zone*
+> 
+> ***Suivez-moi !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Explosion 3</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Soi-même et chaque allié dans la zone</p>
+> 
+> ---
+> 
+> **💫 Effet :** Chaque cible peut utiliser l'Action Principale - Charge.
+> - *Guerrier Renommé :* Vous gagnez 1 Renommée.
+> - *Étudiant de la Guerre :* Choisissez une capacité de doctrine de niveau 1 de la classe Tacticien. Vous obtenez cette capacité même si vous ne possédez pas la capacité Doctrine Tactique.
 
 #### Magie du Sang
 
@@ -2479,17 +2494,19 @@ Les titres adaptés aux personnages de 2e échelon sont présentés par ordre al
 - *Esquive du Petit Peuple :* Toute créature de Taille 2 ou plus subit un Fléau sur les Frappes contre vous.
 - *Plus Ils Sont Grands :* Vous disposez de l'Aptitude suivante, qui peut être payée en utilisant la Ressource Héroïque de votre Classe.
 
-######## Plus Ils Sont Grands (7 Ressource Héroïque)
-
-| **Corps à corps, Frappe, Arme** |     **Action Principale** |
-|----------------------------------|---------------------------:|
-| **📏 Corps à corps 1**           | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 7 Dégâts ; F < FAIBLE, À Terre et ne peut pas se lever (Sauvegarde Termine)
-- **12-16 :** 11 Dégâts ; F < MOYEN, À Terre et ne peut pas se lever (Sauvegarde Termine)
-- **17+ :** 16 Dégâts ; F < FORT, À Terre et ne peut pas se lever (Sauvegarde Termine)
+> [!spell] Plus Ils Sont Grands (7 Ressource Héroïque)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 7 Dégâts ; F < FAIBLE, À Terre et ne peut pas se lever (Sauvegarde Termine)
+> - **12-16 :** 11 Dégâts ; F < MOYEN, À Terre et ne peut pas se lever (Sauvegarde Termine)
+> - **17+ :** 16 Dégâts ; F < FORT, À Terre et ne peut pas se lever (Sauvegarde Termine)
 
 **Spécial :** Si la Cible est de Taille 2 ou plus, vous gagnez un Avantage sur cette Aptitude.
 
@@ -2519,17 +2536,20 @@ Les titres adaptés aux personnages de 2e échelon sont présentés par ordre al
 - *Baskets :* Vous gagnez la Compétence Discrétion. Si vous avez déjà cette Compétence, vous gagnez à la place un Avantage sur les Tests effectués en utilisant la Compétence Discrétion. Lors des Tests de Groupe, vous pouvez à la fois utiliser la Compétence Discrétion et aider un autre Héros utilisant la Compétence Discrétion.
 - *Distraction Opportune :* Vous avez l'Action Déclenchée suivante.
 
-######## Distraction Opportune
-
-*J'arrive avec de la soupe chaude !<br/>Je ferais mieux de faire attention à cette peau de banane !*
-
-| **À distance**       |       **Déclenchée** |
-|----------------------|---------------------:|
-| **📏 À distance 10** | **🎯 Une Créature** |
-
-**Déclencheur :** Un Allié effectue un Test pour mentir à la Cible, lui faire les poches, se cacher d'elle, ou se faufiler près d'elle et n'aime pas le résultat.
-
-**Effet :** Vous attirez momentanément l'attention de la Cible pour permettre à votre Allié de relancer son Test. Une fois que vous utilisez cette Aptitude, vous ne pouvez plus l'utiliser contre la même Cible pendant 1 heure.
+> [!spell] Distraction Opportune
+> 🏷️ *À distance*
+> 
+> ***J'arrive avec de la soupe chaude !<br/>Je ferais mieux de faire attention à cette peau de banane !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Déclenchée</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> À distance 10</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une Créature</p>
+> 
+> ---
+> 
+> **⚡ Déclencheur :** Un Allié effectue un Test pour mentir à la Cible, lui faire les poches, se cacher d'elle, ou se faufiler près d'elle et n'aime pas le résultat.
+> 
+> **💫 Effet :** Vous attirez momentanément l'attention de la Cible pour permettre à votre Allié de relancer son Test. Une fois que vous utilisez cette Aptitude, vous ne pouvez plus l'utiliser contre la même Cible pendant 1 heure.
 
 #### Chevalier
 
@@ -2543,21 +2563,23 @@ Les titres adaptés aux personnages de 2e échelon sont présentés par ordre al
 - *Égide Chevaleresque :* Votre maximum de Vigueur augmente de 6.
 - *Défi Chevaleresque :* Vous disposez de l'aptitude suivante, qui peut être payée en utilisant la Ressource Héroïque de votre Classe.
 
-######## Défi Chevaleresque (5 Ressources Héroïques)
-
-*En garde !*
-
-| **Corps à corps, Frappe, Arme** |     **Action Principale** |
-|---------------------------------|---------------------------:|
-| **📏 Corps à corps 1**          | **🎯 Une créature** |
-
-**Jet de Pouvoir + Force ou Agilité :**
-
-- **≤11 :** 7 dégâts ; narguer (Sauvegarde Termine)
-- **12-16 :** 11 dégâts ; narguer (Sauvegarde Termine)
-- **17+ :** 16 dégâts ; narguer (Sauvegarde Termine)
-
-**Effet :** Vous pouvez mettre fin à l'état narguer sur la Cible par une Manœuvre Gratuite.
+> [!spell] Défi Chevaleresque (5 Ressources Héroïques)
+> 🏷️ *Corps à corps • Frappe • Arme*
+> 
+> ***En garde !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action Principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> Corps à corps 1</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Une créature</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Force ou Agilité :**
+> - **≤11 :** 7 dégâts ; narguer (Sauvegarde Termine)
+> - **12-16 :** 11 dégâts ; narguer (Sauvegarde Termine)
+> - **17+ :** 16 dégâts ; narguer (Sauvegarde Termine)
+> 
+> **💫 Effet :** Vous pouvez mettre fin à l'état narguer sur la Cible par une Manœuvre Gratuite.
 
 **Spécial :** Si vous prenez ce Titre, il se peut qu'on vous demande occasionnellement d'accomplir des devoirs pour la personne qui vous a fait chevalier.
 
@@ -2720,21 +2742,23 @@ Les titres adaptés aux personnages de 3e échelon sont présentés par ordre al
 - *Chœur Angélique :* Vous pouvez utiliser les leçons d'improvisation musicale au combat. Choisissez une action déclenchée d'acte de classe de la classe troubadour. Vous gagnez cette aptitude, que votre classe et sous-classe vous permettent de la prendre ou non. Si cette aptitude vous permet de gagner ou dépenser du drame, vous pouvez gagner ou dépenser la Ressource Héroïque de votre classe à la place du drame.
 - *Opéra du Diable :* Vous avez l'aptitude suivante, qui peut être payée en utilisant la Ressource Héroïque de votre classe.
 
-######## L'Accord du Diable (9 Ressource Héroïque)
-
-*Salut Orden !*
-
-| **Zone, Magie**     |                  **Action principale** |
-|---------------------|----------------------------------------:|
-| **📏 5 explosion**  | **🎯 Chaque créature dans la zone** |
-
-**Jet de Pouvoir + Présence :**
-
-- **≤11 :** Vous subissez 4 dégâts soniques sauf si vous avez la compétence Représentation.
-- **12-16 :** 6 dégâts soniques ; M < MOYEN, affaibli (sauvegarde termine)
-- **17+ :** 10 dégâts soniques ; M < FORT, affaibli et saignement (sauvegarde termine)
-
-**Effet :** L'âme de toute créature tuée par cette aptitude est traînée en Enfer.
+> [!spell] L'Accord du Diable (9 Ressource Héroïque)
+> 🏷️ *Zone • Magie*
+> 
+> ***Salut Orden !***
+> 
+> <p class="no-margin">⚔️ <strong>Action:</strong> Action principale</p>
+> <p class="no-margin">📍 <strong>Portée:</strong> 5 explosion</p>
+> <p class="no-margin">🎯 <strong>Cible:</strong> Chaque créature dans la zone</p>
+> 
+> ---
+> 
+> **🎲 Jet de Pouvoir + Présence :**
+> - **≤11 :** Vous subissez 4 dégâts soniques sauf si vous avez la compétence Représentation.
+> - **12-16 :** 6 dégâts soniques ; M < MOYEN, affaibli (sauvegarde termine)
+> - **17+ :** 10 dégâts soniques ; M < FORT, affaibli et saignement (sauvegarde termine)
+> 
+> **💫 Effet :** L'âme de toute créature tuée par cette aptitude est traînée en Enfer.
 
 *Musique des Sphères :* En tant qu'action principale, vous chantez ou jouez une note aussi délicate et tranchante que le verre—et tout aussi facilement brisée. Jusqu'au début de votre prochain tour, chaque fois qu'une créature dans un rayon de 10 cases effectue une frappe, elle subit 8 dégâts soniques. Chaque fois que vous effectuez une frappe durant cette même période, vous subissez également 8 dégâts soniques.
 
