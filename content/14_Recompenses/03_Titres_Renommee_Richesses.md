@@ -1,5 +1,5 @@
 ---
-title: Titres, Renommés et Richesses
+title: Titres, Renommée et Richesses
 ---
 # Titres
 
