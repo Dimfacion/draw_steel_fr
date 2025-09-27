@@ -1,7 +1,6 @@
 ---
 title: Dieux et Religions
 ---
-
 # Dieux et Religions
 
 Orden est un monde fantastique dans lequel les dieux existent objectivement. Malgré cela, les habitants d'Orden, quel que soit leur héritage, ne croient pas que les dieux contrôlent tout ce qui arrive dans le monde. Ils croient que les dieux ont créé un monde naturel avec ses propres cycles qui sont parfois prévisibles, mais qui ne peuvent être compris. Il a plu le Lyleth dernier, et le Lyleth d'avant, donc il pleuvra probablement ce Lyleth—mais peut-être pas ! Et si ce n'est pas le cas, c'est peut-être parce que les dieux sont mécontents. Mais cela pourrait tout aussi bien être parce que les dieux s'ennuient, ou sont capricieux ou—plus probablement encore, cela n'a rien à voir avec les dieux, et il n'y a aucun moyen de savoir lequel.
@@ -20,7 +19,7 @@ Si on l'interrogeait à ce sujet—« Pourquoi as-tu invoqué un dieu, mais reme
 
 Si aucune aide ne vient, les gens supposent que c'est parce que les dieux et les saints sont tous très occupés et ne peuvent pas se donner la peine de répondre à chaque prière. Les gens ne sont jamais surpris quand les dieux et les saints restent silencieux. Ils sont généralement silencieux.
 
-### Églises et Temples
+## Églises et Temples
 
 La plupart des religions d'Orden s'organisent en hiérarchies et construisent des temples ou des cathédrales, mais certaines religions ne sont guère plus que des traditions transmises de chaman à chaman, ou de femme sage à fille sage. Certaines religions sont secrètes !
 
@@ -42,7 +41,7 @@ Il y a des églises dédiées à la nature ou à la connaissance ou au soleil, s
 >
 > Nous avons écrit beaucoup de mots dans ce chapitre parce que nous voulions donner aux personnages de tous les héritages quelques choix quand il s'agit de saints et de héros. Mais votre personnage peut ignorer tout cela si vous pensez que la religion n'est pas une grande partie de sa vie.
 
-### Culte Interespèces
+## Culte Interespèces
 
 Les elfes, les nains et les orcs vénèrent leurs propres dieux créateurs : Val, Ord et Kul respectivement. Les humains, de manière unique, adorent de nombreux dieux. La différence entre les Innombrables Dieux Cadets des humains et les Dieux Anciens qui ont créé les autres peuples parlants n'est pas bien comprise.
 
@@ -62,7 +61,7 @@ Enfin, bien que les dirigeants à travers le pays croient instinctivement que le
 
 Autant que cela puisse agacer les grands et les puissants, les dieux considèrent tous les mortels comme égaux.
 
-### Dieux et Saints Maléfiques
+## Dieux et Saints Maléfiques
 
 Les dieux et saints présentés dans ce chapitre sont populaires et bien connus. Leurs prêtres, chamanes ou invocateurs divins servent le bien public et prennent soin des âmes du peuple.
 
@@ -72,7 +71,7 @@ Ces religions ne construisent généralement pas de temples publics et n'adorent
 
 Parmi les peuples de Vasloria, on trouve les Dieux Nikros le Tyran et Cyrvis le Liche, des Dieux maléfiques, chacun avec ses propres Saints. Quand les tyrans règnent, ces religions tendent à sortir des caves et des temples-égouts pour commencer à pratiquer leur culte ouvertement.
 
-### L'Au-delà en Orden
+## L'Au-delà en Orden
 
 Les gens d'Orden croient que la plupart, peut-être tous les êtres vivants possèdent une âme, qui est la source de la personnalité, de la créativité et de la mémoire. La perte de son âme, que ce soit en négociant avec un Diable, en étant consumé par un démon ou autrement piégé par un sorcier, entraîne la perte progressive de sa personnalité, de son caractère distinctif—même de la mémoire.
 
@@ -86,7 +85,7 @@ La plupart des nains croient que les membres de chaque génération qui se disti
 
 Certaines personnes en Orden, comme les Hakaan et les Orcs croient que leurs ancêtres veillent sur eux, bien qu'il n'y ait pas d'accord sur le fait que ce soient les âmes de leurs ancêtres qui veillent sur eux, ou juste leur mémoire. Ou quelque chose entre les deux. Les Sages divergent. Cette croyance chez les Orcs et les Hakaan relève plus d'une attitude, d'une supposition, que d'une religion.
 
-### Conduits et Censeurs
+## Conduits et Censeurs
 
 « Conduit » et « censeur » ne sont pas des titres au sein d'une église quelconque — ce sont des fonctions ou des rangs. Un abbé, un recteur, voire un évêque peut être, ou avoir été, un conduit ou un censeur. Les conduits et les censeurs sont ces membres de l'église qui sont censés sortir dans le monde et représenter activement, parfois très activement, l'ethos de leur saint. C'est dans ce but que les conduits et les censeurs se voient accorder l'accès à de puissantes prières.
 
@@ -102,7 +101,7 @@ En gagnant de l'Expérience, un conduit ou un censeur peut même entrer en dialo
 
 Le tableau Divinités et Domaines et le tableau Saints et Domaines résument chacun des dieux et saints mentionnés dans ce chapitre et leurs domaines disponibles.
 
-###### Tableau des Divinités et Domaines
+##### Tableau des Divinités et Domaines
 
 | Divinité                | Domaines                                      |
 |-------------------------|-----------------------------------------------|
@@ -117,7 +116,7 @@ Le tableau Divinités et Domaines et le tableau Saints et Domaines résument cha
 | Salorna                 | Vie, Nature, Tempête, Soleil                  |
 | Val                     | Création, Connaissance, Vie, Nature, Protection |
 
-###### Tableau des Saints et Domaines
+##### Tableau des Saints et Domaines
 
 | Saint                               | Domaines                      |
 |-------------------------------------|-------------------------------|
@@ -150,7 +149,7 @@ Le tableau Divinités et Domaines et le tableau Saints et Domaines résument cha
 | Yllin Dyrvis                        | Savoir, Nature                |
 | Zarok le Législateur                | Protection, Guerre            |
 
-### Val
+## Val
 
 **Domaines :** Création, Connaissance, Vie, Nature, Protection
 
@@ -158,13 +157,13 @@ Val, le Noble Seigneur, Premier Parmi les Égaux, est le patron des elfes. Il a 
 
 Val soutient que le plus grand dessein auquel un être pensant puisse se consacrer est la création d'art et l'appréciation de la beauté. Il garde près de son cœur les forêts magiques hantées par les elfes appelées wodes car elles représentent sa vision pour Orden. Ce que le monde aurait pu être. Son dégoût croissant pour le concept de guerre l'a mené à quitter Orden et à prendre résidence dans son Plan privé, *Arcadia*, où tous les elfes espèrent rejoindre un jour leur patron.
 
-#### Héros des Elfes
+### Héros des Elfes
 
 Les héros légendaires des elfes sont des héros autrefois mortels qui demeurent désormais en Arcadie et composent la cour de Val en ce lieu. Ils répondent aux prières et dispensent bénédictions et faveurs, se manifestant même dans le monde lors de moments de grand besoin. (Bien que, comme tous les saints et héros des peuples parlants, ce que ces figures légendaires considèrent comme un « grand besoin » soit très personnel et ait peu à voir avec la politique ou les grands royaumes.)
 
 Les héros hauts elfes détaillés dans ce livre sont Une Mer de Soleils, le Goût du Matin, et Ondulations de Miel sur un Rivage d'Or. Les héros elfes des bois sont Yllin Dyrvis, Thyll Hylacae, et Illwyv li Orchiax.
 
-##### Une Mer de Soleils
+#### Une Mer de Soleils
 
 **Domaines :** Création, Vie
 
@@ -176,7 +175,7 @@ La Compositrice découvrit, ou inventa, le pouvoir de la musique pour manipuler 
 
 _1. Si cette histoire n'a pas été inventée par les nains ou les humains, elle doit au moins avoir transité par l'une de leurs cultures. Les célestes ne comptaient pas le temps comme le font les espèces plus jeunes et n'auraient pas dit « pendant un siècle entier »._
 
-##### Le Goût du Matin
+#### Le Goût du Matin
 
 **Domaines :** Création, Connaissance
 
@@ -186,7 +185,7 @@ On lui attribue la construction de la première bibliothèque, et la plupart des
 
 Il a canonisé l'idée que la connaissance, la vérité, était une forme de beauté. La Bibliothèque du Matin était un temple dédié à la pensée, à la sagesse, à l'érudition. Elle contenait des pièces de théâtre, des poèmes, des histoires, des traités sur la nature de la réalité. Le savoir qu'elle renfermait était incalculable. Les légendes racontent qu'elle contenait des codex écrits par les dragons anciens, bien que les érudits modernes soupçonnent qu'il s'agisse d'un artifice littéraire, car rien ne prouve que les dragons anciens se soient souciés d'écriture.
 
-##### Ondulations de Miel sur un Rivage d'Or
+#### Ondulations de Miel sur un Rivage d'Or
 
 **Domaines :** Vie, Protection
 
@@ -194,7 +193,7 @@ Ondulations de Miel sur un Rivage d'Or, également connue sous le nom de Tueuse 
 
 Au final, ses efforts échouèrent, et les dragons anciens ne vivent plus dans ce monde. Comme Val, la Diplomate haïssait tellement la guerre qu'après son échec, elle chercha à rédiger un nouveau codex. Une œuvre si puissante qu'elle lierait le monde. Le Codex Pax Universalis bannirait le concept de guerre d'Orden. Hélas, à la fin elle réalisa qu'il n'y avait qu'une seule façon d'achever sa grande œuvre, et elle ne fut pas disposée à franchir cette dernière étape.
 
-##### Yllin Dyrvis
+#### Yllin Dyrvis
 
 **Domaines :** Connaissance, Nature
 
@@ -202,7 +201,7 @@ Yllin Dyrvis, également connu sous le nom de Cœur-Bestial, le Parleur-des-Bois
 
 À ce jour, de nombreux âges du monde plus tard, les elfes des bois se considèrent comme les gardiens des créatures parlantes, et ces créatures comptent sur les elfes des bois pour leur protection.
 
-##### Thyll Hylacae
+#### Thyll Hylacae
 
 **Domaines :** Vie, Nature
 
@@ -210,7 +209,7 @@ Thyll Hylacae, la Forestière, Apothachron, également connue sous le nom de Sac
 
 Bien qu'elle fût puissante dans l'art de la guerre, elle ne pouvait être partout. À la fin, elle se sacrifia pour les arbres, le rituel qu'elle accomplit éleva une petite population d'arbres, créant les derwic—les peuples-arbres pensants et parlants dont peu demeurent encore en Orden.
 
-##### Illwyv li Orchiax
+#### Illwyv li Orchiax
 
 **Domaines :** Nature, Protection
 
@@ -218,7 +217,7 @@ Illwyv li Orchiax, le Chevalier de Lune, Maréchal du Crépuscule, Tueuse d'Homm
 
 Ce fut Illwyv qui réalisa la première la folie de traiter avec ces créatures. Grande chasseresse de la Cour de Quercus, elle rassembla sa bande d'élite des Harceleurs Helriath et fit la guerre aux humains qui voulaient tuer les bois.
 
-### Ord
+## Ord
 
 **Domaines :** Création, Connaissance, Protection, Soleil, Guerre
 
@@ -226,11 +225,11 @@ Ord, le Créateur, l'Ingénieur, est le patron des nains. Ord, avec ses frères 
 
 Ord valorise l'intégrité, l'honneur, la fidélité à un idéal. Le courage au combat et le fair-play. Traiter son adversaire avec honneur, enseigne Ord, est une expression de sa propre valeur. Ord est associé à la permanence, ce que certains nains anciens interprètent comme une sorte de dévotion servile à la tradition. Mais Ord enseigne que la permanence est la qualité de la fiabilité, de la constance. Les jeunes nains qui s'irritent des traditions étouffantes et stagnantes de leurs aînés rappellent aux barbes grises qu'Ord est le Créateur. Il attend de ses enfants qu'ils créent des merveilles, qu'ils apportent de nouvelles découvertes, de nouvelles perspectives. Qu'ils refaçonnent le monde à nouveau à chaque génération.
 
-#### Héros des Nains
+### Héros des Nains
 
 Les héros suivants sont vénérés par de nombreux nains et d'autres qui suivent Ord.
 
-##### Zarok le Législateur
+#### Zarok le Législateur
 
 **Domaines :** Protection, Guerre
 
@@ -246,7 +245,7 @@ Zarok enseigne que tous les peuples devraient être égaux devant la loi. Le sie
 
 *Les Conversations* de Zarok sont encore citées aujourd'hui. Il existe une longue tradition juridique selon laquelle, lorsqu'un avocat prestigieux de la Capitale souhaite rédiger un mémoire d'amicus curiae sans révéler son identité, il le signe « Z. »
 
-##### Valak-koth la Chercheuse
+#### Valak-koth la Chercheuse
 
 **Domaines :** Connaissance, Soleil
 
@@ -256,7 +255,7 @@ Elle courait, insouciante du danger, dans les grottes sombres en contrebas et pa
 
 Valak-koth enseigne le courage face à l'inconnu, la vertu de la curiosité, à chercher sans fin et quêter la connaissance, à ne pas craindre les ténèbres. À apporter la lumière dans les lieux obscurs. Ce fut Valak-koth qui découvrit en premier le Monde d'En-Bas, l'Obscurité Sous Tout, bien qu'il ne fût pas reconnu comme un Plan séparé avant sa mort. Après sa mort, la Gemme Solaire originelle qu'elle avait trouvée refusa de s'éteindre. Elle fut enchâssée dans son temple-tombeau, désormais perdu avec l'ancienne cité naine de pierre de Kas Koriar.
 
-##### Stakros l'Ingénieur
+#### Stakros l'Ingénieur
 
 **Domaines :** Création, Connaissance
 
@@ -268,7 +267,7 @@ Après la guerre, Stakros tourna ses Talents vers des activités pacifiques. Il 
 
 Stakros enseigne la valeur de la connaissance pour elle-même, et le pouvoir de l'esprit à surmonter tout obstacle. Il enseigne aussi que la connaissance est un pouvoir, et qu'entre des mains non préparées, elle ne peut être que dangereuse.
 
-### Kul
+## Kul
 
 **Domaines :** Connaissance, Vie, Soleil, Fourberie, Guerre
 
@@ -280,11 +279,11 @@ Le feu de Kul est le feu qui détruit, mais c'est aussi le feu qui crée, le feu
 
 Unique parmi les Dieux Créateurs Anciens, Kul ne désire pas l'adoration et la trouve répugnante. Les orcs invoquent encore Kul dans les moments désespérés sous le nom de « Kul Qui Parlait Autrefois ». Mais dans ces moments, ils ne demandent pas d'aide — seulement que Kul soit témoin de leurs actes, et qu'ils puissent se montrer dignes de son attention.
 
-#### Héros des Orcs
+### Héros des Orcs
 
 Les héros suivants sont vénérés par de nombreux orcs et d'autres qui suivent Kul.
 
-##### Khorvath Qui Tua un Millier
+#### Khorvath Qui Tua un Millier
 
 **Domaines :** Soleil, Guerre
 
@@ -332,7 +331,7 @@ Khorvath Qui Tua un Millier préférerait probablement être rappelée comme ell
 
 Voyrik donna le torque de son chef de guerre à son fils, qui grandit pour diriger la Foudre d'abord comme chef de guerre, puis chef. Il fut un bon dirigeant pour la Foudre.
 
-##### Grole le Manchot
+#### Grole le Manchot
 
 **Domaines :** Vie, Guerre
 
@@ -344,7 +343,7 @@ Grole enseigne les exploits extraordinaires que les gens ordinaires peuvent acco
 
 Grole est le Héros Orc de ceux qui font face à des décisions impossibles. Il est favorisé par la plupart des dirigeants Orcs. Grole enseigne que, même seul, même contre des chances impossibles, des Victoires extraordinaires sont possibles. Les Censeurs de Grole trempent souvent leur main gauche dans l'encre avant la bataille pour symboliser la main manquante de Grole.
 
-##### Khravila Qui Courut Quarante Lieues
+#### Khravila Qui Courut Quarante Lieues
 
 **Domaines :** Connaissance, Tromperie
 
@@ -362,7 +361,7 @@ Les elfes annulèrent leurs attaques et Khravila négocia la paix entre eux et l
 
 Khravila enseigne la vertu de la persévérance, de l'endurance et—par-dessus tout—de l'intelligence. Non seulement l'intelligence nécessaire pour déjouer les tests qui lui barraient la route, mais pour concevoir son plan légendaire en premier lieu, et le dévouement pour le mener à bien. « Peut-être qu'un autre orc aurait pu courir, » dit son frère. « Mais seule Khravila aurait pu bluffer. »
 
-#### Héros des Hakaan
+### Héros des Hakaan
 
 La plupart des hakaan d'Orden sont animistes. Ils connaissent et respectent les quatre Dieux Anciens qui ont créé le monde et croient que ces dieux observent le monde et voient ce qui s'y passe. Mais les Hakaan ne créent pas d'églises ou de systèmes de croyance formels autour de cette attitude.
 
@@ -372,7 +371,7 @@ Les hakaan savent qu'ils descendent des géants de pierre, mais ils ne se consid
 
 Les conduits et censeurs hakaan vénèrent les héros hakaan qui, après avoir accompli de grands exploits dans la vie, ont été choisis par les dieux pour prendre leur place parmi les étoiles, devenant des constellations. Ils voient les étoiles la nuit comme une carte complexe des héros hakaan légendaires, et de leurs propres ancêtres qui veillent d'en haut.
 
-##### Mahsiti la Tisseuse
+#### Mahsiti la Tisseuse
 
 **Domaines :** Création, Connaissance, Fourberie
 
@@ -388,7 +387,7 @@ Quand l'armée ennemie arriva, elle trouva les villages du clan vides, et ne rem
 
 Mahsiti enseigne que l'art et la science, la créativité et la connaissance, sont la même chose. Ceux qui suivent ses enseignements croient que l'acte de créer, d'amener une nouvelle idée ou œuvre d'art à l'existence, est l'acte de participer au même processus que les dieux utilisèrent pour créer le monde.
 
-##### Prexaspes l'Observateur d'Étoiles
+#### Prexaspes l'Observateur d'Étoiles
 
 **Domaines :** Nature, Protection, Soleil
 
@@ -406,7 +405,7 @@ Bien qu'il mourût dans l'acte, Prexaspes sauva son peuple devenant un Héros de
 
 Prexaspes enseigne que la nature est un bien moral et mérite d'être défendue, et que le soleil est la source de pouvoir pour toute vie sur Orden.
 
-##### Atossa la Bergère
+#### Atossa la Bergère
 
 **Domaines :** Destin, Protection, Tromperie
 
@@ -434,7 +433,7 @@ Cette nuit-là, une nouvelle constellation apparut dans le ciel.
 
 Atossa enseigne qu'il n'appartient pas au berger de juger le troupeau—seulement de le protéger et d'en prendre soin. Même s'ils peuvent être stupides, ou lâches. « Laissez les Dieux juger », disait Atossa. « Nous avons des moutons dont nous devons nous soucier. »
 
-### Dieux Diables
+## Dieux Diables
 
 Les héros diables d'Orden servent généralement les dieux et saints de la culture dans laquelle ils ont été élevés. Peu de diables d'Orden viennent des Sept Cités, la plupart descendent de diables qui se sont retrouvés bloqués sur Orden il y a des centaines ou des milliers d'années. Les diables qui viennent des Sept Cités ont leur propre panthéon unique.
 
@@ -442,11 +441,11 @@ Les Sept Cités ont des saints tout comme les humains d'Orden, mais à la place 
 
 Comme les autres dieux du Chronoscape, les Seigneurs des Enfers sont trop occupés pour répondre à chaque pétition et requête et emploient donc des saints comme les autres dieux. La religion aux Enfers est superficiellement similaire à la religion parmi les peuples d'Orden. Il y a des églises, des rites et des rituels, mais les diables ont tendance à considérer le fait d'aller à l'église et d'accomplir les rituels attendus aux moments appropriés comme l'équivalent de payer des impôts. Agaçant mais nécessaire.
 
-#### Saints de l'Enfer
+### Saints de l'Enfer
 
 Comme l'Orden, il y a des dizaines de saints en Enfer, certains obscurs. Ces trois-là sont parmi les saints les plus populaires et les plus susceptibles d'être suivis par un Conduit ou un Censeur.
 
-#### Thellasko le Grand Concepteur
+### Thellasko le Grand Concepteur
 
 **Domaines :** Connaissance, Guerre
 
@@ -470,7 +469,7 @@ Thellasko reçut la sainteté sur son lit de mort après une génération de bat
 
 Thellasko enseigne la vertu d'accepter la bataille telle qu'elle est, non telle qu'on souhaiterait qu'elle soit. D'agir basé sur les données disponibles, non sur ce que dit la tradition. Que les guerres ne sont pas gagnées uniquement sur la taille de son armée, mais sur quel camp est le mieux capable d'appliquer sa force contre l'adversaire.
 
-##### Uryal le Subtil
+#### Uryal le Subtil
 
 **Domaines :** Connaissance, Tromperie
 
@@ -492,7 +491,7 @@ Uryal enseigne que la tromperie n'est qu'un outil dans l'art du mensonge. Que le
 
 Uryal est le Saint du corps diplomatique de l'Enfer. Sa devise *officieuse*, faussement attribuée à lui mais souvent répétée : "*Fais à autrui ce qu'il te ferait. Mais fais-le lui en premier.*"
 
-##### Kuryalka le Faux Principe
+#### Kuryalka le Faux Principe
 
 **Domaines :** Mort, Tromperie
 
@@ -510,7 +509,7 @@ Kuryalka enseigne la vertu de l'ambition—que si vous êtes prêt à tout risqu
 
 Kuryalka figure dans de nombreux contes populaires en Enfer, notamment « De l'Enfant Qui Gardait les Moutons », dans lequel elle apparaît à un jeune berger l'avertissant de ne pas se faire prendre à dire ses premiers mensonges. Kuryalka l'instruit dans l'usage approprié de la manipulation : « *Ne raconte jamais le même mensonge deux fois* ! »
 
-### Dieux Humains de Vasloria
+## Dieux Humains de Vasloria
 
 Comme tous les Innombrables Dieux Cadets, les dieux de Vasloria incarnent les attitudes des peuples qui vivent dans cette région. Cela inclut les Humains, les Polders et les draconiens de Vasloria.
 
@@ -520,7 +519,7 @@ Certains d'entre eux le prennent cependant plus au sérieux que d'autres. Les ha
 
 Comme tous les peuples d'Orden, les habitants de Vasloria sont parfaitement conscients qu'il existe d'autres dieux. Ils ne pensent pas particulièrement que leurs dieux sont *meilleurs*, juste : « Ce sont les dieux locaux qui comptent pour nous. » Un prêtre de Cavall qui voyagerait loin de Corwell et se retrouverait dans la lointaine terre désertique de Khemhara pourrait toujours agir comme Conduit de Saint Llewellyn le Vaillant, mais il regarderait autour de lui dans l'Héliopolis et verrait les dieux à têtes d'animaux des Khemharans et les prouesses stupéfiantes de maçonnerie et d'astronomie accomplies par les Khemharans et penserait : « Eh bien. Manifestement, les dieux de Vasloria ne sont pas si importants ici, mais ces dieux le sont certainement ! » Les peuples de chaque région d'Orden préfèrent leurs propres dieux parce qu'ils les comprennent mieux, non parce qu'ils pensent qu'ils sont « plus puissants ».
 
-#### Adûn
+### Adûn
 
 **Domaines :** Création, Vie, Amour, Protection
 
@@ -534,7 +533,7 @@ Un chevalier qui suit Adûn passe son temps à aider les autres par le travail a
 
 Adûn et Cavall sont frères et la Ligne entre eux n'est pas nettement définie. Vérité et justice sont des compagnons proches.
 
-##### Gaed le Confesseur
+#### Gaed le Confesseur
 
 **Domaines :** Amour, Protection
 
@@ -552,7 +551,7 @@ C'était Gaed, fils de Malgen, fils de Germoc, qui entra dans la taverne—ce fu
 
 Gaed enseigne la vertu d'être fidèle à ses principes même—surtout—quand c'est la chose la plus difficile au monde. Le Titre de « confesseur » est accordé à ceux qui ont persisté dans leur foi en public, même quand c'était dangereux ou mortel.
 
-##### Gryffyn le Robuste
+#### Gryffyn le Robuste
 
 **Domaines :** Création, Vie
 
@@ -576,7 +575,7 @@ Fuyant par le pont, les réfugiés trouvèrent le corps de Gryffyn, auteur de ce
 
 Saint Gryffyn le Robuste enseigne que le désespoir est l'Ennemi de l'action. Que l'endurance inébranlable est le remède aux chances impossibles. Que plus que l'épée et le sort, le dur labeur est le sauveur du peuple.
 
-#### Cavall
+### Cavall
 
 **Domaines :** Vie, Amour, Protection, Guerre
 
@@ -588,7 +587,7 @@ Les Censeurs de Cavall, d'autre part, n'ont pas une telle devise. La noblesse pa
 
 Frère d'Adûn et patron du pays de Corwell, Cavall croit aussi que les gens, peu importe à quel point ils sont vils, peuvent être améliorés. « Que la loi juge », disait Saint Llewellyn, « Laissons-nous pardonner. »
 
-##### Llewellyn le Vaillant
+#### Llewellyn le Vaillant
 
 **Domaines :** Vie, Protection
 
@@ -630,7 +629,7 @@ Llewellyn et Cœur-d'Argent avaient débarrassé le peuple de leur duc maudit et
 
 Saint Llewellyn est le plus grand Saint de Cavall. Il enseigne que la plus grande loyauté est envers le bien-être du peuple, et qu'il est de la responsabilité des forts de protéger les faibles. Que le seul usage approprié du pouvoir est dans la poursuite de la justice.
 
-##### Gwenllian la Poigne-Funeste
+#### Gwenllian la Poigne-Funeste
 
 **Domaines :** Protection, Guerre
 
@@ -670,7 +669,7 @@ Douze jours après leur départ, Zür revint avec le corps de Dame Gwenllian sur
 
 Gwenllian est la Sainte de ceux qui montent la garde, de tous ceux qui doivent porter un fardeau sans cesse. Gwenllian enseigne que la vigilance est sa propre Récompense.
 
-#### Salorna
+### Salorna
 
 **Domaines :** Vie, Nature, Tempête, Soleil
 
@@ -688,7 +687,7 @@ Certains prêtres de Salorna sont des conduits ; d'autres sont des mages du vert
 
 Salorna a peu de censeurs, mais pas aucun ! Privilégiant les armures légères et les armes à distance, ses censeurs sont souvent pris pour des rôdeurs. Ils cherchent à punir ceux qui chassent pour le sport, ou ceux qui souillent l'ordre naturel.
 
-##### Draighen la Gardienne
+#### Draighen la Gardienne
 
 **Domaines :** Nature, Soleil
 
@@ -708,7 +707,7 @@ Les elfes furent dûment réprimandés et réalisèrent leur honte. Bien que les
 
 Draighen enseigne que des solutions peuvent toujours être trouvées si les gens sont disposés à parler. Que même la forêt la plus sombre n'est pas une chose dont il faut avoir peur si vous portez la sagesse et un cœur ouvert avec vous. Que la réaction appropriée face à un territoire inconnu est la curiosité.
 
-##### Eriarwen la Courroucée
+#### Eriarwen la Courroucée
 
 **Domaines :** Nature, Tempête
 
@@ -750,11 +749,11 @@ Eriarwen sourit, et connut la tâche qui l'attendait. Elle invoqua la foudre du 
 
 Eriarwen enseigne que la nature détient le pouvoir de détruire — que Mère Nature est aussi la furie d'un ouragan. Elle prêche la vengeance contre ceux qui pervertiraient le monde naturel. Et que ceux qui cherchent à préserver l'équilibre entre humains et nature doivent être prêts à recourir à l'action violente si nécessaire.
 
-#### Dieux Maléfiques
+### Dieux Maléfiques
 
 La plupart des héros sont des héros-héros, mais certains héros sont des anti-héros, et d'autres sont des anti-méchants ! Cette section présente un saint archétypal de chacun des dieux maléfiques de Vasloria ; les frères Nikros et Cyrvis pour les joueurs qui souhaitent incarner de tels héros.
 
-##### Nikros le Tyran
+#### Nikros le Tyran
 
 **Domaines :** Mort, Destin, Tempête, Guerre
 
@@ -770,7 +769,7 @@ Comme Cyrvis, ses prêtres pratiquent leur culte en secret. Comme Cyrvis, les ge
 
 Les censeurs de Nikros prennent ce qu'ils veulent, ignorent la loi sans se soucier des conséquences, et enseignent que tous les gens devraient vivre ainsi. Subjuguer sa volonté à la loi, ou à la communauté, ou à la famille, c'est être faible ! La faiblesse est une maladie et elle doit être éradiquée !
 
-##### Pentalion le Paladin
+#### Pentalion le Paladin
 
 **Domaines :** Mort, Guerre
 
@@ -786,7 +785,7 @@ Sauveur de tous, Pentalion fut fait Saint de Nikros pour cet acte. Il régna jus
 
 Saint Pentalion enseigne qu'on devrait attendre son heure et construire son pouvoir avant de frapper. Que la traîtrise au service de l'accroissement de son propre pouvoir n'est pas un vice.
 
-##### Cyrvis
+#### Cyrvis
 
 **Domaines :** Mort, Destin, Connaissance, Fourberie
 
@@ -798,7 +797,7 @@ Il est dangereux de vénérer Cyrvis en public, mais ceux qui gagnent du pouvoir
 
 Ses églises sont souvent souterraines—dans des donjons, des caves. Ses prêtres vénèrent en secret, complotant contre ceux qui ont le pouvoir, ou ceux qui sont simplement populaires. Être apprécié et aimé est Raison suffisante pour qu'un Suivant de Cyrvis vous haïsse.
 
-##### Eseld de l'Œil
+#### Eseld de l'Œil
 
 **Domaines :** Connaissance, Tromperie
 
@@ -818,7 +817,7 @@ Emplie de pouvoir sorcier, Eseld ne chercha plus la maîtrise de la Tour d'Encha
 
 Eseld enseigne que la rancune est une vertu. Seuls les fous suivent les règles, et la sorcellerie est une voie vers le pouvoir ultime.
 
-### Dieux de l'Espace du Chronoscape
+## Dieux de l'Espace du Chronoscape
 
 La nature et l'origine des dieux du chronoscape ne sont pas bien comprises. Contrairement aux dieux d'Orden, les Dieux de l'Espace sont des êtres corporels, généralement de taille immense—voire planétaire. Certains sont humanoïdes, d'autres, comme Nebular la Mère des Étoiles et XXAXX, ne le sont décidément pas.
 
@@ -828,17 +827,17 @@ Plutôt que des principes moraux, les Dieux de l'Espace représentent des concep
 
 Seule une poignée de ceux qui demeurent sur Orden ont jamais entendu parler de ces figures, ou savent que les étoiles sont autre chose que des trous d'épingle dans le rideau de la nuit.
 
-#### Seigneurs de l'Ordre et du Chaos
+### Seigneurs de l'Ordre et du Chaos
 
 Les Dieux de l'Espace ne se préoccupent pas outre mesure de ce que les Humains appellent « l'éthique ». Ils incarnent des principes plus anciens — l'ordre, le chaos, l'équilibre. Chaque faction pense que ses principes fondamentaux constituent la moralité. L'univers a besoin de Stabilité, de prévisibilité, disent les Seigneurs de l'Ordre. La seule constante est le changement, disent les Seigneurs du Chaos. La vérité se trouve entre les deux, disent les Seigneurs de l'Équilibre.
 
-#### Hérauts des Dieux de l'Espace
+### Hérauts des Dieux de l'Espace
 
 Qu'il s'agisse d'une tradition ou d'une véritable limitation, chaque Dieu de l'Espace possède, au lieu de Saints, un unique héraut—un mortel choisi pour être la voix du Dieu de l'Espace et communiquer avec ses adorateurs là où le Dieu lui-même ne le peut pas en raison de son esprit alien.
 
 Ces hérauts fonctionnent de la même manière que les Saints. Ils accordent aux Conduits et aux Censeurs du pouvoir au combat, mais sans les attentes morales des Dieux d'Orden. Les Dieux de l'Espace eux-mêmes sont plus capricieux, mais leurs hérauts arrivent souvent en personne pour aider leurs Suivants et portent un Intérêt actif aux affaires mortelles du Chronoscape.
 
-#### La Religion dans le Chronoscape
+### La Religion dans le Chronoscape
 
 Les peuples du chronoscape connaissent et croient en leurs dieux tout comme les habitants d'Orden. Il y a des églises à travers les mondes dédiées à Quasax l'Ultra Nova, des temples à Mynoth la Voie. Même XXAXX l'Anti-Dieu a ses adorateurs : le Culte du Défaire.
 
@@ -846,7 +845,7 @@ Mais la plupart des citoyens du chronoscape ne portent pas les dieux avec eux da
 
 L'équivalent le plus proche du culte d'Orden que l'on puisse trouver dans les mondes supérieurs se situerait à Alloy, la Cité au Centre du Chronoscape. Cette grande cité portuaire où les civilisations de tout le chronoscape viennent commercer est aussi une cité de temples. Des temples dédiés à chaque dieu et Saint et Héros et héraut du chronoscape—certains morts, d'autres oubliés—peuvent être trouvés quelque part dans les limites de cette cité antique. Les gens d'Orden arrivant à Alloy (un événement incroyablement rare, car il faut des énergies énormes pour élever son vaisseau hors du temps lent des mondes inférieurs) remarquent à quel point Alloy leur semble familière. C'est une cité où les mondes supérieurs et inférieurs se mélangent et où les sabres d'acier croisent parfois le fer avec des épées faites de lumière solide.
 
-#### Nebular la Mère des Étoiles
+### Nebular la Mère des Étoiles
 
 **Domaines :** Création, Vie, Amour, Soleil
 
@@ -856,7 +855,7 @@ Elle est une pouponnière stellaire laissant dans son sillage une traînée d'é
 
 Elle est la déesse de la création et pour certains de ses Suivants, la vie elle-même, car les énergies de ses enfants nourrissent toute vie sur tous les mondes. Ses prêtres enseignent que la vie est l'opposé de l'entropie, et le sous-produit naturel de son incubateur solaire.
 
-##### L'Appel de Dame Magnetar
+#### L'Appel de Dame Magnetar
 
 **Domaines :** Vie, Soleil
 
@@ -894,7 +893,7 @@ Les officiers et soldats memoneks d'UNISOL regardèrent le vaisseau-changeur sai
 
 Dame Magnetar est le Héraut de Nebulon la Mère des Étoiles, aidant ceux qui combattent pour la cause de la lumière, de la vie et de l'ordre. Elle est invoquée chaque fois qu'un grand sacrifice doit être fait. « Dame Magnetar, que mon sacrifice ne soit pas vain. »
 
-#### OV le Pilote des Vagues
+### OV le Pilote des Vagues
 
 **Domaines :** Destin, Connaissance, Tempête, Soleil
 
@@ -906,7 +905,7 @@ OV est le Dieu des navigateurs et de ceux qui cherchent un passage sûr à trave
 
 Quand un Raideur du Temps jure « Qu'OV me Guide », le sens n'est pas « Montre-moi la bonne chose à faire ». Mais : « Montre-moi un moyen de sortir de ce pétrin ».
 
-##### L'Appel de Cho'kassa la Rideuse du Temps
+#### L'Appel de Cho'kassa la Rideuse du Temps
 
 **Domaines :** Tempête, Soleil
 

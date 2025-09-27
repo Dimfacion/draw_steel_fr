@@ -1,14 +1,13 @@
 ---
 title: Nain
 ---
-
-## Nain
+# Nain
 
 Dotés d'une force qui dément leur taille, les nains ont une chair imprégnée de pierre—un hybride silico-organique qui les rend physiquement plus denses que les autres humanoïdes. Ils jouissent d'une réputation à Orden d'ingénieurs et de technologues avisés grâce aux connaissances qu'ils ont héritées de leurs frères aînés, les nains d'acier depuis longtemps disparus.
 
 Les nains sont les enfants du dieu ancien Ord, et une expression commune parmi les nains est « Ord a créé le monde »—leur façon de dire « Ce qui doit être sera ». Ils tirent une grande fierté de savoir qu'aux côtés d'Aan, Eth et Kul, leur dieu a créé le monde classique, et de nombreux nains quittent leurs foyers pour voir le monde et chercher la gloire au nom d'Ord.
 
-### À Propos des Nains
+## À Propos des Nains
 
 « Ils peuvent être têtus », remarqua Braises.
 
@@ -112,11 +111,11 @@ Dazar dévisagea cet homme, ce chevalier de Tor, et remarqua Braises qui rayonna
 
 John souriait jusqu'aux oreilles en regardant Braises. Elle leva trois doigts.
 
-### Traits de Nain
+## Traits de Nain
 
 Les héros nains ont accès aux traits suivants.
 
-#### Aptitude Signature : Gravure Runique
+### Aptitude Signature : Gravure Runique
 
 Vous pouvez graver une rune sur votre peau avec 10 minutes de travail ininterrompu, qui est activée par la magie présente dans votre corps. La rune que vous gravez détermine le bénéfice que vous recevez, choisi parmi les suivants :
 
@@ -128,26 +127,26 @@ Vous pouvez graver une rune sur votre peau avec 10 minutes de travail ininterrom
 
 Vous ne pouvez avoir qu'une rune active à la fois, et pouvez changer ou retirer une rune avec 10 minutes de travail ininterrompu.
 
-#### Traits de Nain Achetés
+### Traits de Nain Achetés
 
 Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Ancré au Sol, Étincelles sur la Peau.)
 
-##### Grande Fortitude (2 Points)
+#### Grande Fortitude (2 Points)
 
 Votre constitution robuste vous empêche de perdre de la force. Vous ne pouvez pas être affaibli(e).
 
-##### Ancré au sol (1 Point)
+#### Ancré au sol (1 Point)
 
 Votre corps de pierre massif et votre connexion à la terre rendent difficile pour les autres de vous déplacer. Vous bénéficiez d'un bonus de +1 à la Stabilité.
 
-##### Étincelle sur la Peau (2 Points)
+#### Étincelle sur la Peau (2 Points)
 
 Votre peau de pierre vous offre une protection puissante. Vous avez un bonus de +6 à la Vigueur, et ce bonus augmente de 6 aux 4e, 7e et 10e niveaux.
 
-##### Résistance Naturelle (1 Point)
+#### Résistance Naturelle (1 Point)
 
 Votre corps est fait pour encaisser les coups de vos ennemis. Votre score de Force est considéré comme supérieur de 1 dans le but de résister aux seuils, et vous gagnez un avantage sur les tests de Force lorsque vous devez résister aux effets environnementaux ou aux traits et aptitudes d'une créature.
 
-##### Chanteur de Pierre (1 Point)
+#### Chanteur de Pierre (1 Point)
 
 Vous avez une connexion magique avec la terre. Lorsque vous passez 1 heure ininterrompue à chanter, vous pouvez remodeler toute pierre classique non-travaillée dans un rayon de 3 cases. Vous ne pouvez pas détruire cette pierre, mais vous pouvez déplacer chaque case de pierre n'importe où dans un rayon de 3 cases, l'empilant sur le côté pour creuser un trou ou l'accumulant pour créer un mur.

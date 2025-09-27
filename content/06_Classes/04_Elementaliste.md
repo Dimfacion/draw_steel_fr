@@ -1,8 +1,7 @@
 ---
 title: Élémentaliste
 ---
-
-## Élémentaliste
+# Élémentaliste
 
 L'air pour le Déplacement. La terre pour la permanence. Le feu pour la destruction. L'eau pour le changement. Le vert pour la croissance. La pourriture pour la mort. Le vide pour le mystère de ce qui ne peut être connu. Des années d'étude, de pratique et de lecture assidue de grimoires t'ont apporté les révélations qui te permettent de manipuler ces éléments fondamentaux de la réalité. Désormais, tu utilises ta maîtrise des sept éléments pour détruire, créer et déformer le monde par la magie.
 
@@ -12,7 +11,7 @@ L'air pour le Déplacement. La terre pour la permanence. Le feu pour la destruct
 >
 > **Braises**
 
-### Bases
+## Bases
 
 **Caractéristiques de Départ :** Vous commencez avec une Raison de 2, et vous pouvez choisir l'une des répartitions suivantes pour vos autres scores de caractéristiques :
 
@@ -35,11 +34,11 @@ L'air pour le Déplacement. La terre pour la permanence. Le feu pour la destruct
 
 **Compétences :** Vous gagnez la Compétence Magie (voir Compétences au Chapitre 9 : Tests). Puis choisissez trois Compétences parmi les groupes de Compétences d'artisanat ou de savoir. (*Construction Rapide :* Alchimie, Forge, Histoire, Magie.)
 
-### Aptitudes de Niveau 1
+## Aptitudes de Niveau 1
 
 En tant qu'élémentaliste de niveau 1, vous obtenez les aptitudes suivantes.
 
-#### Spécialisation Élémentaire
+### Spécialisation Élémentaire
 
 Grâce à vos études, vous connaissez et pouvez manipuler les sept éléments primordiaux du Chronoscape :
 
@@ -53,7 +52,7 @@ Grâce à vos études, vous connaissez et pouvez manipuler les sept éléments p
 
 Vous choisissez une spécialisation élémentaire parmi les options suivantes : terre, feu, vert ou néant. Votre spécialisation élémentaire est votre Sous-classe, et votre choix de spécialisation détermine de nombreuses capacités que vous obtiendrez en gagnant de nouveaux Niveaux, incluant l'un des avantages suivants. (D'autres spécialisations élémentaires seront présentées dans de futurs produits.) (*Construction Rapide :* Feu.)
 
-###### Tableau d'Avancement de l'Élémentaliste
+##### Tableau d'Avancement de l'Élémentaliste
 
 | Niveau | Capacités                                                                                                                                                                                                                    | Aptitudes                           |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
@@ -68,27 +67,27 @@ Vous choisissez une spécialisation élémentaire parmi les options suivantes : 
 | 9e     | Grande Magie Primordiale, Nouvelle Aptitude à 11-Essence                                                                                                                                                                        | Deux signature, 3, 5, 5, 7, 9, 9, 11 |
 | 10e    | Augmentation de Caractéristique, Souffle, Être Essentiel, Un, Avantage, Augmentation de Compétence                                                                                                                             | Deux signature, 3, 5, 5, 7, 9, 9, 11 |
 
-##### Terre : Acolyte de la Terre
+#### Terre : Acolyte de la Terre
 
 Vous exploitez le flux de magie terrestre pour devenir plus difficile à déplacer. Chaque fois que vous utilisez une aptitude qui possède les mots-clés Terre et Magie, votre stabilité augmente de 1 jusqu'au début de votre prochain tour. Cet avantage est cumulatif.
 
-##### Feu : Acolyte du Feu
+#### Feu : Acolyte du Feu
 
 Vous devenez un expert dans le maniement des flammes destructrices. Vos aptitudes qui possèdent les mots-clés Feu et Magie gagnent un bonus de +1 aux dégâts lancés. Votre aptitude Lancer un Élément (voir ci-dessous) gagne également ce bonus lorsque vous l'utilisez pour infliger des dégâts de feu.
 
-##### Vert : Acolyte du Vert
+#### Vert : Acolyte du Vert
 
 Vous exploitez la magie résiduelle de vos sorts verts pour vous renforcer ainsi que vos alliés. Chaque fois que vous infligez des dégâts à une ou plusieurs créatures en utilisant une aptitude qui possède les mots-clés Vert et Magie et qui coûte de l'essence à utiliser (voir ci-dessous), vous ou une créature dans un rayon de 10 cases de vous gagnez de la Vigueur Temporaire égale à votre score de Raison.
 
-##### Néant : Acolyte du Mystère
+#### Néant : Acolyte du Mystère
 
 Vous utilisez votre immersion dans le mystère de la magie du néant pour étendre la portée de cette magie mieux que les autres mages. La distance de toutes vos aptitudes qui ont les mots-clés Magie, À Distance et Néant augmente de 2 cases.
 
-#### Essence
+### Essence
 
 Vous canalisez la substance de la création sous la forme d'une Ressource Héroïque appelée essence, que vous rassemblez et consumez pour lancer et maintenir des sorts.
 
-##### Essence en Combat
+#### Essence en Combat
 
 Au début d'une rencontre de combat ou d'une autre situation stressante suivie en tours de combat (selon la décision du Directeur), vous gagnez de l'essence égale à vos Victoires. Au début de chacun de vos tours pendant le combat, vous gagnez 2 essence.
 
@@ -96,7 +95,7 @@ De plus, la première fois à chaque tour de combat que vous ou une créature da
 
 Vous perdez toute essence restante à la fin de la rencontre.
 
-##### Essence en Dehors du Combat
+#### Essence en Dehors du Combat
 
 Bien que vous ne puissiez pas gagner d'essence en dehors du combat, vous pouvez utiliser vos aptitudes héroïques et effets qui coûtent de l'essence sans la dépenser. Chaque fois que vous utilisez une aptitude ou un effet en dehors du combat qui coûte de l'essence, vous ne pouvez pas utiliser cette même aptitude ou effet en dehors du combat à nouveau jusqu'à ce que vous obteniez 1 ou plusieurs Victoires ou terminiez un répit.
 
@@ -104,7 +103,7 @@ Quand vous utilisez une aptitude persistante en dehors du combat (voir Magie Per
 
 Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépenser une essence illimitée sur son effet, vous pouvez l'utiliser comme si vous aviez dépensé une quantité d'essence égale à vos Victoires.
 
-#### Lancer d'Élément
+### Lancer d'Élément
 
 Vous avez l'aptitude suivante, qui peut être utilisée comme une frappe gratuite à distance.
 
@@ -127,7 +126,7 @@ Vous avez l'aptitude suivante, qui peut être utilisée comme une frappe gratuit
 > 
 > Quand vous effectuez cette frappe, choisissez le type de dégâts parmi les options suivantes : acide, froid, corruption, feu, foudre, poison ou sonique.
 
-#### Magie Persistante
+### Magie Persistante
 
 Certaines de vos aptitudes héroïques possèdent une entrée d'effet persistant. Par exemple, l'aptitude Excavation Instantanée a un effet noté comme « Persistant 1 ». Chaque fois que vous utilisez une aptitude persistante, vous décidez si vous voulez la maintenir, et commencez à le faire immédiatement après avoir utilisé l'aptitude pour la première fois. Si vous maintenez une aptitude persistante en combat, vous réduisez la quantité d'essence que vous gagnez au début de votre tour d'un montant égal à la valeur persistante de l'aptitude, ce qui active l'effet persistant de l'aptitude. Toutes vos aptitudes persistantes actives se terminent à la fin de la rencontre.
 
@@ -137,7 +136,7 @@ Si vous maintenez la même aptitude sur plusieurs cibles et que l'effet inclut u
 
 Si vous subissez des dégâts égaux ou supérieurs à 5 fois votre score de Raison en un tour, vous arrêtez de maintenir toutes les aptitudes persistantes. Par exemple, si vous avez un score de Raison de 2 et maintenez Excavation Instantanée, subir 10 dégâts ou plus en un tour vous fait arrêter de maintenir l'aptitude.
 
-#### Magie Pratique
+### Magie Pratique
 
 Vous disposez de l'aptitude suivante.
 
@@ -158,11 +157,11 @@ Vous disposez de l'aptitude suivante.
 > - Vous choisissez une créature dans la distance de votre aptitude Lancer un Élément et l'un des types de dégâts suivants : acide, froid, corruption, feu, foudre, poison ou sonique. Cette créature subit des dégâts du type choisi égaux à votre score de Raison.
 > - Vous vous téléportez d'un nombre de cases égal à votre score de Raison. Si vous choisissez cette option, vous pouvez dépenser de l'essence pour vous téléporter d'1 case supplémentaire par essence dépensée.
 
-#### Aptitude de Spécialisation de Niveau 1
+### Aptitude de Spécialisation de Niveau 1
 
 Votre spécialisation élémentaire vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Spécialisation Élémentaire de Niveau 1.
 
-###### Tableau des Aptitudes de Spécialisation Élémentaire de Niveau 1
+##### Tableau des Aptitudes de Spécialisation Élémentaire de Niveau 1
 
 | Spécialisation | Aptitude                       |
 |----------------|--------------------------------|
@@ -171,7 +170,7 @@ Votre spécialisation élémentaire vous accorde une aptitude, comme indiqué da
 | Vert           | C'est l'Âme qui Entend         |
 | Néant          | Un Au-delà de la Vision        |
 
-##### Une Vision Au-Delà
+#### Une Vision Au-Delà
 
 Vous reconnaissez instantanément les illusions pour ce qu'elles sont, vous pouvez voir les créatures invisibles, et les effets surnaturels ne peuvent pas vous dissimuler les créatures et objets. De plus, vous savez toujours si une zone ou un objet que vous observez est magique ou affecté par la magie, et vous connaissez les spécificités de ce que cette magie peut faire.
 
@@ -190,17 +189,17 @@ Vous gagnez également l'aptitude suivante.
 > 
 > **💫 Effet:** Pour chaque Victoire que vous avez, vous pouvez cibler une créature. Chaque cible gagne le bénéfice de votre capacité Une Vision Au-Delà jusqu'à la fin de votre prochain tour, mais ne gagne pas l'usage de l'aptitude Sens du Vide Partagé.
 
-##### C'est l'Âme qui Entend
+#### C'est l'Âme qui Entend
 
 Vous pouvez parler avec et comprendre les animaux, les bêtes et les créatures végétales, même s'ils ne partagent pas de langage avec vous. Votre aptitude à communiquer avec ces créatures ne les rend pas intrinsèquement plus intelligentes, mais vous pouvez utiliser la Raison au lieu de la Présence lors des tests pour les influencer.
 
 De plus, vous pouvez toucher une plante vivante qui n'est pas une créature végétale pour communiquer avec elle par télépathie. Vous pouvez utiliser des mots pour communiquer avec la plante, mais elle ne communique avec vous qu'en transmettant des sentiments et des sensations qui ne peuvent pas être trop spécifiques.
 
-##### Motiver la Terre
+#### Motiver la Terre
 
 Vous disposez de l'aptitude suivante.
 
-##### Motiver la Terre
+#### Motiver la Terre
 Vous disposez de l'aptitude suivante.
 
 > [!spell] Motiver la Terre
@@ -218,7 +217,7 @@ Vous disposez de l'aptitude suivante.
 > 
 > Alternativement, vous touchez une structure faite de terre, de pierre ou de métal classique qui occupe 2 cases ou plus. Vous pouvez ouvrir une ouverture d'1 case dans la structure à l'endroit où vous l'avez touchée. Vous pouvez à la place toucher une porte existante ou toute autre ouverture d'1 case ou moins dans une surface de terre, de pierre ou de métal classique. L'ouverture est scellée par le même matériau qui compose la surface.
 
-##### Retour à l'Informe
+#### Retour à l'Informe
 Vous possédez l'aptitude suivante.
 
 > [!spell] Retour à l'Informe
@@ -234,11 +233,11 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Vous chauffez la cible et la faites fondre ou brûler, la détruisant. Si l'objet fait plus d'une case, alors seule la case de l'objet que vous touchez est détruite.
 
-#### Action Déclenchée de Spécialisation
+### Action Déclenchée de Spécialisation
 
 Votre spécialisation élémentaire vous accorde une action déclenchée, comme indiqué dans le tableau des Actions Déclenchées de Spécialisation.
 
-###### Tableau des Actions Déclenchées de Spécialisation Élémentaire
+##### Tableau des Actions Déclenchées de Spécialisation Élémentaire
 
 | Spécialisation  | Action Déclenchée                |
 |-----------------|----------------------------------|
@@ -315,57 +314,57 @@ Votre spécialisation élémentaire vous accorde une action déclenchée, comme 
 > 
 > **🔥 Dépenser 1 Essence :** Vous téléportez la cible jusqu'à un nombre de cases égal au double de votre score de Raison à la place.
 
-#### Enchantement
+### Enchantement
 
 Vous tissez un enchantement élémentaire dans votre corps qui améliore vos statistiques. Choisissez l'un des enchantements suivants. Vous pouvez changer votre enchantement et votre garde (voir Garde d'Élémentaliste ci-dessous) en effectuant un rituel complexe comme activité de répit. (*Construction Rapide :* Enchantement de Destruction.)
 
-##### Enchantement de Bataille
+#### Enchantement de Bataille
 
 Vous pouvez porter une armure légère et manier des armes légères efficacement, même si vous n'avez pas de Panoplie. Tant que vous portez une armure légère, vous gagnez un bonus de +3 à la Vigueur, et ce bonus augmente de 3 aux niveaux 4, 7 et 10. Tant que vous maniez une arme légère, vous gagnez un bonus de +1 aux Dégâts avec les aptitudes d'arme, y compris les Frappes Gratuites. Vous pouvez utiliser les Trésors d'armure légère et les Trésors d'arme légère.
 
 Si vous avez une Panoplie, vous ne pouvez pas prendre cet enchantement.
 
-##### Enchantement de Célérité
+#### Enchantement de Célérité
 
 Vous gagnez un bonus de +1 à la Vitesse et à la Distance que vous pouvez Glisser lorsque vous effectuez l'Action de Déplacement - Désengagement.
 
-##### Enchantement de Destruction
+#### Enchantement de Destruction
 
 Vous gagnez un bonus de +1 aux dégâts lancés avec les aptitudes magiques.
 
-##### Enchantement de Distance
+#### Enchantement de Distance
 
 Vous bénéficiez d'un bonus de +2 à la distance de vos aptitudes magiques à distance.
 
-##### Enchantement de Permanence
+#### Enchantement de Permanence
 
 Vous gagnez un bonus de +6 à la Vigueur, et ce bonus augmente de 6 aux 4e, 7e et 10e niveaux. De plus, vous gagnez un bonus de +1 à la Stabilité.
 
-#### Garde Élémentaliste
+### Garde Élémentaliste
 
 Vous créez une garde élémentaire invisible qui vous protège. Choisissez l'une des gardes suivantes. Vous pouvez changer votre garde et votre enchantement (voir ci-dessus) en effectuant un rituel complexe comme activité de répit. (*Construction Rapide :* Garde de Réactivité Surprenante.)
 
-##### Garde des Conséquences Délicieuses
+#### Garde des Conséquences Délicieuses
 
 Un champ protecteur de magie du néant absorbe la violence dirigée contre vous, puis vous permet de la renvoyer sur vos ennemis. La première fois à chaque tour que vous subissez des dégâts, vous gagnez 1 impulsion.
 
-##### Protection Excellente
+#### Protection Excellente
 
 Vous tissez un bouclier de tous les éléments autour de vous, canalisant leur plein pouvoir protecteur. Vous bénéficiez d'une immunité aux dégâts d'acide, de froid, de corruption, de feu, de foudre, de poison ou soniques égale à votre score de Raison.
 
-##### Protection de l'Affection de la Nature
+#### Protection de l'Affection de la Nature
 
 L'énergie verte qui se tord dans votre corps vous permet de produire de puissantes lianes lorsque vous êtes en danger. Chaque fois qu'une créature située dans un nombre de cases égal à votre score de Raison vous inflige des dégâts, vous pouvez utiliser une action déclenchée gratuite pour faire subir un glissement à cette créature sur un nombre de cases égal à votre score de Raison.
 
-##### Garde de Réactivité Surprenante
+#### Garde de Réactivité Surprenante
 
 Vous utilisez la magie du feu pour créer une garde d'énergie explosive. Chaque fois qu'une créature adjacente vous inflige des dégâts, vous pouvez utiliser une action déclenchée gratuite pour effectuer une poussée sur cette créature d'un nombre de cases égal au double de votre score de Raison.
 
-#### Aptitudes d'Élémentaliste
+### Aptitudes d'Élémentaliste
 
 Votre compréhension de la magie élémentaire vous accorde des aptitudes uniques, vous permettant d'infliger des dégâts, de déplacer et d'affaiblir vos ennemis, de renforcer vos alliés, et de modifier le terrain autour de vous. Vous pouvez sélectionner des aptitudes de n'importe quelle spécialisation élémentaire pour élargir votre potentiel, ou vous pouvez vous concentrer sur les aptitudes liées à votre spécialisation choisie pour établir votre maîtrise du pouvoir élémentaire.
 
-##### Aptitudes Signature
+#### Aptitudes Signature
 
 Choisissez deux aptitudes signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Incinération Bifurquée, Feu Visqueux.)
 
@@ -513,11 +512,11 @@ Choisissez deux aptitudes signature parmi les options suivantes. Les aptitudes s
 > - **12-16 :** 5 + Rai dégâts de feu ; poussée 3
 > - **17+ :** 7 + Rai dégâts de feu ; poussée 4
 
-##### Aptitudes Héroïques
+#### Aptitudes Héroïques
 
 Vous canalisez une variété d'aptitudes héroïques, toutes alimentées par votre essence.
 
-###### Aptitude à 3-Essence
+##### Aptitude à 3-Essence
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 essence à utiliser. (*Construction Rapide :* La Chair, un Creuset.)
 
@@ -605,7 +604,7 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 3 Essence
 
-###### Aptitude à 5 Essence
+##### Aptitude à 5 Essence
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 essence à utiliser. (*Construction Rapide :* Conflagration.)
 
@@ -691,19 +690,19 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 5 Essence
 
-### Aptitudes de Niveau 2
+## Aptitudes de Niveau 2
 
 En tant qu'élémentaliste de niveau 2, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'artisanat, de connaissance ou surnaturel de votre choix. Voir Chapitre 7 : Avantages.
 
-#### Aptitude de Spécialisation de 2e Niveau
+### Aptitude de Spécialisation de 2e Niveau
 
 Votre spécialisation élémentaire vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Spécialisation Élémentaire de 2e Niveau.
 
-###### Tableau des Capacités de Spécialisation Élémentaire de Niveau 2
+##### Tableau des Capacités de Spécialisation Élémentaire de Niveau 2
 
 | Spécialisation | Capacité                     |
 |----------------|------------------------------|
@@ -712,17 +711,17 @@ Votre spécialisation élémentaire vous accorde une aptitude, comme indiqué da
 | Vert           | Disciple du Vert             |
 | Vide           | Il N'y a Pas d'Espace Entre |
 
-##### Disciple de la Terre
+#### Disciple de la Terre
 
 Votre corps est renforcé par la connexion de votre esprit à l'élément de permanence. Vous avez un bonus de +6 à la Vigueur, et vous gagnez un bonus supplémentaire de +3 à la Vigueur chaque fois que vous gagnez un Niveau au-delà du 2e.
 
-##### Disciple du Feu
+#### Disciple du Feu
 
 Votre connexion au feu vous permet de vous en protéger, même lorsque vous arrachez les protections des autres. Vous avez une immunité au feu égale à 5 plus votre niveau. De plus, les dégâts de feu que vous infligez ignorent l'immunité au feu d'une cible.
 
 Au début d'une rencontre de combat, vous gagnez un nombre d'impulsions égal à vos Victoires. Chaque fois que vous dépensez une impulsion pour infliger des dégâts supplémentaires, vous pouvez faire en sorte que ces dégâts soient des dégâts de feu.
 
-##### Disciple du Vert
+#### Disciple du Vert
 
 Vous pouvez utiliser une manœuvre pour vous métamorphoser en un type de créature de la table Formes Animales du Vert. Sous forme animale, vous pouvez parler, et vous utilisez votre score de Raison pour effectuer des frappes gratuites au corps à corps. Vos statistiques restent les mêmes sauf indication contraire dans la table.
 
@@ -732,7 +731,7 @@ Vous choisissez un animal spécifique et une apparence sous forme animale. Par e
 
 Vous pouvez revenir à votre forme véritable par une manœuvre. Vous ne pouvez pas prendre une forme animale à moins d'être sous votre forme véritable. Lorsque vous êtes mourant, vous revenez à votre forme véritable et ne pouvez pas vous retransformer en animal tant que vous n'êtes plus mourant.
 
-###### Tableau des Formes Animales Vertes
+##### Tableau des Formes Animales Vertes
 
 | Type d'Animal        | Niveau | Vigueur Temporaire | Vitesse             | Taille | Bonus de Stabilité | Bonus de Dégâts au Corps à Corps | Spécial                                                                                                                                                                                                                                                                                                                                                                 |
 | -------------------- | ------ | ------------------ | ------------------- | ------ | ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -757,7 +756,7 @@ Vous pouvez revenir à votre forme véritable par une manœuvre. Vous ne pouvez 
 | Rhinocéros           | 9e     | 10                 | 8                   | 2      | +5                 | +2/+2/+2                         | Chaque fois que vous effectuez une frappe gratuite au corps à corps dans le cadre de l'action charge, cette<br>frappe gagne un avantage.                                                                                                                                                                                                                                |
 | Lézard terreur royal | 10e    | 20                 | 5                   | 4      | +3                 | +2/+2/+2                         | Votre frappe gratuite au corps à corps est une explosion 1 avec les mots-clés Zone et Frappe.                                                                                                                                                                                                                                                                           |
 
-##### Il N'Y a Pas d'Espace Entre
+#### Il N'Y a Pas d'Espace Entre
 
 Vous disposez de l'aptitude suivante.
 
@@ -776,7 +775,7 @@ Vous disposez de l'aptitude suivante.
 > 
 > Au début de chacun de vos tours tant que les portails sont actifs, vous pouvez ouvrir un nouveau portail connecté aux autres. Si trois portails ou plus sont présents, vous et vos alliés choisissez de quel portail émerger en entrant dans un portail, et une créature qui déplace de force un ennemi dans un portail choisit le portail de destination de cet ennemi.
 
-#### Nouvelle Aptitude à 5 Essence
+### Nouvelle Aptitude à 5 Essence
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 essence à utiliser. Alternativement, vous pouvez choisir l'une des aptitudes à 5 essence que vous n'avez pas sélectionnée au niveau 1 (voir Capacités de Niveau 1).
 
@@ -862,15 +861,15 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 5 Essence
 
-### Aptitudes de Niveau 3
+## Aptitudes de Niveau 3
 
 En tant qu'élémentaliste de niveau 3, vous gagnez les aptitudes suivantes.
 
-#### Aptitude de Spécialisation de Niveau 3
+### Aptitude de Spécialisation de Niveau 3
 
 Votre spécialisation élémentaire vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Spécialisation Élémentaire de Niveau 3.
 
-###### Tableau des Aptitudes de Spécialisation Élémentaire de Niveau 3
+##### Tableau des Aptitudes de Spécialisation Élémentaire de Niveau 3
 
 | Spécialisation | Aptitude                                |
 |----------------|-----------------------------------------|
@@ -879,15 +878,15 @@ Votre spécialisation élémentaire vous accorde une aptitude, comme indiqué da
 | Verdure        | Se Souvenir de la Croissance, du Soleil et de la Pluie |
 | Néant          | La Distance n'est qu'un Souvenir        |
 
-##### Une Conversation avec le Feu
+#### Une Conversation avec le Feu
 
 Lorsque vous passez 1 minute ininterrompue devant un feu, vous pouvez prononcer le nom d'une autre créature. Si cette créature est disposée à vous parler, son image apparaît dans le feu, et elle peut vous voir devant elle dans une sphère de lumière scintillante. Vous pouvez tous les deux vous parler à travers ces images comme si vous étiez ensemble en personne. Par une manœuvre, vous ou la créature pouvez mettre fin à la conversation.
 
-##### La Distance N'est qu'un Souvenir
+#### La Distance N'est qu'un Souvenir
 
 Chaque fois que vous terminez un répit, vous pouvez ouvrir un portail bidirectionnel qui mène vers n'importe quel endroit où vous êtes déjà allé. Vous et vos alliés pouvez traverser le portail, qui reste ouvert pendant 1 heure ou jusqu'à ce que vous le révoquiez par une action principale.
 
-##### La Terre m'Accueille
+#### La Terre m'Accueille
 
 Vous possédez l'aptitude suivante.
 
@@ -904,7 +903,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Vous pénétrez dans un objet classique de terre, de métal ou de pierre (y compris un mur) qui est aussi grand que vous ou plus grand. Vous pouvez rester à l'intérieur de l'objet aussi longtemps que vous le souhaitez. Tant que vous êtes à l'intérieur de l'objet, vous pouvez observer les événements et parler aux créatures à l'extérieur, mais vous n'avez pas de ligne d'effet vers quoi que ce soit à l'extérieur de l'objet et vice versa. Vous pouvez voyager librement à travers l'objet jusqu'à ce que vous en sortiez. Si l'objet avec lequel vous fusionnez est détruit, vous subissez 10 dégâts et sortez de l'objet.
 
-##### Se Souvenir de la Croissance et du Soleil et de la Pluie
+#### Se Souvenir de la Croissance et du Soleil et de la Pluie
 Vous possédez l'aptitude suivante.
 
 > [!spell] Se Souvenir de la Croissance et du Soleil et de la Pluie
@@ -920,7 +919,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Vous voyez et entendez tous les événements qui se sont produits dans un rayon de 10 cases autour de l'objet au cours des 12 dernières heures, percevant ces événements depuis l'emplacement de l'objet comme si vous y étiez.
 
-#### Aptitude à 7-Essence
+### Aptitude à 7-Essence
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 essence à utiliser.
 
 > [!spell] Effacement
@@ -1007,23 +1006,23 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 7 Essence
 
-### Aptitudes de Niveau 4
+## Aptitudes de Niveau 4
 
 En tant qu'élémentaliste de niveau 4, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Votre score de Raison passe à 3. De plus, vous pouvez augmenter l'un de vos scores de caractéristique de 1, jusqu'à un maximum de 3.
 
-#### Source d'Essence
+### Source d'Essence
 
 La première fois à chaque tour de combat que vous ou une créature dans un rayon de 10 cases subissez des dégâts qui ne sont pas des dégâts non-typés ou sacrés, vous gagnez 2 essence au lieu de 1.
 
-#### Manteau d'Essence
+### Manteau d'Essence
 
 Tant que vous avez 3 points d'essence ou plus et que vous n'êtes pas mourant, vous dégagez une aura de magie dont la distance est égale à votre score de Raison. Les effets dans la zone de l'aura dépendent de votre spécialisation, comme indiqué dans le tableau des Effets de Spécialisation du Manteau d'Essence. Vous pouvez activer et désactiver l'aura à volonté (aucune action requise).
 
-###### Tableau des Effets de Spécialisation du Manteau d'Essence
+##### Tableau des Effets de Spécialisation du Manteau d'Essence
 
 | Spécialisation | Caractéristique    |
 |----------------|--------------------|
@@ -1032,39 +1031,39 @@ Tant que vous avez 3 points d'essence ou plus et que vous n'êtes pas mourant, v
 | Vert           | Lit Fleuri         |
 | Vide           | Lit Voilant        |
 
-##### Terres Brûlantes
+#### Terres Brûlantes
 
 À la fin de chacun de vos tours, chaque ennemi dans la zone subit des dégâts de feu égaux à votre score de Raison.
 
-##### Lit Fleuri
+#### Lit Fleuri
 
 À la fin de chacun de vos tours, chaque allié dans la zone gagne de la Vigueur Temporaire égale à votre score de Raison.
 
-##### Terre Tremblante
+#### Terre Tremblante
 
 À la fin de chacun de vos tours, vous pouvez effectuer une poussée sur chaque ennemi dans la zone d'un nombre de cases égal à votre score de Raison.
 
-##### Lit de Voiles
+#### Lit de Voiles
 
 La zone fournit une dissimulation pour vous et vos alliés.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix. Voir Compétences au Chapitre 9 : Tests.
 
-### Aptitudes de Niveau 5
+## Aptitudes de Niveau 5
 
 En tant qu'élémentaliste de niveau 5, vous gagnez les aptitudes suivantes.
 
-#### Aptitude de Spécialisation de Niveau 5
+### Aptitude de Spécialisation de Niveau 5
 
 Votre spécialisation élémentaire vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Spécialisation Élémentaire de Niveau 5.
 
-###### Tableau des Aptitudes de Spécialisation Élémentaire de Niveau 5
+##### Tableau des Aptitudes de Spécialisation Élémentaire de Niveau 5
 
 | Spécialisation | Aptitude                         |
 |----------------|----------------------------------|
@@ -1073,31 +1072,31 @@ Votre spécialisation élémentaire vous accorde une aptitude, comme indiqué da
 | Vert           | Peau aux Dix Mille Boucliers     |
 | Néant          | Percer le Voile de la Substance  |
 
-##### Cuir aux Dix Boucliers
+#### Cuir aux Dix Boucliers
 
 Vos formes animales deviennent plus résistantes. Vous gagnez de la Vigueur Temporaire égale à votre Niveau lorsque vous prenez une forme animale en combat, qui s'ajoute à toute Vigueur Temporaire fournie par la forme animale.
 
 De plus, un Allié Adjacent peut utiliser une Manœuvre pour vous caresser. S'il le fait, vous pouvez perdre de la Vigueur Temporaire jusqu'à un minimum de 0. L'Allié gagne de la Vigueur Temporaire égale au montant que vous avez perdu.
 
-##### La Montagne Ne Bouge Pas
+#### La Montagne Ne Bouge Pas
 
 Vous restez ferme et magnétisez vos alliés pour qu'ils demeurent ancrés au sol. Votre Stabilité augmente de votre Niveau.
 
 De plus, chaque fois qu'un Allié à Distance de votre aptitude Lancer un Élément subit un déplacement forcé, vous pouvez utiliser une Action Déclenchée Gratuite pour diminuer votre Stabilité jusqu'à un minimum de 0, puis augmenter la Stabilité de l'allié d'un montant égal à la Stabilité que vous avez perdue. Ce changement dure jusqu'à la fin du tour.
 
-##### Percer le Voile de la Substance
+#### Percer le Voile de la Substance
 
 La solidité n'est qu'une suggestion pour vous. Les barrières classiques d'une épaisseur d'une case ou moins ne bloquent pas vos sens ou votre ligne d'effet. Vous ne pouvez percevoir ou avoir une ligne d'effet qu'au-delà d'une seule barrière de ce type à la fois.
 
 De plus, chaque fois que vous utilisez une aptitude du néant, vous ou un allié à distance de l'aptitude pouvez vous téléporter d'un nombre de cases égal à votre score de Raison.
 
-##### Pas Ardent
+#### Pas Ardent
 
 Vous pouvez utiliser 1 case de déplacement pour marcher dans une zone de feu de votre taille ou plus grande et vous téléporter vers toute autre zone de feu de votre taille ou plus grande dans un rayon de 10 cases de la première zone.
 
 De plus, chaque fois que vous utilisez une aptitude de feu ou que vous êtes ciblé par une aptitude qui inflige des dégâts de feu, chaque ennemi adjacent à vous subit des dégâts de feu égaux à votre score de Raison.
 
-#### Aptitude à 9-Essence
+### Aptitude à 9-Essence
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 essence à utiliser.
 
@@ -1187,15 +1186,15 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 9 Essence
 
-### Aptitudes de Niveau 6
+## Aptitudes de Niveau 6
 
 En tant qu'élémentaliste de niveau 6, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'artisanat, de savoir ou surnaturel de votre choix.
 
-#### Sorcellerie
+### Sorcellerie
 
 Vous pouvez passer 10 minutes ininterrompues à créer un sort de magie libre pour diverses situations. Choisissez l'un des effets magiques suivants :
 
@@ -1206,7 +1205,7 @@ Vous pouvez passer 10 minutes ininterrompues à créer un sort de magie libre po
 - Vous pouvez préserver un cadavre ou jusqu'à 2,5 kg de nourriture pendant une semaine, ou pouvez faire qu'un cadavre ou cette quantité de nourriture pourrisse instantanément.
 - Vous créez un sceau sur une surface qui ne peut être vu ou ressenti par personne d'autre que vous. Quand une Créature devient Adjacente à la surface, vous pouvez voir et entendre à travers le sceau tant que la Créature reste Adjacente à celle-ci. Quand vous créez le sceau, vous pouvez décider de limiter le nombre de Créatures qui l'activent en choisissant un mot-clé de Créature (comme Mort-vivant) ou un nom spécifique (comme Ajax l'Invincible) ou une organisation (comme le Pacte de Fer Noir). Si vous le faites, le sceau ne vous alerte que quand des Créatures avec le mot-clé, le nom ou l'affiliation organisationnelle que vous fournissez passent près de lui. Si vous créez un second sceau, le premier disparaît. Vous pouvez dissiper un sceau à tout moment (Action Triviale requise).
 
-#### Nouvelle Aptitude à 9 Essence
+### Nouvelle Aptitude à 9 Essence
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 essence à utiliser. Alternativement, vous pouvez choisir l'une des aptitudes à 9 essence que vous n'avez pas sélectionnée au niveau 5 (voir Capacités de Niveau 5).
 
@@ -1288,41 +1287,41 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 9 Essence
 
-### Aptitudes de Niveau 7
+## Aptitudes de Niveau 7
 
 En tant qu'élémentaliste de niveau 7, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Chacun de vos scores de caractéristique augmente de 1, jusqu'à un maximum de 4.
 
-#### Manteau de Quintessence
+### Manteau de Quintessence
 
 Votre aptitude Manteau d'Essence ne nécessite plus d'essence.
 
 De plus, votre Manteau d'Essence irradie désormais une magie qui crée une atmosphère apaisante. Les créatures dans la zone de l'aura du manteau voient leur patience de départ augmentée de 1 (jusqu'à un maximum de 5) lors de toute négociation. Tant qu'ils se trouvent dans la zone, vous et tout allié gagnez un avantage sur les tests qui utilisent la compétence Dressage. Si vous avez 5 victoires ou plus, le bonus à la patience passe à 2 et les tests qui utilisent la compétence Dressage ont un double avantage.
 
-#### Essence Déferlante
+### Essence Déferlante
 
 Quand vous gagnez de l'essence au début de chacun de vos tours pendant le combat, vous gagnez 3 essence au lieu de 2.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-### Aptitudes de Niveau 8
+## Aptitudes de Niveau 8
 
 En tant qu'élémentaliste de niveau 8, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Aptitude de Spécialisation de Niveau 8
+### Aptitude de Spécialisation de Niveau 8
 
 Votre spécialisation élémentaire vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Spécialisation Élémentaire de Niveau 8.
 
-###### Tableau des Aptitudes de Spécialisation Élémentaire de Niveau 8
+##### Tableau des Aptitudes de Spécialisation Élémentaire de Niveau 8
 
 | Spécialisation | Aptitude                      |
 |----------------|-------------------------------|
@@ -1331,13 +1330,13 @@ Votre spécialisation élémentaire vous accorde une aptitude, comme indiqué da
 | Vert           | Manifestation Chimérique      |
 | Néant          | Étoile Trou Noir              |
 
-##### Étoile Trou Noir
+#### Étoile Trou Noir
 
 Vous déformez la gravité autour de votre corps céleste et pouvez attirer même les titans les plus robustes vers votre noyau. À la fin de chacun de vos tours, vous ciblez une créature ou un objet à portée de votre aptitude Lancer un Élément et effectuez une traction verticale sur cette cible jusqu'à 5 cases. Si sa stabilité réduit ce déplacement forcé, elle est attirée d'un minimum de 2 cases. Ce déplacement forcé ignore la stabilité pour vos alliés.
 
 De plus, votre Manteau d'Essence s'améliore. Tant qu'ils se trouvent dans la zone de l'aura, les ennemis et objets voient leur stabilité réduite d'un montant égal à votre niveau.
 
-##### Manifestation Chimérique
+#### Manifestation Chimérique
 
 La nature n'est ni statique ni immuable, et vous non plus. Vous pouvez entrer ou sortir de votre forme animale par une Manœuvre Gratuite la première fois que vous utilisez votre aptitude Disciple du Vert à votre Tour.
 
@@ -1345,13 +1344,13 @@ De plus, chaque fois que vous utilisez votre aptitude Disciple du Vert, vous pou
 
 Vous ne pouvez combiner que des formes animales dont les Niveaux additionnés font 12 ou moins. Par exemple, vous pouvez combiner un requin (8e Niveau) avec un cheval (4e Niveau), mais vous ne pouvez pas combiner un requin avec un ours (5e Niveau).
 
-##### Le Primordial des Flammes
+#### Le Primordial des Flammes
 
 Vous produisez un feu qui ensorcelle les destins, les distrayant d'aider vos ennemis. Chaque fois que vous infligez des dégâts de feu à une créature ou un objet, ils subissent 1d6 dégâts de feu supplémentaires. Si vous infligez des dégâts de feu à un objet classique, vous pouvez utiliser une action déclenchée gratuite pour le cibler avec votre aptitude Retour à l'Informe à la place.
 
 De plus, tout ennemi qui commence son tour adjacent à vous a une faiblesse aux dégâts de feu égale à votre score de Raison jusqu'au début de son prochain tour. Cela augmente au double de votre score de Raison si l'ennemi est fait de métal ou porte principalement du métal.
 
-##### Invoquer Source de Terre
+#### Invoquer Source de Terre
 
 Vous possédez l'aptitude suivante.
 
@@ -1402,7 +1401,7 @@ Vous possédez l'aptitude suivante.
 > Une créature qui a l'aptitude Earth Accept Me peut l'utiliser comme action gratuite pour se fondre dans la source.
 > <p></p>
 
-#### Aptitude à 11 Essence
+### Aptitude à 11 Essence
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 essence à utiliser.
 
@@ -1480,17 +1479,17 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 11 Essence
 
-### Aptitudes de Niveau 9
+## Aptitudes de Niveau 9
 
 En tant qu'élémentaliste de niveau 9, vous gagnez les aptitudes suivantes.
 
-#### Grand Wyrding
+### Grand Wyrding
 
 Vous avez maîtrisé la magie de façonnage d'un wyrd, et pouvez utiliser votre aptitude Wyrding comme une Action Principale.
 
 De plus, quand vous avez 5 Victoires ou plus, choisissez l'un des Types de Dégâts suivants : acide, froid, corruption, feu, foudre, poison ou sonique. Vous avez une immunité totale à ce type.
 
-#### Nouvelle Aptitude à 11 Essence
+### Nouvelle Aptitude à 11 Essence
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 essence à utiliser. Alternativement, vous pouvez choisir une des aptitudes à 11 essence que vous n'aviez pas sélectionnée au niveau 8 (voir Capacités de Niveau 8).
 
@@ -1568,29 +1567,29 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 11 Essence
 
-### Aptitudes de Niveau 10
+## Aptitudes de Niveau 10
 
 En tant qu'élémentaliste de niveau 10, vous gagnez les aptitudes suivantes.
 
-#### Souffle
+### Souffle
 
 Vous possédez une ressource épique appelée souffle. Chaque fois que vous terminez un répit, vous gagnez du souffle égal aux XP que vous gagnez. Vous pouvez dépenser n'importe quel nombre de souffle pour gagner de l'essence (aucune action triviale requise). Quand vous le faites, 1 souffle devient 3 essence.
 
 Le souffle reste jusqu'à ce que vous le convertissiez en essence.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Votre score de Raison passe à 5. De plus, vous pouvez augmenter l'un de vos scores de caractéristique de 1, jusqu'à un maximum de 5.
 
-#### Être Essentiel
+### Être Essentiel
 
 Quand vous gagnez de l'essence au début de chacun de vos tours pendant le combat, vous gagnez 4 essence au lieu de 3.
 
-#### Un
+### Un
 
 Vous devenez l'incarnation de l'élément de votre spécialisation choisie. Chaque fois que vous utilisez la magie, des particules élémentaires voltigent autour de vous et votre peau change pour refléter votre élément, prenant une apparence terreuse ou pierreuse pour la terre, apparaissant comme une flamme vacillante pour le feu, gagnant un motif de feuilles pour le vert, et devenant une étendue étoilée pour le vide. De plus, vous gagnez l'un des avantages suivants, comme indiqué dans le tableau des Caractéristiques de Spécialisation Un.
 
-###### Tableau des Aptitudes d'une Spécialisation
+##### Tableau des Aptitudes d'une Spécialisation
 
 | Spécialisation | Aptitude           |
 |----------------|--------------------|
@@ -1599,19 +1598,19 @@ Vous devenez l'incarnation de l'élément de votre spécialisation choisie. Chaq
 | Vert           | Maître du Vert     |
 | Néant          | Maître du Néant    |
 
-##### Maître de la Terre
+#### Maître de la Terre
 
 Vous avez une Immunité aux Dégâts de 5.
 
 De plus, comme activité de Répit, vous pouvez façonner la terre classique autour de vous dans un rayon de 1,6 km. Vous pouvez ouvrir des gouffres, former des montagnes, aplanir des structures classiques ou des colonies entières, créer des canyons, élever des îles ou les faire sombrer dans la mer, et accomplir des exploits similaires. Vous ne pouvez pas utiliser cette activité de Répit si une autre Créature dans un rayon de 1,6 km l'utilise déjà. Une fois que vous utilisez cette activité de Répit, vous ne pouvez plus l'utiliser pendant 10 jours.
 
-##### Maître du Feu
+#### Maître du Feu
 
 Le bonus de dégâts de votre aptitude Acolyte du Feu passe à +5 et s'applique à toutes vos aptitudes magiques.
 
 De plus, votre aptitude Retour à l'Informe peut être utilisée sur les objets surnaturels (mais pas sur les artefacts). Lorsque vous faites fondre un trésor (voir Chapitre 13 : Récompenses), vous gagnez du souffle égal à son échelon.
 
-##### Maître du Vert
+#### Maître du Vert
 
 Le nombre de Récupérations que vous possédez augmente de 2, et chaque fois que vous terminez un répit, vous pouvez accorder à chaque allié qui a terminé le répit avec vous 2 Récupérations supplémentaires. Les Récupérations supplémentaires de vos alliés disparaissent quand ils terminent leur prochain répit.
 
@@ -1619,17 +1618,17 @@ De plus, comme activité de répit, vous pouvez effectuer un rituel qui fait jai
 
 Comme manœuvre, une créature peut consommer un Fruit de Vie ou le donner à un allié adjacent consentant. Quand une créature mange un Fruit de Vie, elle restaure toute sa Vigueur, elle peut mettre fin à tous les états ou effets qui l'affectent, et elle peut se lever si elle est à terre. De plus, si la créature le désire, son vieillissement se met en pause pendant 1d10 années. Si la créature mange des Fruits de Vie supplémentaires et choisit de mettre en pause son vieillissement, les effets ne se cumulent pas. À la place, la créature gagne le bénéfice du Fruit de Vie qui met en pause son vieillissement pour la plus longue durée.
 
-##### Maître du Néant
+#### Maître du Néant
 
 Chaque fois que vous vous déplacez volontairement, vous pouvez utiliser la téléportation.
 
 De plus, votre esprit est connecté au mystère et vous aide à trouver les réponses que vous cherchez. Vous n'avez plus besoin de Sources de Projet pour les Projets de Recherche. Chaque fois que vous utilisez une activité de Répit pour effectuer un Jet de Projet pour un Projet de Recherche, vous terminez automatiquement le projet.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'artisanat, de connaissance ou surnaturel de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 

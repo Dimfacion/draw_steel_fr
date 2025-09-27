@@ -1,18 +1,17 @@
 ---
 title: Troubadour
 ---
-
-## Troubadour
+# Troubadour
 
 Le monde entier est une scène, et tous ceux qui s'y trouvent, des acteurs. Personne ne le sait mieux que le troubadour. Vous puisez votre énergie dans le drame de la vie quotidienne et savez comment faire naître le spectacle même des situations les plus classiques. Vous accentuez les hauts et approfondissez les bas au service de quiconque pourrait assister à votre représentation.
 
 **En tant que troubadour, vous poursuivez le drame. Les dangers insurmontables du monde peuvent faire trembler bien des héros. Mais vous montez sur cette scène mondiale non pas avec l'intention de mourir, mais pour découvrir si vous êtes vraiment vivant.**
 
-« L'histoire est un conte. Chacun de nous n'est qu'une histoire que nous nous racontons. Changez l'histoire, et vous changez le monde. » **Jackson Bootblack**
+>« L'histoire est un conte. Chacun de nous n'est qu'une histoire que nous nous racontons. Changez l'histoire, et vous changez le monde. » 
+>
+>**Jackson Bootblack**
 
-Il n'y a pas de texte visible dans l'image fournie. L'image semble montrer un motif décoratif ou un bord festonné, mais ne contient aucune lettre, mot ou symbole reconnaissable.
-
-### Bases
+## Bases
 
 **Caractéristiques de Départ :** Vous commencez avec une Agilité de 2 et une Présence de 2, et vous pouvez choisir l'une des répartitions suivantes pour vos autres scores de caractéristiques :
 
@@ -34,11 +33,11 @@ Il n'y a pas de texte visible dans l'image fournie. L'image semble montrer un mo
 
 **Compétences :** Vous obtenez la compétence Cerner une Personne (voir Compétences au Chapitre 9 : Tests). Choisissez ensuite deux compétences du groupe interpersonnel et une compétence des groupes intrigue ou savoir. (*Construction Rapide :* Se Vanter, Flirter, Cerner une Personne, Rumeurs.)
 
-### Aptitudes de Niveau 1
+## Aptitudes de Niveau 1
 
 En tant que troubadour de niveau 1, vous gagnez les aptitudes suivantes.
 
-#### Acte de Classe de Troubadour
+### Acte de Classe de Troubadour
 
 Panache, mélodie et représentation. Certains troubadours possèdent tout cela, mais chacun commence quelque part. Votre acte de classe de troubadour représente votre forme d'art, résumant la manière dont le monde devient votre scène. Alors que vous vous employez à déterrer le drame de la vie quotidienne et des conflits, vous choisissez un acte de classe de troubadour parmi les options suivantes, chacune vous accordant une compétence. (*Construction Rapide :* Virtuose.)
 
@@ -48,11 +47,11 @@ Panache, mélodie et représentation. Certains troubadours possèdent tout cela,
 
 Votre acte de classe de troubadour est votre sous-classe, et votre choix d'acte de classe détermine de nombreuses aptitudes que vous obtiendrez en gagnant de nouveaux niveaux.
 
-#### Drame
+### Drame
 
 Pendant les combats, vous êtes alimenté par les hauts, les bas et les retournements dynamiques de la mêlée, dont vous tirez une Ressource Héroïque appelée drame.
 
-###### Tableau d'Avancement du Troubadour
+##### Tableau d'Avancement du Troubadour
 
 | Niveau | Capacités                                                                                                                                    | Aptitudes                 | Aptitudes d'Acte de Classe |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------------|
@@ -67,7 +66,7 @@ Pendant les combats, vous êtes alimenté par les hauts, les bas et les retourne
 | 9e     | Rugissement de la Foule, Aptitude d'Acte de Classe                                                                                          | Signature, 3, 5, 7, 9, 11 | 5, 9, 11                    |
 | 10e    | Applaudissements, Augmentation de Caractéristique, Dramaturgie, Le Plus Grand de Tous les Temps, Avantage, Compétence                      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11                    |
 
-##### Drame en Combat
+#### Drame en Combat
 
 Au début d'une rencontre de combat ou d'une autre situation stressante suivie en Tours de Combat (selon la décision du Directeur), vous gagnez du Drame égal à vos Victoires. Au début de chacun de vos Tours pendant le combat, vous gagnez 1d3 Drame.
 
@@ -82,7 +81,7 @@ Quand vous êtes mort, vous continuez à gagner du Drame pendant le combat tant 
 
 Vous perdez tout Drame restant à la fin de la rencontre.
 
-##### Drame en Dehors du Combat
+#### Drame en Dehors du Combat
 
 Bien que vous ne puissiez pas gagner de drame en dehors du combat, vous pouvez utiliser vos aptitudes héroïques et effets qui coûtent du drame sans le dépenser. Chaque fois que vous utilisez une aptitude ou un effet en dehors du combat qui coûte du drame, vous ne pouvez pas utiliser cette même aptitude ou effet en dehors du combat à nouveau jusqu'à ce que vous obteniez 1 ou plusieurs Victoires ou terminiez un répit.
 
@@ -98,17 +97,17 @@ Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépense
 >
 > C'est assez étrange, mais aussi très amusant. Si c'est trop bizarre pour vous ou votre table, vous pourriez toujours interpréter ces aptitudes comme une forme de magie. Une école d'invocation qui change vraiment le champ de bataille, que l'auteur ne fait que *présenter* comme une réécriture de l'histoire.
 
-#### Panoplie
+### Panoplie
 
 Vous pouvez utiliser et bénéficier des avantages d'une panoplie. Voir Chapitre 6 : Panoplies pour plus d'informations. (*Construction Rapide :* Bretteur.)
 
-#### Partenaire de Scène
+### Partenaire de Scène
 
 Chaque fois que vous obtenez un succès sur un Test d'interaction avec un PNJ en utilisant une Compétence du groupe interpersonnel, vous pouvez former un lien avec ce PNJ. Lorsque vous entrez dans une Négociation avec un PNJ lié, sa Patience augmente de 1 (jusqu'à un maximum de 5). De plus, la première fois durant une Négociation que vous formulez personnellement un Argument qui augmenterait l'Intérêt d'un PNJ lié de 1, vous augmentez à la place son Intérêt de 2 (jusqu'à un maximum de 5).
 
 Vous pouvez avoir un nombre de liens actifs égal à votre Niveau. Lorsque vous formez un lien avec un nouveau PNJ qui dépasserait cette limite, vous devez choisir lequel de vos liens actifs perdre.
 
-#### Routines
+### Routines
 
 Vous entrez dans chaque bataille avec un ensemble d'aptitudes de représentation prêtes à l'emploi. Les représentations sont des présentations magiques (comme des chansons, des danses, des poèmes ou des prouesses gymniques) auxquelles vos alliés peuvent participer. Ces aptitudes ont le mot-clé Représentation. Au début de chaque tour de combat, tant que vous n'êtes pas étourdi, mort ou surpris, vous pouvez soit choisir une nouvelle représentation, soit maintenir votre représentation actuelle (action triviale requise). Votre représentation dure jusqu'à ce que vous soyez incapable de la maintenir ou jusqu'à la fin de la rencontre.
 
@@ -140,11 +139,11 @@ Vous commencez avec les aptitudes de représentation Chorégraphie et Limerick R
 > 
 > **💫 Effet :** À la fin de chacun de vos tours tant que cette représentation est active, vous pouvez choisir jusqu'à un nombre de cibles égal à votre score de Présence. Chaque cible choisie peut dépenser une Récupération.
 
-#### Aptitudes d'Acte de Classe de Niveau 1
+### Aptitudes d'Acte de Classe de Niveau 1
 
 Votre acte de classe de troubadour vous accorde deux aptitudes, comme indiqué dans le tableau des Aptitudes d'Acte de Classe de Niveau 1.
 
-###### Tableau des Aptitudes d'Acte de Classe de Niveau 1
+##### Tableau des Aptitudes d'Acte de Classe de Niveau 1
 
 | Acte de Classe | Aptitudes                           |
 |----------------|-------------------------------------|
@@ -152,7 +151,7 @@ Votre acte de classe de troubadour vous accorde deux aptitudes, comme indiqué d
 | Duelist        | Acrobatics, Star Power              |
 | Virtuoso       | Power Chord, Virtuoso Performances  |
 
-##### Acrobaties
+#### Acrobaties
 
 Vous possédez l'aptitude de représentation suivante, qui peut être utilisée avec votre capacité Numéros.
 
@@ -169,7 +168,7 @@ Vous possédez l'aptitude de représentation suivante, qui peut être utilisée 
 > 
 > **💫 Effet :** Tant que cette représentation est active, chaque cible qui commence son tour dans la zone peut automatiquement obtenir un résultat de tiers 3 sur un test effectué pour faire un saut, une roulade, ou escalader dans le cadre de son déplacement avant la fin de son tour.
 
-##### Blocage
+#### Blocage
 
 Vous disposez de l'aptitude de représentation suivante, qui est utilisable avec votre capacité Routines.
 
@@ -186,7 +185,7 @@ Vous disposez de l'aptitude de représentation suivante, qui est utilisable avec
 > 
 > **💫 Effet :** À la fin de chacun de vos tours tant que cette représentation est active, vous pouvez choisir jusqu'à un nombre de cibles égal à votre score de Présence et téléporter ces cibles vers des espaces inoccupés dans la zone. Une cible ne peut pas être téléportée d'une manière qui lui causerait du mal (comme au-dessus d'une falaise), la laisserait mourante, ou l'amènerait à subir un état ou tout autre effet négatif.
 
-##### Monologue Dramatique
+#### Monologue Dramatique
 
 Vous possédez l'aptitude suivante.
 
@@ -209,7 +208,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **🔥 Dépensez 1 Drame :** Vous pouvez choisir deux cibles pour l'effet choisi.
 
-##### Accord de Pouvoir
+#### Accord de Pouvoir
 
 Vous avez l'aptitude suivante.
 
@@ -229,7 +228,7 @@ Vous avez l'aptitude suivante.
 > - **12-16 :** Poussée 2
 > - **17+ :** Poussée 3
 
-##### Pouvoir Stellaire
+#### Pouvoir Stellaire
 
 Vous possédez l'aptitude suivante.
 
@@ -248,7 +247,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **🔥 Dépenser 1 Drame :** Vous gagnez un bonus de +4 à la vitesse à la place.
 
-##### Performances de Virtuose
+#### Performances de Virtuose
 
 Vous disposez des aptitudes de performance suivantes, qui sont utilisables avec votre capacité Routines.
 
@@ -283,11 +282,11 @@ Vous disposez des aptitudes de performance suivantes, qui sont utilisables avec 
 > 
 > **💫 Effet :** Tant que cette performance est active, chaque cible qui commence son tour dans la zone gagne 1 impulsion.
 
-#### Action Déclenchée d'Acte de Classe
+### Action Déclenchée d'Acte de Classe
 
 Votre acte de classe de troubadour vous accorde une action déclenchée, comme indiqué dans le tableau des Actions Déclenchées d'Acte de Classe.
 
-###### Tableau des Actions Déclenchées d'Acte de Classe
+##### Tableau des Actions Déclenchées d'Acte de Classe
 
 | Acte de Classe | Action Déclenchée           |
 |----------------|-----------------------------|
@@ -344,11 +343,11 @@ Votre acte de classe de troubadour vous accorde une action déclenchée, comme i
 > 
 > **🔥 Dépenser 3 Drame :** Un avantage sur le jet déclencheur devient un double fléau, ou un double avantage est annulé. Un fléau devient un double avantage, ou un double fléau est annulé.
 
-#### Aptitudes de Troubadour
+### Aptitudes de Troubadour
 
 Votre performance se concentre sur les manœuvres à travers la scène de bataille, maintenant son élan pour que l'histoire se déroule de la manière la plus dramatique possible.
 
-#### Aptitude Signature
+### Aptitude Signature
 
 Choisissez une aptitude signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Échange Spirituel.)
 
@@ -426,11 +425,11 @@ Choisissez une aptitude signature parmi les options suivantes. Les aptitudes sig
 > 
 > **🔥 Dépenser 1 Drame :** L'allié choisi peut dépenser une Récupération.
 
-##### Aptitudes Héroïques
+#### Aptitudes Héroïques
 
 Vous maîtrisez un éventail d'aptitudes héroïques, qui coûtent toutes du drame pour les activer.
 
-###### Aptitude à 3 Drame
+##### Aptitude à 3 Drame
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 drame à utiliser. (*Construction Rapide :* Critique Sévère.)
 
@@ -506,7 +505,7 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > - **12-16 :** Narguer (FdT) ; A < MOYEN, à terre
 > - **17+ :** Narguer (FdT) ; A < FORT, à terre et ne peut pas se lever (FdT)
 
-###### Aptitude à 5 Drame
+##### Aptitude à 5 Drame
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 drame à utiliser. (*Construction Rapide :* Retournement Dramatique.)
 
@@ -570,11 +569,11 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** Vous pouvez devenir saignement (sauvegarde termine) pour infliger 5 dégâts de corruption supplémentaires à la cible.
 
-### Aptitudes de Niveau 2
+## Aptitudes de Niveau 2
 
 En tant que troubadour de niveau 2, vous gagnez les aptitudes suivantes.
 
-#### Appel aux Muses
+### Appel aux Muses
 
 Vous pouvez prononcer un discours enflammé, invoquer vos inspirations, ou remonter le moral de vos compagnons, en faisant appel aux muses pour intensifier le drame d'une bataille. Cependant, l'ironie est prompte à offrir votre fortune au vilain pour atteindre le même objectif.
 
@@ -584,35 +583,35 @@ Avant de lancer pour gagner du drame au début de votre tour, vous pouvez faire 
 - Si le jet est un 2, vous gagnez 1 Ressource Héroïque, que vous pouvez garder ou donner à un Allié dans la Distance de votre représentation active. Le Directeur gagne 1 Malveillance.
 - Si le jet est un 3, vous gagnez 2 Ressources Héroïques, que vous pouvez distribuer entre vous-même et tous les Alliés dans la Distance de votre représentation active.
 
-#### Invocation
+### Invocation
 
 Vous avez une manière spécifique qui aide à définir votre présence sur le champ de bataille. Choisissez l'une des aptitudes suivantes.
 
-##### Permettez-moi de vous présenter les joueurs de ce soir
+#### Permettez-moi de vous présenter les joueurs de ce soir
 
 Chaque fois que vous jouez le premier tour d'une rencontre de combat, vous pouvez utiliser une action principale pour vous présenter ainsi que vos alliés à vos adversaires. Chaque allié peut glisser jusqu'à sa vitesse, et les jets d'aptitude effectués contre eux subissent un double fléau jusqu'à la fin du tour de combat. De plus, tout ennemi surpris n'est plus surpris.
 
-##### Présentations Officielles
+#### Présentations Officielles
 
 En tant qu'activité de répit, vous pouvez rédiger un avis de votre arrivée (comme une carte de visite ou une lettre officielle) adressé à un ennemi. Vous pouvez remettre l'avis à la cible en personne si vous êtes dans la même zone générale, l'envoyer par coursier, ou le laisser dans un endroit secret pour que la cible le trouve. Vous ne pouvez avoir qu'un seul avis actif à la fois.
 
 Le Directeur détermine quand la cible reçoit votre avis. Lorsque la cible reçoit l'avis, elle devient alarmée et prend des mesures désespérées pour vous arrêter. Le Directeur gagne 1 Malveillance supplémentaire par tour de combat durant les rencontres impliquant la cible. Les héros commencent chaque rencontre de ce type avec 2 jetons de héros supplémentaires (Chapitre 1 : Les Bases). Ces jetons de héros disparaissent à la fin de la rencontre.
 
-##### Ma Réputation Me Précède
+#### Ma Réputation Me Précède
 
 Tu peux invoquer ta réputation au début d'une interaction sociale avec un ou plusieurs PNJ qui ne t'ont jamais rencontré auparavant, créant automatiquement un lien avec l'un de ces PNJ de ce groupe comme si tu utilisais ton aptitude Partenaire de Scène (ci-dessus). Ce lien compte dans la limite des liens actifs de ton aptitude Partenaire de Scène. Tant que le lien est actif, tous les héros présents traitent leur Renommée comme étant 2 points plus élevée que d'habitude dans le but d'entrer en négociation avec le PNJ lié.
 
 Le Directeur peut accorder aux héros 1 jeton de héros pour te rendre tristement célèbre parmi le groupe de créatures à la place, t'empêchant de former ce lien. Jusqu'à ce que tu prennes des mesures pour améliorer ta réputation, tous les héros présents subissent un fléau sur les tests effectués pour interagir avec les créatures du groupe en utilisant les compétences du groupe de compétences interpersonnelles. Tu peux toujours utiliser ton aptitude Partenaire de Scène pour trouver des alliés au sein du groupe.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage interpersonnel, de savoir ou surnaturel de votre choix. Voir Chapitre 7 : Avantages.
 
-#### Aptitude d'Acte de Classe de Niveau 2
+### Aptitude d'Acte de Classe de Niveau 2
 
 Votre acte de classe de troubadour vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitude d'Auteur de Niveau 2
+#### Aptitude d'Auteur de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -642,7 +641,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Une cible qui n'est pas une créature dirigeante ou solo revient à la vie avec la moitié de sa Vigueur et devient un allié sous le contrôle du Directeur. Les joueurs peuvent collaborer avec le Directeur pour déterminer quand la cible prend son tour à chaque tour de combat. À la fin de la rencontre, la cible se transforme en poussière et s'envole.
 
-##### Aptitude de Duelliste de Niveau 2
+#### Aptitude de Duelliste de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -677,7 +676,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** La cible peut effectuer une frappe gratuite au corps à corps contre vous. Si elle le fait, vous pouvez effectuer une frappe gratuite au corps à corps contre la cible.
 
-##### Aptitude de Virtuose de Niveau 2
+#### Aptitude de Virtuose de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -712,15 +711,15 @@ Choisissez l'une des aptitudes suivantes.
 > - **12-16 :** 9 dégâts de corruption ; M < MOYEN, Traction 2 vers le centre de la zone
 > - **17+ :** 12 dégâts de corruption ; M < FORT, Traction 3 vers le centre de la zone
 
-### Aptitudes de Niveau 3
+## Aptitudes de Niveau 3
 
 En tant que troubadour de niveau 3, vous gagnez les aptitudes suivantes.
 
-#### Aptitude d'Acte de Classe de Niveau 3
+### Aptitude d'Acte de Classe de Niveau 3
 
 Votre acte de classe de troubadour vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes d'Acte de Classe de Niveau 3.
 
-###### Tableau des Aptitudes d'Acte de Classe de Niveau 3
+##### Tableau des Aptitudes d'Acte de Classe de Niveau 3
 
 | Acte de Classe | Aptitudes        |
 |----------------|------------------|
@@ -728,15 +727,15 @@ Votre acte de classe de troubadour vous accorde une aptitude, comme indiqué dan
 | Duelist        | Foil             |
 | Virtuoso       | Second Album     |
 
-##### Foil
+#### Foil
 
 Au début d'une rencontre, choisissez une créature dans votre ligne d'effet. Vous bénéficiez d'un double avantage sur les jets de pouvoir effectués contre cette créature ou en compétition avec elle. La créature choisie bénéficie également d'un double avantage sur les jets de pouvoir effectués contre vous ou en compétition avec vous. Si la créature choisie est réduite à 0 Vigueur, vous pouvez choisir un nouveau foil au début du prochain tour de combat.
 
-##### Occasion Manquée
+#### Occasion Manquée
 
 Si vous n'êtes pas Surpris au début d'une rencontre, vous pouvez choisir un Ennemi dans votre Ligne d'Effet qui n'est pas une Créature dirigeante ou solo. Le Directeur retire temporairement la Créature choisie de la rencontre. La Créature choisie entre dans la rencontre au début du second Tour de Combat. Vous devez gagner 3 Victoires avant de pouvoir utiliser cette capacité à nouveau.
 
-##### Second Album
+#### Second Album
 
 Vous disposez des aptitudes de représentation suivantes, qui sont utilisables avec votre capacité Routines.
 
@@ -766,7 +765,7 @@ Vous disposez des aptitudes de représentation suivantes, qui sont utilisables a
 > 
 > **💫 Effet :** Tant que cette représentation est active, chaque cible qui commence son tour mourant dans la zone gagne un avantage sur les jets de pouvoir et ignore les effets du saignement jusqu'à la fin de son tour.
 
-#### Aptitude à 7 Drames
+### Aptitude à 7 Drames
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 drames à utiliser.
 
@@ -839,15 +838,15 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > De plus, une fois à chacun de vos tours, vous pouvez utiliser une manœuvre gratuite pour communiquer un message motivant ou décourageant à la cible, lui accordant soit 2 impulsions soit la forçant à subir un fléau sur le prochain jet d'aptitude qu'elle effectue avant le début de votre prochain tour.
 
-### Aptitudes de Niveau 4
+## Aptitudes de Niveau 4
 
 En tant que troubadour de niveau 4, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Vos scores d'Agilité et de Présence augmentent chacun à 3.
 
-#### Mélodrame
+### Mélodrame
 
 Vous avez plus de moyens d'extraire le maximum de drame d'une situation. Choisissez deux des événements suivants à ajouter aux événements qui vous accordent du drame pendant le combat :
 
@@ -859,23 +858,23 @@ Vous avez plus de moyens d'extraire le maximum de drame d'une situation. Choisis
 
 Alternativement, vous pouvez renoncer à choisir un nouvel événement pour choisir un événement que vous possédez déjà (y compris un événement obtenu avec cette capacité). Chaque fois que l'événement choisi vous accorde du drame, vous gagnez 1 drame supplémentaire.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix. Voir Compétences au Chapitre 9 : Tests.
 
-#### Zeitgeist
+### Zeitgeist
 
 Vous avez toujours l'oreille collée au sol, le doigt sur le pouls. Quand vous commencez ou terminez un répit, choisissez l'un des effets suivants.
 
-##### Présage
+#### Présage
 
 Vous pouvez demander au Directeur deux indices concernant une rencontre ou une négociation à venir. L'un des indices peut être faux.
 
-##### Oyez, Oyez !
+#### Oyez, Oyez !
 
 En fanfaronnant, intimidant, dirigeant ou mentant, vous tentez de répandre une information dans la zone locale. Effectuez un Test de Présence :
 
@@ -883,27 +882,27 @@ En fanfaronnant, intimidant, dirigeant ou mentant, vous tentez de répandre une 
 - **12-16 :** Votre information atteint la zone peuplée la plus proche de Taille ville ou plus grande. Vous et chaque Allié présent lorsque vous effectuez le Test gagnez un Avantage sur les Tests de Présence dans cette zone jusqu'à ce que l'un de vous dépense une Récupération.
 - **17+ :** Votre information atteint la zone peuplée la plus proche de Taille ville ou plus grande, plus la population suivante la plus proche de cette Taille. Vous et les Alliés présents lors de votre Test gagnez un Avantage sur les Tests de Présence effectués dans ces zones jusqu'à ce que vous commenciez votre prochain Répit.
 
-##### Derniers Ragots
+#### Derniers Ragots
 
 Vous pouvez demander au Directeur trois rumeurs concernant la zone où vous vous trouvez ou une zone que vous prévoyez d'explorer avant votre prochain répit. L'une des rumeurs peut être fausse.
 
-### Aptitudes de Niveau 5
+## Aptitudes de Niveau 5
 
 En tant que troubadour de niveau 5, vous gagnez les aptitudes suivantes.
 
-#### Aptitude de Représentation de Classe de Niveau 5
+### Aptitude de Représentation de Classe de Niveau 5
 
 Votre représentation de classe de troubadour vous accorde le choix entre deux aptitudes.
 
-##### Aptitudes d'Auteur
+#### Aptitudes d'Auteur
 
 Choisissez l'une des aptitudes suivantes.
 
-###### Réparer au Montage
+##### Réparer au Montage
 
 Une fois par tour, vous pouvez utiliser une Manœuvre Gratuite pour changer un état affectant une créature à Distance de votre aptitude Monologue Dramatique. Choisissez l'un des états suivants sur la cible : Saignement, Effrayé, À Terre, Ralenti ou Narguer. Vous changez cet état en un autre de ces états, en conservant la durée et l'origine de l'état original. Une cible qui n'est plus À Terre peut se lever.
 
-###### Deuxième Prise !
+##### Deuxième Prise !
 
 Vous possédez l'aptitude de représentation suivante, qui est utilisable avec votre capacité Numéros.
 
@@ -920,15 +919,15 @@ Vous possédez l'aptitude de représentation suivante, qui est utilisable avec v
 > 
 > **💫 Effet :** Tant que cette représentation est active, chaque cible qui commence son tour dans la zone peut relancer le premier Jet de Pouvoir de ce tour qui obtient un résultat de Tiers 2. Elle doit utiliser le nouveau jet.
 
-##### Aptitudes de Duelliste
+#### Aptitudes de Duelliste
 
 Choisissez l'une des aptitudes suivantes.
 
-###### Duel Verbal
+##### Duel Verbal
 
 Une fois par tour tant que la cible de votre aptitude Contrecarrer est adjacente à vous, vous pouvez utiliser une manœuvre gratuite pour échanger des mots avec elle. Effectuez un test de Présence opposé avec la cible. Celui qui obtient le résultat le plus élevé peut porter une frappe gratuite, qui inflige des dégâts psychiques au lieu de ses dégâts habituels.
 
-###### Nous Ne Pouvons Pas Être Éclipsés !
+##### Nous Ne Pouvons Pas Être Éclipsés !
 
 Vous possédez l'aptitude de représentation suivante, qui est utilisable avec votre capacité Routines.
 
@@ -945,19 +944,19 @@ Vous possédez l'aptitude de représentation suivante, qui est utilisable avec v
 > 
 > **💫 Effet :** Tant que cette représentation est active, une cible qui commence son tour dans la zone gagne un bonus à la distance qu'elle peut glisser égal à votre score de Présence jusqu'à la fin de son tour.
 
-##### Aptitudes de Virtuose
+#### Aptitudes de Virtuose
 
 Choisissez l'une des aptitudes suivantes.
 
-###### Bavardage Encourageant
+##### Bavardage Encourageant
 
 Une fois à chacun de vos tours, vous pouvez utiliser une manœuvre gratuite pour échanger quelques mots avec une cible de votre représentation actuelle, autre que vous-même. La cible peut dépenser une Récupération pour gagner de la Vigueur Temporaire égale à ses Points de Récupération.
 
-###### Mélange
+##### Mélange
 
 Vous pouvez maintenir deux représentations à la fois en utilisant votre aptitude Routines.
 
-#### Aptitude à 9 Drame
+### Aptitude à 9 Drame
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 drame à utiliser.
 
@@ -1021,15 +1020,15 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > - **12-16 :** Deux alliés à portée peuvent prendre leurs tours immédiatement après le vôtre dans n'importe quel ordre.
 > - **17+ :** Trois alliés à portée peuvent prendre leurs tours immédiatement après le vôtre dans n'importe quel ordre. L'un de ces alliés peut avoir déjà pris un tour ce tour de combat.
 
-### Aptitudes de Niveau 6
+## Aptitudes de Niveau 6
 
 En tant que troubadour de niveau 6, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage interpersonnel, de savoir ou surnaturel de votre choix.
 
-#### Projecteur
+### Projecteur
 
 Vous disposez de l'aptitude de représentation suivante, qui peut être utilisée avec votre capacité Numéros.
 
@@ -1046,11 +1045,11 @@ Vous disposez de l'aptitude de représentation suivante, qui peut être utilisé
 > 
 > **💫 Effet :** Tant que cette représentation est active, chaque cible qui commence son tour dans la zone gagne 1 de sa Ressource Héroïque. Cette Ressource Héroïque disparaît à la fin du tour de la cible si elle ne la dépense pas.
 
-#### Aptitude d'Acte de Classe de Niveau 6
+### Aptitude d'Acte de Classe de Niveau 6
 
 Votre acte de classe de troubadour vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes d'Auteur de Niveau 6
+#### Aptitudes d'Auteur de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1083,7 +1082,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Jusqu'à la fin de la rencontre, chaque cible gagne le bonus de vitesse, le bonus de distance d'arme, le bonus de désengagement et le bonus de stabilité de votre panoplie actuellement équipée en plus des bonus de sa propre panoplie.
 
-##### Aptitudes de Duelliste de Niveau 6
+#### Aptitudes de Duelliste de Niveau 6
 
 Choisissez une des aptitudes suivantes.
 
@@ -1116,7 +1115,7 @@ Choisissez une des aptitudes suivantes.
 > 
 > **💫 Effet :** Vous et la cible effectuez chacun une frappe gratuite au corps à corps qui cible chaque ennemi dans un rayon de 3 cases de l'un de vous deux, en vous répartissant les ennemis. Vous choisissez quels ennemis votre frappe gratuite cible et quels ennemis la frappe gratuite de la créature cible cible. Vous effectuez ensuite un glissement de la cible de 5 cases, en ignorant la stabilité.
 
-##### Aptitudes de Virtuose de Niveau 6
+#### Aptitudes de Virtuose de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1151,41 +1150,41 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Chaque cible gagne 1 impulsion, puis gagne 1 impulsion au début de chaque tour de combat jusqu'à la fin de la rencontre.
 
-### Aptitudes de Niveau 7
+## Aptitudes de Niveau 7
 
 En tant que troubadour de niveau 7, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Chacun de vos scores de caractéristique augmente de 1, jusqu'à un maximum de 4.
 
-#### Partenariat Équitable
+### Partenariat Équitable
 
 Vous pouvez utiliser votre aptitude Partenaire de Scène pour former un lien avec un héros consentant au lieu d'un PNJ avec lequel vous interagissez en utilisant un test. Si vous créez un lien avec un autre héros, vous perdez votre lien existant avec un héros.
 
 De plus, vous et les créatures avec lesquelles vous êtes lié gagnez un bonus de +1 aux jets de sauvegarde. Chaque fois que vous ou une créature liée réussissez un jet de sauvegarde, vous et chaque créature avec laquelle vous êtes lié gagnez de la Vigueur Temporaire égale à votre niveau.
 
-#### Muse de la Muse
+### Muse de la Muse
 
 Au début de chacun de vos tours pendant le combat, vous gagnez 1d3 + 1 drame au lieu de 1d3.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-### Aptitudes de Niveau 8
+## Aptitudes de Niveau 8
 
 En tant que troubadour de niveau 8, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Aptitude de Numéro de Classe de Niveau 8
+### Aptitude de Numéro de Classe de Niveau 8
 
 Votre numéro de classe de troubadour vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Numéro de Classe de Niveau 8.
 
-###### Tableau des Aptitudes d'Acte de Classe de Niveau 8
+##### Tableau des Aptitudes d'Acte de Classe de Niveau 8
 
 | Acte de Classe | Aptitude         |
 |----------------|------------------|
@@ -1193,7 +1192,7 @@ Votre numéro de classe de troubadour vous accorde une aptitude, comme indiqué 
 | Duelliste      | Chef-d'œuvre     |
 | Virtuose       | Favoris du Public|
 
-##### Favoris du Public
+#### Favoris du Public
 
 Vous possédez les aptitudes de représentation suivantes, qui sont utilisables avec votre capacité Numéros.
 
@@ -1223,17 +1222,17 @@ Vous possédez les aptitudes de représentation suivantes, qui sont utilisables 
 > 
 > **💫 Effet :** Tant que cette représentation est active, chaque cible qui commence son tour dans la zone ignore le terrain difficile, et toute aptitude qu'elle utilise qui impose un déplacement forcé gagne un bonus de +2 à la distance de déplacement forcé jusqu'à la fin de son tour. De plus, une fois par tour de combat, chaque cible peut utiliser une action déclenchée comme une action déclenchée gratuite.
 
-##### Scène Coupée
+#### Scène Coupée
 
 Chaque fois qu'une créature à distance de votre aptitude Monologue Dramatique effectue un jet de pouvoir, vous pouvez dépenser 1 drame en tant qu'action déclenchée gratuite pour utiliser Monologue Dramatique, en ne ciblant qu'une seule créature.
 
-##### Chef-d'œuvre
+#### Chef-d'œuvre
 
 Choisissez une de vos aptitudes signature et nommez-la d'après vous-même. Vous avez toujours cette aptitude à disposition, même si elle provient d'une panoplie que vous changez. Chaque fois que vous utilisez cette aptitude, vous gagnez un avantage et 1 impulsion que vous ne pouvez utiliser que sur cette aptitude.
 
 De plus, quand votre aptitude signature nommée est la dernière aptitude que vous utilisez dans une rencontre, vous pouvez immédiatement utiliser l'effet Oyez, Oyez ! de votre capacité Zeitgeist pour raconter vos exploits après la fin de la rencontre.
 
-#### Aptitude à 11 Drame
+### Aptitude à 11 Drame
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 drame à utiliser.
 
@@ -1299,21 +1298,21 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** Chaque allié à distance ne peut pas obtenir moins qu'un résultat de tiers 2 au prochain test qu'il effectue avant le début de votre prochain tour.
 
-### Aptitudes de Niveau 9
+## Aptitudes de Niveau 9
 
 En tant que troubadour de niveau 9, vous gagnez les aptitudes suivantes.
 
-#### Rugissement de la Foule
+### Rugissement de la Foule
 
 Vous êtes dynamisé par votre audience, proche et lointaine. Vous ne pouvez pas être rendu effrayé, et si vous êtes à terre, vous pouvez vous lever par une manœuvre gratuite.
 
 De plus, chaque fois que vous dépensez une Récupération, vous pouvez renoncer à regagner de la Vigueur pour invoquer le rugissement d'une audience invisible qui applaudit. Vous et chaque allié dans un rayon de 3 cases de vous gagnez de la Vigueur Temporaire égale à 10 + le nombre de liens actifs de votre aptitude Partenaire de Scène + soit vos Victoires, soit le nombre de joueurs dans votre partie (selon le plus élevé).
 
-#### Aptitude d'Acte de Classe de Niveau 9
+### Aptitude d'Acte de Classe de Niveau 9
 
 Votre acte de classe de troubadour vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes d'Auteur de Niveau 9
+#### Aptitudes d'Auteur de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1348,7 +1347,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** La cible gagne 3 points de sa Ressource Héroïque, bénéficie d'un double avantage sur un jet de pouvoir de son choix effectué durant son prochain tour, n'est plus ralentie ou affaiblie si elle l'était auparavant, et peut immédiatement prendre son tour après le vôtre si elle n'a pas encore pris son tour ce round.
 
-##### Aptitudes de Duelliste de Niveau 9
+#### Aptitudes de Duelliste de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1388,7 +1387,7 @@ Choisissez l'une des aptitudes suivantes.
 > - **12-16 :** Vous et la cible pouvez terminer tous les effets sur vous-mêmes qui se terminent par un Jet de Sauvegarde ou qui se terminent à la fin de vos tours.
 > - **17+ :** Vous pouvez choisir n'importe lequel des effets actuels sur vous et la cible qui se terminent par un Jet de Sauvegarde ou qui se terminent à la fin de vos tours, appliquer les effets choisis à la cible, et terminer le reste.
 
-##### Aptitudes de Virtuose de Niveau 9
+#### Aptitudes de Virtuose de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1428,11 +1427,11 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Le Déplacement Forcé de cette Aptitude ignore la Stabilité.
 
-### Aptitudes de Niveau 10
+## Aptitudes de Niveau 10
 
 En tant que troubadour de niveau 10, vous gagnez les aptitudes suivantes.
 
-#### Applaudissements
+### Applaudissements
 
 Vous possédez une ressource épique appelée applaudissements. Chaque fois que vous terminez un répit, vous gagnez des applaudissements égaux aux XP que vous gagnez. Vous pouvez dépenser des applaudissements sur vos aptitudes comme s'il s'agissait de drame.
 
@@ -1440,22 +1439,22 @@ De plus, chaque fois que vous ou une créature dans un rayon de 3 cases obtiendr
 
 Les applaudissements persistent jusqu'à ce que vous les dépensiez.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Vos scores d'Agilité et de Présence augmentent chacun à 5.
 
-#### Dramaturgie
+### Dramaturgie
 
 Vous gagnez 1 Drame supplémentaire ou une autre Ressource Héroïque chaque fois que vous utilisez votre aptitude Appel aux Muses. De plus, vos représentations n'ont plus de Distance, mais peuvent affecter n'importe quelle Cible sur la carte de rencontre dans votre Ligne d'Effet.
 
-#### Le Plus Grand de Tous les Temps
+### Le Plus Grand de Tous les Temps
 
 Chaque fois que vous obtenez un succès sur un test, chaque PNJ dans votre Ligne d'Effet voit son score d'Impression diminué de 4 durant une Négociation (jusqu'à un minimum de 1), et chaque Allié dans un rayon de 3 Cases de vous gagne un Avantage sur son prochain Test. Ces effets durent jusqu'à ce que vous commenciez votre prochain Répit.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage interpersonnel, de savoir ou surnaturel de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.

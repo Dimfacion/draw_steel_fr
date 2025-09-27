@@ -1,8 +1,7 @@
 ---
 title: Raideur du Temps
 ---
-
-## Raideur du Temps
+# Raideur du Temps
 
 Serviteurs originelle des synliroi—des psioniques maléfiques dotés d'un pouvoir quasi divin—les kuran'zoi se sont libérés durant la Première Guerre Psychique. Au cours des siècles qui ont suivi, ils ont bâti leur propre Culture et civilisation en tant que nomades du Chronoscape. L'exonyme « raideurs du temps » leur fut donné par les habitants des mondes inférieurs qui, voyant la technologie avancée que manient les kuran'zoi, en conclurent qu'ils devaient venir du futur.
 
@@ -10,7 +9,7 @@ Extraordinairement rares en Orden, les raideurs du temps prospèrent sur la Mer 
 
 À la place d'yeux, les kuran'zoi possèdent des capteurs oculaires cristallins qui leur accordent une vision haute-spectrale et qui sont durcis contre les radiations extrêmes rencontrées dans la Mer des Étoiles, leur permettant d'opérer librement à l'extérieur de leurs vaisseaux avec seulement leurs respirateurs portables. Les raideurs du temps ont également deux paires de bras, leur permettant de manier des armes de corps à corps en même temps que des armes à distance. Un seul kuran'zoi bien entraîné équivaut à une escouade à lui seul.
 
-### À Propos des Raideurs du Temps
+## À Propos des Raideurs du Temps
 
 « Tu vas me dire où se trouve le vaisseau avec lequel tu es arrivée ici. » Le Taxiarque Lycaon arpentait le terrain devant l'église de pierre en ruines. La femme à quatre bras aux yeux de cristal et aux cheveux roses flamboyants formant une crête au centre de son crâne rasé lui adressa un rictus méprisant. Elle était enchaînée aux ruines d'une colonne de pierre devant l'église.
 
@@ -96,35 +95,35 @@ Au même instant, un appel — un cor. Directement derrière John, une explosion
 
 John n'avait pas hésité, il avait déjà dégainé son épée et son fauchion. « Très bien, espèce de fils de pute rafistolé. » Il chargea Lycaon qui tâtonnait avec l'épée courte à sa ceinture.
 
-### Traits de Raideur du Temps
+## Traits de Raideur du Temps
 
 Les héros raideurs du temps ont accès aux traits suivants.
 
-#### Trait Signature : Cicatrice Psychique
+### Trait Signature : Cicatrice Psychique
 
 Votre esprit constitue une formidable couche de défense. Vous possédez une immunité psychique égale à votre niveau.
 
-#### Traits de Raideur du Temps Achetés
+### Traits de Raideur du Temps Achetés
 
 Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Vision d'Outre-Monde, Don Psionique avec Trait Psionique.)
 
-##### Vision Transcendante (1 Point)
+#### Vision Transcendante (1 Point)
 
 En tant que manœuvre, vous pouvez ajuster votre vision pour voir à travers les obstructions classiques d'une épaisseur d'1 case ou moins. Tant que votre vision est ajustée de cette façon, vous ne pouvez pas voir la zone située à 1 case de vous et vous n'avez pas de ligne d'effet vers toute créature ou objet dans cette zone. Vous pouvez restaurer votre vision habituelle en tant que manœuvre.
 
-##### Prescience (1 Point)
+#### Prescience (1 Point)
 
 Vos sens s'étendent au-delà de l'obscurcissement classique et du voile du futur. Vous connaissez automatiquement la position de toute créature avec dissimulation qui ne vous est pas cachée dans un rayon de 20, et vous annulez le fléau habituel sur les frappes contre de telles créatures. De plus, chaque fois que vous êtes ciblé par une frappe, vous pouvez utiliser une action déclenchée pour imposer un fléau au jet de pouvoir.
 
-##### Athlétisme à Quatre Bras (1 Point)
+#### Athlétisme à Quatre Bras (1 Point)
 
 Votre physiologie unique améliore votre déplacement. Vous gagnez un avantage sur les tests qui utilisent les compétences Escalader, Gymnastique ou Nager lorsque vous pouvez utiliser tous vos bras dans la tentative.
 
-##### Arts Martiaux à Quatre Bras (2 Points)
+#### Arts Martiaux à Quatre Bras (2 Points)
 
 Vos multiples bras vous permettent d'accomplir plusieurs tâches simultanément. Chaque fois que vous utilisez la Manœuvre - Saisir ou la Manœuvre - Repousser contre une créature adjacente, vous pouvez cibler une créature adjacente supplémentaire, en utilisant le même Jet de Pouvoir pour les deux cibles. De plus, vous pouvez avoir jusqu'à deux créatures agrippées en même temps.
 
-##### Don Psionique (2 Points)
+#### Don Psionique (2 Points)
 
 Choisissez une aptitude signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté.
 
@@ -175,6 +174,6 @@ Choisissez une aptitude signature parmi les options suivantes. Les aptitudes sig
 > 
 > **💫 Effet:** La cible gagne un bonus à la vitesse égal à votre score de Raison, Intuition ou Présence (votre choix) jusqu'au début de votre prochain tour.
 
-##### Esprit Imparable (2 Points)
+#### Esprit Imparable (2 Points)
 
 Votre esprit vous permet de maintenir votre concentration en toute situation. Vous ne pouvez pas être étourdi.

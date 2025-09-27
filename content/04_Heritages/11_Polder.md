@@ -1,14 +1,13 @@
 ---
 title: Polder
 ---
-
-## Polder
+# Polder
 
 Après les humains, les polders constituent l'héritage le plus nombreux et diversifié d'Orden. Ce ne sont pas des humains, mais ils vivent dans et parmi les communautés humaines et partagent leurs dieux et leur culture. Presque chaque culture humaine d'Orden compte un saint polder ou un saint humain vénéré par les polders.
 
 De petite taille, mesurant en moyenne 1 mètre, les origines des polders demeurent obscures. Il s'agit d'une espèce jeune qui, comme les humains, n'a pas de dieu patron unique. Leur aptitude à *fusionner avec l'ombre* leur vaut une réputation d'excellents espions et voleurs. Beaucoup de polders considèrent cela comme une calomnie vile et soulignent qu'ils sont également réputés comme chefs cuisiniers, bien que l'on puisse trouver des polders dans toutes les professions, particulièrement dans les villes.
 
-### Sur les Polders
+## Sur les Polders
 
 Les trois paysans — Jago, sa femme Sarah, et sa sœur Beth — étaient assis ensemble à observer les trois héros discuter dans la salle commune bondée de l'auberge. Enfin, Jackson Bootblack semblait monopoliser la conversation.
 
@@ -128,11 +127,11 @@ Le Chevalier-Dragon les fixa un moment, puis se tourna vers son ami.
 
 « Peut-être que tu as raison », dit-il.
 
-### Traits de Polder
+## Traits de Polder
 
 Les héros Polder ont accès aux traits suivants.
 
-### Trait Signature : Fusion Ombrale
+## Trait Signature : Fusion Ombrale
 
 Vous possédez l'aptitude suivante.
 
@@ -151,34 +150,34 @@ Vous possédez l'aptitude suivante.
 > 
 > Si la surface contre laquelle vous êtes aplati est détruite, cette aptitude prend fin et vous subissez 1d6 dégâts qui ne peuvent être réduits d'aucune façon.
 
-#### Trait Signature : Petit !
+### Trait Signature : Petit !
 
 Votre stature réduite vous permet de facilement vous sortir des ennuis—ou de vous y fourrer. Votre Taille est de 1S.
 
-#### Traits de Polder Achetés
+### Traits de Polder Achetés
 
 Vous avez 4 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Immunité à la Corruption, Intrépide, Retraite Gracieuse.)
 
-##### Immunité à la Corruption (1 Point)
+#### Immunité à la Corruption (1 Point)
 
 Votre magie d'ombre innée vous confère une résistance contre le surnaturel. Vous avez une immunité à la corruption égale à votre niveau + 2.
 
-##### Intrépide (2 Points)
+#### Intrépide (2 Points)
 
 Le courage est tout ce que vous connaissez. Vous ne pouvez pas être rendu effrayé.
 
-##### Retraite Gracieuse (1 Point)
+#### Retraite Gracieuse (1 Point)
 
 Votre petite taille vous permet de vous éclipser plus facilement de la mêlée. Vous gagnez un bonus de +1 à la distance que vous pouvez glisser lorsque vous effectuez l'Action de Déplacement - Désengagement.
 
-##### Pas Agile (2 Points)
+#### Pas Agile (2 Points)
 
 Un pas léger vous sert bien quand la vitesse est essentielle. Vous ignorez les effets du Terrain Difficile et pouvez vous déplacer à pleine Vitesse en vous faufilant discrètement.
 
-##### Esprit du Polder (1 Point)
+#### Esprit du Polder (1 Point)
 
 Échapper à l'attention d'autrui vous donne la liberté de mouvement. Au début de chacun de vos tours pendant le combat, si aucun ennemi n'a de ligne d'effet vers vous ou si vous êtes caché ou bénéficiez de dissimulation face à tout ennemi ayant une ligne d'effet vers vous, vous gagnez un bonus de +3 à la vitesse jusqu'à la fin de votre tour.
 
-##### Culbute Réactive (1 Point)
+#### Culbute Réactive (1 Point)
 
 Rester léger sur vos pieds vous permet de rapidement reprendre position. Chaque fois que vous subissez un déplacement forcé, vous pouvez utiliser une action déclenchée gratuite pour glisser d'1 case après que le déplacement forcé soit résolu.

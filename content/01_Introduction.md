@@ -1,10 +1,8 @@
 ---
 title: Introduction
 ---
-
 # Introduction
-
-## C'est quoi, ce jeu ?
+## C'est quoi, Draw Steel ?
 
 C'est un jeu où l'on combat des monstres. Où l'on joue des héros extraordinaires, hors du commun, se jetant dans la bataille contre des ennemis terrifiants et monstrueux.
 

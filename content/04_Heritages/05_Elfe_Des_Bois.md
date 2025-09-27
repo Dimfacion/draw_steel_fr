@@ -1,14 +1,13 @@
 ---
 title: Elfe des Bois
 ---
-
-## Elfe des Bois
+# Elfe des Bois
 
 Enfants des célestes sylvestres et maîtres des forêts hantées par les elfes appelées wodes, les elfes des bois considèrent toutes les forêts comme leur domaine de droit divin. Ils connaissent et apprécient leur réputation parmi les Humains d'enlever les enfants qui s'aventurent trop loin dans les bois. Les Humains *devraient* craindre les arbres.
 
 La capacité naturelle des elfes des bois à masquer leur Présence, appelée *glamour*, complète leur style de combat de guérilla, leur permettant de frapper rapidement depuis un Abri puis de se fondre à nouveau dans les sous-bois. Ces traits rendent également les relativement rares elfes des bois qui vivent dans les cités naturellement doués pour la guerre urbaine.
 
-### À Propos des Elfes des Bois
+## À Propos des Elfes des Bois
 
 « J'ai peur », dit Wenna. « On devrait rebrousser chemin. » La forêt semblait se refermer sur eux.
 
@@ -88,39 +87,39 @@ Jeremy se tourna vers Dade. « J'ai l'impression qu'on vit un rêve », chuchota
 
 « Mais vous l'êtes ! » lança leur escorte. « Les bois sont un rêve ! Avec un peu de chance, un rêve dont vous pourrez bientôt vous réveiller sains et saufs. »
 
-### Traits d'Elfe des Bois
+## Traits d'Elfe des Bois
 
 Les héros elfes des bois ont accès aux traits suivants.
 
-#### Trait Signature : Glamour d'Elfe des Bois
+### Trait Signature : Glamour d'Elfe des Bois
 
 Vous pouvez magiquement altérer votre apparence pour mieux vous fondre dans votre environnement. Vous gagnez un avantage aux tests effectués pour vous cacher et vous faufiler, et les tests effectués pour vous chercher pendant que vous êtes caché subissent un fléau.
 
-#### Traits d'Elfe des Bois Achetés
+### Traits d'Elfe des Bois Achetés
 
 Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Véloce, Grâce Surnaturelle.)
 
-##### Marche Forestière (1 Point)
+#### Marche Forestière (1 Point)
 
 Vous pouvez glisser dans et à travers un terrain difficile.
 
-##### Rapide et Brutal (1 Point)
+#### Rapide et Brutal (1 Point)
 
 Chaque fois que vous réalisez un coup critique, vous pouvez effectuer une action principale supplémentaire et une action de déplacement supplémentaire au lieu d'une seule action principale.
 
-##### Grâce d'Outre-Monde (2 Points)
+#### Grâce d'Outre-Monde (2 Points)
 
 Votre corps et votre esprit d'elfe ne peuvent être contenus bien longtemps. Chaque fois que vous effectuez un Jet de Sauvegarde, vous réussissez sur un résultat de 5 ou plus.
 
-##### Revisiter un Souvenir (1 Point)
+#### Revisiter un Souvenir (1 Point)
 
 Accéder aux souvenirs est aussi facile que de vivre dans le présent pour vous. Vous gagnez un avantage aux tests effectués pour vous rappeler des connaissances.
 
-##### Véloce (1 Point)
+#### Véloce (1 Point)
 
 Vous avez une Vitesse de 6.
 
-##### Le Bois Défend (2 Points)
+#### Le Bois Défend (2 Points)
 
 Vous possédez l'aptitude signature suivante. Les aptitudes signatures peuvent être utilisées à volonté.
 

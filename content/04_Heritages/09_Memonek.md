@@ -1,14 +1,13 @@
 ---
 title: Memonek
 ---
-
-## Memonek
+# Memonek
 
 Les habitants natifs d'Axiom, le Plan de la Loi Absolue, les memonek vivent dans une terre avec des lacs et des arbres et des oiseaux et des fleurs. Mais sur ce monde alien, les lacs sont des mers de mercure, les oiseaux scintillent avec des ailes de verre étirées fines comme de la gaze, et les pétales des fleurs sont en métal iridescent aussi flexible et fragile que n'importe quelle rose terrestre.
 
 L'esprit des memonek est hautement ordonné. Leur raison est leur grande fierté. Mais lorsqu'ils descendent vers les plans inférieurs, y compris un plan comme Orden où la loi et le chaos se mélangent, une maladie s'empare d'eux—une sensation incontrôlable appelée émotion.
 
-### Sur Memonek
+## Sur Memonek
 
 « Tu veux bien me dire ce qui vient de se passer ? » demanda Sir John. Le Comte Revile évita son regard, puis fit demi-tour et traversa le champ de bataille sanglant d'un pas lourd. « Je vais bien ! » cria Revile, toutes les preuves du contraire.
 
@@ -92,46 +91,46 @@ John tendit la main. Revile la serra puis la retint.
 
 « Mais il pourrait y en avoir assez. »
 
-### Traits des Memoneks
+## Traits des Memoneks
 
 Les héros memoneks ont accès aux traits suivants.
 
-#### Trait Signature : Chute Légère
+### Trait Signature : Chute Légère
 
 Votre corps en silicone a une faible densité. Chaque fois que vous chutez, vous réduisez la distance de la chute de 2 cases.
 
-#### Trait Signature : Poids Plume
+### Trait Signature : Poids Plume
 
 Votre corps est léger pour une créature de votre taille. Chaque fois qu'une autre créature tente de vous infliger un déplacement forcé, vous considérez votre taille comme étant d'une catégorie inférieure à ce qu'elle est réellement.
 
-#### Traits de Memonek Achetés
+### Traits de Memonek Achetés
 
 Vous avez 4 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Agilité Fulgurante, Sans Arrêt.)
 
-##### Je Suis la Loi (1 Point)
+#### Je Suis la Loi (1 Point)
 
 Votre nature respectueuse des lois et vos réflexes rapides font que vous ne laissez aucun répit aux créatures qui tentent de vous contourner. Les ennemis ne peuvent pas traverser votre espace à moins que vous ne les y autorisiez.
 
-##### Gardien de l'Ordre (2 Points)
+#### Gardien de l'Ordre (2 Points)
 
 Votre connexion à Axiom, le plan de la Loi Absolue, vous permet de maîtriser le chaos autour de vous. Une fois par tour, lorsque vous ou une créature adjacente effectuez un jet de pouvoir, vous pouvez utiliser une action déclenchée gratuite pour retirer un avantage ou un fléau du jet, pour transformer un double avantage en avantage, ou pour transformer un double fléau en fléau.
 
-##### Agilité Fulgurante (2 Points)
+#### Agilité Fulgurante (2 Points)
 
 Vous pouvez pousser votre corps à se déplacer à des vitesses incroyables. Votre Vitesse est de 7.
 
-##### Infatigable (2 Points)
+#### Infatigable (2 Points)
 
 Votre connexion à l'Axiome vous permet de réguler votre déplacement. Vous ne pouvez pas être ralenti.
 
-##### Esprit Systématique (1 Point)
+#### Esprit Systématique (1 Point)
 
 Vous gagnez un avantage aux tests effectués pour analyser des schémas, des cartes et autres documents systématiques qui ne sont pas intrinsèquement chaotiques. De plus, vous traitez toute langue que vous ne connaissez pas comme si vous connaissiez une langue apparentée.
 
-##### Imperturbable (1 Point)
+#### Imperturbable (1 Point)
 
 Votre esprit ordonné ne peut pas être pris au dépourvu. Vous ne pouvez pas être Surpris.
 
-##### Émotion Utile (1 Point)
+#### Émotion Utile (1 Point)
 
 Velloparatha—le mal du monde—peut vous entraver, mais vous savez comment transformer votre douleur en quelque chose que vos ennemis ressentent. Au début de tout combat, vous gagnez 1 impulsion.

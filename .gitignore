@@ -12,3 +12,4 @@ private/
 .replit
 replit.nix
 quartz/styles/custom.scss
+content/templates/*

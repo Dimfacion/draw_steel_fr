@@ -1,24 +1,23 @@
 ---
 title: Tests
 ---
-
 # Tests
 
 Quand vous voulez que votre héros fouille un bureau pour localiser un document spécifique, escalade un mur de château, négocie un traité avec un monarque, ou entreprenne toute autre activité avec un risque d'échec, vous devrez faire un test pour déterminer votre degré de réussite dans cette tâche. Un test est tout Jet de Pouvoir qui présente l'échec ou des conséquences comme option.
 
-### Quand Faire un Test
+## Quand Faire un Test
 
 Le Directeur ne devrait demander à un joueur de faire un test que lorsque le héros du joueur tente une tâche où les conséquences de l'échec sont intéressantes ou dramatiques, et où l'échec ne va pas bloquer l'histoire. Par exemple, si un héros veut sauter par-dessus un mur à hauteur de taille en marchant tranquillement dans un quartier paisible de la ville, le pire scénario en cas d'échec est probablement que le héros tombe sur les fesses, ne subisse aucun dégâts, et puisse se relever pour soit réessayer soit contourner le mur. Dans ce cas, aucun test n'est requis. Mais si le héros était poursuivi par des ennemis, échouer à sauter par-dessus le mur signifie que les poursuivants peuvent l'attraper, alors le Directeur pourrait décider de demander un test pour déterminer ce qui se passe.
 
 La progression d'une histoire ne devrait pas être interrompue par l'échec d'un test. Par exemple, les héros pourraient avoir besoin de connaître la couleur de la couronne d'un roi nain pour résoudre une énigme, cette énigme ouvrant la seule entrée d'une tombe dans laquelle ils doivent pénétrer pour arrêter un rituel apocalyptique. Il se pourrait qu'un test de Raison réussi permette aux héros de se rappeler cette tradition, mais le test ne devrait pas être leur seule option pour obtenir l'information. Si le test échoue, peut-être que les héros doivent se rendre dans une bibliothèque volante pour faire des recherches, ou ils pourraient être capables d'explorer une ruine pour trouver le portrait de l'ancien monarque. Un test raté devrait toujours avoir pour résultat de rendre une histoire plus intéressante, et non d'arrêter l'action.
 
-#### Ça Marche Tout Simplement !
+### Ça Marche Tout Simplement !
 
 Quand un héros tente de résoudre une tâche qui nécessite habituellement un test en faisant preuve de créativité et de réflexion originale, le Directeur peut décider qu'aucun test n'est requis et que la tentative fonctionne automatiquement ! Par exemple, si un héros qui veut escalader un mur commence par recouvrir ses mains et ses pieds de gros brins de toiles d'araignée collantes, le Directeur pourrait décider qu'il peut escalader le mur sans avoir besoin de faire un test.
 
 Cela dit, de telles idées ingénieuses fonctionnent souvent gratuitement la première fois, mais le Directeur pourrait décider qu'elles nécessitent des tests si elles sont utilisées à nouveau.
 
-### Comment Effectuer un Test
+## Comment Effectuer un Test
 
 Chaque test comprend les étapes suivantes :
 
@@ -28,29 +27,29 @@ Le joueur effectue le jet de pouvoir. Si le personnage possède une compétence 
 
 Le joueur annonce le total du jet, et le Directeur interprète sa réussite ou son échec.
 
-#### Caractéristiques et Tests
+### Caractéristiques et Tests
 
 Lorsque vous décrivez une tâche que votre héros souhaite entreprendre et que le Directeur détermine qu'un test est nécessaire, il détermine ensuite quelle caractéristique le test utilise en fonction de la nature de la tâche. Par exemple, si vous escaladez un mur, le Directeur pourrait demander un test de Force pour déterminer jusqu'où et à quelle vitesse vous êtes capable d'escalader. Si vous tentez de plaider votre innocence au tribunal pour un meurtre que vous n'avez pas commis, le Directeur pourrait demander un test de Présence si vous tentez de convaincre le jury par votre personnalité, ou un test de Raison si vous exposez un argument logique pour soutenir votre innocence.
 
 Bien que le Directeur puisse décider de demander des tests en toutes circonstances, un certain nombre de tâches que les héros entreprennent couramment sont généralement configurées comme des tests.
 
-##### Tests de Force
+#### Tests de Force
 
 Vous effectuez un test de Force chaque fois qu'une tâche risquée nécessite l'usage de la force physique. Les tests de Force sont le plus souvent utilisés pour enfoncer des portes et autres structures, lancer des objets lourds, hisser votre corps le long d'un mur à pic, nager contre un courant puissant, et autres exploits de puissance physique.
 
-##### Tests d'Agilité
+#### Tests d'Agilité
 
 Vous effectuez un test d'Agilité chaque fois qu'une tâche risquée nécessite l'usage de votre coordination physique et de votre agilité. Les tests d'Agilité sont le plus souvent utilisés pour les acrobaties, se déplacer discrètement, crocheter des serrures et pratiquer les tours de passe-passe.
 
-##### Tests de Raison
+#### Tests de Raison
 
 Vous effectuez un Test de Raison chaque fois que vous tentez une tâche risquée qui nécessite l'usage de votre acuité mentale et de votre éducation, formelle ou non. Les Tests de Raison sont le plus souvent utilisés pour se rappeler des connaissances, déduire des informations à partir d'indices, résoudre une énigme, forger de faux objets ou documents, déchiffrer un code, convaincre autrui par un Argument logique, ou faire une estimation.
 
-##### Tests d'Intuition
+#### Tests d'Intuition
 
 Vous effectuez un Test d'Intuition chaque fois que vous tentez une tâche risquée qui nécessite l'usage de vos pouvoirs d'observation et d'instinct. Les Tests d'Intuition sont le plus souvent utilisés pour remarquer des Créatures cachées ou des détails, discerner les Motivations ou l'honnêteté d'une autre personne, calmer et rassurer les autres, et dresser des animaux.
 
-##### Tests de Présence
+#### Tests de Présence
 
 Vous effectuez un test de Présence chaque fois que vous tentez une tâche risquée qui nécessite l'usage de votre force de personnalité. Les tests de Présence sont le plus souvent utilisés pour gagner la confiance, projeter de l'assurance, et influencer et diriger d'autres créatures.
 
@@ -62,7 +61,7 @@ Vous effectuez un test de Présence chaque fois que vous tentez une tâche risqu
 >
 > Cela dit, si tout le monde dans votre groupe de jeu décide de lever une ou plusieurs de ces restrictions après en avoir discuté, allez-y ! Il n'y a pas de mauvaise façon de jouer tant que tout le monde s'amuse. Le Kit de Sécurité MCDM (disponible en téléchargement sur *[https://mcdm.gg/SafetyToolkit](http://mcdm.gg/SafetyToolkit)*) explique comment aborder les sujets potentiellement problématiques comme la limitation du libre arbitre des personnages à votre table.
 
-#### Difficulté des Tests
+### Difficulté des Tests
 
 Le Directeur décide de la difficulté d'une tâche qui nécessite un test : facile, moyenne ou difficile. Si une tâche semble plus facile qu'un test facile, alors aucun test n'est nécessaire. Le Héros accomplit simplement la tâche. Si la tâche semble plus difficile qu'un test difficile, alors le Directeur est libre de décider qu'il est impossible de la réaliser avec un test.
 
@@ -70,7 +69,7 @@ Au cas par cas, le Directeur peut révéler la difficulté d'une tâche avant qu
 
 Le tableau des Résultats de Difficulté des Tests présente tous les résultats possibles des différentes difficultés de tests. Le Directeur gardera ces informations à portée de main afin de pouvoir comparer les différentes difficultés et leurs résultats pendant le jeu.
 
-###### Tableau des Résultats de Difficulté des Tests
+##### Tableau des Résultats de Difficulté des Tests
 
 | Jet de Pouvoir   | Résultats Test Facile      | Résultats Test Moyen       | Résultats Test Difficile   |
 |------------------|----------------------------|----------------------------|----------------------------|
@@ -83,7 +82,7 @@ Chaque fois que les règles parlent d'obtenir un succès sur un test, cela inclu
 
 Chaque fois que vous effectuez un test dont le résultat ne vous plaît pas, vous pouvez dépenser un jeton de héros pour relancer le test. Vous devez utiliser le nouveau jet.
 
-##### Tests Faciles
+#### Tests Faciles
 
 Un test facile présente un certain risque de conséquence, mais la plupart des héros parviendront probablement à le surmonter. Le Jet de Pouvoir que vous effectuez pour un test facile détermine le résultat (voir [Résultats de Test](#page-264-0) ci-dessous) :
 
@@ -91,7 +90,7 @@ Un test facile présente un certain risque de conséquence, mais la plupart des 
 - **12-16 :** Vous réussissez la tâche.
 - **17+ :** Vous réussissez la tâche avec une récompense.
 
-##### Tests Moyens
+#### Tests Moyens
 
 Un test moyen présente un certain risque d'échec que la plupart des héros parviendront probablement à surmonter—mais à un prix. Le Jet de Pouvoir que vous effectuez pour un test moyen détermine le résultat :
 
@@ -99,7 +98,7 @@ Un test moyen présente un certain risque d'échec que la plupart des héros par
 - **12-16 :** Vous réussissez la tâche et subissez une conséquence.
 - **17+ :** Vous réussissez la tâche.
 
-##### Tests Difficiles
+#### Tests Difficiles
 
 Un test difficile présente un risque d'échec plus élevé, et la plupart des héros sont susceptibles de subir des difficultés en tentant d'accomplir la tâche prévue. Le Jet de Pouvoir que vous effectuez pour un test difficile détermine le résultat :
 
@@ -107,15 +106,15 @@ Un test difficile présente un risque d'échec plus élevé, et la plupart des h
 - **12-16 :** Vous échouez à la tâche.
 - **17+ :** Vous réussissez la tâche.
 
-##### 19 ou 20 Naturel : Succès avec une Récompense
+#### 19 ou 20 Naturel : Succès avec une Récompense
 
 Chaque fois que vous obtenez un 19 ou 20 naturel sur le Jet de Pouvoir d'un Test—un total de 19 ou 20 avant d'ajouter votre score de caractéristique ou autres modificateurs—vous obtenez un succès critique. Ce succès critique vous permet automatiquement de réussir la tâche avec une Récompense, même si le Test a une difficulté moyenne ou élevée.
 
-#### Résultats des Tests
+### Résultats des Tests
 
 Selon la difficulté d'un test et le Jet de Pouvoir effectué pour accomplir la tâche représentée par le test, vous pouvez obtenir l'un des résultats suivants.
 
-##### Échec avec une Conséquence
+#### Échec avec une Conséquence
 
 Si vous échouez à un test difficile et subissez une conséquence, vous n'accomplissez pas ce que vous aviez entrepris de faire—et en plus de cela, vous subissez un revers significatif. Le Directeur détermine la nature exacte de la conséquence, qui est généralement liée à la tâche spécifique.
 
@@ -134,7 +133,7 @@ Les conséquences courantes pour l'échec d'un test incluent les suivantes :
 
 À la place d'autres conséquences, le Directeur a aussi l'option de gagner 2 points de Malveillance supplémentaires—une ressource que les créatures dirigées par le Directeur utilisent en combat—au début de la prochaine rencontre de combat.
 
-##### Échec
+#### Échec
 
 Si vous échouez à un test sans subir de conséquence, vous n'arrivez tout simplement pas à faire ce que vous aviez l'intention de faire. Un héros tentant d'escalader un mur ne trouve aucune prise. Un héros essayant de se rappeler des connaissances ne parvient pas à se souvenir des faits désirés. Si un héros tente de corrompre un garde, celui-ci ne mord pas à l'hameçon.
 
@@ -142,7 +141,7 @@ Lors d'un test raté, le Directeur peut décider qu'il pourrait tout de même y 
 
 Quand un héros obtient un échec sans conséquence, le Directeur peut proposer de le laisser réussir avec une conséquence à la place. Par exemple, quand un héros obtient 10 sur un test de Force moyen pour enfoncer une porte verrouillée, c'est un échec et la porte reste fermée. Mais le Directeur pourrait suggérer au joueur qu'au lieu de ne pas enfoncer la porte, il peut enfoncer la porte et perdre 1d6 points de Vigueur en étant blessé dans l'effort.
 
-##### Succès avec une Conséquence
+#### Succès avec une Conséquence
 
 Si vous réussissez un test et subissez une conséquence, vous accomplissez ce que vous aviez l'intention de faire, mais avec un coût supplémentaire. Un héros pourrait réussir à escalader un mur, mais la surface du mur s'effrite et devient instable pendant qu'il le fait, rendant l'escalade plus difficile pour l'allié qui monte après lui. En tentant de se faufiler devant un cultiste, un héros y parvient, mais laisse des empreintes ou d'autres preuves d'intrusion derrière lui. Si un héros soudoie un garde pour être autorisé à s'infiltrer dans une prison, le garde le laisse entrer—mais exige ensuite une pierre précieuse dont le héros a besoin pour un important projet d'artisanat avant de le laisser sortir.
 
@@ -150,11 +149,11 @@ Tout comme l'échec avec une conséquence, les conséquences accompagnant le suc
 
 Quand un héros obtient un succès avec une conséquence, le Directeur pourrait lui donner une chance d'échouer à la place. Par exemple, quand un héros obtient 10 sur un test d'Agilité facile pour crocheter la serrure d'un coffre, c'est un succès avec une conséquence. Le Directeur pourrait suggérer que le personnage a ouvert la serrure mais cassé ses outils de crochetage dans le processus (sachant que les outils ne peuvent pas être remplacés avant que le héros ne retourne en ville), mais peut aussi lui donner l'option d'échouer à crocheter la serrure tout en gardant ses outils intacts.
 
-##### Succès
+#### Succès
 
 Si vous réussissez un test sans conséquence ou récompense, vous accomplissez simplement ce que vous aviez prévu de faire. Un héros escalade ce mur, se faufile devant ces cultistes, ou soudoie ce garde exactement comme prévu. Sans accroc.
 
-##### Succès avec une Récompense
+#### Succès avec une Récompense
 
 Si vous réussissez un test avec une récompense, vous accomplissez ce que vous aviez entrepris de faire. Mais vous obtenez aussi quelque chose en plus, sous la forme d'un élan ou d'une chance qui facilite l'avenir immédiat pour vous ou vos amis.
 
@@ -177,21 +176,21 @@ Les récompenses courantes accompagnant le succès d'un test incluent les suivan
 >
 > Inventer des conséquences et des récompenses pour les tests peut représenter une grande part du plaisir pour de nombreux Directeurs, mais même les meilleurs Directeurs manquent parfois d'idées. C'est pourquoi le jeu donne l'option par défaut de conséquences et récompenses sous la forme de Malveillance et de jetons de héros. Cependant, un Directeur qui préfère les conséquences et récompenses narratives peut demander aux joueurs de proposer différentes conséquences et récompenses quand ils font un test. Le Directeur peut rejeter, ajouter ou modifier les idées des joueurs comme il le souhaite, et rappellera aux joueurs qu'ils doivent proposer de vraies conséquences, et non des récompenses mineures déguisées en conséquences.
 
-#### Combien de Temps Cela Prend-il ?
+### Combien de Temps Cela Prend-il ?
 
 Le temps nécessaire pour une tâche impliquant un test est déterminé par le Directeur. Une tâche comme se rappeler des connaissances avec un test de Raison pourrait ne prendre aucun temps du tout. Se baisser derrière un tonneau pour se cacher avec un test d'Agilité pourrait nécessiter une manœuvre ou une action principale, tandis que traquer une bande de parleurs silencieux à travers le Monde d'En-Bas pourrait prendre des heures ou même des jours.
 
-##### Tests Pendant le Combat
+#### Tests Pendant le Combat
 
 De nombreux tests (mais pas tous) qu'un héros pourrait effectuer pendant le combat sont réalisés sous forme de manœuvres. Voir [Manœuvres](#page-287-0) dans le [Chapitre 10 : Combat](#page-288-0) pour plus d'informations.
 
-#### Puis-je Réessayer ?
+### Puis-je Réessayer ?
 
 Dans de nombreux cas, lorsque vous échouez à un Test, vous ne pouvez pas tenter le Test à nouveau à moins que les circonstances du Test ne changent. Par exemple, si vous tentez un Test d'Agilité pour crocheter une serrure et échouez, vous ne pouvez pas tenter de crocheter la serrure à nouveau à moins d'obtenir de meilleurs outils de crochetage, d'huiler la serrure, de faire en sorte que quelqu'un vous montre comment crocheter une serrure similaire, etc.
 
 Le Directeur décide quand les circonstances ont suffisamment changé pour permettre une nouvelle tentative de Test.
 
-### Les Héros Font les Tests
+## Les Héros Font les Tests
 
 Si un héros tente de se faufiler discrètement devant un garde ennemi, le héros doit-il faire un test d'Agilité pour se faufiler, ou le garde doit-il faire un test d'Intuition pour surprendre le héros en flagrant délit ? Si un cultiste ment à un héros sur l'emplacement d'un temple secret, le cultiste lance-t-il un test de Présence pour dissimuler la vérité, ou le héros lance-t-il un test d'Intuition pour discerner l'honnêteté du cultiste ?
 
@@ -205,7 +204,7 @@ Pour évaluer rapidement la difficulté d'une tâche opposée par une ou plusieu
 
 Les Conséquences d'échec des tâches opposées sont parmi les plus faciles à créer à la volée. Échouer à se cacher de quelqu'un, et il vous remarque. Échouer à mentir à quelqu'un, et il découvre votre duplicité. Échouer à faire un bras de fer avec quelqu'un pour une bière gratuite, et vous payez l'addition. La Conséquence est que l'opposition surpasse le héros.
 
-#### Les PNJ Lancent les Dés pour les Tâches Trompeuses
+### Les PNJ Lancent les Dés pour les Tâches Trompeuses
 
 Parfois, le Directeur peut choisir de faire effectuer un test à un PNJ lorsqu'il s'engage dans une tâche trompeuse, plutôt que de demander aux personnages de tenter de détecter la tromperie. En faisant lancer les dés au PNJ dans ces scénarios, le Directeur ne révèle pas aux joueurs qu'une supercherie est en cours.
 
@@ -215,7 +214,7 @@ Un PNJ peut également effectuer un test de Présence s'il ment aux héros, tant
 
 En règle optionnelle, le Directeur est également libre de demander aux héros d'effectuer un Test Réactif face à un PNJ trompeur à la place (voir [Tests Réactifs](#page-267-1) ci-dessous) quand il le souhaite.
 
-#### Jets de Pouvoir Opposés
+### Jets de Pouvoir Opposés
 
 Quand deux créatures sont engagées dans une lutte particulièrement dramatique qui nécessite qu'elles fassent toutes les deux des tests, le Directeur peut faire faire un test à toutes les créatures impliquées. La créature avec le jet de pouvoir le plus élevé gagne. Vous ne pouvez pas gagner de récompense dans le cadre de ces jets de pouvoir opposés, et ils ne suivent pas la structure de difficulté habituelle ni n'ont trois tiers de résultats possibles différents.
 
@@ -225,7 +224,7 @@ En cas d'égalité dans un test opposé, l'état de la scène ne change pas. Dan
 
 Puisque les jets de pouvoir opposés n'utilisent pas de tiers, quand vous faites un jet de pouvoir opposé, un Double Avantage fournit un bonus de +4 au jet, un Double Fléau inflige une pénalité de -4 au jet, une augmentation automatique de tiers compte comme un bonus de +4 au jet, et une diminution automatique de tiers compte comme une pénalité de -4 au jet.
 
-### Tests Réactifs
+## Tests Réactifs
 
 À certains moments où un héros n'est pas engagé dans l'accomplissement d'une tâche, le Directeur peut demander au joueur du héros de faire un test sans contexte, expliquant le test seulement après que le Jet de Pouvoir ait été effectué. Cela arrive souvent quand un héros a une chance de savoir ou de remarquer quelque chose d'important que le joueur ne sait pas qu'il doit chercher ou demander.
 
@@ -242,11 +241,11 @@ Les Tests Réactifs sont généralement effectués dans les circonstances suivan
 >
 > Certains Directeurs préfèrent faire les Jets de Pouvoir pour les Tests Réactifs pour les héros plutôt que de demander aux joueurs de le faire. Cela permet au Directeur de faire les jets quand c'est approprié pour les objets cachés, Créatures, Motivations, et informations sans alerter les joueurs qu'il y a des informations à gagner. Avoir le Directeur qui lance nécessite que le Directeur ait les caractéristiques et Compétences de tout le monde enregistrées (que ce soit physiquement ou numériquement) pour une référence facile.
 
-### Compétences
+## Compétences
 
 Les compétences représentent les différentes spécialisations qu'un héros possède en dehors d'attaquer, de se défendre et d'utiliser les traits de son héritage, les capacités de sa classe et son équipement. Chaque fois que vous effectuez un test, posséder une compétence particulière associée au test augmente vos chances de réussite.
 
-#### Application des Compétences
+### Application des Compétences
 
 Si vous possédez une compétence qui s'applique à un test que vous effectuez, vous gagnez un bonus de +2 au test. Par exemple, si votre héros possède la compétence Se Cacher, vous avez un bonus de +2 à tout test que vous effectuez qui implique de vous cacher. Cela peut inclure un test d'Agilité pour se cacher derrière un tonneau, ou un test de Présence pour disparaître dans une foule.
 
@@ -254,7 +253,7 @@ Le bonus de +2 obtenu grâce à une compétence n'est pas un avantage. Un joueur
 
 Vous ne pouvez pas appliquer plus d'une compétence à un test.
 
-##### Justifier la Compétence
+#### Justifier la Compétence
 
 Ce n'est pas le travail du Directeur de connaître chaque tâche potentiellement couverte par les compétences du jeu, ou de connaître les compétences spécifiques que possède votre héros. À la place, le Directeur vous demande de faire un test en utilisant une caractéristique et vous dites au Directeur si vous pensez avoir une compétence qui s'applique. Si ce n'est pas évident pourquoi la compétence s'applique, dites au Directeur comment votre héros aborde la tâche et justifiez pourquoi cette approche utilise la compétence. Le Directeur décide alors si vous obtenez le bonus de +2 que représente la compétence. Si le Directeur n'est pas d'accord avec vous, c'est le dernier mot.
 
@@ -262,13 +261,13 @@ Aborder les problèmes de manière créative tout en restant raisonnable peut vo
 
 Parfois, vous n'aurez pas de compétence qui s'applique à un test. Ce n'est pas grave ! Si votre score de caractéristique est correct, vous avez probablement de bonnes chances de réussir sans compétence.
 
-##### Mélanger Caractéristiques et Compétences
+#### Mélanger Caractéristiques et Compétences
 
 Bien que certaines compétences soient souvent associées à une caractéristique plus qu'à d'autres, une compétence peut s'appliquer à un test utilisant n'importe quelle caractéristique qui a du sens. Le Directeur a le dernier mot sur la caractéristique utilisée pour accomplir une tâche, et peut demander une caractéristique différente selon les circonstances.
 
 Par exemple, intimider quelqu'un avec une menace purement verbale est un test de Présence. Mais si un joueur décrit son personnage déchirant une bûche en deux à mains nues pour intimider un adversaire, le Directeur demandera probablement un test de Force à la place. La compétence Intimidation peut s'appliquer aux deux tests. De la même manière, escalader le côté d'un bâtiment relève d'un test de Force, mais si un héros effectue une série de bonds d'un balcon à l'autre pour atteindre un toit, le Directeur pourrait demander un test d'Agilité à la place. La compétence Escalader s'applique à ces deux tests.
 
-#### De Nombreuses Compétences Spécifiques
+### De Nombreuses Compétences Spécifiques
 
 *Draw Steel* inclut une grande liste de compétences, et chacune est assez spécifique. Par exemple, au lieu d'une seule compétence Athlétisme qui couvrirait l'escalade, le saut, la nage et le port d'objets lourds, votre personnage pourrait utiliser des compétences séparées : Escalader, Saut, Porter et Nager. Au lieu d'une compétence Larcin qui couvrirait le crochetage, le vol à la tire et la désactivation de pièges, le jeu a trois compétences : Crochetage, Vol à la Tire et Sabotage.
 
@@ -286,11 +285,11 @@ Les règles pour les compétences permettent qu'elles soient appliquées de mani
 >
 > Lors du choix des compétences pour votre personnage, décider quelles compétences seront les plus utiles dépend beaucoup de la campagne. Par exemple, la compétence Nager pourrait être utilisée constamment pendant une campagne qui se déroule sur l'océan et où les héros explorent des ruines sous-marines, mais elle ne reviendra pas autant dans une campagne qui se déroule entièrement dans un vaste désert. La compétence Psionique pourrait revenir beaucoup dans une campagne où les parleurs sans voix sont les principaux ennemis, et Magie pourrait être plus utile dans un jeu où les héros affrontent un cercle de sorciers maléfiques. Si vous vous inquiétez de savoir si une compétence que vous aimeriez prendre sera utile, discutez de votre liste de compétences avec le Directeur après avoir créé un héros. Et si une compétence ne fonctionne pas, vous pouvez toujours l'échanger contre une autre compétence comme vous le souhaitez (voir Changer les Options de Personnage au Chapitre 2 : Créer un Héros).
 
-#### Groupes de Compétences
+### Groupes de Compétences
 
 Les compétences sont réparties en cinq groupes de compétences : artisanat, exploration, interpersonnel, intrigue et savoir.
 
-##### Compétences d'Artisanat
+#### Compétences d'Artisanat
 
 Les Compétences du groupe d'artisanat sont utilisées pour la création et l'évaluation de biens ainsi que pour bricoler des mécanismes de fortune. Elles sont particulièrement utiles pendant les repos et les temps libres.
 
@@ -298,7 +297,7 @@ Les Récompenses pour les Tests effectués avec les compétences d'artisanat inc
 
 Les Conséquences pour les Tests effectués avec les compétences d'artisanat incluent généralement le gaspillage de matériaux rares utilisés dans le processus de création, la surestimation ou sous-estimation importante de la valeur d'un objet, et le bricolage défaillant d'un mécanisme qui blesse des gens (ou du moins les mauvaises personnes).
 
-###### Tableau des Compétences d'Artisanat
+##### Tableau des Compétences d'Artisanat
 
 | Compétence    | Utilisation                                                    |
 |---------------|----------------------------------------------------------------|
@@ -313,7 +312,7 @@ Les Conséquences pour les Tests effectués avec les compétences d'artisanat in
 | Mécanique     | Construire des machines et des objets d'horlogerie            |
 | Couture       | Confectionner des vêtements en tissu ou en cuir               |
 
-##### Compétences d'Exploration
+#### Compétences d'Exploration
 
 Les compétences du groupe d'exploration sont utilisées pour explorer physiquement l'environnement autour des personnages, et pour surmonter les obstacles physiques.
 
@@ -321,7 +320,7 @@ Les récompenses pour les tests effectués avec les compétences d'exploration i
 
 Les conséquences pour les tests effectués avec les compétences d'exploration incluent se blesser soi-même, endommager son équipement ou ses alliés ; se perdre ; ou foncer tête baissée dans un danger ou un endroit que vous essayiez d'éviter.
 
-###### Tableau des Compétences d'Exploration
+##### Tableau des Compétences d'Exploration
 
 | Compétence | Utilisation                                                        |
 |------------|--------------------------------------------------------------------|
@@ -336,7 +335,7 @@ Les conséquences pour les tests effectués avec les compétences d'exploration 
 | Équitation | Monter et contrôler une monture non-intelligente, comme un cheval |
 | Nager      | Se déplacer dans un liquide profond                               |
 
-##### Compétences Interpersonnelles
+#### Compétences Interpersonnelles
 
 Les compétences du groupe de compétences interpersonnelles sont utilisées pour interagir socialement avec d'autres créatures, et sont particulièrement utiles lors de négociations (voir [Chapitre 11](#page-297-1)). À l'exception de la compétence Dressage, vous ne pouvez généralement utiliser les compétences interpersonnelles que lorsque vous tentez d'influencer des créatures qui ont des émotions et qui peuvent vous comprendre.
 
@@ -344,7 +343,7 @@ Les récompenses pour les tests effectués avec les compétences interpersonnell
 
 Les conséquences pour les tests effectués avec les compétences interpersonnelles incluent le fait de rendre la créature avec laquelle vous interagissez en colère, triste, embarrassée, offensée, ou autrement contrariée ou mal à l'aise. Cela pourrait l'amener à vous ignorer, partir en trombe, répandre des rumeurs sur vous, vous attaquer, vous trahir, vous faire chanter, ou tenter de vous nuire d'une autre manière.
 
-###### Tableau des Compétences Interpersonnelles
+##### Tableau des Compétences Interpersonnelles
 
 | Compétence          | Utilisation                                                                     |
 |---------------------|--------------------------------------------------------------------------------|
@@ -362,7 +361,7 @@ Les conséquences pour les tests effectués avec les compétences interpersonnel
 | Persuader           | Convaincre quelqu'un d'être d'accord avec vous grâce à votre charme et votre grâce |
 | Cerner              | Lire les émotions et le langage corporel d'autres Créatures                  |
 
-##### Compétences d'Intrigue
+#### Compétences d'Intrigue
 
 Les compétences du groupe de compétences d'intrigue sont utilisées dans des tâches centrées sur l'enquête, le vol et l'espionnage.
 
@@ -370,7 +369,7 @@ Les récompenses pour les tests effectués avec les compétences de ce groupe in
 
 Les conséquences pour les tests effectués avec les compétences d'intrigue incluent se faire prendre en flagrant délit ou échouer à remarquer un détail qui vous place en danger, comme déclencher un piège ou marcher dans une embuscade.
 
-###### Tableau des Compétences d'Intrigue
+##### Tableau des Compétences d'Intrigue
 
 | Compétence        | Utilisation                                                                                           |
 |-------------------|-------------------------------------------------------------------------------------------------------|
@@ -387,7 +386,7 @@ Les conséquences pour les tests effectués avec les compétences d'intrigue inc
 | Furtivité         | Se déplacer silencieusement                                                                          |
 | Pistage           | Suivre une piste qu'une autre Créature a laissée derrière elle                                       |
 
-##### Compétences de Savoir
+#### Compétences de Savoir
 
 Les compétences du groupe de savoir sont utilisées pour rechercher et se rappeler des informations spécifiques. Elles sont particulièrement utiles pendant les repos et les temps libres.
 
@@ -395,7 +394,7 @@ Les récompenses pour les tests effectués avec les compétences de savoir inclu
 
 Les conséquences pour les tests effectués avec les compétences de savoir incluent généralement l'apprentissage d'une information incorrecte qui semble utile, mais qui en réalité va à l'encontre de vos intérêts ou fait perdre du temps. (C'est amusant de jouer ce genre de moments, alors lancez-vous !) Alternativement, le Directeur peut effectuer des tests moyens et difficiles avec les compétences du groupe de savoir pour chaque héros en secret, puis informer les joueurs du résultat narratif sans révéler le résultat du Jet de Pouvoir (voir l'encadré [Règle Optionnelle : Tests Réactifs Secrets](#page-267-3) plus tôt dans ce chapitre).
 
-###### Tableau des Compétences de Savoir
+##### Tableau des Compétences de Savoir
 
 | Compétence          | Utilisation                                                                                        |
 |---------------------|---------------------------------------------------------------------------------------------------|
@@ -416,7 +415,7 @@ Les conséquences pour les tests effectués avec les compétences de savoir incl
 >
 > Les Directeurs ne doivent pas hésiter à créer leurs propres compétences qu'ils jugent pertinentes et utiles pour leurs campagnes et aventures. Par exemple, le jeu n'a pas de Compétence Brassage pour brasser de la bière ou de Compétence Peinture pour créer de l'art parce que ce ne sont pas des tâches qui surviennent typiquement dans un jeu où l'on combat des monstres et sauve le monde. Cependant, un Directeur pourrait décider que sa campagne implique des tonneaux de bière empoisonnés et de grandes quantités d'art contrefait, et qu'ajouter ces deux nouvelles compétences au jeu le rendrait plus amusant pour les joueurs. Le Directeur doit simplement choisir un groupe pour ces nouvelles compétences—dans ce cas, l'artisanat a du sens. Il informe ensuite les joueurs qu'ils peuvent échanger n'importe quelle Compétence d'artisanat qu'ils possèdent contre ces nouvelles compétences.
 
-### Exemples de Tests
+## Exemples de Tests
 
 Dans ce scénario, un trio d'aventuriers veut escalader les murs de 40 pieds de haut qui entourent un château connu sous le nom de Chambre des Étoiles, espérant obtenir discrètement des informations sur leur ennemi, Dame Morgant.
 
@@ -490,7 +489,7 @@ Le Directeur décide alors de rendre l'échec potentiellement plus intéressant,
 
 **Directeur :** *Alors que Jorn tire Korvo du sol et le hisse au sommet du mur, un garde tourne une lanterne sourde dans votre direction, criant : "Qui va là ?"*
 
-### Assister un Test
+## Assister un Test
 
 Vous pouvez tenter d'assister une autre créature lors d'un test qu'elle effectue, à condition d'avoir une compétence qui s'applique au test, que l'autre créature n'utilise pas cette même compétence pour le test, et que vous puissiez décrire comment votre personnage aide à la satisfaction du Directeur. En d'autres termes, votre tentative d'aide doit avoir du sens, et vous devez apporter une expertise utile. Aider une autre créature à se faufiler en lui criant des encouragements ne va pas la rendre plus discrète.
 
@@ -502,11 +501,11 @@ Lorsque vous tentez d'assister une autre créature, effectuez un test en utilisa
 
 Par exemple, lorsqu'un allié tente de faire les poches d'un geôlier, vous pourriez tenter d'assister en utilisant la compétence Flirt pour distraire le geôlier. Le Directeur accepte cela, et vous demande d'effectuer un test de Présence en utilisant Flirt. Le résultat de ce test détermine le bonus que vous fournissez au test d'Agilité de l'autre héros pour faire les poches du geôlier—ou si vous ratez la distraction et attirez potentiellement l'attention sur la tentative.
 
-### Se Cacher et Furtivité
+## Se Cacher et Furtivité
 
 Se cacher et la furtivité sont des outils importants pour les héros et leurs ennemis. Vous pourriez vouloir éviter l'attention d'une autre créature pour écouter aux portes lors de conversations, voler des objets, préparer une embuscade, ou éviter un combat.
 
-#### Se Cacher
+### Se Cacher
 
 Pour vous cacher d'une créature, vous devez avoir un abri ou une dissimulation par rapport à cette créature (voir [Chapitre 10 : Combat](#page-288-0)), qui ne peut pas vous observer en train de tenter de vous cacher. Une créature vous observe si elle connaît votre position exacte avant que vous ne tentiez de vous cacher. Cela signifie qu'elle peut vous localiser précisément avec ses sens et pointer un doigt (ou une patte ou un tentacule) vers vous comme pour crier : « Les voilà ! » Si vous vous accroupissez derrière un tonneau pour vous cacher d'un ennemi, votre tentative de vous cacher n'a une chance de réussir que si votre ennemi ne vous remarque pas en train de le faire. Si vous êtes poursuivi par un dragon affamé, vous ne pouvez vous cacher que si vous vous déplacez d'abord vers un endroit où le dragon ne peut pas vous observer — par exemple, en tournant brusquement au coin d'un tunnel rempli de stalagmites géantes avant que le dragon ne le fasse. Vous effectuez alors votre tentative pour vous cacher.
 
@@ -520,7 +519,7 @@ Draw Steel
 
 Vous n'êtes plus caché d'une créature si vous n'avez pas d'abri ou de dissimulation par rapport à elle. Si vous utilisez une aptitude, interagissez avec un ennemi, vous déplacez sans vous faufiler, ou faites du bruit ou vous révélez d'une autre manière pendant que vous êtes caché, vous n'êtes plus caché une fois que l'activité qui vous révèle se résout. Par exemple, si vous êtes caché et effectuez ensuite une frappe, vous résolvez d'abord la frappe, puis vous n'êtes plus caché.
 
-##### Recherche de Créatures Cachées
+#### Recherche de Créatures Cachées
 
 Vous pouvez rechercher des créatures qui vous sont cachées tant que ces créatures se trouvent dans un rayon de 10 cases et que vous avez une ligne d'effet vers elles. Pour ce faire, vous utilisez une manœuvre pour effectuer un test d'Intuition en utilisant la compétence Recherche, et toutes les créatures cachées dans un rayon de 10 cases de vous effectuent chacune un test d'Agilité opposé en utilisant la compétence Se Cacher (voir [Jets de Pouvoir Opposés](#page-267-0) plus tôt dans ce chapitre). À la discrétion du Directeur, différentes caractéristiques et compétences peuvent être utilisées dans ce test opposé. Par exemple, votre adversaire pourrait effectuer un test de Présence en utilisant la compétence Dressage pour se cacher parmi un troupeau de moutons sans les déranger, ou vous pourriez effectuer un test de Raison en utilisant la compétence Écouter aux Portes pour distinguer la respiration d'une créature cachée dans l'obscurité.
 
@@ -532,23 +531,23 @@ Si une créature est cachée de vos alliés mais pas de vous, vous pouvez utilis
 >
 > La plupart du temps, si une créature a une ligne d'effet vers vous, elle est capable de vous observer—surtout si vous représentez une menace active pour elle, comme lors d'une rencontre de combat. Cependant, le jeu laisse ce que signifie être observé ouvert à l'interprétation, car il existe des circonstances où une créature pourrait avoir une ligne d'effet vers vous mais ne vous observe pas, vous donnant une chance de vous cacher. Par exemple, un garde dans un marché bondé n'est probablement pas capable d'observer chaque créature dans sa ligne d'effet, donc s'éclipser pour se cacher dans cette situation est probablement plus facile que de se cacher de lui dans une rue autrement vide. Le Directeur a le dernier mot sur qui vous observe, et qui vous êtes capable d'observer.
 
-#### Furtivité
+### Furtivité
 
 Tant que vous êtes caché d'une autre créature et que vous n'êtes pas en combat, vous pouvez tenter de vous faufiler—évitant les sens des autres créatures en vous déplaçant autour d'elles à découvert—pour rester caché. Pendant que vous vous faufilez, votre vitesse est réduite de moitié. Pour vous faufiler, vous effectuez un test d'Agilité en utilisant la compétence Furtivité avec une difficulté fixée par le Directeur. Si vous réussissez, vous restez caché pendant votre déplacement. Ce test peut utiliser une autre caractéristique à la discrétion du Directeur, comme utiliser la Présence pour se fondre dans une foule sur une rue bondée de la ville.
 
-### Tests de Groupe
+## Tests de Groupe
 
 Chaque fois que deux Héros ou plus tentent de surmonter ensemble une tâche unique et simple qui nécessite qu'ils effectuent le même Test, le Directeur peut demander un Test de Groupe. Par exemple, si plusieurs Héros tentent tous d'Escalader l'extérieur d'une tour en même temps, en se donnant mutuellement assistance et conseils, on pourrait leur demander de faire un Test de Groupe de Force. Si un groupe de Héros tente de se faufiler près d'un ogre endormi, ils pourraient faire un Test de Groupe d'Agilité.
 
-#### Difficulté des Tests de Groupe
+### Difficulté des Tests de Groupe
 
 Le Directeur détermine la difficulté d'un Test de Groupe de la même manière que pour les Tests individuels. Les Tests de Groupe peuvent être faciles, moyens ou difficiles.
 
-#### Effectuer un Test de Groupe
+### Effectuer un Test de Groupe
 
 Chaque héros participant au test de groupe effectue le test individuellement comme d'habitude, mais le Directeur attend que tous les tests aient été effectués pour interpréter le résultat. Un héros qui participe au test de groupe ne peut pas aider un autre héros participant au test.
 
-#### Résultat du Test de Groupe
+### Résultat du Test de Groupe
 
 Lorsqu'il interprète le résultat d'un test de groupe, le Directeur détermine d'abord si la tâche a réussi ou non avant de calculer les récompenses et conséquences. Si la moitié ou plus des héros effectuant le test de groupe réussissent, alors le test de groupe réussit. Sinon, le test de groupe échoue.
 
@@ -558,7 +557,7 @@ Si les héros ont échoué au test de groupe et que plus de la moitié d'entre e
 
 Si moins de la moitié des héros subissent une conséquence ou gagnent une récompense sur leurs tests individuels, alors le test de groupe réussit ou échoue simplement.
 
-### Tests de Montage
+## Tests de Montage
 
 Quand un groupe de héros travaille ensemble sur une période prolongée pour accomplir un objectif commun qui nécessite plus qu'une seule caractéristique, le Directeur peut demander un test de montage. Ces tests se déroulent généralement sur une période prolongée et se concentrent sur des activités collectives ou partagées. Naviguer dans un vaste désert, convaincre des fermiers de se soulever contre un dirigeant tyrannique, et effectuer un rituel pour ouvrir une porte magiquement scellée peuvent tous être accomplis avec des tests de montage.
 
@@ -568,17 +567,17 @@ Un héros peut aussi passer son tour à utiliser un objet, une aptitude, ou une 
 
 Une fois qu'un héros fait un test, assiste avec un test, ou utilise une aptitude ou autre option, il ne peut rien faire d'autre dans le cadre du test de montage jusqu'à ce que chaque autre héros impliqué dans le test de montage fasse de même. Un héros peut aussi choisir de ne rien faire, le plus souvent s'il n'a personne à assister et craint que ses actions puissent empirer la situation (voir [Résultats des Tests de Montage](#page-276-1) ci-dessous). Une fois que chaque héros a eu une chance d'agir, le tour de test de montage se termine et un nouveau commence.
 
-#### Temps et Enjeux
+### Temps et Enjeux
 
 Comme leur nom l'indique, les tests de montage créent une sorte de montage cinématographique dans l'action du jeu. Un test de montage peut se dérouler sur plusieurs heures ou jours, chaque test individuel ou autre activité étant présenté comme une brève vignette au sein du montage mettant en vedette l'un des héros. Les rencontres de combat, les négociations et autres défis et scènes peuvent interrompre un test de montage (voir [Exemple de Test de Montage](#page-276-2) ci-dessous).
 
 Le Directeur ne devrait déployer les tests de montage que lorsque les joueurs s'efforcent de surmonter un objectif qui a des enjeux pour l'histoire et une certaine forme de pression, comme une échéance imminente ou un danger imminent. Un test de montage est parfait pour une course afin d'atteindre un autre lieu avant qu'une armée ennemie ne le fasse, une poursuite pour échapper à un adversaire ou le rattraper, résister à un danger, préparer un village à la guerre, ou des activités similaires. Les activités à faibles enjeux ou sans enjeux comme voyager à travers une forêt sans pression temporelle, ou s'entraîner pendant un répit pour utiliser une nouvelle panoplie, peuvent être narrées dans un style de montage, mais elles ne nécessitent pas de test de montage.
 
-#### Le Directeur Plante le Décor
+### Le Directeur Plante le Décor
 
 Au début d'un Test de Montage, le Directeur devrait décrire le scénario sous-jacent à la tâche à accomplir, ainsi que les divers défis auxquels les Héros pourraient faire face en tentant de l'accomplir collectivement. Par exemple, si les Héros poursuivent un pickpocket à travers un marché bondé, le Directeur pourrait parler des foules d'innocents qui bloquent le passage, obscurcissent la vision des personnages, et font du bruit qui complique les tentatives d'entendre les pas agiles du voleur. Il y a aussi des charrettes de marchands à éviter, la Vitesse et la dextérité du personnage poursuivi à gérer, et une meute de chiens errants qui poursuivent quiconque sprinte à travers le marché. Décrire ces obstacles donne aux Héros des idées sur ce qu'ils tentent de surmonter pour atteindre leurs objectifs.
 
-#### Tests Individuels dans les Tests de Montage
+### Tests Individuels dans les Tests de Montage
 
 La difficulté de chaque test individuel dans un test de montage est fixée par le Directeur et peut varier d'un test à l'autre. Par exemple, si les héros préparent les défenses d'un village menacé par une bande de pillards qui approche, le Directeur pourrait décider qu'un personnage qui veut creuser une tranchée autour du village doit effectuer un test de Force facile. Un autre héros veut entraîner les fermiers inexpérimentés du village aux arts de la guerre, et le Directeur décide que c'est un test de Raison difficile.
 
@@ -588,35 +587,35 @@ Le Directeur devrait présenter chaque succès ou échec en relation avec l'obje
 
 Les récompenses et conséquences des tests individuels effectués pendant un test de montage sont gérées au cas par cas. Le Directeur peut utiliser les options par défaut consistant à gagner de la Malveillance supplémentaire lors de la prochaine rencontre de combat pour les conséquences et à faire gagner des Jetons de Héros au groupe pour les récompenses afin de maintenir le rythme du montage.
 
-#### Impossible d'Utiliser la Même Compétence Deux Fois
+### Impossible d'Utiliser la Même Compétence Deux Fois
 
 Un personnage individuel ne peut pas utiliser la même compétence plus d'une fois dans un Test de Montage. Bien que plusieurs Héros puissent utiliser la même compétence, un Test ou une assistance avec une compétence spécifique représente l'entière contribution de chaque personnage au Test de Montage avec cette compétence. À la discrétion du Directeur, cette restriction peut être levée pour les Tests de Montage prolongés, ou pour les Tests de Montage qui sont limités en portée et n'ont qu'un petit nombre de compétences qui s'y appliquent.
 
-#### Nouveaux Défis pour Chaque Test
+### Nouveaux Défis pour Chaque Test
 
 En général, quand un héros fait un test dans le cadre d'un Test de Montage, il devrait choisir de nouveaux obstacles à surmonter qui n'ont pas déjà été surmontés dans le cadre du test. Si les héros poursuivent un voleur à travers le marché et que l'un d'eux a déjà distrait la meute de chiens errants avec une main habile et un morceau de viande, les tests supplémentaires effectués pour distraire les animaux ne comptent pas pour le résultat du Test de Montage.
 
 Quand cela correspond au scénario, le Directeur peut ajuster cette restriction. Si une partie d'un Test de Montage implique de chercher des personnes piégées dans un bâtiment en flammes, le Directeur autorisera probablement plusieurs tests pour combattre ou éviter le feu, puisque cela se produira tout au long du Test de Montage, pas seulement une fois.
 
-##### Introduire de Nouveaux Défis
+#### Introduire de Nouveaux Défis
 
 Pendant un Test de Montage, un Directeur peut introduire de nouveaux défis que les Héros devront affronter. Alors qu'ils tentent de s'échapper d'un bâtiment en flammes depuis le dernier étage, les personnages pourraient découvrir qu'au moment où ils atteignent le deuxième étage, des poutres commencent à tomber et les fenêtres explosent tandis que la structure s'effondre. Ces nouveaux défis peuvent être intégrés dans les Tests que les Héros effectuent par la suite.
 
-#### Succès et Échecs Totaux
+### Succès et Échecs Totaux
 
 Le Directeur ou un autre joueur suivra le nombre total de succès et d'échecs que les héros obtiennent pendant un Test de Montage. Chaque Test de Montage a une limite de succès et une limite d'échecs. Quand le nombre de Tests réussis égale la limite de succès, le Test de Montage se termine et les héros obtiennent un succès total (voir [Résultats des Tests de Montage](#page-276-1) ci-dessous). Le Test de Montage peut aussi se terminer quand le nombre de Tests ratés égale la limite d'échecs, et les héros subissent un échec total.
 
-#### Tours Limités
+### Tours Limités
 
 Un Test de Montage ne devrait durer que 2 tours de Test de Montage. Si les Héros ne terminent pas le Test de Montage en atteignant la limite de succès ou la limite d'échec, le Test de Montage se termine quand le second tour de Test de Montage est fini. Cette limite de temps aide à empêcher qu'un Test de Montage ne devienne laborieux, et empêche les Héros d'utiliser simplement leurs Tours pour assister le seul Héros ayant les meilleures chances de succès. Cela peut inspirer chaque Héros à être un participant plus actif dans le Test de Montage. Ceci dit, le Directeur peut augmenter le nombre de tours qu'un Test de Montage dure s'il souhaite créer un défi particulièrement éprouvant.
 
-#### Difficulté du Test de Montage
+### Difficulté du Test de Montage
 
 Le Directeur détermine la limite de succès et la limite d'échec d'un test de montage. Il peut partager cette information ou la garder secrète, selon ce qui semble le plus amusant et dramatique pour la situation et les joueurs.
 
 En général, plus la limite de succès est élevée, plus il est difficile et compliqué pour les héros de surmonter le test de montage, puisqu'un héros ne peut pas faire le même test deux fois. Le tableau Difficulté du Test de Montage donne une limite de succès et une limite d'échec recommandées pour les tests de montage faciles, modérés et difficiles pour des groupes de cinq héros.
 
-###### Tableau de Difficulté des Tests de Montage
+##### Tableau de Difficulté des Tests de Montage
 
 | Difficulté              | Limite de Succès | Limite d'Échec |
 |-------------------------|------------------|----------------|
@@ -629,7 +628,7 @@ Pour les groupes plus grands ou plus petits, le Directeur peut apporter les ajus
 - Pour quatre Héros ou moins, diminuez les limites de succès et d'échec de 1 (jusqu'à un minimum de 2) pour chaque Héros de moins que cinq. Par exemple, si un groupe n'a que trois Héros, un Test de Montage facile a une limite de succès et d'échec de 3.
 - Pour six Héros ou plus, augmentez les limites de succès et d'échec de 1 pour chaque Héros de plus que cinq.
 
-#### Résultats du Test de Montage
+### Résultats du Test de Montage
 
 Un test de montage peut avoir trois résultats différents :
 
@@ -637,29 +636,29 @@ Un test de montage peut avoir trois résultats différents :
 - Si les héros atteignent la limite d'échecs ou que le temps s'épuise, et s'ils ont obtenu au moins deux succès de plus que d'échecs, ils obtiennent un succès partiel.
 - Si les héros atteignent la limite d'échecs ou que le temps s'épuise, et s'ils n'ont pas au moins deux succès de plus que d'échecs, ils subissent un échec total.
 
-##### Succès Total
+#### Succès Total
 
 Si les héros obtiennent un succès total, ils accomplissent ce qu'ils avaient entrepris sans Complication. Par exemple, si les héros se sont engagés dans un Test de Montage pour traverser un désert et atteindre une ville avant qu'une armée de tyran n'y arrive et ne rase l'endroit, un succès total les voit arriver aux portes de la ville avec largement le temps d'avertir les habitants de l'assaut imminent.
 
 Les héros gagnent 1 Victoire lorsqu'ils obtiennent un succès total sur un Test de Montage facile ou modéré, et 2 Victoires sur un Test de Montage difficile.
 
-##### Succès Partiel
+#### Succès Partiel
 
 Si les héros obtiennent un succès partiel, ils réussissent ce qu'ils avaient entrepris de faire, mais il y a une Complication ou un coût impliqué. Par exemple, lors de la traversée du désert pour atteindre et avertir la cité de l'armée du tyran, un succès mitigé voit les personnages arriver aux portes de la ville avec les forces ennemies juste derrière eux. Alternativement, le Directeur pourrait permettre aux Héros d'arriver bien avant l'armée, mais ils ne dissimulent pas assez bien leurs Déplacements. Le tyran réalise que la cité a été avertie et décide de faire appel à une faveur pour qu'un puissant dragon se joigne au siège.
 
 Les Héros gagnent 1 Victoire lorsqu'ils obtiennent un succès partiel sur un Test de Montage difficile ou modéré.
 
-##### Échec Total
+#### Échec Total
 
 Si les héros subissent un échec total, ils n'accomplissent pas ce qu'ils avaient entrepris de faire. Tout comme avec les tests standard, l'échec lors d'un Test de Groupe ne devrait pas arrêter une histoire. L'échec total devrait rendre les choses plus intéressantes et difficiles ! Avec un échec total lors d'un Test de Montage pour traverser le désert et avertir la ville, les personnages arrivent à la ville pour découvrir qu'elle est déjà assiégée par le tyran.
 
-#### Exemple de Test de Montage
+### Exemple de Test de Montage
 
 Quatre héros doivent traverser le vaste et inhospitalier Désert Infini pour avertir la cité d'Ahset que la tyrannique Impératrice Vardo vient les conquérir. Si les personnages arrivent à temps, ils peuvent organiser les défenses de la cité, donnant à ses habitants une plus grande chance de vaincre le tyran.
 
 Le Directeur détermine que traverser le désert est un Test de Montage de difficulté difficile. Avec quatre héros impliqués, la limite de succès est de 6 et la limite d'échec est de 2 au début du Test de Montage.
 
-##### Test de Montage Tour 1
+#### Test de Montage Tour 1
 
 Quand le test commence, le Directeur plante le décor. Il explique aux joueurs que le désert présente des températures extrêmes, des tempêtes de sable soudaines, de hautes dunes à franchir, du sable profond, des crevasses et des lacs de sables mouvants. Le Directeur décide que les défis des dunes, du sable profond et des sables mouvants peuvent être abordés plusieurs fois durant le test, puisque le Désert Infini regorge de ces dangers.
 
@@ -671,11 +670,11 @@ Karrel, un Élémentaliste, pense que le groupe pourrait traverser le désert pl
 
 Val, un Conduit, propose d'éclaireur pour le groupe avec un test d'Intuition, utilisant la Compétence Navigation pour trouver le meilleur chemin et éviter les dangers comme les crevasses et les sables mouvants. Le Directeur pense que faire le guet dans un vaste désert est une tâche facile. Val cartonne avec un 21 - un succès avec une Récompense - et le Directeur décide de faire preuve de créativité. Les talents de guetteur de Val accordent au prochain Héros à agir dans le Test de Montage un Avantage sur son test. À la fin du premier tour du Test de Montage, les Héros ont 3 succès et 1 échec.
 
-##### Interlude
+#### Interlude
 
 Avant le prochain tour de Test de Montage, le Directeur interrompt le Test de Montage pour lancer un combat contre un ver de fissure royale, qui attaque les Héros alors qu'ils traversent une ruine antique partiellement ensevelie dans le sable. Après que les Héros ont vaincu le ver de fissure royale, le Test continue.
 
-##### Test de Montage Tour 2
+#### Test de Montage Tour 2
 
 Urdoncara veut faire un test de Force en utilisant la compétence Soulever pour porter la plupart de l'équipement du groupe pendant qu'ils traversent le désert, permettant à ses alliés de se déplacer plus rapidement tandis qu'elle suit le rythme grâce à sa constitution supérieure. Le Directeur pense que cette tâche ardue a une difficulté difficile. Urdoncara obtient un 17 au test grâce à l'avantage du succès précédent de Val. Le test de montage a 4 succès et 1 échec.
 
@@ -685,6 +684,6 @@ Puisque le groupe n'a besoin que d'un succès de plus pour obtenir un succès to
 
 Val tente de se rappeler des connaissances sur les Khem-hor, voulant savoir si elle peut se souvenir de certains de leurs voyages grâce à ses études de l'histoire de la région. Le Directeur lui fait faire un test de Raison difficile avec un avantage, grâce aux informations de Karrel sur l'état actuel de la culture Khem-hor. Val obtient un 17, et le Directeur décide que le conduit se rappelle d'un raccourci à travers un tunnel de canyon qui mène directement à Ahset, évitant un vaste lac de sables mouvants. Les héros obtiennent leur sixième succès dans le test de montage, atteignant le succès total, et gagnent 2 Victoires.
 
-##### Autres Options
+#### Autres Options
 
 Les héros auraient pu tenter d'autres tests durant leur voyage, comme un test d'Agilité utilisant la compétence Discrétion pour guider le groupe à travers des raccourcis dangereux dans le désert sans être vus ou attaqués par des prédateurs, un test de Raison utilisant la compétence Nature pour trouver suffisamment de nourriture et d'eau pour maintenir le groupe hydraté et nourri, ou un test de Présence utilisant la compétence Musique pour inspirer les alliés à voyager plus rapidement grâce au chant.

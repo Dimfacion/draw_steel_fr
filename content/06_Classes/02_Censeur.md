@@ -1,8 +1,7 @@
 ---
 title: Censeur
 ---
-
-## Censeur
+# Censeur
 
 Les démons et les morts-vivants vous craignent. Les criminels fuient à la vue de votre ombre. Les agents du chaos, les blasphémateurs et les hérétiques tremblent au son de votre voix. Vous portez le pouvoir des dieux, armé de courroux et envoyé dans le monde d'abord pour chercher, puis censurer ceux dont les actions—ou même l'existence—sont l'anathème de votre église.
 
@@ -16,7 +15,7 @@ En tant que censeur, vous excellez contre les ennemis les plus puissants. Votre 
 >
 > **Sir Vaantikalisax**
 
-### Bases
+## Bases
 
 **Caractéristiques de Départ :** Vous commencez avec une Force de 2 et une Présence de 2, et vous pouvez choisir l'un des tableaux suivants pour vos autres scores de caractéristiques :
 
@@ -38,11 +37,11 @@ En tant que censeur, vous excellez contre les ennemis les plus puissants. Votre 
 
 **Compétences :** Choisissez deux compétences parmi les groupes de compétences interpersonnelles ou de savoir (voir [Compétences](#page-268-0) au Chapitre 9 : Tests). (*Construction Rapide :* Intimidation, Religion.)
 
-### Aptitudes de Niveau 1
+## Aptitudes de Niveau 1
 
 En tant que censeur de niveau 1, vous obtenez les aptitudes suivantes.
 
-#### Ordre de Censeur
+### Ordre de Censeur
 
 Les Censeurs sont la volonté de leur dieu rendue physiquement manifeste, et vous agissez comme l'agent de votre dieu dans le monde. En endossant cette responsabilité, vous choisissez un ordre de censeur parmi les options suivantes, chacune vous accordant une compétence. (*Construction Rapide :* Parangon.)
 
@@ -52,13 +51,13 @@ Les Censeurs sont la volonté de leur dieu rendue physiquement manifeste, et vou
 
 Votre ordre de censeur est votre sous-classe, et votre choix d'ordre détermine de nombreuses aptitudes que vous obtiendrez en gagnant de nouveaux niveaux.
 
-#### Divinité et Domaines
+### Divinité et Domaines
 
 Choisissez un dieu ou un saint que votre personnage vénère dans le Chapitre 14 : Dieux et Religion, ou demandez à votre Directeur quelles sont les divinités de votre monde de campagne. Avec la permission du Directeur, vous pouvez également créer votre propre divinité et choisir quatre domaines pour composer son portefeuille.
 
 Après avoir choisi votre divinité, sélectionnez un domaine de son portefeuille. Votre choix de domaine détermine de nombreuses aptitudes que vous obtiendrez de cette classe. (*Construction Rapide :* Cavall comme divinité et Guerre comme domaine.)
 
-###### Tableau d'Évolution du Censeur
+##### Tableau d'Évolution du Censeur
 
 | Niveau | Capacités                                                                                                         | Aptitudes                    | Aptitudes<br>d'Ordre |
 |--------|-------------------------------------------------------------------------------------------------------------------|------------------------------|-----------------------|
@@ -73,11 +72,11 @@ Après avoir choisi votre divinité, sélectionnez un domaine de son portefeuill
 | 9e     | Canal de Courroux Amélioré, Aptitude d'Ordre                                                                     | Signature, 3, 5,<br>7, 9, 11 | 5, 9, 11              |
 | 10e    | Augmentation de Caractéristique, Avantage, Compétence,<br>Templier, Vertu, Courroux des Dieux                   | Signature, 3, 5,<br>7, 9, 11 | 5, 9, 11              |
 
-#### Courroux
+### Courroux
 
 Le pouvoir que vous servez vous accorde une Ressource Héroïque appelée courroux, alimentant vos aptitudes tandis que vous censurez ceux que votre église considère comme des hérétiques.
 
-##### Courroux en Combat
+#### Courroux en Combat
 
 Au début d'une rencontre de combat ou d'une autre situation stressante suivie en tours de combat (selon la décision du Directeur), vous gagnez du courroux égal à vos Victoires. Au début de chacun de vos tours pendant le combat, vous gagnez 2 courroux.
 
@@ -85,7 +84,7 @@ De plus, la première fois à chaque tour de combat qu'une créature jugée par 
 
 Vous perdez tout courroux restant à la fin de la rencontre.
 
-##### Courroux en Dehors du Combat
+#### Courroux en Dehors du Combat
 
 Bien que vous ne puissiez pas gagner de courroux en dehors du combat, vous pouvez utiliser vos aptitudes héroïques et effets qui coûtent du courroux sans le dépenser. Chaque fois que vous utilisez une aptitude ou un effet en dehors du combat qui coûte du courroux, vous ne pouvez pas utiliser cette même aptitude ou effet en dehors du combat à nouveau jusqu'à ce que vous obteniez 1 Victoire ou plus ou que vous terminiez un répit.
 
@@ -114,7 +113,7 @@ Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépense
 > - Quand une créature jugée par vous dans un rayon de 10 cases utilise une aptitude avec une puissance qui ne cible qu'une seule créature, la puissance est réduite de 1 pour cette créature. 
 > - Si vous infligez des dégâts à une créature jugée par vous avec une aptitude de corps à corps, la créature est narguée par vous jusqu'à la fin de son prochain tour. Vous ne pouvez choisir qu'une seule option d'action déclenchée gratuite à la fois, même si plusieurs options sont déclenchées par le même effet.
 
-##### Avantage de l'Ordre du Jugement
+#### Avantage de l'Ordre du Jugement
 
 La première fois dans un tour où vous utilisez votre aptitude Jugement pour juger une créature, vous obtenez l'avantage suivant selon votre ordre :
 
@@ -122,11 +121,11 @@ La première fois dans un tour où vous utilisez votre aptitude Jugement pour ju
 - **Oracle :** Vous pouvez infliger des dégâts sacrés égaux au double de votre score de Présence à la créature jugée.
 - **Parangon :** Vous pouvez effectuer une traction verticale sur la créature jugée d'un nombre de cases égal au double de votre score de Présence.
 
-#### Panoplie
+### Panoplie
 
 Vous pouvez utiliser et bénéficier des avantages d'une panoplie. Voir [Chapitre 6 : Panoplies](#page-231-0) pour plus d'informations. (*Construction Rapide :* Prêtre Guerrier.)
 
-#### Ma Vie pour la Vôtre
+### Ma Vie pour la Vôtre
 > [!spell] Ma Vie pour la Vôtre
 > 🏷️ *Magie • À Distance*
 > 
@@ -144,11 +143,11 @@ Vous pouvez utiliser et bénéficier des avantages d'une panoplie. Voir [Chapitr
 > 
 > **🔥 Dépenser 1 Courroux:** Vous pouvez mettre fin à un effet sur la cible qui se termine par un Jet de Sauvegarde ou qui se termine à la fin de son tour, ou une cible À Terre peut se lever.
 
-#### Aptitude de Domaine de Niveau 1
+### Aptitude de Domaine de Niveau 1
 
 Vous gagnez une aptitude de domaine de votre domaine, comme indiqué dans le tableau des Aptitudes de Domaine de Censeur de Niveau 1. De plus, vous gagnez une compétence de votre domaine, choisie parmi le groupe de compétences indiqué dans le tableau.
 
-###### Tableau des Aptitudes de Domaine de Censeur de Niveau 1
+##### Tableau des Aptitudes de Domaine de Censeur de Niveau 1
 
 | Domaine                          | Aptitude                      | Groupe de Compétences |
 |----------------------------------|-------------------------------|-----------------------|
@@ -165,17 +164,17 @@ Vous gagnez une aptitude de domaine de votre domaine, comme indiqué dans le tab
 | Tromperie                        | Tromperie Inspirée            | Intrigue              |
 | Guerre                           | Arme Sanctifiée               | Exploration           |
 
-##### Bénédiction de Compassion
+#### Bénédiction de Compassion
 
 Vous dégagez une présence magique qui peut apaiser ceux qui sont disposés à interagir socialement avec vous. Vous gagnez un avantage sur tout test effectué pour aider une autre créature lors d'un test.
 
 De plus, lorsque vous êtes présent au début d'une négociation, un PNJ de votre choix voit sa patience augmentée de 1 (jusqu'à un maximum de 5), et le premier test effectué pour l'influencer gagne un avantage.
 
-##### Bénédiction de Compréhension
+#### Bénédiction de Compréhension
 
 Vous pouvez interpréter les diagrammes et graphiques même si vous ne comprenez pas la langue qui leur est associée. Vous êtes considéré comme parlant couramment toutes les langues dans le but de comprendre la Source de Projet pour tout Projet d'Artisanat ou Projet de Recherche (voir [Chapitre 12 : Projets de Temps Libre](#page-307-2)).
 
-##### Bénédiction du Temps Favorable
+#### Bénédiction du Temps Favorable
 
 Chaque fois que vous terminez un répit, vous pouvez décider des conditions météorologiques dans un rayon de 100 cases. Jusqu'à ce que vous terminiez un autre répit, les conditions météorologiques que vous établissez vous suivent dans tous les lieux extérieurs classiques. Choisissez l'un des types de temps suivants, chacun accordant un bénéfice à vous et vos alliés :
 
@@ -189,7 +188,7 @@ Chaque fois que vous terminez un répit, vous pouvez décider des conditions mé
 
 Si vous êtes dans la même zone qu'une créature utilisant cette aptitude ou une aptitude similaire qui a choisi un effet météorologique différent, les aptitudes s'annulent mutuellement là où leurs zones se chevauchent.
 
-##### Compagnon Fidèle
+#### Compagnon Fidèle
 
 Vous possédez l'aptitude suivante.
 
@@ -206,7 +205,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Vous invoquez un esprit qui prend la forme de n'importe quel animal que vous avez vu. Cet animal incorporel a une Vitesse de 5 et peut Voler, mais ne peut pas interagir physiquement avec le monde. Tant que vous êtes à 10 Cases ou moins de l'esprit, vous percevez automatiquement tout ce que ce type d'animal percevrait, en plus de percevoir votre propre environnement. Vous pouvez renvoyer l'esprit à tout moment (Action Triviale). Si l'esprit subit des Dégâts, il est renvoyé et vous subissez 1d10 Dégâts psychiques qui ne peuvent être réduits d'aucune façon.
 
-##### Parole Funèbre
+#### Parole Funèbre
 
 Vous possédez l'aptitude suivante.
 
@@ -223,7 +222,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Vous pouvez parler à la cible si c'est une créature qui est morte dans les dernières 24 heures et qui peut parler une langue que vous connaissez, même s'il ne reste qu'une tête. La cible vous considère comme elle l'aurait fait de son vivant, et vous pourriez avoir besoin de faire des tests pour l'influencer et la convaincre de vous parler. Le traumatisme de la mort peut rendre les souvenirs de cet événement flous pour une créature, mais la cible connaît par ailleurs tout ce qu'elle savait de son vivant. Après 1 minute, l'effet se termine. Vous ne pouvez pas utiliser cette aptitude sur la même créature deux fois.
 
-##### Mains du Créateur
+#### Mains du Créateur
 
 Vous possédez l'aptitude suivante.
 
@@ -240,35 +239,35 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Vous créez un objet classique de taille 1S ou plus petit. Vous pouvez maintenir un nombre d'objets créés de cette façon égal à votre score de Présence. Vous pouvez détruire un objet créé de cette façon par la pensée, peu importe la distance qui vous en sépare (aucune action triviale requise).
 
-##### Lumière Intérieure
+#### Lumière Intérieure
 
 Chaque fois que vous terminez un répit, vous pouvez choisir vous-même ou un allié qui termine également un répit pour qu'il bénéficie d'un rituel divin. Vous placez un rayon de lumière matinale dans l'âme du personnage choisi, lui accordant un bonus de +1 aux jets de sauvegarde qui dure jusqu'à ce que vous terminiez un autre répit.
 
-##### Tromperie Inspirée
+#### Tromperie Inspirée
 
 Les Dieux favorisent vos larcins avec la magie. Chaque fois que vous effectuez un Test qui utilise une Compétence que vous possédez du groupe de compétences intrigue, vous pouvez utiliser la Présence pour le Test au lieu d'une autre caractéristique.
 
-##### Visions Oraculaires
+#### Visions Oraculaires
 
 Votre divinité vous récompense par de vagues visions de l'avenir. Chaque fois que vous gagnez 1 Victoire ou plus, vous gagnez un nombre égal de points de destin. Quand vous ou une Créature dans un rayon de 10 Cases effectue un Test, vous pouvez dépenser 1 point de destin pour puiser dans une vision du résultat, accordant à cette Créature un Avantage sur le Test. Vous perdez tous les points de destin restants quand vous terminez un Répit.
 
-##### Cercle de Protection
+#### Cercle de Protection
 
 Vous pouvez passer 10 minutes ininterrompues à créer un cercle de protection sur le sol, assez grand pour contenir une créature de taille 1. Le cercle dure 24 heures, jusqu'à ce que vous en créiez un autre, ou jusqu'à ce que vous le révoquiez (aucune action triviale requise). Seules les créatures que vous désignez au moment de tracer le cercle peuvent entrer et sortir de la zone. Tant qu'elle se trouve dans le cercle de protection, une créature ne peut pas être prise pour cible par des frappes.
 
-##### Rituel Revitalisant
+#### Rituel Revitalisant
 
 Chaque fois que vous terminez un répit, vous pouvez choisir vous-même ou un allié qui termine également un répit pour qu'il bénéficie d'un rituel divin. Le personnage choisi gagne un bonus à ses points de récupération égal à votre niveau qui dure jusqu'à ce que vous terminiez un autre répit.
 
-##### Arme Sanctifiée
+#### Arme Sanctifiée
 
 En tant qu'activité de répit, vous pouvez bénir une arme. Toute créature qui manie l'arme gagne un bonus de +1 aux dégâts lancés avec les aptitudes qui utilisent l'arme. Cet avantage dure jusqu'à ce que vous terminiez un autre répit.
 
-#### Aptitudes du Censeur
+### Aptitudes du Censeur
 
 Vous utilisez un mélange de techniques martiales et de magie divine pour attaquer vos ennemis et défendre vos alliés.
 
-##### Aptitude Signature
+#### Aptitude Signature
 
 Choisissez une aptitude signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Tes Alliés Ne Peuvent Te Sauver !)
 
@@ -340,11 +339,11 @@ Choisissez une aptitude signature parmi les options suivantes. Les aptitudes sig
 > 
 > **💫 Effet :** Chaque ennemi adjacent à la cible est repoussé loin de la cible d'un nombre de cases égal à votre score de Présence.
 
-##### Aptitudes Héroïques
+#### Aptitudes Héroïques
 
 Vous faites appel à un certain nombre d'aptitudes héroïques, toutes liées à votre courroux.
 
-###### Aptitude 3-Courroux
+##### Aptitude 3-Courroux
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 courroux à utiliser. (*Construction Rapide :* Les Dieux Punissent et Défendent.)
 
@@ -418,7 +417,7 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > - **12-16 :** 8 + P dégâts sacrés ; I < MOYEN, étourdi (sauvegarde termine)
 > - **17+ :** 11 + P dégâts sacrés ; I < FORT, étourdi (sauvegarde termine)
 
-###### Aptitude à 5-Courroux
+##### Aptitude à 5-Courroux
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 courroux à utiliser. (*Construction Rapide :* Feu Purificateur.)
 
@@ -494,19 +493,19 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** Tant que la cible a une faiblesse au feu de cette aptitude, vous pouvez choisir de faire que vos aptitudes infligent des dégâts de feu à la cible au lieu de dégâts sacrés.
 
-### Aptitudes de Niveau 2
+## Aptitudes de Niveau 2
 
 En tant que censeur de niveau 2, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage interpersonnel, de savoir ou surnaturel de votre choix. Voir [Chapitre 7 : Avantages](#page-241-0).
 
-#### Aptitudes d'Ordre de 2e Niveau
+### Aptitudes d'Ordre de 2e Niveau
 
 Votre ordre de censeur vous accorde deux aptitudes, comme indiqué dans le tableau des Aptitudes d'Ordre de 2e Niveau.
 
-###### Table des Aptitudes d'Ordre de Niveau 2
+##### Table des Aptitudes d'Ordre de Niveau 2
 
 | Ordre                    | Aptitudes                                    |
 |--------------------------|----------------------------------------------|
@@ -514,35 +513,35 @@ Votre ordre de censeur vous accorde deux aptitudes, comme indiqué dans le table
 | Oracle                   | C'était Prédit, Juge de Caractère           |
 | Parangon                 | Montrer l'Exemple, Icône Inébranlable       |
 
-##### C'Était Prédit
+#### C'Était Prédit
 
 Votre ordre vous a formé à comprendre les fragments de visions accordées par votre divinité, vous donnant un avantage momentané dans les situations difficiles. Au début d'une rencontre, vous pouvez effectuer une Action Principale avant toute autre Créature et avant votre premier Tour. De plus, chaque fois que le Directeur demande un Test de Montage, vous pouvez effectuer un Test gratuit avant que le montage ne commence, qui compte comme un succès ou un échec obtenu comme d'habitude.
 
-##### Juge de Caractère
+#### Juge de Caractère
 
 Votre concentration sur vos visions fragmentaires vous accorde une perspicacité divine sur le monde et ses créatures au-delà de vos sens habituels. Chaque fois que vous devriez faire un test d'Intuition, vous pouvez faire un test de Présence à la place.
 
-##### Mener par l'Exemple
+#### Mener par l'Exemple
 
 Votre dévotion envers votre divinité vous permet de prendre le commandement du champ de bataille, permettant à vos alliés de bénéficier de votre sagesse. Tant que vous êtes adjacent à une créature, vos alliés bénéficient des avantages de flanquer contre cette créature. De plus, vos alliés gagnent un avantage sur les tests effectués pour aider d'autres créatures avec leurs tests.
 
-##### Vigilance du Saint
+#### Vigilance du Saint
 
 Vous avez aiguisé votre aptitude à détecter le péché et pouvez l'utiliser pour trouver ceux qui se cachent de la justice. Toute créature jugée par vous ne peut pas utiliser la Manœuvre - Se Cacher. De plus, vous gagnez un avantage lors de la recherche de créatures cachées. Si vous trouvez une créature cachée, vous pouvez utiliser votre aptitude Jugement contre elle en tant qu'action déclenchée gratuite.
 
-##### Un Sens de la Vérité
+#### Un Sens de la Vérité
 
 Vous êtes formé aux techniques secrètes de votre ordre qui vous permettent de discerner la vérité avec une précision surnaturelle. Si une créature est d'un niveau inférieur au vôtre, vous savez automatiquement quand elle ment, bien que vous ne connaissiez pas nécessairement la véritable vérité derrière son mensonge. De plus, vous gagnez un avantage sur les tests effectués pour détecter les mensonges ou les motivations cachées.
 
-##### Icône Inébranlable
+#### Icône Inébranlable
 
 Vous manifestez une petite étincelle du pouvoir de votre divinité, amenant les créatures à vous faire confiance ou à vous craindre, selon vos besoins. Vous gagnez un avantage sur les tests effectués pour intimider ou persuader autrui.
 
-#### Aptitude d'Ordre de Niveau 2
+### Aptitude d'Ordre de Niveau 2
 
 Votre ordre de censeur vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitude d'Exorciste de Niveau 2
+#### Aptitude d'Exorciste de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -577,7 +576,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Chaque cible subit des dégâts sacrés égaux au double de votre score de Présence. De plus, chaque cible cachée est automatiquement révélée et ne peut plus se cacher à nouveau jusqu'au début de votre prochain tour. Vous pouvez ensuite utiliser votre aptitude Jugement contre une cible en tant qu'action déclenchée gratuite.
 
-##### Aptitude d'Oracle de Niveau 2
+#### Aptitude d'Oracle de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -609,7 +608,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** La cible peut utiliser une Action Déclenchée Gratuite pour utiliser une Aptitude Signature de Frappe ou une Aptitude Héroïque de Frappe, et bénéficie d'un Double Avantage sur cette aptitude. Si une Aptitude Héroïque est choisie, réduisez son coût en Ressource Héroïque de 3 (jusqu'à un coût minimum de 0).
 
-##### Aptitude de Parangon de Niveau 2
+#### Aptitude de Parangon de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -644,15 +643,15 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Tant que la cible est entravée de cette manière, vos aptitudes qui imposent un déplacement forcé peuvent toujours la déplacer.
 
-### Aptitudes de Niveau 3
+## Aptitudes de Niveau 3
 
 En tant que censeur de niveau 3, vous gagnez les aptitudes suivantes.
 
-#### Contemple Mon Œuvre et Désespère
+### Contemple Mon Œuvre et Désespère
 
 Votre jugement a gagné en puissance divine, instillant la peur chez ceux que vous condamnez. Chaque fois que vous utilisez votre aptitude Jugement, vous pouvez dépenser 1 courroux, et si la cible a P < MOYEN, elle est effrayée de vous (sauvegarde termine). De plus, chaque fois qu'une créature jugée par vous est réduite à 0 Vigueur et que vous utilisez Jugement comme action déclenchée gratuite, si la nouvelle cible a P < FORT, elle est effrayée de vous (sauvegarde termine). Si la cible est déjà effrayée de vous, elle subit à la place des dégâts sacrés égaux au double de votre score de Présence.
 
-#### Aptitude à 7-Courroux
+### Aptitude à 7-Courroux
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 courroux à utiliser.
 
@@ -708,31 +707,31 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible se déplace ou subit un déplacement forcé hors de la zone, elle subit des dégâts sacrés égaux à deux fois votre score de Présence. Une cible jugée par vous qui se déplace volontairement subit 2d6 dégâts sacrés supplémentaires.
 
-### Aptitudes de Niveau 4
+## Aptitudes de Niveau 4
 
 En tant que censeur de niveau 4, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Vos scores de Force et de Présence augmentent chacun à 3.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix. Voir [Compétences](#page-268-0) dans le Chapitre 9 : Tests.
 
-#### Courroux au-delà du Courroux
+### Courroux au-delà du Courroux
 
 La première fois à chaque tour de combat que vous infligez des dégâts à une créature jugée par vous, vous gagnez 2 courroux au lieu de 1.
 
-#### Aptitude de Domaine de Niveau 4
+### Aptitude de Domaine de Niveau 4
 
 Vous gagnez une aptitude de domaine de votre domaine, comme indiqué dans la table des Aptitudes de Domaine de Censeur de Niveau 4.
 
-###### Tableau des Aptitudes de Domaine de Censeur de Niveau 4
+##### Tableau des Aptitudes de Domaine de Censeur de Niveau 4
 
 | Domaine                          | Aptitude                           |
 |----------------------------------|------------------------------------|
@@ -749,11 +748,11 @@ Vous gagnez une aptitude de domaine de votre domaine, comme indiqué dans la tab
 | Tromperie                        | Bénédiction des Secrets            |
 | Guerre                           | Arme Sanctifiée Améliorée          |
 
-##### Bénédiction de Vie
+#### Bénédiction de Vie
 
 Votre présence divine permet à ceux que vous jugez dignes de récupérer rapidement d'un combat. Chaque fois qu'un allié à distance de votre aptitude Ma Vie pour la Vôtre regagne de la Vigueur, il regagne de la Vigueur supplémentaire égale à votre score de Présence.
 
-##### Bénédiction des Secrets
+#### Bénédiction des Secrets
 
 Vous possédez l'aptitude suivante.
 
@@ -770,57 +769,57 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet :** Chaque créature dans la zone bénéficie d'un double avantage sur les tests effectués pour se cacher ou se faufiler. L'aura dure jusqu'à ce que vous y mettiez fin (action triviale requise) ou jusqu'à ce qu'une cible blesse ou inflige des dégâts à une créature ou un objet.
 
-##### Toucher Impénétrable
+#### Toucher Impénétrable
 
 En tant que manœuvre, vous pouvez toucher un objet d'une taille égale ou inférieure à votre score de Présence et y placer un sort de protection. L'objet devient immunisé à tous les dégâts non-typés. Vous pouvez maintenir ce sort sur un nombre d'objets égal à votre score de Présence, et vous pouvez mettre fin au sort sur n'importe quel objet à tout moment (action triviale).
 
 De plus, vous pouvez placer ce sort sur un bâtiment ou un véhicule (ou une structure similaire avec l'approbation du Directeur) dont la taille est supérieure à votre score de Présence. Vous ne pouvez placer le sort que sur une seule cible de ce type à la fois, et vous pouvez maintenir simultanément le sort sur une cible plus grande et sur un nombre d'objets égal à votre score de Présence.
 
-##### Mains du Créateur Améliorées
+#### Mains du Créateur Améliorées
 
 Quand vous utilisez votre aptitude Mains du Créateur, vous pouvez créer un objet classique de taille 2 ou moins.
 
-##### Arme Sanctifiée Améliorée
+#### Arme Sanctifiée Améliorée
 
 L'arme améliorée par votre aptitude Arme Sanctifiée accorde un bonus de +3 aux Dégâts Lancés au lieu de +1.
 
-##### Invocation du Cœur
+#### Invocation du Cœur
 
 Par une action principale, vous forgez un lien d'amour et d'amitié avec une créature consentante que vous touchez. Tant que ce lien est actif, vous pouvez parler télépathiquement avec la créature quelle que soit la distance, y compris à travers différents mondes. De plus, tant que ce lien est actif, vous pouvez tenter d'aider la créature lors de n'importe quel test qu'elle effectue, peu importe sa proximité avec vous. Vous ne pouvez maintenir qu'un seul lien à la fois, et vous pouvez mettre fin à un lien à tout moment (aucune action triviale requise).
 
-##### Lumière de Révélation
+#### Lumière de Révélation
 
 En tant que manœuvre, vous faites briller votre corps intensément, illuminant votre espace et chaque case dans un rayon de 5 cases jusqu'à ce que vous dissipez la lumière (action triviale requise). Cette lumière perce toutes les ténèbres. Les créatures cachées dans la zone sont automatiquement révélées, et les créatures dans la lumière, vous y compris, ne peuvent pas se cacher. Tant que cette aptitude est active, vous gagnez un avantage aux tests effectués pour remarquer les objets et entrées cachés et pour détecter les illusions surnaturelles.
 
-##### Avertissement Oraculaire
+#### Avertissement Oraculaire
 
 Chaque fois que vous terminez un répit, vous pouvez partager les rêves vagues du futur accordés par les dieux avec les alliés qui ont terminé le répit avec vous. Ces prémonitions vous aident, vous et vos alliés, à rester en vie, accordant à chacun d'entre vous une Vigueur Temporaire égale à 10 + votre niveau qui dure jusqu'à ce que vous terminiez un autre répit.
 
-##### Séance
+#### Séance
 
 Vous pouvez communier avec un réseau d'esprits. En tant qu'activité de répit, vous prononcez le nom d'une créature qui est morte et qui n'est pas morte-vivante. Si l'esprit de la créature est libre et désire vous parler, il apparaît et vous pouvez avoir une conversation avec lui. Durant ce temps, la créature vous répond comme elle l'aurait fait de son vivant. Si la créature n'est pas libre ou ne souhaite pas apparaître, vous pouvez prononcer un autre nom ou choisir une autre activité de répit.
 
-##### Épiphanie du Saint
+#### Épiphanie du Saint
 
 Au début d'un répit, vous pouvez vous inspirer ou inspirer une autre créature prenant le même répit avec une connaissance divine. Si la cible effectue un jet de projet durant ce répit, elle peut ajouter 1d10 plus votre score de Présence au jet.
 
-##### Marche du Vent
+#### Marche du Vent
 
 Tant que vous avez 5 Victoires ou plus, vous pouvez Voler. Si vous pouvez déjà Voler, vous avez un Bonus de +2 à la Vitesse en vol à la place.
 
-##### Voie des Bois
+#### Voie des Bois
 
 En tant qu'action principale, vous touchez un arbre vivant et l'intégrez à un réseau de transport divin. Vous pouvez maintenir un nombre d'arbres dans votre réseau égal à votre score de Présence. Chaque fois que vous touchez un arbre de votre réseau, vous pouvez utiliser une action principale pour vous téléporter ainsi que toutes les créatures consentantes dans un rayon de 10 cases autour de vous vers un arbre de votre réseau situé sur le même monde. Si un arbre de votre réseau meurt, il ne fait plus partie du réseau. Vous pouvez retirer un arbre de votre réseau quelle que soit votre distance par rapport à celui-ci, y compris à travers différents mondes (aucune action triviale requise).
 
-### Aptitudes de Niveau 5
+## Aptitudes de Niveau 5
 
 En tant que censeur de niveau 5, vous gagnez les aptitudes suivantes.
 
-#### Aptitude d'Ordre de Niveau 5
+### Aptitude d'Ordre de Niveau 5
 
 Votre ordre de censeur vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes d'Ordre de Niveau 5.
 
-###### Tableau des Aptitudes d'Ordre de Niveau 5
+##### Tableau des Aptitudes d'Ordre de Niveau 5
 
 | Ordre                    | Aptitude       |
 |--------------------------|----------------|
@@ -828,21 +827,21 @@ Votre ordre de censeur vous accorde une aptitude, comme indiqué dans le tableau
 | Oracle                   | Prophétie      |
 | Parangon                 | Tenez Bon !    |
 
-##### Mal Révélé
+#### Mal Révélé
 
 Votre ordre vous a enseigné des méthodes pour percer à jour les déguisements des mortels comme des monstres. Vous voyez automatiquement à travers les déguisements et illusions créés par des créatures de votre niveau ou inférieur, et vous gagnez un avantage sur les tests effectués pour percer à jour les déguisements et illusions de créatures plus puissantes. Chaque fois que vous percez à jour le déguisement ou l'illusion d'une créature, vous pouvez utiliser votre aptitude Jugement contre elle en tant qu'action déclenchée gratuite.
 
-##### Prophétie
+#### Prophétie
 
 Vous pouvez mieux trier les visions fragmentaires constantes de votre divinité et agir pour les rendre manifestes. Chaque fois que vous gagnez 1 Victoire ou plus, vous pouvez effectuer un nombre de jets de 2d10 égal au nombre de Victoires que vous avez gagnées. Notez chaque jet dans l'ordre. Ensuite, chaque fois que vous ou une Créature dans un rayon de 10 Cases effectuez un Jet de Pouvoir, vous pouvez utiliser une Action Déclenchée Gratuite pour remplacer le total des dés par votre premier jet noté.
 
 Vous défaussez chaque jet au fur et à mesure qu'il est utilisé, et chaque fois que vous gagnez des Victoires, vous ajoutez de nouveaux jets en bas de la liste. Tous les jets inutilisés sont défaussés lorsque vous terminez un Répit.
 
-##### Tiens Bon !
+#### Tiens Bon !
 
 Votre étincelle divine gagne en puissance, vous permettant ainsi qu'à vos alliés de vous concentrer et d'endurer. Au début de chacun de vos tours, vous pouvez dépenser 1d6 Vigueur pour mettre fin à un effet sur vous qui se termine par un Jet de Sauvegarde ou qui se termine à la fin de votre tour. Tout allié qui commence son tour dans un rayon de 5 cases de vous peut également dépenser de la Vigueur pour bénéficier de cet avantage.
 
-#### Aptitude de 9 Courroux
+### Aptitude de 9 Courroux
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 courroux à utiliser.
 
@@ -911,11 +910,11 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > - **12-16 :** 14 + F dégâts ; vous et chaque allié adjacent à vous gagnez 15 vigueur temporaire
 > - **17+ :** 20 + F dégâts ; vous et chaque allié adjacent à vous gagnez 20 vigueur temporaire
 
-### Aptitudes de Niveau 6
+## Aptitudes de Niveau 6
 
 En tant que censeur de niveau 6, vous gagnez les aptitudes suivantes.
 
-#### Canal de Courroux
+### Canal de Courroux
 
 Chaque fois que vous terminez un répit, vous pouvez choisir l'arme d'un héros, y compris la vôtre, pour canaliser un pouvoir surnaturel en tant que canal du courroux de votre dieu. L'arme devient magique et gagne les avantages suivants jusqu'à votre prochain répit :
 
@@ -924,15 +923,15 @@ Chaque fois que vous terminez un répit, vous pouvez choisir l'arme d'un héros,
 - Tout sbire ciblé par une frappe utilisant l'arme meurt. Le maximum de Vigueur de ce sbire est retiré de la réserve de Vigueur des sbires avant que les dégâts ne soient appliqués au reste de l'escouade.
 - Le porteur de l'arme ne peut pas être effrayé.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage interpersonnel, de savoir ou surnaturel de votre choix.
 
-#### Aptitude d'Ordre de Niveau 6
+### Aptitude d'Ordre de Niveau 6
 
 Votre ordre de censeur vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes d'Exorciste de Niveau 6
+#### Aptitudes d'Exorciste de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -967,7 +966,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** L'effet se termine sur la cible et s'applique à la créature qui a imposé l'effet sur elle. Cette créature subit également des dégâts égaux à trois fois votre score de Présence.
 
-##### Aptitudes d'Oracle de Niveau 6
+#### Aptitudes d'Oracle de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1000,7 +999,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois qu'une cible prend une Action Déclenchée ou une Action Déclenchée Gratuite, cette action est annulée et la cible subit des dégâts sacrés égaux à votre score de Présence.
 
-##### Aptitudes de Parangon de Niveau 6
+#### Aptitudes de Parangon de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1037,19 +1036,19 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** La cible n'est pas affectée par la frappe et vous devenez la cible à la place, même si vous n'êtes pas une cible valide pour celle-ci. Vous subissez la moitié des dégâts de la frappe, et la cible gagne 3 impulsions.
 
-### Aptitudes de Niveau 7
+## Aptitudes de Niveau 7
 
 En tant que censeur de niveau 7, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Chacun de vos scores de caractéristique augmente de 1, jusqu'à un maximum de 4.
 
-#### Aptitude de Domaine de Niveau 7
+### Aptitude de Domaine de Niveau 7
 
 Vous gagnez une aptitude de domaine de votre domaine, comme indiqué dans le tableau des Aptitudes de Domaine de Censeur de Niveau 7.
 
-###### Tableau des Aptitudes de Domaine de Censeur de Niveau 7
+##### Tableau des Aptitudes de Domaine de Censeur de Niveau 7
 
 | Domaine    | Aptitude                           |
 |------------|------------------------------------|
@@ -1066,11 +1065,11 @@ Vous gagnez une aptitude de domaine de votre domaine, comme indiqué dans le tab
 | Tromperie  | Trinité de Tromperie               |
 | Guerre     | Vos Triomphes Sont Mémorisés       |
 
-##### Bénédiction de Fer
+#### Bénédiction de Fer
 
 Les dieux vous envoient leur faveur divine, à vous et à vos alliés. Tant que vous n'êtes pas mourant, les ennemis subissent un fléau sur leurs frappes contre vous ou tout allié dans un rayon de 3 cases de vous.
 
-##### Pacte du Cœur
+#### Pacte du Cœur
 
 Vous pouvez maintenir des liens avec jusqu'à trois créatures consentantes en utilisant votre aptitude Invocation du Cœur. De plus, vous disposez de l'aptitude suivante.
 
@@ -1087,23 +1086,23 @@ Vous pouvez maintenir des liens avec jusqu'à trois créatures consentantes en u
 > 
 > **💫 Effet :** Chaque cible est téléportée vers des espaces inoccupés dans un rayon de 5 cases d'une créature consentante avec laquelle vous êtes lié par votre aptitude Invocation du Cœur. Vous n'avez pas besoin d'une ligne d'effet vers la créature liée, mais vous devez être sur le même monde.
 
-##### Intendant Divin
+#### Intendant Divin
 
 Chaque fois que vous terminez un répit, vous pouvez choisir un trésor avec un objectif de projet égal à 50 fois votre niveau ou moins. Vous obtenez une version divine de ce trésor qui dure jusqu'à ce que vous terminiez un autre répit ou qu'il soit consommé.
 
-##### Source de Grâce
+#### Source de Grâce
 
 Chaque fois que vous utilisez votre aptitude Ma Vie pour la Vôtre, vous gagnez 1 courroux qui ne peut être dépensé que sur cette aptitude durant le même tour. Si vous n'utilisez pas ce courroux, il est perdu. De plus, la cible de Ma Vie pour la Vôtre gagne 10 Vigueur Temporaire.
 
-##### Bibliothèque des Dieux
+#### Bibliothèque des Dieux
 
 Vous pouvez accéder aux informations dont vous avez besoin par la prière, de sorte que vous n'avez plus besoin de matériaux de recherche pour les projets d'artisanat et de recherche (voir [Chapitre 12 : Projets de Temps Libre](#page-307-2)). De plus, vous ajoutez votre niveau aux jets de projet que vous effectuez pour les projets d'artisanat et de recherche. Vous possédez également toutes les compétences du groupe de compétences savoir que vous ne possédiez pas déjà, et vous gagnez un nombre de compétences d'autres groupes de compétences égal au nombre de compétences que vous aviez dans le groupe de compétences savoir avant d'obtenir cette aptitude.
 
-##### Lumière du Soleil Ardent
+#### Lumière du Soleil Ardent
 
 Le soleil imprègne votre corps. Chaque fois que vous utilisez une aptitude pour infliger des dégâts lancés à une autre créature, cette aptitude inflige 5 dégâts de feu supplémentaires, ou 15 dégâts de feu supplémentaires si la créature est morte-vivante. De plus, vous bénéficiez d'une immunité au feu égale à votre niveau, qui s'ajoute à toute autre immunité au feu que vous pourriez avoir.
 
-##### Générosité de la Nature
+#### Générosité de la Nature
 
 Lorsque vous terminez un répit, vous pouvez préparer un repas magique en utilisant la flore locale pour tous les compagnons qui se sont reposés avec vous. Choisissez deux des avantages suivants pour les créatures qui consomment le repas :
 
@@ -1115,11 +1114,11 @@ Lorsque vous terminez un répit, vous pouvez préparer un repas magique en utili
 
 Chaque avantage dure jusqu'à ce que la créature qui l'obtient termine un autre répit.
 
-##### Chevaucher la Foudre
+#### Chevaucher la Foudre
 
 La foudre et le tonnerre imprègnent votre corps. Chaque fois que vous utilisez une aptitude pour infliger des dégâts lancés à une autre créature, l'aptitude inflige des dégâts de foudre supplémentaires égaux à votre score de Présence. De plus, si vous utilisez une aptitude qui effectue un déplacement forcé sur une créature, la distance du déplacement forcé gagne un bonus égal à votre score de Présence. Tant que vous êtes sous l'effet de votre capacité Marche du Vent, la foudre améliore votre locomotion pour vous accorder un bonus de vitesse égal à votre score de Force. Si Marche du Vent vous accorde déjà un bonus de vitesse, ce bonus s'ajoute à celui-ci.
 
-##### Trinité de Tromperie
+#### Trinité de Tromperie
 
 Vous disposez de l'aptitude suivante.
 
@@ -1136,41 +1135,41 @@ Vous disposez de l'aptitude suivante.
 > 
 > **💫 Effet :** Vous créez deux duplicatas illusoires de la cible, qui apparaissent n'importe où à portée. Ces duplicatas durent jusqu'à la fin de la rencontre. À chacun de ses tours, la cible peut déplacer chaque duplicata jusqu'à sa vitesse. Si la cible est ciblée par une aptitude, elle peut utiliser une action déclenchée gratuite pour échanger sa place avec un duplicata dans sa ligne d'effet, faisant du duplicata la cible de l'aptitude à la place. Quand l'un des duplicatas subit des dégâts, il est détruit.
 
-##### Parole de Mort Différée
+#### Parole de Mort Différée
 
 Vous pouvez empêcher la mort d'emporter vos alliés. Quand un allié à distance de votre aptitude Ma Vie pour la Vôtre meurt et que vous n'êtes pas mourant, vous pouvez utiliser une action déclenchée gratuite pour que cet allié tombe inconscient à la place jusqu'à ce qu'il récupère de la Vigueur.
 
 De plus, vos aptitudes infligent 5 dégâts supplémentaires aux créatures essoufflées.
 
-##### Parole du Destin Refusé
+#### Parole du Destin Refusé
 
 Quand un allié dans un rayon de 10 cases subit des dégâts qui le laisseraient mourant, vous pouvez utiliser une action déclenchée gratuite pour faire de vous-même ou d'une autre créature consentante dans un rayon de 10 cases de vous la cible des dégâts déclencheurs à la place. La créature que vous choisissez subit les dégâts et tous les effets qui y sont associés, et ces dégâts ne peuvent être réduits d'aucune manière.
 
-##### Vos Triomphes Sont Mémorisés
+#### Vos Triomphes Sont Mémorisés
 
 Les dieux vous permettent, à vous et vos compagnons, de vous prélasser dans la gloire de vos succès passés. Chaque fois que vous terminez un répit, vous et tous les autres héros qui se sont reposés avec vous regagnez 1 Victoire après que vos Victoires ont été converties en XP. Cette Victoire n'est pas convertie en XP à la fin d'un répit ultérieur.
 
-#### Courroux Concentré
+### Courroux Concentré
 
 Quand vous gagnez du courroux au début de chacun de vos tours pendant un combat, vous gagnez 3 courroux au lieu de 2.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-### Aptitudes de Niveau 8
+## Aptitudes de Niveau 8
 
 En tant que censeur de niveau 8, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Aptitude d'Ordre de Niveau 8
+### Aptitude d'Ordre de Niveau 8
 
 Votre ordre de censeur vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes d'Ordre de Niveau 8.
 
-###### Tableau des Aptitudes d'Ordre de Niveau 8
+##### Tableau des Aptitudes d'Ordre de Niveau 8
 
 | Ordre                    | Aptitude            |
 |--------------------------|---------------------|
@@ -1178,19 +1177,19 @@ Votre ordre de censeur vous accorde une aptitude, comme indiqué dans le tableau
 | Oracle                   | Leur Passé Révélé   |
 | Parangon                 | Serment             |
 
-##### Démonologue
+#### Démonologue
 
 Les secrets les plus ésotériques de votre ordre vous enseignent que pour vaincre votre ennemi, vous devez le comprendre. Vous traitez votre Renommée comme étant 2 points plus élevée que d'habitude lorsque vous traitez avec les démons, diables et autres agents du chaos. Si vous menez à bien une Négociation avec l'une de ces créatures, vous gagnez un Avantage sur les Jets de Pouvoir effectués contre elles et pouvez utiliser votre Aptitude Jugement contre elles comme une Action Déclenchée Gratuite avant qu'une rencontre ne commence.
 
-##### Leur Passé Révélé
+#### Leur Passé Révélé
 
 Vos visions fragmentaires constantes deviennent plus claires, et peuvent être affinées pour comprendre le passé des créatures avec lesquelles vous interagissez. Lorsque vous parlez avec n'importe quelle créature, vous pouvez effectuer un Test de Présence moyen pour voir des visions de leur passé. En cas de succès, vous voyez une vision claire de tout sujet lié au passé de la créature que vous souhaitez comprendre. En cas de succès avec une Conséquence, vous voyez deux visions, une fausse et une vraie. En cas d'échec, vous perdez 2d6 points de Vigueur.
 
-##### Serment
+#### Serment
 
 Vos paroles prennent le pouvoir de votre divinité, avec toute l'autorité que cela implique. Si vous convainquez une créature de prêter serment, elle ne peut pas le rompre pendant 7 jours. Si vous prêtez serment, vous ne pouvez pas le rompre pendant 7 jours.
 
-#### 11-Aptitude de Courroux
+### 11-Aptitude de Courroux
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 courroux à utiliser.
 
@@ -1266,11 +1265,11 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** Tant que la cible est ralentie de cette manière, chacun de ses alliés qui commence son tour dans un rayon de 5 cases d'elle doit utiliser une manœuvre gratuite pour effectuer une frappe gratuite contre la cible. De plus, tant que la cible est ralentie de cette manière, chacun de ses alliés dans un rayon de 5 cases d'elle qui peut effectuer une frappe gratuite déclenchée contre une créature différente doit effectuer la frappe gratuite contre la cible à la place.
 
-### Aptitudes de Niveau 9
+## Aptitudes de Niveau 9
 
 En tant que censeur de niveau 9, vous gagnez les aptitudes suivantes.
 
-#### Canal de Courroux Amélioré
+### Canal de Courroux Amélioré
 
 L'arme que vous ciblez avec votre aptitude Canal de Courroux gagne les avantages supplémentaires suivants :
 
@@ -1278,11 +1277,11 @@ L'arme que vous ciblez avec votre aptitude Canal de Courroux gagne les avantages
 - À la fin de chacun des tours du porteur de l'arme, chaque allié adjacent au porteur effectue un jet de sauvegarde contre chaque effet qui l'affecte et qui se termine par un jet de sauvegarde.
 - Le porteur de l'arme possède une immunité à la corruption de 10.
 
-#### Aptitude d'Ordre de Niveau 9
+### Aptitude d'Ordre de Niveau 9
 
 Votre ordre de censeur vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes d'Exorciste de Niveau 9
+#### Aptitudes d'Exorciste de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1322,7 +1321,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Tant qu'elle est Effrayée de cette manière, si une cible qui est une créature dirigeante ou solo est Essoufflée, elle subit 25 dégâts psychiques supplémentaires. Si une cible Effrayée de cette manière n'est pas une créature dirigeante ou solo et est Essoufflée, elle est réduite à 0 Vigueur.
 
-##### Aptitudes d'Oracle de Niveau 9
+#### Aptitudes d'Oracle de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1356,7 +1355,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** La cible joue son tour après le héros déclencheur, et retire immédiatement toutes les conditions et effets négatifs qui l'affectent. Durant son tour, la cible bénéficie d'un double avantage sur les jets de pouvoir.
 
-##### Aptitudes de Parangon de Niveau 9
+#### Aptitudes de Parangon de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1391,23 +1390,23 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque cible qui commence son tour dans la zone gagne 10 Vigueur Temporaire.
 
-### Aptitudes de Niveau 10
+## Aptitudes de Niveau 10
 
 En tant que censeur de niveau 10, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Vos scores de Force et de Présence augmentent chacun à 5.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'artisanat, de savoir ou surnaturel de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-#### Templier
+### Templier
 
 Tu es la représentation ultime de la justice de ton dieu dans le Chronoscape. À chaque fois que tu utilises ton aptitude Jugement, tu peux utiliser une Action Déclenchée Gratuite pour utiliser un effet de domaine de conduit (voir [Piété de Domaine et Effets](#page-110-0) dans la section [Conduit](#page-108-0)) associé à ton domaine choisi, ou un domaine auquel tu accèdes avec la vertu (voir ci-dessous). Si l'effet demande l'utilisation de ton score d'Intuition, tu utilises ton score de Présence à la place. Si l'effet utilise ton niveau de conduit, utilise ton niveau de censeur à la place.
 
@@ -1415,7 +1414,7 @@ De plus, à chaque fois que tu prends un Répit, tu peux ouvrir un portail pour 
 
 Pendant que tu te reposes en sa présence, ton Dieu pourrait aussi te donner des Cibles prioritaires sur lesquelles exercer la justice. Toi et tes Alliés avez chacun un Double Avantage sur les Jets de Pouvoir effectués contre de telles Cibles. Si tu tentes d'ouvrir un portail vers ta divinité avant d'avoir vaincu tes Cibles prioritaires, tu subis le Courroux de ton Dieu, comme déterminé par le Directeur.
 
-#### Vertu
+### Vertu
 
 Vous possédez une ressource épique appelée vertu. Chaque fois que vous terminez un répit, vous gagnez de la vertu égale aux XP que vous gagnez. Vous pouvez dépenser la vertu sur vos aptitudes comme s'il s'agissait de courroux.
 
@@ -1423,7 +1422,7 @@ De plus, vous pouvez dépenser 3 points de vertu pour accéder à l'un des domai
 
 La vertu persiste jusqu'à ce que vous la dépensiez.
 
-#### Courroux des Dieux
+### Courroux des Dieux
 
 Quand vous gagnez du courroux au début de chacun de vos tours pendant le combat, vous gagnez 4 courroux au lieu de 3.
 

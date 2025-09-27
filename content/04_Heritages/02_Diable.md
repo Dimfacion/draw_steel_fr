@@ -1,8 +1,7 @@
 ---
 title: Diable
 ---
-
-## Diable
+# Diable
 
 Héritage natif des Sept Cités de l'Enfer, les diables sont des humanoïdes à la peau rouge ou bleue exprimée dans une grande variété de teintes, du cramoisi éclatant au violet profond. Chaque diable naît avec une *marque infernale* - des cornes, une queue, des sabots fourchus, une langue fourchue, des incisives crochues, ou même des ailes.
 
@@ -14,7 +13,7 @@ Les diables qui rejoignent "le commerce", comme on appelle leur fonction publiqu
 
 La majorité des diables sur Orden ne viennent pas des Sept Cités, et n'y ont jamais été. Ils sont les descendants de diables qui ont été bloqués dans le monde classique il y a des décennies, des siècles, voire des millénaires.
 
-### Sur les Diables
+## Sur les Diables
 
 Adelard se glissait dans son sous-sol, un lourd grimoire serré contre lui, l'index marquant une page. Il s'arrêtait régulièrement, ouvrait le livre, consultait un diagramme, observait les marques tracées à la craie sur le sol, penchait la tête d'un air pensif, puis se baissait pour parfaire ou effacer tel ou tel symbole ésotérique.
 
@@ -114,42 +113,42 @@ Riyalkin haussa les épaules. « C'est ce que je faisais avant. Je me débrouill
 
 Elle rougit malgré elle et leva son propre verre. « Espèce de diable à la langue dorée. »
 
-### Traits de Diable
+## Traits de Diable
 
 Les héros Diables ont accès aux traits suivants.
 
-#### Trait Signature : Langue d'Argent
+### Trait Signature : Langue d'Argent
 
 Votre magie innée vous permet de déformer la perception de vos paroles pour mieux cerner les gens et les convaincre de voir les choses à votre façon. Vous possédez une compétence de votre choix du groupe de compétences interpersonnelles (voir [Compétences](#page-268-0) au Chapitre 9 : Tests), et vous gagnez un avantage sur les tests lorsque vous tentez de découvrir les motivations et les pièges d'un PNJ durant une négociation (voir [Chapitre 11 : Négociation](#page-297-0)).
 
-#### Traits de Diable Achetés
+### Traits de Diable Achetés
 
 Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Pattes de Bête, Cornes Impressionnantes.)
 
-##### Queue Barbelée (1 Point)
+#### Queue Barbelée (1 Point)
 
 Votre queue pointue vous permet de ponctuer toutes vos actions. Une fois par tour lorsque vous effectuez une frappe au corps à corps, vous pouvez infliger des dégâts supplémentaires avec la frappe égaux à votre score de caractéristique le plus élevé.
 
-##### Pattes de Bête (1 Point)
+#### Pattes de Bête (1 Point)
 
 Tes puissantes pattes te rendent plus rapide. Tu as une Vitesse de 6.
 
-##### Yeux Lumineux (1 Point)
+#### Yeux Lumineux (1 Point)
 
 Vos yeux sont d'une couleur vive et uniforme qui s'embrase pour révéler votre excitation ou votre rage. Chaque fois que vous subissez des dégâts d'une créature, vous pouvez utiliser une action déclenchée pour infliger à cette créature des dégâts psychiques égaux à 1d10 + votre niveau.
 
-##### Vision Infernale (1 Point)
+#### Vision Infernale (1 Point)
 
 Vos yeux vous permettent de voir à travers l'obscurité, le brouillard et autres effets d'obstruction. Vous ne subissez pas de fléau sur les frappes effectuées contre les créatures bénéficiant de dissimulation.
 
-##### Cornes Impressionnantes (2 Points)
+#### Cornes Impressionnantes (2 Points)
 
 Vos cornes chéries sont plus grandes que celles du diable moyen, et représentent une manifestation endurcie de votre force de volonté. Chaque fois que vous effectuez un jet de sauvegarde, vous réussissez sur un résultat de 5 ou plus.
 
-##### Queue Préhensile (2 Points)
+#### Queue Préhensile (2 Points)
 
 Votre queue préhensile vous permet de défier les ennemis de tous côtés. Vous ne pouvez pas être flanqué.
 
-##### Ailes (2 Points)
+#### Ailes (2 Points)
 
 Vous possédez des ailes suffisamment puissantes pour vous porter dans les airs. Lorsque vous utilisez vos ailes pour voler, vous pouvez rester en l'air pendant un nombre de tours égal à votre score de Force (minimum 1 tour) avant de chuter. Tant que vous utilisez vos ailes pour voler au niveau 3 ou inférieur, vous avez une faiblesse aux dégâts 5.

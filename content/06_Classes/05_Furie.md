@@ -1,10 +1,9 @@
 ---
 title: Furie
 ---
+# Furie
 
-## Furie
-
-Tu ne tempères pas la chaleur du combat qui brûle en toi. Tu la libères ! Ton expérience dans la nature sauvage t'a enseigné les secrets des prédateurs, et maintenant, comme le rapace, la panthère, le loup, tu canalises une colère débridée en prouesse martiale. Le Chaos Primordial est ton allié. Laisse les autres user de finesse pour nettoyer les décombres que tu laisses dans ton sillage.
+Tu ne tempères pas la chaleur du combat qui brûle en toi. Tu la libères ! Ton expérience dans la nature sauvage t'a enseigné les secrets des prédateurs, et maintenant, comme le rapace, la panthère et le loup, tu canalises ta colère débridée en prouesse martiale. Le Chaos Primordial est ton allié. Laisse les autres user de finesse pour nettoyer les décombres que tu laisses dans ton sillage.
 
 **En tant que furie, tu dévaste tes ennemis avec une force écrasante, tu projettes tes adversaires et toi-même à travers le champ de bataille, et tu deviens plus puissant à mesure que ta férocité augmente. La nature n'a aucune notion d'équité—et toi non plus.**
 
@@ -12,7 +11,7 @@ Tu ne tempères pas la chaleur du combat qui brûle en toi. Tu la libères ! Ton
 >
 > **Khorva**
 
-### Bases
+## Bases
 
 **Caractéristiques de Départ :** Vous commencez avec une Force de 2 et une Agilité de 2, et vous pouvez choisir l'un des tableaux suivants pour vos autres scores de caractéristiques :
 
@@ -34,11 +33,11 @@ Tu ne tempères pas la chaleur du combat qui brûle en toi. Tu la libères ! Ton
 
 **Compétences :** Vous gagnez la compétence Nature (voir Compétences au Chapitre 9 : Tests). Puis choisissez deux compétences parmi les groupes de compétences d'exploration ou d'intrigue. (*Construction Rapide :* Vigilance, Saut, Nature.)
 
-### Aptitudes de Niveau 1
+## Aptitudes de Niveau 1
 
 En tant que furie de niveau 1, vous gagnez les aptitudes suivantes.
 
-#### Aspect Primordial
+### Aspect Primordial
 
 Vous êtes le produit de coutumes plus anciennes que la guerre, plus anciennes que la civilisation, plus anciennes que la plupart du monde. Vous avez subi un rite de passage qui a révélé les fondements du Chronoscape—le Chaos Primordial—et qui a laissé un aspect de ce chaos en vous. Vous choisissez un aspect primordial parmi les options suivantes, chacune vous accordant une compétence. (*Construction Rapide :* Berserker.)
 
@@ -48,7 +47,7 @@ Vous êtes le produit de coutumes plus anciennes que la guerre, plus anciennes q
 
 Votre aspect primordial est votre sous-classe, et votre choix d'aspect détermine de nombreuses aptitudes que vous obtiendrez en gagnant de nouveaux niveaux.
 
-#### Férocité
+### Férocité
 
 Dans le feu de l'action, votre détermination et votre colère grandissent, alimentant une Ressource Héroïque appelée férocité.
 
@@ -56,7 +55,7 @@ Dans le feu de l'action, votre détermination et votre colère grandissent, alim
 >
 > Puisque la plupart des autres Classes obtiennent une manœuvre sur mesure, vous pourriez vous demander : « Où est la manœuvre spéciale de la Furie ? » La réponse est que la Classe n'a pas besoin de sa propre manœuvre, car la plupart du temps, l'univers imaginaire de la Furie la fait utiliser les Manœuvres - Saisir ou Repousser au combat. Elle excelle vraiment dans ces manœuvres aussi, donc cela n'a pas de sens de vous donner une autre option que vous utiliserez rarement ou jamais.
 
-###### Tableau d'Évolution de la Furie
+##### Tableau d'Évolution de la Furie
 
 | Niveau | Capacités                                                                                                                        | Aptitudes                 | Aptitudes d'Aspect |
 |--------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------|
@@ -71,7 +70,7 @@ Dans le feu de l'action, votre détermination et votre colère grandissent, alim
 | 9e     | Messager du Chaos Primordial, Aptitude d'Aspect                                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
 | 10e    | Incarnation du Chaos, Augmentation de Caractéristique, Amélioration de Férocité Croissante, Avantage, Férocité Primordiale, Pouvoir Primordial, Compétence | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
 
-##### Férocité en Combat
+#### Férocité en Combat
 
 Au début d'une rencontre de combat ou d'une autre situation stressante suivie en tours de combat (selon la décision du Directeur), vous gagnez de la férocité égale à vos Victoires. Au début de chacun de vos tours pendant le combat, vous gagnez 1d3 férocité.
 
@@ -79,19 +78,19 @@ De plus, la première fois à chaque tour de combat que vous subissez des dégâ
 
 Vous perdez toute férocité restante à la fin de la rencontre.
 
-##### Férocité en Dehors du Combat
+#### Férocité en Dehors du Combat
 
 Bien que vous ne puissiez pas gagner de férocité en dehors du combat, vous pouvez utiliser vos aptitudes héroïques et effets qui coûtent de la férocité sans la dépenser. Chaque fois que vous utilisez une aptitude ou un effet en dehors du combat qui coûte de la férocité, vous ne pouvez pas utiliser cette même aptitude ou effet en dehors du combat à nouveau jusqu'à ce que vous obteniez 1 Victoire ou plus ou que vous terminiez un répit.
 
 Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépenser une férocité illimitée sur son effet, comme Jusqu'au Bout du Monde, vous pouvez l'utiliser comme si vous aviez dépensé un montant de férocité égal à vos Victoires.
 
-#### Férocité Croissante
+### Férocité Croissante
 
 Vous obtenez certains avantages en combat basés sur la quantité de férocité que vous possédez (voir les Aptitudes d'Aspect de Niveau 1 pour les détails). Ces avantages durent jusqu'à la fin de votre tour, même si un avantage deviendrait indisponible à cause de la quantité de férocité que vous dépensez durant votre tour.
 
 Certains avantages de Férocité Croissante ne peuvent être appliqués que si vous êtes d'un niveau spécifique ou supérieur, le niveau de ces avantages étant noté dans les différents tableaux de Férocité Croissante de cette section.
 
-###### Tableau de Férocité Croissante du Berserker
+##### Tableau de Férocité Croissante du Berserker
 
 | Férocité        | Bénéfice                                                                                                                                                                                                                                 |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -102,7 +101,7 @@ Certains avantages de Férocité Croissante ne peuvent être appliqués que si v
 | 10 (7e niveau)  | Vous avez un double avantage aux tests de Force et à la Manœuvre - Repousser.                                                                                                                                                           |
 | 12 (10e niveau) | Chaque fois que vous utilisez une aptitude héroïque, vous gagnez 10 points de Vigueur Temporaire. De plus, chaque fois que vous effectuez un jet de pouvoir qui impose un déplacement forcé à une cible, la distance de déplacement forcé gagne un bonus égal à votre score de Force. |
 
-###### Tableau de Férocité Croissante du Ravageur
+##### Tableau de Férocité Croissante du Ravageur
 
 | Férocité        | Bénéfice                                                                                                                                                                                                                                    |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -113,11 +112,11 @@ Certains avantages de Férocité Croissante ne peuvent être appliqués que si v
 | 10 (7e niveau)  | Vous avez un double avantage sur les tests d'Agilité et la Manœuvre - Repousser.                                                                                                                                                           |
 | 12 (10e niveau) | Chaque fois que vous utilisez une aptitude héroïque, vous gagnez 10 points de Vigueur Temporaire. De plus, chaque fois que vous effectuez un jet de pouvoir qui impose un déplacement forcé à une cible, la distance de déplacement forcé gagne un bonus égal à votre score d'Agilité. |
 
-#### Caractéristiques d'Aspect de Niveau 1
+### Caractéristiques d'Aspect de Niveau 1
 
 Votre aspect primordial vous accorde deux caractéristiques, comme indiqué dans le tableau des Caractéristiques d'Aspect de Niveau 1.
 
-###### Tableau des Capacités d'Aspect de Niveau 1
+##### Tableau des Capacités d'Aspect de Niveau 1
 
 | Aspect     | Capacité                           |
 |------------|------------------------------------|
@@ -125,35 +124,35 @@ Votre aspect primordial vous accorde deux caractéristiques, comme indiqué dans
 | Reaver     | Panoplie, Ruse Primordiale         |
 | Stormwight | Forme Bestiale, Chasseur Implacable |
 
-##### Forme Bestiale
+#### Forme Bestiale
 
 Vous pouvez utiliser et bénéficier des avantages d'une panoplie de tempêtueux (voir Panoplies de Tempêtueux). Votre panoplie de tempêtueux vous accorde un certain nombre d'avantages, y compris des avantages liés à votre aptitude Férocité Croissante.
 
-##### Panoplie
+#### Panoplie
 
 Vous pouvez utiliser et bénéficier des avantages d'une panoplie. Voir Chapitre 6 : Panoplies pour plus d'informations. (*Construction Rapide :* Panthère.)
 
-##### Ruse Primordiale
+#### Ruse Primordiale
 
 Vous n'êtes jamais surpris. De plus, chaque fois que vous devriez effectuer une poussée sur une cible avec un déplacement forcé, vous pouvez effectuer un glissement à la place.
 
 À mesure que votre férocité augmente, vous obtenez des bénéfices comme indiqué dans le tableau Férocité Croissante du Ravageur. Les bénéfices sont cumulatifs sauf lorsqu'un bénéfice amélioré remplace un bénéfice moindre.
 
-##### Force Primordiale
+#### Force Primordiale
 
 Chaque fois que vous infligez des dégâts à un objet avec une frappe d'arme, la frappe inflige des dégâts supplémentaires égaux à votre score de Force. De plus, chaque fois que vous effectuez une poussée sur une autre créature contre un objet, la créature subit des dégâts supplémentaires égaux à votre score de Force.
 
 À mesure que votre férocité grandit, vous gagnez des avantages comme indiqué dans le tableau Férocité Croissante du Berserker. Les avantages sont cumulatifs sauf lorsqu'un avantage amélioré remplace un avantage moindre.
 
-##### Chasseur Implacable
+#### Chasseur Implacable
 
 Vous gagnez un avantage aux tests effectués avec la compétence Pistage.
 
-#### Action Déclenchée d'Aspect
+### Action Déclenchée d'Aspect
 
 Votre aspect primordial vous accorde une action déclenchée, comme indiqué dans le tableau des Actions Déclenchées d'Aspect.
 
-###### Tableau des Actions Déclenchées d'Aspect
+##### Tableau des Actions Déclenchées d'Aspect
 
 | Aspect                   | Action Déclenchée  |
 |--------------------------|--------------------|
@@ -212,15 +211,15 @@ Votre aspect primordial vous accorde une action déclenchée, comme indiqué dan
 > 
 > **🔥 Dépenser 1 Férocité :** Si les Dégâts ont des effets de Seuil associés, le Seuil est réduit de 1 pour vous.
 
-#### Sauts Puissants
+### Sauts Puissants
 
 Vous ne pouvez pas obtenir un résultat inférieur au tiers 2 sur tout test de Force effectué pour un saut (voir Types de Déplacement au Chapitre 10 : Combat).
 
-#### Aptitudes de Furie
+### Aptitudes de Furie
 
 Vous vous spécialisez dans l'infliction de dégâts massifs sur le champ de bataille, et avez maîtrisé des aptitudes martiales uniques qui vous permettent de frapper fort et de continuer à avancer.
 
-##### Aptitude Signature
+#### Aptitude Signature
 
 Choisissez une aptitude signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Jusqu'à la Mort !)
 
@@ -296,11 +295,11 @@ Choisissez une aptitude signature parmi les options suivantes. Les aptitudes sig
 > 
 > Vous gagnez 2 impulsions, et la cible peut effectuer une attaque d'opportunité contre vous en tant qu'action déclenchée gratuite.
 
-##### Aptitudes Héroïques
+#### Aptitudes Héroïques
 
 Vous combattez avec un arsenal d'aptitudes héroïques, qui coûtent toutes de la férocité pour les alimenter.
 
-###### Aptitude de 3 Férocité
+##### Aptitude de 3 Férocité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 férocité à utiliser. (*Construction Rapide :* En Arrière !)
 
@@ -388,7 +387,7 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 3 Férocité
 
-###### Aptitude à 5 Férocité
+##### Aptitude à 5 Férocité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 férocité à utiliser. (*Construction Rapide :* Sang pour Sang !)
 
@@ -470,19 +469,19 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 5 Férocité
 
-### Aptitudes de Niveau 2
+## Aptitudes de Niveau 2
 
 En tant que furie de niveau 2, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'artisanat, d'exploration ou d'intrigue de votre choix. Voir [Chapitre 7 : Avantages](#dead-link).
 
-#### Aptitude d'Aspect de Niveau 2
+### Aptitude d'Aspect de Niveau 2
 
 Votre aspect primordial vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes d'Aspect de Niveau 2.
 
-###### Tableau des Capacités d'Aspect de Niveau 2
+##### Tableau des Capacités d'Aspect de Niveau 2
 
 | Aspect     | Capacité               |
 |------------|------------------------|
@@ -490,23 +489,23 @@ Votre aspect primordial vous accorde une aptitude, comme indiqué dans le tablea
 | Reaver     | Courroux Inéluctable   |
 | Stormwight | Dent et Griffe         |
 
-##### Courroux Inéluctable
+#### Courroux Inéluctable
 
 Vous avez un bonus à la Vitesse égal à votre score d'Agilité, et vous ignorez le Terrain Difficile.
 
-##### Crocs et Griffes
+#### Crocs et Griffes
 
 À la fin de chacun de vos tours, chaque ennemi adjacent à vous subit des dégâts égaux à votre score de Force.
 
-##### Force Imparable
+#### Force Imparable
 
 Chaque fois que vous utilisez l'Action Principale - Charge, vous pouvez utiliser une Aptitude Signature de frappe ou une Aptitude Héroïque de frappe au lieu d'une Frappe Gratuite. De plus, vous pouvez effectuer un saut dans le cadre de votre charge.
 
-### Aptitude d'Aspect de Niveau 2
+## Aptitude d'Aspect de Niveau 2
 
 Votre aspect primordial vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitude de Berserker de Niveau 2
+#### Aptitude de Berserker de Niveau 2
 
 Choisissez une des aptitudes suivantes.
 
@@ -548,7 +547,7 @@ Choisissez une des aptitudes suivantes.
 > 
 > **🔥 Coût :** 5 Férocité
 
-##### Aptitude de Pillard de Niveau 2
+#### Aptitude de Pillard de Niveau 2
 Choisissez l'une des aptitudes suivantes.
 
 > [!spell] Mort... Mort !
@@ -591,7 +590,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **🔥 Coût :** 5 Férocité
 
-##### Aptitude de Seigneur de Tempête de Niveau 2
+#### Aptitude de Seigneur de Tempête de Niveau 2
 Choisissez l'une des aptitudes suivantes.
 
 > [!spell] Prédateur Suprême
@@ -636,15 +635,15 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **🔥 Coût :** 5 Férocité
 
-### Aptitudes de Niveau 3
+## Aptitudes de Niveau 3
 
 En tant que furie de niveau 3, vous gagnez les aptitudes suivantes.
 
-#### Aptitude d'Aspect de Niveau 3
+### Aptitude d'Aspect de Niveau 3
 
 Votre aspect primordial vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes d'Aspect de Niveau 3.
 
-###### Tableau des Capacités d'Aspect de Niveau 3
+##### Tableau des Capacités d'Aspect de Niveau 3
 
 | Aspect                    | Capacité                 |
 |---------------------------|--------------------------|
@@ -652,23 +651,23 @@ Votre aspect primordial vous accorde une aptitude, comme indiqué dans le tablea
 | Reaver                    | Voir Clair dans Leurs Ruses |
 | Stormwight                | Chevalier de la Nature   |
 
-##### Objet Inamovible
+#### Objet Inamovible
 
 Vous ajoutez votre niveau à votre Taille effective dans le but d'interagir avec les créatures et les objets, y compris pour déterminer si vous pouvez soulever un objet, si vous êtes affecté par un Déplacement Forcé, et ainsi de suite. Ceci n'a aucun effet sur le fait que vous puissiez être Agrippé ou non.
 
 De plus, vous avez un bonus à la Stabilité égal à votre score de Force.
 
-##### Chevalier de la Nature
+#### Chevalier de la Nature
 
 Vous pouvez parler avec les animaux et les élémentaires. De plus, vous détectez automatiquement la présence d'animaux et d'élémentaires dans un rayon de 10 cases autour de vous, même s'ils sont cachés.
 
 Lorsque vous êtes en Négociation avec un animal ou un élémentaire, vous traitez votre Renommée comme étant supérieure de 1 à la normale. Ceci se cumule avec l'augmentation de votre Renommée effective lors d'une Négociation avec un animal de votre type sous forme animale (voir Panoplies de Tempête).
 
-##### Voir Clair dans Leur Jeu
+#### Voir Clair dans Leur Jeu
 
 Vous avez un double avantage sur les tests effectués pour rechercher des créatures cachées, discerner des motifs cachés, ou détecter des mensonges. Vous avez aussi un double avantage sur les tests effectués pour jouer !
 
-#### Aptitude à 7 Férocité
+### Aptitude à 7 Férocité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 férocité à utiliser.
 
@@ -732,47 +731,47 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 7 Férocité
 
-### Aptitudes de Niveau 4
+## Aptitudes de Niveau 4
 
 En tant que furie de niveau 4, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Vos scores de Force et d'Agilité augmentent chacun à 3.
 
-#### Férocité Endommageante
+### Férocité Endommageante
 
 La première fois que vous subissez des dégâts à chaque tour de combat, vous gagnez 2 férocité au lieu de 1.
 
-#### Amélioration de Férocité Croissante
+### Amélioration de Férocité Croissante
 
 Votre aptitude Férocité Croissante fournit des avantages supplémentaires lorsque vous avez 8 points de férocité ou plus.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Harmonisation Primordiale
+### Harmonisation Primordiale
 
 Alors que votre férocité manifeste les forces élémentaires créées par le Chaos Primordial, vous êtes conscient de la façon dont le pouvoir élémentaire interagit avec ceux qui vous entourent. Vous détectez automatiquement si une créature dans un rayon de 10 cases possède une immunité aux dégâts ou une faiblesse aux dégâts d'acide, de froid, de corruption, de feu, de foudre, de poison ou soniques, apprenant si elle a une immunité ou une faiblesse, la valeur de cette immunité ou faiblesse, et le type de dégâts spécifique. De plus, vous détectez automatiquement toute source de l'un de ces types de dégâts dans un rayon de 10 cases, comme un feu ou une source de pouvoir élémentaire.
 
-#### Frappe Primordiale
+### Frappe Primordiale
 
 Vous pouvez manifester votre férocité directement sous forme de force élémentaire créée par le Chaos Primordial. Dans le cadre de n'importe quelle frappe, vous pouvez dépenser 1 férocité pour gagner 1 impulsion qui doit être utilisée pour cette frappe. Les dégâts supplémentaires infligés par l'impulsion peuvent être d'acide, de froid, de corruption, de feu, de foudre, de poison ou soniques (à votre choix).
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix. Voir Compétences au Chapitre 9 : Tests.
 
-### Aptitudes de Niveau 5
+## Aptitudes de Niveau 5
 
 En tant que furie de niveau 5, vous gagnez les aptitudes suivantes.
 
-#### Aptitude d'Aspect de Niveau 5
+### Aptitude d'Aspect de Niveau 5
 
 Votre aspect primordial vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes d'Aspect de Niveau 5.
 
-###### Tableau des Aptitudes d'Aspect de Niveau 5
+##### Tableau des Aptitudes d'Aspect de Niveau 5
 
 | Aspect     | Aptitude   |
 |------------|------------|
@@ -780,19 +779,19 @@ Votre aspect primordial vous accorde une aptitude, comme indiqué dans le tablea
 | Reaver     | Unfettered |
 | Stormwight | Stormborn  |
 
-##### Bondisseur
+#### Bondisseur
 
 Votre distance et hauteur de saut doublent (voir Types de Déplacement au Chapitre 10 : Combat). De plus, lorsque vous chutez, vous réduisez la hauteur effective de votre chute d'un nombre de cases égal à votre distance de saut dans le but de déterminer les dégâts et si vous atterrissez à terre (voir Chute au Chapitre 10). Vous n'êtes pas à terre après avoir chuté et atterri sur une autre créature.
 
-##### Enfant de la Tempête
+#### Enfant de la Tempête
 
 Vous et chaque allié dans un rayon de 5 cases de vous ignorez les effets négatifs des intempéries, tels que les fléaux ou les dégâts environnementaux. De plus, vous pouvez utiliser l'aptitude Bénédiction du Temps Clément comme si vous étiez un conduit de niveau 1 (voir Aptitude de Domaine de Niveau 1 dans la section Conduit).
 
-##### Libéré
+#### Libéré
 
 Au début de votre tour, vous pouvez mettre fin à toute condition entravé qui vous affecte. De plus, vous avez un double avantage sur les tests effectués pour échapper à un confinement ou à un emprisonnement.
 
-#### Aptitude à 9 Férocité
+### Aptitude à 9 Férocité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 férocité à utiliser.
 
@@ -882,31 +881,31 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 9 Férocité
 
-### Aptitudes de Niveau 6
+## Aptitudes de Niveau 6
 
 En tant que furie de niveau 6, vous gagnez les aptitudes suivantes.
 
-#### Maraudeur du Chaos Primordial
+### Maraudeur du Chaos Primordial
 
 Alors que votre connexion au pouvoir du Chaos Primordial devient toujours plus forte, vous détectez automatiquement toute créature élémentaire ou source magique de pouvoir élémentaire, comme une mare de lave ou un lac chevauchant avec la Quintessence, dans un rayon de 1,6 kilomètre autour de vous.
 
 De plus, vous pouvez parler avec les créatures élémentaires, et lorsque vous êtes en négociation avec un élémentaire, vous traitez votre Renommée comme étant de 1 point supérieure à la normale. Ceci se cumule avec l'augmentation de votre Renommée effective fournie par l'aptitude d'aspect Chevalier de la Nature (voir Aptitudes de Niveau 3). Quand un élémentaire prend conscience de vous pour la première fois au combat, s'il a P < MOYENNE, il est effrayé de vous (Sauvegarde Termine).
 
-#### Portail Primordial
+### Portail Primordial
 
 En tant qu'Action Principale, vous pouvez toucher une source magique de pouvoir élémentaire et l'utiliser pour créer un portail vers Quintessence. Vous pouvez ensuite utiliser une Action Principale pour vous téléporter ainsi que toutes les Créatures consentantes dans un rayon de 10 Cases à travers le portail vers une île sûre dans Quintessence, ou pour revenir par Téléportation. Vous pouvez maintenir un nombre de portails égal à votre score de Force, chacun menant à la même île sûre dans Quintessence. Si un portail de votre réseau est détruit, il ne fait plus partie du réseau. Vous pouvez retirer un portail de votre réseau quelle que soit votre Distance de celui-ci, y compris à travers différents mondes (Action Triviale requise).
 
 (Explorer Quintessence est possible depuis votre île, mais la sécurité continue n'est pas garantie.)
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'artisanat, d'exploration ou d'intrigue de votre choix.
 
-#### Aptitude d'Aspect de Niveau 6
+### Aptitude d'Aspect de Niveau 6
 
 Votre aspect primordial vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes de Berserker de Niveau 6
+#### Aptitudes de Berserker de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -952,7 +951,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **🔥 Coût :** 9 Férocité
 
-##### Aptitudes de Pillard de Niveau 6
+#### Aptitudes de Pillard de Niveau 6
 Choisissez l'une des aptitudes suivantes.
 
 > [!spell] Frappe Mortelle
@@ -995,7 +994,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **🔥 Coût :** 9 Férocité
 
-##### Aptitudes de Stormwight de Niveau 6
+#### Aptitudes de Stormwight de Niveau 6
 Choisissez l'une des aptitudes suivantes.
 
 > [!spell] Bond
@@ -1036,45 +1035,45 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **🔥 Coût :** 9 Férocité
 
-### Aptitudes de Niveau 7
+## Aptitudes de Niveau 7
 
 En tant que furie de niveau 7, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Chacun de vos scores de caractéristique augmente de 1, jusqu'à un maximum de 4.
 
-#### Forme Élémentaire
+### Forme Élémentaire
 
 Vous manifestez des signes de plus en plus marqués de la façon dont la force du Chaos Primordial coule en vous. Chaque fois que vous montrez une émotion forte ou augmentez votre Férocité, des particules élémentaires accordées à votre humeur voltigent autour de vous, et votre peau change d'apparence pour refléter un élément de votre choix.
 
 De plus, si vous êtes un berserker ou un reaver, vous avez une immunité aux Dégâts d'acide, de froid, de corruption, de feu, de foudre, de poison et soniques égale à votre score de Force. Si vous êtes un stormwight, vous avez une immunité au Type de Dégâts de votre aptitude Tempête Primordiale égale à deux fois votre score de Force.
 
-#### Férocité Supérieure
+### Férocité Supérieure
 
 Quand vous gagnez de la férocité au début de chacun de vos tours pendant le combat, vous gagnez 1d3 + 1 férocité au lieu de 1d3.
 
-#### Amélioration de Férocité Croissante
+### Amélioration de Férocité Croissante
 
 Votre aptitude Férocité Croissante offre des avantages supplémentaires lorsque vous avez 10 points de férocité ou plus.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-### Aptitudes de Niveau 8
+## Aptitudes de Niveau 8
 
 En tant que furie de niveau 8, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Aptitude d'Aspect de Niveau 8
+### Aptitude d'Aspect de Niveau 8
 
 Votre aspect primordial vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes d'Aspect de Niveau 8.
 
-###### Tableau des Aptitudes d'Aspect de Niveau 8
+##### Tableau des Aptitudes d'Aspect de Niveau 8
 
 | Aspect     | Aptitude           |
 |------------|--------------------|
@@ -1082,19 +1081,19 @@ Votre aspect primordial vous accorde une aptitude, comme indiqué dans le tablea
 | Reaver     | Une Longueur d'Avance |
 | Stormwight | Ménagerie          |
 
-##### Ménagerie
+#### Ménagerie
 
 Vous pouvez utiliser toutes les panoplies de chevalier des tempêtes. Pendant un répit, vous pouvez choisir de changer votre panoplie de chevalier des tempêtes et effectuer quand même une autre activité de répit. Votre aptitude Chevalier de la Nature vous permet désormais de détecter automatiquement la présence d'animaux dans un rayon de 1,6 km autour de vous. De plus, chaque fois que vous effectuez un test pour pister une autre créature, vous pouvez lancer trois dés et choisir lesquels deux utiliser.
 
-##### Une Longueur d'Avance
+#### Une Longueur d'Avance
 
 Vous vous déplacez avec une grâce légendaire. Chaque fois que vous effectuez un Test d'Agilité, vous pouvez lancer trois dés et choisir lesquels deux utiliser. De plus, chaque fois que vous utilisez l'Action de Déplacement - Désengagement, la Distance que vous pouvez Glisser gagne un Bonus égal à votre score d'Agilité.
 
-##### Le Plus Fort de Tous
+#### Le Plus Fort de Tous
 
 Votre force est inégalée. Chaque fois que vous effectuez un test de Force, vous pouvez lancer trois dés et choisir lesquels deux utiliser. De plus, chaque fois que vous utilisez la Manœuvre - Repousser, la distance de Déplacement Forcé gagne un bonus égal à votre score de Force.
 
-#### Aptitude à 11 Férocité
+### Aptitude à 11 Férocité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 férocité à utiliser.
 
@@ -1170,19 +1169,19 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 11 Férocité
 
-### Aptitudes de Niveau 9
+## Aptitudes de Niveau 9
 
 En tant que furie de niveau 9, vous gagnez les aptitudes suivantes.
 
-#### Héraut du Chaos Primordial
+### Héraut du Chaos Primordial
 
 Vous pouvez créer une source temporaire de pouvoir élémentaire en tant qu'activité de répit. Cette source de pouvoir élémentaire dure 24 heures après sa création, et peut être utilisée pour créer un portail vers Quintessence avec votre aptitude Portail Primordial. Si vous le faites, la source de pouvoir élémentaire dure aussi longtemps que le portail est maintenu dans votre réseau.
 
-#### Aptitude d'Aspect de Niveau 9
+### Aptitude d'Aspect de Niveau 9
 
 Votre aspect primordial vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes de Berserker de Niveau 9
+#### Aptitudes de Berserker de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1228,7 +1227,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **🔥 Coût :** 11 Férocité
 
-##### Aptitudes de Ravageur de Niveau 9
+#### Aptitudes de Ravageur de Niveau 9
 Choisissez l'une des aptitudes suivantes.
 
 > [!spell] Fléau Primordial
@@ -1273,7 +1272,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **🔥 Coût :** 11 Férocité
 
-##### Aptitudes de Stormwight de Niveau 9
+#### Aptitudes de Stormwight de Niveau 9
 Choisissez l'une des aptitudes suivantes.
 
 > [!spell] Râle de Mort
@@ -1316,11 +1315,11 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **🔥 Coût :** 11 Férocité
 
-### Aptitudes de Niveau 10
+## Aptitudes de Niveau 10
 
 En tant que furie de niveau 10, vous gagnez les aptitudes suivantes.
 
-#### Incarnation du Chaos
+### Incarnation du Chaos
 
 Votre maîtrise des forces élémentaires vous protège et vous encourage. Si vous êtes un berserker ou un reaver, vous bénéficiez d'une immunité aux dégâts d'acide, de froid, de corruption, de feu, de foudre, de poison et soniques égale à deux fois votre score de Force. Si vous êtes un stormwight, votre immunité aux dégâts de votre aptitude Tempête Primordiale (voir Panoplies Stormwight) augmente à trois fois votre score de Force.
 
@@ -1328,23 +1327,23 @@ Quand un élémentaire ou toute autre créature dont les aptitudes infligent des
 
 De plus, quand vous utilisez Frappe Primordiale, vous pouvez dépenser jusqu'à 3 férocité, gagnant 1 impulsion par férocité dépensée à utiliser pour cette frappe.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Vos scores de Force et d'Agilité augmentent chacun à 5.
 
-#### Amélioration de Férocité Croissante
+### Amélioration de Férocité Croissante
 
 Votre aptitude Férocité Croissante procure des avantages supplémentaires lorsque vous avez 12 points de férocité ou plus.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'artisanat, d'exploration ou d'intrigue de votre choix.
 
-#### Férocité Primordiale
+### Férocité Primordiale
 
 La première fois que vous subissez des dégâts à chaque tour de combat, vous gagnez 3 points de férocité au lieu de 2.
 
-#### Pouvoir Primordial
+### Pouvoir Primordial
 
 Vous possédez une ressource épique appelée pouvoir primordial. Chaque fois que vous terminez un répit, vous gagnez du pouvoir primordial égal aux XP que vous gagnez. Vous pouvez dépenser le pouvoir primordial sur vos aptitudes comme s'il s'agissait de férocité.
 
@@ -1354,23 +1353,23 @@ Vous pouvez également dépenser 3 pouvoirs primordiaux pour créer un portail v
 
 Le pouvoir primordial persiste jusqu'à ce que vous le dépensiez.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-### Panoplies de Stormwight
+## Panoplies de Stormwight
 
 L'aspect primordial de stormwight vous permet de canaliser votre férocité sous la forme d'un animal et vous accorde la connaissance d'une panoplie de stormwight de votre choix. Vous pouvez maîtriser des panoplies de stormwight supplémentaires au cours du jeu, en les changeant pendant un répit comme avec toute autre panoplie (voir Chapitre 6 : Panoplies).
 
-#### Caractéristiques de Panoplie
+### Caractéristiques de Panoplie
 
 Toutes les panoplies de stormwight ont les caractéristiques suivantes en commun.
 
-##### Avantages de l'Aspect et Forme Animale
+#### Avantages de l'Aspect et Forme Animale
 
 Les avantages de votre aspect primordial vous sont toujours disponibles, et vous obtenez des avantages supplémentaires lorsque vous êtes sous la forme animale ou hybride accordée par votre panoplie de tempêtaire.
 
-##### Aspect de la Nature
+#### Aspect de la Nature
 
 Vous possédez l'aptitude suivante.
 
@@ -1389,53 +1388,53 @@ Vous possédez l'aptitude suivante.
 > 
 > **🔥 Dépenser 1 Férocité :** En manœuvre gratuite, vous pouvez vous métamorphoser une seconde fois, soit en une autre forme animale, soit en votre forme hybride, soit pour reprendre votre véritable forme.
 
-##### Tempête Primordiale
+#### Tempête Primordiale
 
 Chaque panoplie de stormwight est associée à une tempête primordiale, qui canalise un type de dégâts spécifique utilisé par certaines de vos aptitudes.
 
-##### Équipement
+#### Équipement
 
 Vous ne portez aucune armure et ne maniez que vos frappes à mains nues—qui deviennent des armes naturelles dévastatrices à mesure que votre férocité grandit.
 
-##### Bonus de Panoplie
+#### Bonus de Panoplie
 
 Ces bonus s'appliquent sous votre forme véritable, votre forme animale et votre forme hybride. Voir Chapitre 6 : Panoplies pour plus d'informations sur les bonus de panoplie.
 
-##### Aptitude Signature
+#### Aptitude Signature
 
 Vous gagnez une nouvelle aptitude signature de votre panoplie.
 
-##### Férocité Croissante
+#### Férocité Croissante
 
 Chaque panoplie de stormwight accorde un ensemble d'avantages pour votre aptitude Férocité Croissante.
 
-#### Boren
+### Boren
 
 Avec cette panoplie de spectre des tempêtes, vous canalisez votre férocité primordiale sous la forme d'un ours, devenant imposant, résistant et intimidant. Les Boren sont liés au nord rocheux et escarpé, et cet aspect est associé au froid mordant du blizzard.
 
-##### Avantages d'Aspect
+#### Avantages d'Aspect
 
 Chaque fois que vous utilisez un déplacement forcé pour effectuer une poussée sur une créature, vous pouvez effectuer une traction sur cette créature à la place. Chaque fois que vous effectuez une traction sur une créature pour l'amener adjacente à vous et que cette créature a F < MOYENNE, vous pouvez utiliser une action déclenchée gratuite pour que cette créature devienne agrippée par vous.
 
-##### Forme Animale : Ours
+#### Forme Animale : Ours
 
 Tant que vous êtes sous votre forme d'ours, votre Taille est de 2 et vous gagnez un Bonus de +1 à la Distance avec les aptitudes d'armes de corps à corps.
 
-##### Forme Hybride : Ours
+#### Forme Hybride : Ours
 
 Tant que vous êtes sous votre forme hybride, votre Taille est de 2 et vous gagnez un bonus de +1 à la Distance avec les aptitudes d'armes de corps à corps. Au Niveau 4, la première fois que vous prenez votre forme hybride lors d'une rencontre, vous gagnez 10 points de Vigueur Temporaire.
 
-##### Tempête Primordiale : Blizzard
+#### Tempête Primordiale : Blizzard
 
 Votre type de dégâts primordial est le froid.
 
-##### Bonus de Panoplie
+#### Bonus de Panoplie
 
 - **Bonus de Vigueur :** +9 par échelon
 - **Bonus de Stabilité :** +2
 - **Bonus de Dégâts au Corps à Corps :** +0/+0/+4
 
-##### Aptitude Signature
+#### Aptitude Signature
 
 > [!spell] Griffes d'Ours
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -1454,11 +1453,11 @@ Votre type de dégâts primordial est le froid.
 > - **12-16 :** 5 + For dégâts ; F < MOYEN, agrippé
 > - **17+ :** 11 + For dégâts ; F < FORT, agrippé
 
-##### Férocité Croissante
+#### Férocité Croissante
 
 À mesure que votre férocité augmente, vous gagnez des avantages comme indiqué dans le tableau Férocité Croissante des Boren. Les avantages sont cumulatifs, sauf lorsqu'un avantage amélioré remplace un avantage moindre.
 
-###### Table de Férocité Croissante de Boren
+##### Table de Férocité Croissante de Boren
 
 | Férocité        | Bénéfice                                                                                                                                                                                                                   |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1469,34 +1468,34 @@ Votre type de dégâts primordial est le froid.
 | 10 (7e niveau)  | Vous avez un double avantage sur les manœuvres Saisir et Repousser.                                                                                                                                                               |
 | 12 (10e niveau) | Chaque fois que vous utilisez une aptitude héroïque, vous gagnez 10 points de Vigueur Temporaire. De plus, chaque fois que vous avez une créature agrippée, tout jet d'aptitude effectué contre cette créature gagne un bonus à son seuil égal à votre score de Force. |
 
-#### Corven
+### Corven
 
 Avec cette panoplie de tempêtier, vous canalisez votre férocité primordiale sous la forme d'un corbeau, devenant furtif et rapide. Les Corven sont liés aux cols de montagne et aux vents chauds qui les traversent. Cet aspect est associé au vent anabatique chaud et à l'ascension rapide.
 
-##### Avantages de l'Aspect
+#### Avantages de l'Aspect
 
 Vous gagnez un avantage sur les tests effectués pour vous cacher et vous faufiler. De plus, chaque fois que vous chutez, vous pouvez utiliser une action déclenchée gratuite pour utiliser votre aptitude Aspect de la Nature.
 
-##### Forme Animale : Corbeau
+#### Forme Animale : Corbeau
 
 Tant que vous êtes sous votre forme de corbeau, votre taille est de 1T et vous pouvez voler. Vous pouvez utiliser la manœuvre Se Cacher comme une manœuvre gratuite, et vous pouvez utiliser vos alliés comme abri quand vous vous cachez. Vous ne pouvez utiliser aucune aptitude sous cette forme à l'exception d'Aspect de la Nature.
 
-##### Forme Hybride : Corbeau
+#### Forme Hybride : Corbeau
 
 Tant que vous êtes dans votre forme hybride, votre taille est au choix 1S ou 1M. Au niveau 4, vous pouvez voler.
 
-##### Tempête Primordiale : Vent Anabatique
+#### Tempête Primordiale : Vent Anabatique
 
 Votre type de dégâts primordial est le feu.
 
-##### Bonus de Panoplie
+#### Bonus de Panoplie
 
 - **Bonus de Vigueur :** +3 par échelon
 - **Bonus de Vitesse :** +3
 - **Bonus de Dégâts au Corps à Corps :** +2/+2/+2
 - **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+#### Aptitude Signature
 
 > [!spell] Battement d'Ailes
 > 🏷️ *Zone • Corps à Corps • Arme*
@@ -1517,11 +1516,11 @@ Votre type de dégâts primordial est le feu.
 > 
 > Vous pouvez glisser jusqu'à 2 cases avant ou après avoir effectué le jet de pouvoir.
 
-##### Férocité Croissante
+#### Férocité Croissante
 
 À mesure que votre férocité augmente, vous gagnez des avantages comme indiqué dans le tableau Férocité Croissante des Corven. Les avantages sont cumulatifs, sauf lorsqu'un avantage amélioré remplace un avantage moindre.
 
-###### Tableau de Férocité Croissante du Corven
+##### Tableau de Férocité Croissante du Corven
 
 | Férocité        | Bénéfice                                                                                                                                                    |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1532,34 +1531,34 @@ Votre type de dégâts primordial est le feu.
 | 10 (7e niveau)  | Vous avez un double avantage sur les tests d'Agilité, la Manœuvre - Échapper à la Prise et la Manœuvre - Repousser.                                     |
 | 12 (10e niveau) | Chaque fois que vous utilisez une aptitude héroïque, vous gagnez 10 points de Vigueur Temporaire. De plus, le seuil de tous les effets vous ciblant est réduit de 2 pour vous. |
 
-#### Raden
+### Raden
 
 Avec cette panoplie de spectre des tempêtes, vous canalisez votre férocité primordiale sous la forme d'un rat, devenant mobile et insaisissable. Les Raden sont associés à la nature sauvage du rat, avant que les cités ne deviennent leur habitat. Cet aspect est associé au déluge de rats—une impulsion d'eau corrompue qui fait surgir des hordes de rats.
 
-##### Avantages de l'Aspect
+#### Avantages de l'Aspect
 
 Vous gagnez un Avantage aux Tests effectués pour vous cacher et vous faufiler. De plus, vous ignorez le Terrain Difficile.
 
-##### Forme Animale : Rat
+#### Forme Animale : Rat
 
 Tant que vous êtes sous votre forme de rat, votre taille est de 1T et vous pouvez automatiquement escalader à pleine vitesse pendant vos déplacements. Vous pouvez utiliser la Manœuvre - Se Cacher comme une Manœuvre Gratuite, vous pouvez utiliser vos alliés comme abri lorsque vous vous cachez, et vous pouvez rester caché en vous déplaçant dans des cases occupées par n'importe quelle créature. De plus, vous gagnez un avantage sur les tests effectués pour escalader d'autres créatures. Vous ne pouvez utiliser aucune aptitude sous cette forme, à l'exception d'Aspect de la Nature.
 
-##### Forme Hybride : Rat
+#### Forme Hybride : Rat
 
 Tant que vous êtes sous votre forme hybride, votre taille est de 1S ou 1M, au choix. Au niveau 4, vous pouvez automatiquement escalader à vitesse normale lors de vos déplacements.
 
-##### Tempête Primordiale : Nuée de Rats
+#### Tempête Primordiale : Nuée de Rats
 
 Votre type de dégâts primordial est corruption.
 
-##### Bonus de Panoplie
+#### Bonus de Panoplie
 
 - **Bonus de Vigueur :** +3 par échelon
 - **Bonus de Vitesse :** +3
 - **Bonus de Dégâts au Corps à Corps :** +2/+2/+2
 - **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+#### Aptitude Signature
 
 > [!spell] Bond Percutant
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -1580,11 +1579,11 @@ Votre type de dégâts primordial est corruption.
 > 
 > Vous pouvez glisser d'un nombre de cases égal au nombre de cases dont vous avez repoussé la cible.
 
-##### Férocité Croissante
+#### Férocité Croissante
 
 À mesure que votre férocité augmente, vous obtenez des avantages comme indiqué dans le tableau Férocité Croissante du Raden. Les avantages sont cumulatifs, sauf lorsqu'un avantage amélioré remplace un avantage moindre.
 
-###### Tableau de Férocité Croissante du Raden
+##### Tableau de Férocité Croissante du Raden
 
 | Férocité        | Avantage                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1595,34 +1594,34 @@ Votre type de dégâts primordial est corruption.
 | 10 (7e niveau)  | Vous avez un double avantage sur les tests d'Agilité, la Manœuvre - Échapper à la Prise et la Manœuvre - Repousser.                             |
 | 12 (10e niveau) | Chaque fois que vous utilisez une aptitude héroïque, vous gagnez 10 points de Vigueur Temporaire. De plus, le seuil de tous les effets vous ciblant est réduit de 2 pour vous. |
 
-#### Vuken
+### Vuken
 
 Avec cette panoplie de tempétueux, vous canalisez votre férocité primordiale sous la forme d'un loup, devenant un chasseur aux pieds agiles. Les Vuken sont liés aux forêts et aux steppes ouvertes, et cet aspect est associé à l'orage.
 
-##### Avantages d'Aspect
+#### Avantages d'Aspect
 
 Chaque fois que vous utilisez la Manœuvre - Repousser, vous pouvez ensuite utiliser la Manœuvre - Aide à l'Attaque comme une Action Déclenchée Gratuite.
 
-##### Forme Animale : Loup
+#### Forme Animale : Loup
 
 Tant que vous êtes sous votre forme de loup, votre Taille est 1G, vous avez un Bonus de +2 à la Vitesse, et vous ignorez le Terrain Difficile.
 
-##### Forme Hybride : Loup
+#### Forme Hybride : Loup
 
 Tant que vous êtes sous votre forme hybride, votre taille est 1G, vous bénéficiez d'un bonus de +2 à la Vitesse, et vous ignorez le Terrain Difficile. Au niveau 4, la première fois que vous prenez votre forme hybride lors d'une rencontre, vous gagnez 10 points de Vigueur Temporaire.
 
-##### Tempête Primordiale : Tempête de Foudre
+#### Tempête Primordiale : Tempête de Foudre
 
 Votre type de dégâts primordial est la foudre.
 
-##### Bonus de Panoplie
+#### Bonus de Panoplie
 
 - **Bonus de Vigueur :** +9 par échelon
 - **Bonus de Vitesse :** +2
 - **Bonus de Dégâts au Corps à Corps :** +2/+2/+2
 - **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+#### Aptitude Signature
 
 > [!spell] Attaque Déséquilibrante
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -1641,11 +1640,11 @@ Votre type de dégâts primordial est la foudre.
 > - **12-16 :** 7 + For dégâts ; A < MOYEN, à terre
 > - **17+ :** 9 + For dégâts ; A < FORT, à terre
 
-##### Férocité Croissante
+#### Férocité Croissante
 
 À mesure que votre férocité augmente, vous gagnez des avantages comme indiqué dans le tableau Férocité Croissante Vuken. Les avantages sont cumulatifs sauf lorsqu'un avantage amélioré remplace un avantage moindre.
 
-###### Tableau de Férocité Croissante Vuken
+##### Tableau de Férocité Croissante Vuken
 
 | Férocité        | Bénéfice                                                                                                                                                                                                                                    |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,8 +1,7 @@
 ---
 title: Liste
 ---
-
-### Panoplies de A à Z
+# Panoplies de A à Z
 
 Cette section détaille chaque panoplie, dont les bonus et avantages sont résumés dans le tableau des Panoplies.
 
@@ -12,15 +11,15 @@ Cette section détaille chaque panoplie, dont les bonus et avantages sont résum
 >
 > Les armes improvisées peuvent être utilisées avec les aptitudes d'arme que vous gagnez de votre classe. Par exemple, de nombreux héros axés sur le corps à corps choisissent une panoplie qui maximise leurs capacités de mêlée, puis effectuent des frappes gratuites à distance avec des armes improvisées. Cependant, vous ne pouvez pas utiliser d'armes improvisées avec les aptitudes d'arme gagnées de votre panoplie, et vous n'ajoutez aucun bonus spécial de votre panoplie à une aptitude d'arme utilisée avec une arme improvisée.
 
-#### Archer Arcanique
+## Archer Arcanique
 
 La panoplie d'Archer Arcanique vous permet de combiner magie et frappes d'armes à distance. Votre absence d'armure vous garde mobile, et votre magie fait exploser vos flèches pour dévaster vos ennemis.
 
-##### Équipement
+### Équipement
 
 Vous ne portez aucune armure et maniez un arc.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vitesse :** +1
 
@@ -30,7 +29,7 @@ Vous ne portez aucune armure et maniez un arc.
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Flèche Explosive
 > 🏷️ *Magie • Distance • Frappe • Arme*
@@ -50,15 +49,15 @@ Vous ne portez aucune armure et maniez un arc.
 > 
 > **💫 Effet :** Une créature ou un objet de votre choix dans un rayon de 2 cases de la cible subit des dégâts de feu égaux au score de caractéristique utilisé pour le Jet de Pouvoir de cette aptitude.
 
-#### Psychoguerrier
+## Psychoguerrier
 
 Qui a dit que les héros légèrement blindés ne pouvaient pas être difficiles à déplacer ? Il suffit d'employer un peu de psionique ! La panoplie Psychoguerrier exploite le pouvoir de votre esprit pour vous rendre plus difficile à déplacer — et pour faciliter la poussée de vos ennemis.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure légère et maniez une arme moyenne.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +3 par échelon
 
@@ -68,7 +67,7 @@ Vous portez une armure légère et maniez une arme moyenne.
 
 **Bonus de Dégâts au Corps à Corps :** +2/+2/+2
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Désamarrage
 > 🏷️ *Corps à Corps • Psionique • Frappe • Arme*
@@ -88,15 +87,15 @@ Vous portez une armure légère et maniez une arme moyenne.
 > 
 > **💫 Effet :** Jusqu'à la fin du prochain tour de la cible, tout Déplacement Forcé qui affecte la cible voit sa distance augmentée de 2.
 
-#### Cape et Dague
+## Cape et Dague
 
 Fournissant des armes légères de jet et une armure légère facilement dissimulées par une cape pour tromper vos ennemis, la panoplie Cape et Dague vous rend plus mobile tout en augmentant l'efficacité de vos frappes à courte portée.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure légère et maniez une ou deux armes légères.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +3 par échelon
 
@@ -110,7 +109,7 @@ Vous portez une armure légère et maniez une ou deux armes légères.
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Estompe
 > 🏷️ *Corps à Corps • Distance • Frappe • Arme*
@@ -128,15 +127,15 @@ Vous portez une armure légère et maniez une ou deux armes légères.
 > - **12-16 :** 6 + F ou A dégâts ; vous pouvez glisser jusqu'à 2 cases
 > - **17+ :** 8 + F ou A dégâts ; vous pouvez glisser jusqu'à 3 cases
 
-#### Double Maniement
+## Double Maniement
 
 La panoplie Double Maniement est destinée à ceux qui veulent exceller dans l'utilisation de deux armes simultanément. Votre style de combat maximise la puissance de chaque arme que vous tenez en main, faisant de vous un tourbillon de mort.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure intermédiaire et maniez une arme légère et une arme intermédiaire.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +6 par échelon
 
@@ -146,7 +145,7 @@ Vous portez une armure intermédiaire et maniez une arme légère et une arme in
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Double Frappe
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -166,15 +165,15 @@ Vous portez une armure intermédiaire et maniez une arme légère et une arme in
 > 
 > **💫 Effet :** Si vous utilisez cette aptitude lors de votre tour, vous pouvez l'utiliser contre une cible, puis utiliser votre manœuvre et votre action de déplacement pour ce tour avant d'utiliser l'aptitude contre une seconde cible. Vous utilisez toujours le même jet de pouvoir pour les deux cibles.
 
-#### Guisarmier
+## Guisarmier
 
 La panoplie du Guisarmier est destinée à ceux qui souhaitent utiliser une arme d'hast pour étendre leur portée tout en restant protégés par une armure robuste. C'est la panoplie qui vous permet de devenir le combattant ultime à la hallebarde, à la lance longue ou au glaive.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure intermédiaire et maniez une arme d'hast.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +6 par échelon
 
@@ -184,7 +183,7 @@ Vous portez une armure intermédiaire et maniez une arme d'hast.
 
 **Bonus de Distance au Corps à Corps :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Poussée Avant, Fracas Arrière
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -202,15 +201,15 @@ Vous portez une armure intermédiaire et maniez une arme d'hast.
 > - **12-16 :** 7 dégâts
 > - **17+ :** 9 dégâts
 
-#### Artiste Martial
+## Artiste Martial
 
 Si vous voulez être rapide au combat, alors Artiste Martial est la panoplie qu'il vous faut. Non encombré par les armes ou l'armure, ce style de combat récompense les frappes à mains nues rapides et concentrées contre les adversaires, et vous permet d'être l'escarmoucheur ultime.
 
-##### Équipement
+### Équipement
 
 Vous ne portez aucune armure et ne maniez que vos frappes à mains nues.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +3 par échelon
 
@@ -220,7 +219,7 @@ Vous ne portez aucune armure et ne maniez que vos frappes à mains nues.
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Grâce Martiale
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -240,15 +239,15 @@ Vous ne portez aucune armure et ne maniez que vos frappes à mains nues.
 > 
 > **💫 Effet :** Si vous obtenez un résultat de Tiers 2 ou Tiers 3 et ne pouvez pas échanger vos positions avec la cible parce que l'un de vous deux ou vous deux êtes trop grands pour tenir dans l'espace échangé, vous restez tous les deux dans vos espaces d'origine et la cible subit 1 dégât supplémentaire.
 
-#### Montagne
+## Montagne
 
 La panoplie Montagne fait exactement ce que son nom indique. Vous revêtez une armure lourde et brandissez une arme lourde pour tenir bon face à vos ennemis, les démolissant rapidement quand vient votre tour de frapper.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure lourde et maniez une arme lourde.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +9 par échelon
 
@@ -256,7 +255,7 @@ Vous portez une armure lourde et maniez une arme lourde.
 
 **Bonus de Dégâts au Corps à Corps :** +0/+0/+4
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Douleur pour Douleur
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -276,15 +275,15 @@ Vous portez une armure lourde et maniez une arme lourde.
 > 
 > **💫 Effet :** Si la cible vous a infligé des dégâts depuis la fin de votre dernier tour, cette frappe inflige des dégâts supplémentaires égaux à votre score de Force ou d'Agilité (à votre choix).
 
-#### Panthère
+## Panthère
 
 Si vous voulez un bon équilibre entre protection, vitesse et dégâts, la panoplie Panthère est faite pour vous. Cette panoplie augmente votre Vigueur non pas en portant une armure, mais grâce à une préparation au combat concentrée du corps et de l'esprit, vous permettant d'être rapide et mobile tout en maniant une arme lourde contre vos ennemis.
 
-##### Équipement
+### Équipement
 
 Vous ne portez aucune armure et maniez une arme lourde.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +6 par échelon
 
@@ -294,7 +293,7 @@ Vous ne portez aucune armure et maniez une arme lourde.
 
 **Bonus de Dégâts au Corps à Corps :** +0/+0/+4
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Ruée Dévastatrice
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -314,15 +313,15 @@ Vous ne portez aucune armure et maniez une arme lourde.
 > 
 > **💫 Effet :** Vous pouvez vous déplacer jusqu'à 3 cases en ligne droite vers la cible avant cette frappe, qui inflige des dégâts supplémentaires égaux au nombre de cases parcourues de cette façon.
 
-#### Pugiliste
+## Pugiliste
 
 Conçue pour les bagarreurs et les boxeurs, la panoplie du Pugiliste vous donne accès à un style de combat au corps à corps qui octroie un bonus à la Vigueur et aux dégâts tout en vous permettant de voltiger comme un papillon. Si vous voulez être un héros robuste et fort qui distribue les châtiments à coups de poing, alors cette panoplie est faite pour vous.
 
-##### Équipement
+### Équipement
 
 Vous ne portez aucune armure et ne maniez que vos frappes à mains nues.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +6 par échelon
 
@@ -332,7 +331,7 @@ Vous ne portez aucune armure et ne maniez que vos frappes à mains nues.
 
 **Bonus de Dégâts au Corps à Corps :** +1/+1/+1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Dansons
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -352,15 +351,15 @@ Vous ne portez aucune armure et ne maniez que vos frappes à mains nues.
 > 
 > **💫 Effet :** Vous pouvez glisser dans n'importe quelle case que la cible quitte après l'avoir fait glisser.
 
-#### Raideur
+## Raideur
 
 La panoplie Raideur vous maintient protégé tout en vous accordant une mobilité totale, offrant un bonus à la vitesse et à la distance qui vous permet de courir sur le champ de bataille comme un guerrier viking.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure légère et maniez un bouclier et une arme légère.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +6 par échelon
 
@@ -374,7 +373,7 @@ Vous portez une armure légère et maniez un bouclier et une arme légère.
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Effroi du Raideur
 > 🏷️ *Corps à Corps • Distance • Frappe • Arme*
@@ -394,15 +393,15 @@ Vous portez une armure légère et maniez un bouclier et une arme légère.
 > 
 > **💫 Effet :** La cible subit un fléau sur son prochain jet de pouvoir effectué avant la fin de son prochain tour.
 
-#### Rôdeur
+## Rôdeur
 
 La panoplie de Rôdeur vous équipe d'une armure légère et d'armes pour tous les défis, vous permettant de passer facilement du combat au corps à corps au combat à distance. Cette panoplie offre un bon équilibre de bonus en défense et en attaque pour créer un héros qui excelle dans tous les domaines.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure intermédiaire et maniez un arc et une arme intermédiaire.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +6 par échelon
 
@@ -416,7 +415,7 @@ Vous portez une armure intermédiaire et maniez un arc et une arme intermédiair
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Tir aux Jarrets
 > 🏷️ *À Distance • Frappe • Arme*
@@ -434,15 +433,15 @@ Vous portez une armure intermédiaire et maniez un arc et une arme intermédiair
 > - **12-16 :** 5 + F ou A dégâts ; A < MOYEN, ralenti (sauvegarde termine)
 > - **17+ :** 7 + F ou A dégâts ; A < FORT, ralenti (sauvegarde termine)
 
-#### Tir Rapide
+## Tir Rapide
 
 La panoplie Tir Rapide est destinée aux archers qui veulent infliger un maximum de dégâts en tirant autant de flèches que possible sur les ennemis proches. Avec cette panoplie, votre technique de combat se concentre sur le harcèlement des adversaires avant qu'ils ne puissent s'approcher suffisamment pour contre-attaquer.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure légère et maniez un arc.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +3 par échelon
 
@@ -454,7 +453,7 @@ Vous portez une armure légère et maniez un arc.
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Tir Double
 > 🏷️ *Distance • Frappe • Arme*
@@ -472,15 +471,15 @@ Vous portez une armure légère et maniez un arc.
 > - **12-16 :** 6 dégâts
 > - **17+ :** 8 dégâts
 
-#### Retiarius
+## Retiarius
 
 Le retiarius est souvent représenté comme un guerrier légèrement blindé avec un filet dans une main et un trident dans l'autre, et cette panoplie vous donne l'équipement et la technique de combat pour y parvenir. Entravez votre ennemi avec un filet puis achevez-le à coups de trident !
 
-##### Équipement
+### Équipement
 
 Vous portez une armure légère et maniez plusieurs armes d'entrave ainsi qu'une arme d'hast.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +3 par échelon
 
@@ -492,7 +491,7 @@ Vous portez une armure légère et maniez plusieurs armes d'entrave ainsi qu'une
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Filet et Poignard
 > 🏷️ *Corps à corps • Frappe • Arme*
@@ -510,15 +509,15 @@ Vous portez une armure légère et maniez plusieurs armes d'entrave ainsi qu'une
 > - **12-16 :** 6 + F ou A dégâts ; A < MOYEN, ralenti (FdT)
 > - **17+ :** 8 + F ou A dégâts ; A < FORT, entravé (FdT)
 
-#### Armure Étincelante
+## Armure Étincelante
 
 La panoplie Armure Étincelante offre la protection la plus importante qu'une panoplie puisse procurer, vous fournissant l'épée, le bouclier et l'armure nécessaires pour incarner le chevalier archétypal.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure lourde et maniez un bouclier et une arme moyenne.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +12 par échelon
 
@@ -526,7 +525,7 @@ Vous portez une armure lourde et maniez un bouclier et une arme moyenne.
 
 **Bonus de Dégâts au Corps à Corps :** +2/+2/+2
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Attaque Protectrice
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -546,15 +545,15 @@ Vous portez une armure lourde et maniez un bouclier et une arme moyenne.
 > 
 > **💫 Effet :** La cible subit Narguer jusqu'à la fin de son prochain tour.
 
-#### Tireur d'Élite
+## Tireur d'Élite
 
 La panoplie Tireur d'Élite vous donne les outils et techniques pour éliminer les ennemis à distance. Cette panoplie peut vous aider à devenir l'archer qui se cache derrière les arbres ou dans les tunnels, abattant les ennemis avec un arc ou une arbalète à mesure qu'ils approchent.
 
-##### Équipement
+### Équipement
 
 Vous ne portez aucune armure et maniez un arc.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vitesse :** +1
 
@@ -564,7 +563,7 @@ Vous ne portez aucune armure et maniez un arc.
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Tir Patient
 > 🏷️ *À Distance • Frappe • Arme*
@@ -584,15 +583,15 @@ Vous ne portez aucune armure et maniez un arc.
 > 
 > **💫 Effet :** Si vous ne prenez pas d'Action de Déplacement ce tour, cette frappe inflige des dégâts supplémentaires égaux à votre score de Force ou d'Agilité (au choix).
 
-#### Épéiste-Mage
+## Épéiste-Mage
 
 La panoplie Épéiste-Mage combine les frappes au corps à corps et un peu de magie, vous permettant de créer un guerrier qui n'a pas à choisir entre l'incantation et la lame.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure légère et maniez un bouclier et une arme moyenne.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +6 par échelon
 
@@ -602,7 +601,7 @@ Vous portez une armure légère et maniez un bouclier et une arme moyenne.
 
 **Bonus de Dégâts au Corps à Corps :** +2/+2/+2
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Foudre Bondissante
 > 🏷️ *Magie • Corps à Corps • Frappe • Arme*
@@ -622,15 +621,15 @@ Vous portez une armure légère et maniez un bouclier et une arme moyenne.
 > 
 > **💫 Effet :** Une créature ou un objet de votre choix dans un rayon de 2 cases de la cible subit des dégâts de foudre égaux au score de caractéristique utilisé pour le jet de pouvoir de cette aptitude.
 
-#### Bâton et Robe
+## Bâton et Robe
 
 Armé d'une simple arme d'allonge, souvent un bâton ferré, un personnage utilisant la panoplie Bâton et Robe est très mobile grâce à son armure légère. Cela permet à votre héros de tirer le meilleur parti de la portée de son arme.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure légère et maniez une arme d'hast.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +3 par échelon
 
@@ -642,7 +641,7 @@ Vous portez une armure légère et maniez une arme d'hast.
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Où Je Te Veux
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -660,15 +659,15 @@ Vous portez une armure légère et maniez une arme d'hast.
 > - **12-16 :** 7 + F ou A dégâts ; glissement 1
 > - **17+ :** 10 + F ou A dégâts ; glissement 3
 
-#### Bretteur
+## Bretteur
 
 Si vous voulez être mobile et infliger beaucoup de dégâts avec des frappes au corps à corps, alors vous devriez choisir la panoplie du Bretteur. C'est une excellente panoplie pour les héros qui veulent être des maîtres duellistes.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure légère et maniez une arme moyenne.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +3 par échelon
 
@@ -678,7 +677,7 @@ Vous portez une armure légère et maniez une arme moyenne.
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Jeu de Jambes Fantaisiste
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -698,15 +697,15 @@ Vous portez une armure légère et maniez une arme moyenne.
 > 
 > **💫 Effet :** Vous pouvez glisser dans n'importe quelle case que la cible quitte après que vous l'ayez poussée.
 
-#### Épée et Bouclier
+## Épée et Bouclier
 
 La panoplie Épée et Bouclier ne vous donne pas seulement un bouclier—elle fait du bouclier une partie de votre arsenal offensif. Avec une arme moyenne dans une main et un bloc d'acier ou de chêne massif dans l'autre, vous vous protégez tout en contrôlant le champ de bataille.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure intermédiaire et maniez un bouclier ainsi qu'une arme intermédiaire.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +9 par échelon
 
@@ -716,7 +715,7 @@ Vous portez une armure intermédiaire et maniez un bouclier ainsi qu'une arme in
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Coup de Bouclier
 > 🏷️ *Corps à Corps • Frappe • Arme*
@@ -734,15 +733,15 @@ Vous portez une armure intermédiaire et maniez un bouclier ainsi qu'une arme in
 > - **12-16 :** 7 + F ou A dégâts ; poussée 2
 > - **17+ :** 9 + F ou A dégâts ; poussée 3 ; F < FORT, à terre
 
-#### Prêtre Guerrier
+## Prêtre Guerrier
 
 La panoplie Prêtre Guerrier imprègne le pouvoir des dieux dans votre arme, en faisant un instrument de châtiment. Vous vous lancez dans la mêlée sans crainte, grâce au pouvoir du divin... et à l'armure lourde que vous portez.
 
-##### Équipement
+### Équipement
 
 Vous portez une armure lourde et maniez une arme légère.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vigueur :** +9 par échelon
 
@@ -752,7 +751,7 @@ Vous portez une armure lourde et maniez une arme légère.
 
 **Bonus de Dégâts au Corps à Corps :** +1/+1/+1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Marque Affaiblissante
 > 🏷️ *Magie • Corps à Corps • Frappe • Arme*
@@ -772,15 +771,15 @@ Vous portez une armure lourde et maniez une arme légère.
 > 
 > **💫 Effet :** Jusqu'à la fin du prochain tour de la cible, elle a une Faiblesse aux Dégâts égale au score de caractéristique utilisé pour le Jet de Pouvoir de cette aptitude.
 
-#### Tourbillon
+## Tourbillon
 
 La panoplie Tourbillon fait un usage efficace des fouets, vous accordant mobilité, dégâts et allonge. Si vous voulez être un guerrier rapide qui cingle ses ennemis avec une chaîne ou un fouet, alors cette panoplie est faite pour vous.
 
-##### Équipement
+### Équipement
 
 Vous ne portez aucune armure et maniez un fouet.
 
-##### Bonus de Panoplie
+### Bonus de Panoplie
 
 **Bonus de Vitesse :** +3
 
@@ -790,7 +789,7 @@ Vous ne portez aucune armure et maniez un fouet.
 
 **Bonus de Désengagement :** +1
 
-##### Aptitude Signature
+### Aptitude Signature
 
 > [!spell] Extension de Mon Bras
 > 🏷️ *Corps à Corps • Frappe • Arme*

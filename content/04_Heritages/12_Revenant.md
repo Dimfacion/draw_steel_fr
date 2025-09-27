@@ -1,8 +1,7 @@
 ---
 title: Revenant
 ---
-
-## Revenant
+# Revenant
 
 Les morts marchent parmi nous. Certains d'entre eux en sont plus heureux que d'autres.
 
@@ -10,7 +9,7 @@ Contrairement aux rituels nécromantiques qui produisent des spectres, des espri
 
 Ces revenants sont rares. Beaucoup sont chassés par des villageois ignorants qui ne voient que leur chair morte et supposent le pire. Ceux qui survivent à la horde de fourches choisissent soit une vie solitaire, souvent comme une âme errante cherchant la compagnie des vivants tout en la craignant constamment, soit ils migrent vers une métropole comme Blackbottom ou la Capitale, où les âmes perdues se rassemblent pour se faire un foyer.
 
-### À Propos des Revenants
+## À Propos des Revenants
 
 « Je te dis qu'on nous _suit_. »
 
@@ -74,41 +73,41 @@ Dame Filliamo haussa les épaules. « Je suis un chevalier de l'église. La juri
 
 « _Moi, je m'occupe de la justice._ »
 
-### Traits de Revenant
+## Traits de Revenant
 
 Les héros Revenants ont accès aux traits suivants.
 
-#### Aptitude Signature : Vie Antérieure
+### Aptitude Signature : Vie Antérieure
 
 Choisissez l'héritage que vous aviez avant de mourir. Votre taille est celle de cet héritage et votre vitesse est de 5. À moins de sélectionner l'un des traits de Vie Précédente (voir ci-dessous), vous ne recevez aucun autre trait ancestral de votre héritage d'origine.
 
-#### Trait Signature : Résistant mais Flétri
+### Trait Signature : Résistant mais Flétri
 
 Votre corps mort-vivant vous accorde une immunité aux dégâts de froid, corruption, foudre et poison égale à votre niveau, mais vous avez une faiblesse au feu 5. Vous ne pouvez pas suffoquer, et vous n'avez pas besoin de manger ou de boire pour rester en vie.
 
 De plus, lorsque votre Vigueur atteint la valeur négative de votre seuil d'Essoufflé, vous devenez inerte au lieu de devenir Mourant. Vous tombez À Terre et ne pouvez pas vous lever. Vous continuez d'observer votre environnement, mais vous ne pouvez pas parler, effectuer d'Actions Principales, de Manœuvres, d'Actions de Déplacement ou d'Actions Déclenchées. Tant que vous êtes inerte de cette façon, si vous subissez des dégâts de feu, votre corps est détruit et vous mourez. Sinon, après 12 heures, vous récupérez de la Vigueur égale à vos Points de Récupération.
 
-##### Traits de Revenant Achetés
+#### Traits de Revenant Achetés
 
 Vous avez 2 points d'héritage à dépenser sur les traits suivants, ou 3 points d'héritage si votre taille est 1S. (*Construction Rapide :* Exsangue, plus Influence Mort-Vivante si taille 1S.)
 
-##### Sans-Sang (2 Points)
+#### Sans-Sang (2 Points)
 
 Pour vous, une plaie ouverte est indiscernable d'une égratignure. Vous ne pouvez pas être mis en état de Saignement, même en étant Mourant.
 
-##### Vie Antérieure : 1 Point (1 Point)
+#### Vie Antérieure : 1 Point (1 Point)
 
 Vous sélectionnez un trait acheté qui coûte 1 point d'héritage de votre héritage précédent. Vous pouvez prendre ce trait plusieurs fois, en sélectionnant un trait différent à 1 point de votre héritage précédent à chaque fois.
 
-##### Vie Antérieure : 2 Points (2 Points)
+#### Vie Antérieure : 2 Points (2 Points)
 
 Vous sélectionnez un trait acheté qui coûte 2 points d'héritage de votre héritage précédent.
 
-##### Influence des Morts-Vivants (1 Point)
+#### Influence des Morts-Vivants (1 Point)
 
 Vos dons surnaturels vous permettent d'influencer les autres morts-vivants. Vous obtenez un avantage sur les tests de Raison, d'Intuition et de Présence effectués pour interagir avec les créatures mortes-vivantes.
 
-##### Marque de Vengeance (2 Points)
+#### Marque de Vengeance (2 Points)
 
 En tant que manœuvre, vous placez un sceau magique sur une créature dans un rayon de 10 cases. Lorsque vous placez un sceau, vous décidez où il apparaît sur le corps de la créature, et si le sceau est visible seulement par vous ou par toutes les créatures.
 

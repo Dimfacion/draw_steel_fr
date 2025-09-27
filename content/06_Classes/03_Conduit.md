@@ -1,8 +1,7 @@
 ---
 title: Conduit
 ---
-
-## Conduit
+# Conduit
 
 Le pouvoir des Dieux coule en vous ! En tant que réceptacle du pouvoir divin, vous ne vous contentez pas de maintenir vos alliés dans le combat. Vous rendez ces alliés plus efficaces, tout en faisant pleuvoir l'énergie divine sur vos ennemis. Bien que la divinité ou le Saint que vous servez puisse avoir d'autres fidèles et membres du clergé, vous êtes spécial parmi les adorateurs, recevant vos aptitudes directement de votre divinité.
 
@@ -12,7 +11,7 @@ Le pouvoir des Dieux coule en vous ! En tant que réceptacle du pouvoir divin, v
 >
 > **Dazar**
 
-### Bases
+## Bases
 
 **Caractéristiques de Départ :** Vous commencez avec une Intuition de 2, et pouvez choisir l'une des répartitions suivantes pour vos autres scores de caractéristiques :
 
@@ -35,21 +34,21 @@ Le pouvoir des Dieux coule en vous ! En tant que réceptacle du pouvoir divin, v
 
 **Compétences :** Choisissez deux compétences parmi les groupes de compétences interpersonnelles ou de savoir (voir Compétences au Chapitre 9 : Tests). (*Construction Rapide :* Cerner une Personne, Religion.)
 
-### Aptitudes de Niveau 1
+## Aptitudes de Niveau 1
 
 En tant que conduit, vous gagnez les aptitudes suivantes.
 
-#### Dieu et Domaines
+### Dieu et Domaines
 
 Choisissez un dieu ou un saint que votre personnage vénère dans le [[15_Dieux_et_Religions|chapitre Dieux et Religions]], ou demandez à votre Directeur quelles sont les divinités de votre monde de campagne. Avec la permission du Directeur, vous pouvez également créer votre propre divinité et choisir quatre domaines pour composer ses domaines.
 
 Après avoir choisi votre divinité, sélectionnez deux domaines de son portefeuille. Les deux domaines que vous choisissez constituent votre sous-classe, et votre choix de domaines détermine de nombreuses aptitudes que vous obtiendrez en gagnant de nouveaux niveaux. (*Construction Rapide :* Adûn comme divinité, et Vie et Protection comme domaines.)
 
-#### Piété
+### Piété
 
 Votre divinité vous accorde une Ressource Héroïque appelée piété, vous permettant de soigner et renforcer vos alliés, et de déchaîner un pouvoir sacré sur vos ennemis.
 
-##### Piété en Combat
+#### Piété en Combat
 
 Au début d'une rencontre de combat ou d'une autre situation stressante suivie en tours de combat (selon la décision du Directeur), vous gagnez de la piété égale à vos Victoires. Au début de chacun de vos tours pendant le combat, vous gagnez 1d3 piété.
 
@@ -61,7 +60,7 @@ De plus, vous pouvez gagner davantage de piété en priant les dieux—mais atte
 
 Vous perdez toute piété restante à la fin de la rencontre.
 
-###### Tableau d'Avancement du Conduit
+##### Tableau d'Avancement du Conduit
 
 | Niveau | Capacités                                                                                                                             | Aptitudes                     | Aptitudes de Domaine  |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------------------|
@@ -76,83 +75,83 @@ Vous perdez toute piété restante à la fin de la rencontre.
 | 9e     | Aptitude de Domaine, Épée de la Foi, Ordonné                                                                                         | Deux signature, 3, 5, 7, 9, 11 | 5, 9, 11               |
 | 10e    | Avatar, Augmentation de Caractéristique, Pouvoir Divin, Très Pieux, Avantage, Augmentation de Compétence                           | Deux signature, 3, 5, 7, 9, 11 | 5, 9, 11               |
 
-##### Piété en Dehors du Combat
+#### Piété en Dehors du Combat
 
 Bien que vous ne puissiez pas gagner de piété en dehors du combat, vous pouvez utiliser vos aptitudes héroïques et effets qui coûtent de la piété sans la dépenser. Chaque fois que vous utilisez une aptitude ou un effet en dehors du combat qui coûte de la piété, vous ne pouvez pas utiliser cette même aptitude ou cet effet en dehors du combat à nouveau jusqu'à ce que vous obteniez 1 Victoire ou plus ou que vous terminiez un répit.
 
 Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépenser une piété illimitée sur son effet, comme Grâce Curative, vous pouvez l'utiliser comme si vous aviez dépensé un montant de piété égal à vos Victoires.
 
-##### Piété de Domaine et Effets
+#### Piété de Domaine et Effets
 
 Votre choix de domaines vous fournit deux moyens supplémentaires de gagner de la piété durant le combat, déclenchés par des événements spécifiques. Vous pourriez même avoir un seul événement qui déclenche les deux effets de piété. Par exemple, le domaine du Soleil accorde de la piété quand une créature proche subit des dégâts de feu ou sacrés, tandis que le domaine de la Guerre accorde de la piété quand une créature proche subit des dégâts de 10 + votre niveau ou plus. Si vous avez ces deux domaines et qu'une créature proche subit une quantité appropriée de dégâts de feu, vous gagnez de la piété des deux domaines.
 
 De plus, chaque fois que vous activez un effet de domaine en priant pour de la piété, vous pouvez choisir l'un de vos domaines et faire que l'effet de prière de ce domaine prenne effet immédiatement.
 
-###### Domaine de la Création - Piété et Effet
+##### Domaine de la Création - Piété et Effet
 
 - **Piété :** Vous gagnez 2 points de piété la première fois dans une rencontre qu'une créature dans un rayon de 10 cases utilise une aptitude de zone.
 - **Effet de Prière :** Vous invoquez les forces de la création et créez un mur de pierre dans un rayon de 10 cases dont la taille est de 5 + votre score d'Intuition. Le mur dure jusqu'à la fin de la rencontre.
 
-###### Piété et Effet du Domaine de la Mort
+##### Piété et Effet du Domaine de la Mort
 
 - **Piété :** Vous gagnez 2 piété la première fois dans une rencontre qu'une créature dans un rayon de 10 cases qui n'est pas un sbire est réduite à 0 Vigueur, ou la première fois dans une rencontre qu'une créature solo dans un rayon de 10 cases devient essoufflée.
 - **Effet de Prière :** Vous infligez une malédiction mortelle à deux ennemis maximum dans un rayon de 10 cases de vous. Chaque cible subit des dégâts de corruption égaux au double de votre score d'Intuition.
 
-###### Piété et Effet du Domaine du Destin
+##### Piété et Effet du Domaine du Destin
 
 - **Piété :** Vous gagnez 2 piété la première fois dans une rencontre qu'un allié dans un rayon de 10 cases obtient un résultat de tiers 3 sur un jet de pouvoir, ou qu'un ennemi dans un rayon de 10 cases obtient un résultat de tiers 1 sur un jet de pouvoir.
 - **Effet de Prière :** Vous invoquez les forces du destin pour créer un avenir prévisible. Choisissez une créature dans un rayon de 10 cases. Cette créature obtient automatiquement un résultat de tiers 1 ou de tiers 3 (votre choix) sur son prochain jet de pouvoir effectué avant la fin de la rencontre.
 
-###### Piété et Effet du Domaine de la Connaissance
+##### Piété et Effet du Domaine de la Connaissance
 
 - **Piété :** Vous gagnez 2 piété la première fois dans une rencontre que le Directeur dépense de la Malveillance (voir *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
 - **Effet de Prière :** Choisissez jusqu'à cinq alliés dans un rayon de 10 cases de vous, ou choisissez-vous à la place d'un allié. Chaque cible gagne 1 impulsion.
 
-###### Domaine de la Vie - Piété et Effet
+##### Domaine de la Vie - Piété et Effet
 
 - **Piété :** Vous gagnez 2 points de piété la première fois dans une rencontre qu'une créature dans un rayon de 10 cases récupère de la Vigueur.
 - **Effet de Prière :** Choisissez vous-même ou un allié dans un rayon de 10 cases. Ce personnage peut dépenser une Récupération, peut mettre fin à un effet qui l'affecte et qui se termine par un Jet de Sauvegarde ou à la fin de son tour, ou peut se lever s'il est à terre. Alternativement, vous ou un allié dans un rayon de 10 cases gagnez de la Vigueur Temporaire égale à deux fois votre score d'Intuition.
 
-###### Domaine de l'Amour - Piété et Effet
+##### Domaine de l'Amour - Piété et Effet
 
 - **Piété :** Vous gagnez 2 points de piété la première fois dans une rencontre où vous ou n'importe quel allié dans un rayon de 10 cases utilisez la Manœuvre - Aide à l'Attaque ou une aptitude qui cible un allié.
 - **Effet de Prière :** Chaque allié dans un rayon de 10 cases de vous gagne de la Vigueur Temporaire égale à deux fois votre score d'Intuition.
 
-###### Piété et Effet du Domaine de la Nature
+##### Piété et Effet du Domaine de la Nature
 
 - **Piété :** Vous gagnez 2 points de piété lorsque vous ou une créature dans un rayon de 10 cases subissez des dégâts d'acide, de froid, de feu, de foudre, de poison ou soniques pour la première fois lors d'une rencontre.
 - **Effet de Prière :** Des lianes jaillissent du plancher ou du sol dans un rayon de 10 cases, s'enroulant autour d'un nombre de créatures égal à votre score d'Intuition. Vous pouvez faire subir un glissement à chaque créature d'un nombre de cases égal à votre score d'Intuition. Les lianes disparaissent ensuite.
 
-###### Piété et Effet du Domaine de la Protection
+##### Piété et Effet du Domaine de la Protection
 
 - **Piété :** Vous gagnez 2 piété la première fois dans une rencontre où vous ou n'importe quel allié dans un rayon de 10 cases gagne de la Vigueur Temporaire, ou utilise une Action Déclenchée pour réduire les dégâts entrants ou pour imposer un Fléau ou un Double Fléau sur le Jet de Pouvoir d'un ennemi.
 - **Effet de Prière :** Un allié dans un rayon de 10 cases gagne de la Vigueur Temporaire égale à quatre fois votre score d'Intuition.
 
-###### Domaine de la Tempête - Piété et Effet
+##### Domaine de la Tempête - Piété et Effet
 
 - **Piété :** Vous gagnez 2 points de piété la première fois dans une rencontre qu'un ennemi dans un rayon de 10 cases subit un déplacement forcé.
 - **Effet de Prière :** Chaque ennemi dans un cube de 3 cases dans un rayon de 10 cases subit des dégâts de foudre égaux au double de votre score d'Intuition.
 
-###### Domaine du Soleil - Piété et Effet
+##### Domaine du Soleil - Piété et Effet
 
 - **Piété :** Vous gagnez 2 points de piété la première fois dans une rencontre qu'un ennemi dans un rayon de 10 cases subit des dégâts de feu ou sacrés.
 - **Effet de Prière :** Un ennemi dans un rayon de 10 cases subit des dégâts de feu égaux à trois fois votre score d'Intuition.
 
-###### Piété et Effet du Domaine de la Tromperie
+##### Piété et Effet du Domaine de la Tromperie
 
 - **Piété :** Vous gagnez 2 piété la première fois dans une rencontre où vous ou une créature dans un rayon de 10 cases effectuez la Manœuvre - Aide à l'Attaque ou la Manœuvre - Se Cacher.
 - **Effet de Prière :** Vous faites subir un glissement à une créature dans un rayon de 10 cases de vous d'un nombre de cases égal à 5 + votre niveau de conduit.
 
-###### Domaine de la Guerre - Piété et Effet
+##### Domaine de la Guerre - Piété et Effet
 
 - **Piété :** Vous gagnez 2 points de piété la première fois dans une rencontre où vous ou une créature dans un rayon de 10 cases subissez des dégâts supérieurs à 10 + votre niveau en un seul tour.
 - **Effet de Prière :** Choisissez jusqu'à trois alliés dans un rayon de 10 cases de vous, ou choisissez-vous à la place d'un allié. Chaque cible gagne 2 impulsions.
 
-#### Aptitude de Domaine de Niveau 1
+### Aptitude de Domaine de Niveau 1
 
 Choisissez l'un de vos domaines. Vous gagnez une aptitude de domaine pour ce domaine, comme indiqué dans le tableau des Aptitudes de Domaine de Conduit de Niveau 1. De plus, vous gagnez une compétence du domaine choisi, sélectionnée parmi le groupe de compétences indiqué dans le tableau. (*Construction Rapide :* Rituel Revitalisant et la compétence Soins du domaine de la Vie.)
 
-###### Tableau des Aptitudes de Domaine de Conduit de Niveau 1
+##### Tableau des Aptitudes de Domaine de Conduit de Niveau 1
 
 | Domaine    | Aptitude                            | Groupe de Compétences |
 |------------|-------------------------------------|-----------------------|
@@ -169,17 +168,17 @@ Choisissez l'un de vos domaines. Vous gagnez une aptitude de domaine pour ce dom
 | Tromperie  | Tromperie Inspirée                  | Intrigue              |
 | Guerre     | Arme Sanctifiée                     | Exploration           |
 
-##### Bénédiction de Compassion
+#### Bénédiction de Compassion
 
 Vous dégagez une présence magique qui peut apaiser ceux qui sont disposés à interagir socialement avec vous. Vous gagnez un avantage sur tout test effectué pour aider une autre créature avec un test.
 
 De plus, lorsque vous êtes présent au début d'une négociation, un PNJ de votre choix voit sa patience augmentée de 1 (jusqu'à un maximum de 5), et le premier test effectué pour l'influencer gagne un avantage.
 
-##### Bénédiction de Compréhension
+#### Bénédiction de Compréhension
 
 Vous pouvez interpréter les diagrammes et graphiques même si vous ne comprenez pas la langue qui leur est associée. Vous êtes considéré comme parlant couramment toutes les langues dans le but de comprendre la Source de Projet pour tout Projet de Recherche ou Projet d'Artisanat (voir Chapitre 12 : Projets de Temps Libre).
 
-##### Bénédiction du Temps Favorable
+#### Bénédiction du Temps Favorable
 
 Chaque fois que vous terminez un répit, vous pouvez décider des conditions météorologiques dans un rayon de 100 cases. Jusqu'à ce que vous terminiez un autre répit, les conditions météorologiques que vous établissez vous suivent dans tous les lieux extérieurs classiques. Choisissez l'un des types de temps suivants, chacun accordant un bénéfice à vous et vos alliés :
 
@@ -191,7 +190,7 @@ Chaque fois que vous terminez un répit, vous pouvez décider des conditions mé
 
 Si vous êtes dans la même zone qu'une créature utilisant cette aptitude ou une aptitude similaire qui a choisi un effet météorologique différent, les aptitudes s'annulent mutuellement là où leurs zones se chevauchent.
 
-##### Compagnon Fidèle
+#### Compagnon Fidèle
 
 Vous possédez l'aptitude suivante.
 
@@ -208,7 +207,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Vous invoquez un esprit qui prend la forme de n'importe quel animal que vous avez vu. L'animal incorporel a une Vitesse de 5 et peut Voler, mais ne peut pas interagir physiquement avec le monde. Tant que vous êtes dans un rayon de 10 Cases de l'esprit, vous percevez automatiquement tout ce que ce type d'animal percevrait, en plus de percevoir votre propre environnement. Vous pouvez renvoyer l'esprit à tout moment (Action Triviale). Si l'esprit subit des Dégâts, il est renvoyé et vous subissez 1d10 Dégâts psychiques qui ne peuvent être réduits d'aucune façon.
 
-##### Parole Funèbre
+#### Parole Funèbre
 Vous possédez l'aptitude suivante.
 
 > [!spell] Parole Funèbre
@@ -224,7 +223,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Vous pouvez parler à la cible si c'est une créature qui est morte dans les dernières 24 heures et qui peut parler une langue que vous connaissez, même si ce n'est qu'une tête. La cible vous considère comme elle l'aurait fait de son vivant, et vous pourriez avoir besoin de faire des tests pour l'influencer et la convaincre de vous parler. Le traumatisme de la mort peut rendre les souvenirs de cet événement flous pour une créature, mais la cible connaît par ailleurs tout ce qu'elle savait de son vivant. Après 1 minute, l'effet se termine. Vous ne pouvez pas utiliser cette aptitude sur la même créature deux fois.
 
-##### Mains du Créateur
+#### Mains du Créateur
 Vous avez l'aptitude suivante.
 
 > [!spell] Mains du Créateur
@@ -240,31 +239,31 @@ Vous avez l'aptitude suivante.
 > 
 > **💫 Effet:** Vous créez un objet classique de taille 1S ou plus petit. Vous pouvez maintenir un nombre d'objets créés de cette façon égal à votre score d'Intuition. Vous pouvez détruire un objet créé de cette façon par la pensée, peu importe votre distance de celui-ci (aucune action triviale requise).
 
-##### Lumière Intérieure
+#### Lumière Intérieure
 
 Chaque fois que vous terminez un répit, vous pouvez choisir vous-même ou un allié qui termine également un répit pour qu'il bénéficie d'un rituel divin. Vous placez un rayon de lumière matinale dans l'âme du personnage choisi, lui accordant un bonus de +1 aux jets de sauvegarde qui dure jusqu'à ce que vous terminiez un autre répit.
 
-##### Tromperie Inspirée
+#### Tromperie Inspirée
 
 Les Dieux favorisent vos larcins par la magie. À chaque fois que vous effectuez un test qui utilise une Compétence que vous possédez du groupe de compétences intrigue, vous pouvez utiliser l'Intuition pour le test au lieu d'une autre caractéristique.
 
-##### Visions Oraculaires
+#### Visions Oraculaires
 
 Votre divinité vous récompense par de vagues visions de l'avenir. Chaque fois que vous gagnez 1 Victoire ou plus, vous gagnez un nombre égal de points de destin. Quand vous ou une Créature dans un rayon de 10 Cases effectuez un Test, vous pouvez dépenser 1 point de destin pour puiser dans une vision du résultat, accordant à cette Créature un Avantage sur le Test. Vous perdez tous les points de destin restants quand vous terminez un Répit.
 
-##### Cercle Protecteur
+#### Cercle Protecteur
 
 Vous pouvez passer 10 minutes ininterrompues à créer un cercle protecteur sur le sol suffisamment grand pour contenir une créature de taille 1. Le cercle dure 24 heures, jusqu'à ce que vous en créiez un autre, ou jusqu'à ce que vous le révoquiez (aucune action triviale requise). Seules les créatures que vous désignez au moment de tracer le cercle peuvent entrer et sortir de la zone. Tant qu'elle se trouve dans le cercle protecteur, une créature ne peut pas être prise pour cible par des frappes.
 
-##### Rituel Revitalisant
+#### Rituel Revitalisant
 
 Chaque fois que vous terminez un répit, vous pouvez choisir vous-même ou un allié qui termine également un répit pour qu'il bénéficie d'un rituel divin. Le personnage choisi gagne un bonus à ses points de récupération égal à votre niveau qui dure jusqu'à ce que vous terminiez un autre répit.
 
-##### Arme Sanctifiée
+#### Arme Sanctifiée
 
 En tant qu'activité de répit, vous pouvez bénir une arme. Toute créature qui manie l'arme gagne un bonus de +1 aux dégâts lancés avec les aptitudes qui utilisent l'arme. Cet avantage dure jusqu'à ce que vous terminiez un autre répit.
 
-#### Grâce Curative
+### Grâce Curative
 
 Vous disposez de l'aptitude suivante, que vous pouvez utiliser une fois par tour.
 
@@ -287,7 +286,7 @@ Vous disposez de l'aptitude suivante, que vous pouvez utiliser une fois par tour
 > - Une cible à terre peut se relever.
 > - Une cible peut dépenser 1 Récupération supplémentaire.
 
-#### Rayon de Courroux
+### Rayon de Courroux
 
 Vous possédez l'aptitude suivante, qui peut être utilisée comme une frappe gratuite à distance.
 
@@ -310,7 +309,7 @@ Vous possédez l'aptitude suivante, qui peut être utilisée comme une frappe gr
 > 
 > Vous pouvez faire en sorte que cette aptitude inflige des dégâts sacrés.
 
-#### Action Déclenchée
+### Action Déclenchée
 Choisissez l'une des actions déclenchées suivantes. (*Construction Rapide :* Parole de Guidance.)
 
 > [!spell] Parole de Guidance
@@ -347,57 +346,57 @@ Choisissez l'une des actions déclenchées suivantes. (*Construction Rapide :* P
 > 
 > **🔥 Dépenser 1 Piété :** Le jet de pouvoir a un double fléau contre la cible.
 
-#### Prière
+### Prière
 
 Votre Dieu répond à une prière par des améliorations de votre corps et de votre esprit. Choisissez l'une des prières suivantes. Vous pouvez changer votre prière en même temps que votre garde (voir Garde de Conduit ci-dessous) en priant votre Dieu comme activité de répit. (*Construction Rapide :* Prière de Distance.)
 
-##### Prière de Destruction
+#### Prière de Destruction
 
 Votre Dieu insuffle le Courroux dans votre être. Vous gagnez un Bonus de +1 aux Dégâts Lancés avec les aptitudes magiques.
 
-##### Prière de Distance
+#### Prière de Distance
 
 Votre Dieu vous bénit de la capacité d'étendre votre magie divine plus loin. Vous avez un Bonus de +2 à la Distance de vos Aptitudes magiques à distance.
 
-##### Prière de Compétence du Soldat
+#### Prière de Compétence du Soldat
 
 Votre Dieu donne à votre esprit l'entraînement d'un soldat. Vous pouvez porter une armure légère et manier des armes légères efficacement, même si vous n'avez pas de Panoplie. Tant que vous portez une armure légère, vous gagnez un Bonus de +3 à la Vigueur, et ce Bonus augmente de 3 aux Niveaux 4, 7 et 10. Tant que vous maniez une arme légère, vous gagnez un Bonus de +1 aux Dégâts avec les aptitudes d'arme, y compris les Frappes Gratuites. Vous pouvez utiliser les Trésors d'armure légère et les Trésors d'arme légère.
 
 Si vous avez une Panoplie, vous ne pouvez pas prendre cette bénédiction.
 
-##### Prière de Vitesse
+#### Prière de Vitesse
 
 Votre Dieu bénit votre chair et l'imprègne d'une rapidité divine. Vous gagnez un Bonus de +1 à la Vitesse et à la Distance que vous pouvez Glisser lorsque vous prenez l'Action de Déplacement - Désengagement.
 
-##### Prière d'Acier
+#### Prière d'Acier
 
 Votre Dieu emplit votre corps de la lumière de la création, vous rendant plus difficile à blesser et à déplacer. Vous gagnez un bonus de +6 à la Vigueur, et ce bonus augmente de 6 aux Niveaux 4, 7 et 10. De plus, vous gagnez un bonus de +1 à la Stabilité.
 
-#### Garde du Conduit
+### Garde du Conduit
 
 Votre Dieu vous accorde une garde qui vous protège des infidèles. Choisissez l'une des gardes suivantes. Vous pouvez changer votre garde en même temps que votre prière (voir Prière ci-dessus) en priant votre Dieu comme activité de Répit. (*Construction Rapide :* Garde du Bastion.)
 
-##### Garde du Bastion
+#### Garde du Bastion
 
 Votre Dieu vous accorde un visage sacré qui vous protège en permanence. Vous gagnez un Bonus de +1 aux Jets de Sauvegarde.
 
-##### Garde de Rapidité
+#### Garde de Rapidité
 
 Les dieux insufflent une célérité divine en vous. Chaque fois qu'une créature adjacente vous inflige des dégâts, vous pouvez glisser d'un nombre de cases égal à votre score d'Intuition après que les dégâts aient été infligés.
 
-##### Garde du Sanctuaire
+#### Garde du Sanctuaire
 
 En réponse à l'agression d'un ennemi, votre dieu vous protège. Chaque fois qu'une autre créature vous inflige des dégâts, cette créature ne peut pas vous cibler avec une frappe jusqu'à ce que vous lui nuisiez ou nuisiez à l'un de ses alliés, ou jusqu'à la fin de son prochain tour.
 
-##### Garde Spirituelle
+#### Garde Spirituelle
 
 Des esprits invisibles vous entourent si vous êtes blessé. À chaque fois qu'une créature adjacente vous inflige des dégâts, elle subit des dégâts de corruption égaux à votre score d'Intuition.
 
-#### Aptitudes de Conduit
+### Aptitudes de Conduit
 
 Votre formation et votre foi vous permettent de vous spécialiser dans une magie qui renforce vos alliés, affaiblit vos ennemis, et vous permet de tenir votre rang au combat aux côtés de vos amis.
 
-##### Aptitudes Signature
+#### Aptitudes Signature
 
 Choisissez deux aptitudes signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Lumière Bénie, Malédiction Chancelante.)
 
@@ -531,11 +530,11 @@ Choisissez deux aptitudes signature parmi les options suivantes. Les aptitudes s
 > - **12-16 :** 5 + Int dégâts de corruption ; P < MOYEN, la cible subit un fléau sur son prochain jet de pouvoir
 > - **17+ :** 8 + Int dégâts de corruption ; P < FORT, la cible subit un fléau sur son prochain jet de pouvoir
 
-##### Aptitudes Héroïques
+#### Aptitudes Héroïques
 
 Vous utilisez un certain nombre d'aptitudes héroïques, qui canalisent toutes la piété pour les alimenter.
 
-###### Aptitude 3-Piété
+##### Aptitude 3-Piété
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 piété à utiliser. (*Construction Rapide :* La Violence Ne T'Aidera Point.)
 
@@ -615,7 +614,7 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 3 Piété
 
-###### Aptitude à 5 Piété
+##### Aptitude à 5 Piété
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 piété à utiliser. (*Construction Rapide :* Malédiction de Terreur.)
 
@@ -693,27 +692,27 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 5 Piété
 
-### Aptitudes de Niveau 2
+## Aptitudes de Niveau 2
 
 En tant que conduit de niveau 2, vous gagnez les aptitudes suivantes.
 
-#### Les Listes du Paradis
+### Les Listes du Paradis
 
 Votre divinité est consciente de votre influence grandissante, ce qui facilite l'obtention de son attention et de son pouvoir lorsque vous soignez vos alliés. Chaque fois que vous permettez à une autre créature de dépenser une Récupération, vous pouvez également dépenser une Récupération.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'artisanat, de savoir ou surnaturel de votre choix. Voir Chapitre 7 : Avantages.
 
-#### Aptitude de Domaine de Niveau 2
+### Aptitude de Domaine de Niveau 2
 
 Vous gagnez l'aptitude de domaine de niveau 1 et la capacité de choisir une compétence pour le domaine que vous avez sélectionné au niveau 1 mais dont vous n'avez pas pris l'aptitude de domaine à ce niveau-là (voir Aptitude de Domaine de Niveau 1).
 
-#### Aptitude de Domaine de Niveau 2
+### Aptitude de Domaine de Niveau 2
 
 Choisissez l'un de vos domaines. Vous gagnez une aptitude héroïque de ce domaine, comme indiqué dans le tableau des Aptitudes de Domaine de Conduit de Niveau 2.
 
-###### Tableau des Aptitudes de Domaine de Conduit de Niveau 2
+##### Tableau des Aptitudes de Domaine de Conduit de Niveau 2
 
 | Domaine    | Capacité                           |
 |------------|------------------------------------|
@@ -931,17 +930,17 @@ Choisissez l'un de vos domaines. Vous gagnez une aptitude héroïque de ce domai
 > 
 > **🔥 Coût :** 5 Piété
 
-### Aptitudes de Niveau 3
+## Aptitudes de Niveau 3
 
 En tant que conduit de niveau 3, vous gagnez les aptitudes suivantes.
 
-#### Miracle Mineur
+### Miracle Mineur
 
 En tant qu'activité de répit, vous pouvez accomplir un rituel religieux et implorer les dieux de ramener une créature morte à la vie. Vous devez posséder au moins la moitié des restes de la créature, et celle-ci doit être morte dans les dernières 24 heures d'un effet qui n'est pas lié à l'âge. L'âme de la créature doit être consentante pour revenir à la vie afin que le rituel fonctionne. Si elle n'est pas consentante, vous le comprenez instinctivement lorsque vous commencez l'activité de répit et pouvez l'interrompre immédiatement.
 
 Une créature avec une âme consentante revient à la vie à la fin du répit avec sa Vigueur complète et la moitié de ses Récupérations. Vous ne regagnez que la moitié de vos Récupérations à la fin du répit.
 
-#### Aptitude à 7-Piété
+### Aptitude à 7-Piété
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 piété à utiliser.
 
@@ -1023,31 +1022,31 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 7 Piété
 
-### Aptitudes de Niveau 4
+## Aptitudes de Niveau 4
 
 En tant que conduit de niveau 4, vous gagnez les aptitudes suivantes.
 
-#### Domaine Béni
+### Domaine Béni
 
 Chaque fois que vous gagnez de la piété grâce à une capacité de domaine, vous gagnez 1 piété supplémentaire.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Votre score d'Intuition passe à 3. De plus, vous pouvez augmenter l'un de vos scores de caractéristique de 1, jusqu'à un maximum de 3.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix. Voir Compétences au Chapitre 9 : Tests.
 
-#### Aptitude de Domaine de Niveau 4
+### Aptitude de Domaine de Niveau 4
 
 Choisissez l'un de vos domaines. Vous gagnez une aptitude de domaine pour ce domaine, comme indiqué dans le tableau des Aptitudes de Domaine de Conduit de Niveau 4.
 
-###### Tableau des Aptitudes de Domaine de Conduit de Niveau 4
+##### Tableau des Aptitudes de Domaine de Conduit de Niveau 4
 
 | Domaine    | Aptitude                           |
 |------------|------------------------------------|
@@ -1064,11 +1063,11 @@ Choisissez l'un de vos domaines. Vous gagnez une aptitude de domaine pour ce dom
 | Fourberie  | Bénédiction des Secrets            |
 | Guerre     | Arme Sanctifiée Améliorée          |
 
-###### Bénédiction de Vie
+##### Bénédiction de Vie
 
 Votre présence divine permet à ceux que vous jugez dignes de récupérer rapidement d'un combat. Chaque fois qu'un allié à distance de votre aptitude Grâce de Guérison récupère de la Vigueur, il récupère de la Vigueur supplémentaire égale à votre score d'Intuition.
 
-###### Bénédiction des Secrets
+##### Bénédiction des Secrets
 
 Vous possédez l'aptitude suivante.
 
@@ -1085,57 +1084,57 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Chaque créature dans la zone bénéficie d'un double avantage sur les tests effectués pour se cacher ou se faufiler. L'aura dure jusqu'à ce que vous y mettiez fin (action triviale requise) ou jusqu'à ce qu'une cible blesse ou inflige des dégâts à une créature ou un objet.
 
-###### Toucher Impénétrable
+##### Toucher Impénétrable
 
 En tant que manœuvre, vous pouvez toucher un objet d'une taille égale ou inférieure à votre score d'Intuition et y placer un sort de protection. L'objet devient immunisé à tous les dégâts non-typés. Vous pouvez maintenir ce sort sur un nombre d'objets égal à votre score d'Intuition, et vous pouvez mettre fin au sort sur n'importe quel objet à tout moment (aucune action triviale requise).
 
 De plus, vous pouvez placer ce sort sur un bâtiment ou un véhicule (ou une structure similaire avec l'approbation du Directeur) dont la taille est supérieure à votre score d'Intuition. Vous ne pouvez placer le sort que sur une seule cible de ce type à la fois, et vous pouvez maintenir simultanément le sort sur une cible plus grande et sur un nombre d'objets égal à votre score d'Intuition.
 
-###### Mains du Créateur Améliorées
+##### Mains du Créateur Améliorées
 
 Quand vous utilisez votre aptitude Mains du Créateur, vous pouvez créer un objet classique de taille 2 ou plus petite.
 
-###### Arme Sanctifiée Améliorée
+##### Arme Sanctifiée Améliorée
 
 L'arme améliorée par votre aptitude Arme Sanctifiée accorde un bonus de +3 aux Dégâts Lancés au lieu de +1.
 
-###### Invocation du Cœur
+##### Invocation du Cœur
 
 En tant qu'action principale, vous forgez un lien d'amour et d'amitié avec une créature consentante que vous touchez. Tant que ce lien est actif, vous pouvez parler télépathiquement avec la créature quelle que soit la distance, y compris à travers différents mondes. De plus, tant que ce lien est actif, vous pouvez tenter d'aider la créature avec n'importe quel test qu'elle effectue, peu importe sa proximité avec vous. Vous ne pouvez maintenir qu'un seul lien à la fois, et vous pouvez mettre fin à un lien à tout moment (aucune action triviale requise).
 
-###### Lumière de Révélation
+##### Lumière de Révélation
 
 En tant que manœuvre, vous faites briller votre corps intensément, illuminant votre espace et chaque case dans un rayon de 5 cases. Cette lumière perce toutes les ténèbres. Les créatures cachées dans la zone sont automatiquement révélées, et les créatures dans la lumière, vous y compris, ne peuvent pas se cacher. Tant que cette aptitude est active, vous gagnez un avantage aux tests effectués pour remarquer les objets et entrées cachés et pour détecter les illusions surnaturelles.
 
-###### Avertissement Oraculaire
+##### Avertissement Oraculaire
 
 Chaque fois que vous terminez un répit, vous pouvez partager les rêves vagues du futur accordés par les dieux avec les alliés qui ont terminé le répit avec vous. Ces prémonitions vous aident, vous et vos alliés, à rester en vie, accordant à chacun d'entre vous une Vigueur Temporaire égale à 10 + votre niveau qui dure jusqu'à ce que vous terminiez un répit.
 
-###### Séance
+##### Séance
 
 Vous pouvez communier avec un réseau d'esprits. En tant qu'activité de répit, vous prononcez le nom d'une créature qui est morte et qui n'est pas morte-vivante. Si l'esprit de la créature est libre et désire vous parler, il apparaît et vous pouvez avoir une conversation avec lui. Durant ce temps, la créature vous répond comme elle l'aurait fait de son vivant. Si la créature n'est pas libre ou ne désire pas apparaître, vous pouvez prononcer un autre nom ou choisir une autre activité de répit.
 
-###### Épiphanie du Saint
+##### Épiphanie du Saint
 
 Au début d'un répit, vous pouvez vous inspirer ou inspirer une autre créature prenant le même répit avec une connaissance divine. Si la cible effectue un jet de projet pendant ce répit, elle peut ajouter 1d10 plus votre score d'Intuition au jet.
 
-###### Marche du Vent
+##### Marche du Vent
 
 Tant que vous avez 5 Victoires ou plus, vous pouvez Voler. Si vous pouvez déjà Voler, vous bénéficiez à la place d'un Bonus de +2 à la Vitesse en vol.
 
-###### Route des Bois
+##### Route des Bois
 
 En tant qu'action principale, vous touchez un arbre vivant et en faites partie d'un réseau de transport divin. Vous pouvez maintenir un nombre d'arbres dans votre réseau égal à votre score d'Intuition. Chaque fois que vous touchez un arbre de votre réseau, vous pouvez utiliser une action principale pour vous téléporter ainsi que toutes les créatures consentantes dans un rayon de 10 cases autour de vous vers un arbre de votre réseau sur le même monde. Si un arbre de votre réseau meurt, il ne fait plus partie du réseau. Vous pouvez retirer un arbre de votre réseau quelle que soit votre distance de celui-ci, y compris à travers différents mondes (aucune action triviale requise).
 
-### Aptitudes de Niveau 5
+## Aptitudes de Niveau 5
 
 En tant que conduit de niveau 5, vous gagnez les aptitudes suivantes.
 
-#### Aptitude de Domaine de Niveau 5
+### Aptitude de Domaine de Niveau 5
 
 Vous gagnez l'aptitude de domaine de niveau 4 pour le domaine dont vous n'avez pas sélectionné l'aptitude à ce niveau (voir Aptitude de Domaine de Niveau 4).
 
-#### Aptitude à 9 Piété
+### Aptitude à 9 Piété
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 piété à utiliser.
 
@@ -1209,11 +1208,11 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 9 Piété
 
-### Aptitudes de Niveau 6
+## Aptitudes de Niveau 6
 
 En tant que conduit de niveau 6, vous gagnez les aptitudes suivantes.
 
-#### Saint Bourgeonnant
+### Saint Bourgeonnant
 
 Vous êtes imprégné du pouvoir que votre divinité réserve à ses instruments les plus dignes. Vous bénéficiez des avantages suivants :
 
@@ -1222,15 +1221,15 @@ Vous êtes imprégné du pouvoir que votre divinité réserve à ses instruments
 - Vous avez immunité corruption 10 ou immunité sacrée 10 (à votre choix).
 - Vos vêtements et équipements changent d'une manière qui reflète votre statut de champion élu de votre divinité, comme des robes ordinaires qui se transforment en vêtements dorés ou un simple poignard qui devient une lame sinistre aux gravures complexes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'artisanat, de savoir ou surnaturel de votre choix.
 
-#### Aptitude de Domaine de Niveau 6
+### Aptitude de Domaine de Niveau 6
 
 Choisissez l'un de vos domaines. Vous gagnez une aptitude héroïque de ce domaine, comme indiqué dans le tableau des Aptitudes de Domaine de Conduit de Niveau 6.
 
-###### Tableau des Aptitudes de Domaine de Conduit de Niveau 6
+##### Tableau des Aptitudes de Domaine de Conduit de Niveau 6
 
 | Domaine    | Aptitude                       |
 |------------|--------------------------------|
@@ -1461,27 +1460,27 @@ Choisissez l'un de vos domaines. Vous gagnez une aptitude héroïque de ce domai
 > 
 > **🔥 Coût :** 9 Piété
 
-### Aptitudes de Niveau 7
+## Aptitudes de Niveau 7
 
 En tant que conduit de niveau 7, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Chacun de vos scores de caractéristique augmente de 1, jusqu'à un maximum de 4.
 
-#### Récompense du Fidèle
+### Récompense du Fidèle
 
 Quand vous lancez pour la piété au début de votre tour de combat, vous gagnez 1d3 + 1 piété.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-#### Aptitude de Domaine de Niveau 7
+### Aptitude de Domaine de Niveau 7
 
 Choisissez l'un de vos domaines. Vous gagnez une aptitude de domaine pour ce domaine, comme indiqué dans le tableau des Aptitudes de Domaine de Conduit de Niveau 7.
 
-###### Tableau des Aptitudes de Domaine de Conduit de Niveau 7
+##### Tableau des Aptitudes de Domaine de Conduit de Niveau 7
 
 | Domaine    | Aptitude                           |
 |------------|------------------------------------|
@@ -1498,11 +1497,11 @@ Choisissez l'un de vos domaines. Vous gagnez une aptitude de domaine pour ce dom
 | Fourberie  | Trinité de Fourberie               |
 | Guerre     | Vos Triomphes Sont Mémorisés       |
 
-##### Bénédiction de Fer
+#### Bénédiction de Fer
 
 Les dieux vous envoient une faveur divine, à vous et à vos alliés. Tant que vous n'êtes pas mourant, les ennemis subissent un fléau sur les frappes contre vous ou tout allié dans un rayon de 3 cases de vous.
 
-##### Pacte du Cœur
+#### Pacte du Cœur
 
 Vous pouvez maintenir des liens avec jusqu'à trois créatures consentantes en utilisant votre aptitude Invocation du Cœur. De plus, vous disposez de l'aptitude suivante.
 
@@ -1519,23 +1518,23 @@ Vous pouvez maintenir des liens avec jusqu'à trois créatures consentantes en u
 > 
 > **💫 Effet:** Chaque cible est téléportée vers des espaces inoccupés dans un rayon de 5 cases d'une créature consentante avec laquelle vous êtes lié par votre aptitude Invocation du Cœur. Vous n'avez pas besoin d'une ligne d'effet vers la créature liée, mais vous devez être sur le même monde.
 
-##### Quartier-Maître Divin
+#### Quartier-Maître Divin
 
 Chaque fois que vous terminez un répit, vous pouvez choisir un trésor avec un objectif de projet égal à 50 fois votre niveau ou moins. Vous obtenez une version divine de ce trésor qui dure jusqu'à ce que vous terminiez un autre répit ou qu'il soit consommé.
 
-##### Source de Grâce
+#### Source de Grâce
 
 Chaque fois que vous utilisez votre aptitude Grâce Curative, vous gagnez 1 piété qui ne peut être dépensée que sur cette aptitude durant le même tour. Si vous n'utilisez pas cette piété, elle est perdue. De plus, vous pouvez utiliser votre capacité Miracle Mineur pour ramener une créature à la vie même si vous n'avez pas ses restes.
 
-##### Bibliothèque des Dieux
+#### Bibliothèque des Dieux
 
 Vous pouvez accéder aux informations dont vous avez besoin par la prière, de sorte que vous n'avez plus besoin de matériaux de recherche pour les projets d'artisanat et de recherche (voir Chapitre 12 : Projets de Temps Libre). De plus, vous ajoutez votre niveau aux jets de projet que vous effectuez pour les projets d'artisanat et de recherche. Vous possédez également toutes les compétences du groupe de compétences savoir que vous n'aviez pas déjà, et vous gagnez un nombre de compétences d'autres groupes de compétences égal au nombre de compétences que vous aviez dans le groupe de compétences savoir avant d'obtenir cette aptitude.
 
-##### Lumière du Soleil Ardent
+#### Lumière du Soleil Ardent
 
 Le soleil imprègne votre corps. Chaque fois que vous utilisez une aptitude pour infliger des dégâts lancés à une autre créature, cette aptitude inflige 5 dégâts de feu supplémentaires, ou 15 dégâts de feu supplémentaires si la créature est morte-vivante. De plus, vous avez une immunité au feu égale à votre niveau, qui s'ajoute à toute autre immunité au feu que vous possédez.
 
-##### Générosité de la Nature
+#### Générosité de la Nature
 
 Quand vous terminez un répit, vous pouvez préparer un repas magique en utilisant la flore locale pour tous les compagnons qui se sont reposés avec vous. Choisissez deux des avantages suivants pour les créatures qui consomment le repas :
 
@@ -1547,11 +1546,11 @@ Quand vous terminez un répit, vous pouvez préparer un repas magique en utilisa
 
 Chaque avantage dure jusqu'à ce que la créature qui l'obtient termine un autre répit.
 
-##### Foudroyé
+#### Foudroyé
 
 La foudre et le tonnerre imprègnent votre corps. Chaque fois que vous utilisez une aptitude pour infliger des dégâts de foudre ou soniques à une autre créature, vous gagnez 1 impulsion. De plus, si vous utilisez une aptitude qui effectue un déplacement forcé sur une créature, la distance de déplacement forcé gagne un bonus égal à votre score d'Intuition.
 
-##### Trinité de Fourberie
+#### Trinité de Fourberie
 
 Vous disposez de l'aptitude suivante.
 
@@ -1570,33 +1569,33 @@ Vous disposez de l'aptitude suivante.
 > 
 > **🔥 Coût :** 9 Piété
 
-##### Parole de Mort Différée
+#### Parole de Mort Différée
 
 Vous pouvez empêcher la mort d'emporter vos alliés. Quand un allié à distance de votre aptitude Grâce de Guérison meurt et que vous n'êtes pas mourant, vous pouvez utiliser une action déclenchée gratuite pour que cet allié tombe inconscient à la place jusqu'à ce qu'il récupère de la Vigueur.
 
 De plus, vos aptitudes infligent 5 dégâts supplémentaires aux créatures essoufflées.
 
-##### Parole du Destin Refusé
+#### Parole du Destin Refusé
 
 Quand un allié dans un rayon de 10 cases subit des dégâts qui le laisseraient mourant, vous pouvez utiliser une action déclenchée gratuite pour faire de vous-même ou d'une autre créature consentante dans un rayon de 10 cases de vous la cible des dégâts déclencheurs à la place. La créature que vous choisissez subit les dégâts et souffre de tous les effets qui y sont associés, et ces dégâts ne peuvent être réduits d'aucune manière.
 
-##### Vos Triomphes Sont Mémorisés
+#### Vos Triomphes Sont Mémorisés
 
 Les dieux vous permettent, à vous et vos compagnons, de vous prélasser dans la gloire de vos succès passés. Chaque fois que vous terminez un répit, vous et tous les autres héros qui se sont reposés avec vous regagnez 1 Victoire après que vos Victoires ont été converties en XP. Cette Victoire n'est pas convertie en XP à la fin d'un répit ultérieur.
 
-### Aptitudes de Niveau 8
+## Aptitudes de Niveau 8
 
 En tant que conduit de niveau 8, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Aptitude de Domaine de Niveau 8
+### Aptitude de Domaine de Niveau 8
 
 Vous gagnez l'aptitude de domaine de niveau 7 pour le domaine dont vous n'avez pas sélectionné l'aptitude à ce niveau (voir Aptitude de Domaine de Niveau 7).
 
-#### Aptitude à 11 Piété
+### Aptitude à 11 Piété
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 piété à utiliser.
 
@@ -1666,23 +1665,23 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **🔥 Coût :** 11 Piété
 
-### Aptitudes de Niveau 9
+## Aptitudes de Niveau 9
 
 En tant que conduit de niveau 9, vous gagnez les aptitudes suivantes.
 
-#### Épée de la Foi
+### Épée de la Foi
 
 Chaque fois que vous terminez un répit, vous pouvez choisir un allié héros consentant qui a terminé le répit avec vous. Cet allié gagne les bénéfices de votre aptitude Saint Naissant jusqu'à ce que vous terminiez un autre répit. De plus, vous pouvez dépenser de la piété comme manœuvre gratuite pour donner au héros 1 de sa Ressource Héroïque pour chaque tranche de 2 piété dépensée.
 
-#### Ordonné
+### Ordonné
 
 Votre dieu élève le pouvoir qui coule en vous. Vos scores de caractéristiques sont considérés comme étant 1 point plus élevés dans le but de résister aux seuils. De plus, tant que vous avez 5 Victoires ou plus, vous parlez avec la voix de votre divinité. Vous avez un Double Avantage sur les Tests de Présence effectués pour influencer d'autres Créatures.
 
-#### Aptitude de Domaine de Niveau 9
+### Aptitude de Domaine de Niveau 9
 
 Choisissez un de vos domaines. Vous gagnez une aptitude héroïque de ce domaine, comme indiqué dans le tableau des Aptitudes de Domaine de Conduit de Niveau 9.
 
-###### Tableau des Aptitudes de Domaine de Conduit de Niveau 9
+##### Tableau des Aptitudes de Domaine de Conduit de Niveau 9
 
 | Domaine    | Aptitude                        |
 |------------|---------------------------------|
@@ -1919,21 +1918,21 @@ Choisissez un de vos domaines. Vous gagnez une aptitude héroïque de ce domaine
 > 
 > **🔥 Coût :** 11 Piété
 
-### Aptitudes de Niveau 10
+## Aptitudes de Niveau 10
 
 En tant que conduit de niveau 10, vous gagnez les aptitudes suivantes.
 
-#### Avatar
+### Avatar
 
 Tu es désormais un avatar de ton dieu ! Quand tu utilises ta capacité Prière, tu peux être affecté par jusqu'à trois prières à la fois, et tu peux changer toutes ces prières ainsi que ta protection lors d'une activité de répit. Tu peux aussi utiliser une manœuvre pour activer l'un de tes effets de domaine (voir Piété et Effets de Domaine) sans avoir besoin de prier.
 
 De plus, chaque fois que tu prends un répit, tu peux ouvrir un portail pour te reposer en présence de ta divinité et emmener tous tes alliés avec toi. Quand tu le fais, tu peux poser trois questions à ta divinité, auxquelles le Directeur doit répondre honnêtement si ta divinité connaît les réponses (bien qu'elle puisse répondre de manière cryptique ou incomplète). Quand tu termines ton répit, toi et tes alliés pouvez apparaître à n'importe quel endroit du Chronoscape où quelqu'un vénère ta divinité.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Votre score d'Intuition passe à 5. De plus, vous pouvez augmenter l'un de vos scores de caractéristique de 1, jusqu'à un maximum de 5.
 
-#### Pouvoir Divin
+### Pouvoir Divin
 
 Vous possédez une ressource épique appelée pouvoir divin. Chaque fois que vous terminez un répit, vous gagnez du pouvoir divin égal aux XP que vous gagnez. Vous pouvez dépenser du pouvoir divin sur vos aptitudes comme s'il s'agissait de piété.
 
@@ -1941,15 +1940,15 @@ De plus, vous pouvez dépenser du pouvoir divin comme s'il s'agissait de piété
 
 Le pouvoir divin persiste jusqu'à ce que vous le dépensiez.
 
-#### Le Plus Pieux
+### Le Plus Pieux
 
 Quand vous lancez pour la piété au début de votre tour de combat et que vous priez, vous gagnez 1 piété supplémentaire.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'artisanat, de savoir ou surnaturel de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 

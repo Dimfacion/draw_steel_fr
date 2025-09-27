@@ -1,8 +1,7 @@
 ---
 title: Hakaan
 ---
-
-## Hakaan
+# Hakaan
 
 Malgré leur nature amicale et extravertie, la rare présence d'un hakaan dans la société humaine est considérée comme un présage. Un signe de temps sombres.
 
@@ -16,7 +15,7 @@ Mais le seul hakaan que l'Humain moyen rencontre est celui qui tente d'accomplir
 
 Les Humains de Vanigar ont leur propre mot pour ce concept de destin personnel. « Wyrd ». Les hakaan traditionnels se réfèrent parfois à la Vision Funeste sous le nom de « wyrdken ».
 
-### Sur Hakaan
+## Sur Hakaan
 
 La porte — ou le portail, peu importe — commençait à se refermer. Avec Dazar de l'autre côté.
 
@@ -102,23 +101,23 @@ Ardashir sourit. « La force seule ne suffit pas. » Il prit une posture de comb
 
 Le sourire d'Ardashir était éclatant. « Je suffis », dit-il.
 
-### Traits Hakaan
+## Traits Hakaan
 
 Les héros Hakaan ont accès aux traits suivants.
 
-#### Trait Signature : Grand !
+### Trait Signature : Grand !
 
 Votre stature reflète vos ancêtres géants. Votre taille est 1G.
 
-#### Traits Hakaan Achetés
+### Traits Hakaan Achetés
 
 Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Vision Funeste, Énergique.)
 
-##### Tout Est une Plume (1 Point)
+#### Tout Est une Plume (1 Point)
 
 Vous êtes exceptionnellement fort. Vous gagnez un avantage aux tests effectués pour soulever et transporter des objets lourds.
 
-##### Vision Funeste (2 Points)
+#### Vision Funeste (2 Points)
 
 En collaboration avec votre Directeur, vous pouvez prédéterminer une rencontre au cours de laquelle vous mourrez. Lorsque cette rencontre commence, vous devenez condamné. Tant que vous êtes condamné, vous obtenez automatiquement un résultat de Tiers 3 sur les Tests et Jets d'Aptitude, et vous ne mourez pas peu importe à quel point votre Vigueur chute. Vous mourez alors immédiatement à la fin de la rencontre, et ne pouvez être ramené à la vie par aucun moyen.
 
@@ -126,14 +125,14 @@ Si vous ne prédéterminez pas votre rencontre de mort, vous pouvez choisir de d
 
 De plus, lorsque votre Vigueur atteint la valeur négative de votre seuil Essoufflé et que vous n'êtes pas condamné, vous vous transformez en gravats au lieu de subir la mort. Vous n'êtes pas conscient de votre environnement dans cet état, et vous ne pouvez pas regagner de Vigueur ou annuler cet effet d'aucune façon. Après 12 heures, vous regagnez de la Vigueur égale à vos Points de Récupération.
 
-##### Énergique (1 Point)
+#### Énergique (1 Point)
 
 Chaque fois que vous infligez un Déplacement Forcé à une Créature ou un Objet, la Distance du Déplacement Forcé gagne un Bonus de +1.
 
-##### Grande Fortitude (2 Points)
+#### Grande Fortitude (2 Points)
 
 Votre constitution robuste vous empêche de perdre en force. Vous ne pouvez pas être rendu affaibli.
 
-##### Résistance Naturelle (1 Point)
+#### Résistance Naturelle (1 Point)
 
 Votre corps est fait pour résister aux coups de vos ennemis. Votre score de Force est considéré comme supérieur de 1 dans le but de résister aux seuils, et vous gagnez un avantage sur les tests de Force lorsque vous devez résister aux effets environnementaux ou aux traits ou aptitudes d'une créature.

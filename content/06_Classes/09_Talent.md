@@ -1,8 +1,7 @@
 ---
 title: Talent
 ---
-
-## Talent
+# Talent
 
 Très peu de personnes naissent avec le potentiel de maîtriser le pouvoir psionique, mais seules celles qui vivent un éveil, un événement significatif qui active les aptitudes d'un talent, peuvent exploiter le plein potentiel de l'esprit. Vous êtes l'une de ces personnes—un maître de la psionique et une source d'incroyable pouvoir créé par la pure force de volonté. Vous pouvez déplacer et changer la matière, le temps, la gravité, les lois de la physique, ou l'esprit d'une autre créature.
 
@@ -12,7 +11,7 @@ Très peu de personnes naissent avec le potentiel de maîtriser le pouvoir psion
 >
 > **Khorva**
 
-### Bases
+## Bases
 
 **Caractéristiques de Départ :** Vous commencez avec une Raison de 2 et une Présence de 2, et vous pouvez choisir l'un des tableaux suivants pour vos autres scores de caractéristiques :
 
@@ -34,11 +33,11 @@ Très peu de personnes naissent avec le potentiel de maîtriser le pouvoir psion
 
 **Compétences :** Vous gagnez les compétences Psioniques et Cerner les Gens (voir Compétences au Chapitre 9 : Tests). Puis choisissez deux compétences parmi les groupes de compétences interpersonnelles ou de savoir. (*Construction Rapide :* Empathie, Psioniques, Cerner les Gens, Chronoscape.)
 
-### Capacités de 1er Niveau
+## Capacités de 1er Niveau
 
 En tant que talent de 1er niveau, vous gagnez les capacités suivantes.
 
-#### Tradition de Talent
+### Tradition de Talent
 
 Les aptitudes psioniques sont regroupées en catégories selon leurs effets, chaque catégorie constituant l'une des nombreuses traditions de talent :
 
@@ -53,11 +52,11 @@ Les aptitudes psioniques sont regroupées en catégories selon leurs effets, cha
 
 Vous choisissez une tradition de talent parmi les options suivantes : chronopathie, télékinésie ou télépathie. Votre tradition de talent est votre sous-classe, et votre choix de tradition détermine de nombreuses aptitudes que vous obtiendrez en gagnant de nouveaux niveaux. (D'autres traditions de talent seront présentées dans de futurs produits.) (*Construction Rapide :* Télékinésie.)
 
-#### Clarté et Tension
+### Clarté et Tension
 
 La concentration et la précision de vos pensées vous accordent une Ressource Héroïque appelée clarté qui renforce vos capacités psioniques.
 
-##### Clarté en Combat
+#### Clarté en Combat
 
 Au début d'une rencontre de combat ou d'une autre situation stressante suivie en Tours de Combat (selon la décision du Directeur), vous gagnez de la clarté égale à vos Victoires. Au début de chacun de vos tours pendant le combat, vous gagnez 1d3 clarté.
 
@@ -69,7 +68,7 @@ Chaque fois que vous avez de la clarté en dessous de 0, vous êtes Sous Tension
 
 Vous perdez toute clarté restante ou remettez à zéro toute clarté négative à la fin de la rencontre.
 
-###### Tableau d'Avancement du Talent
+##### Tableau d'Avancement du Talent
 
 | Niveau | Capacités                                                                                                                                     | Aptitudes                     | Aptitudes de Tradition |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------------------|
@@ -84,7 +83,7 @@ Vous perdez toute clarté restante ou remettez à zéro toute clarté négative 
 | 9e     | Forteresse de Pensée Parfaite, Aptitude de Tradition                                                                                         | Deux signature, 3, 5, 7, 9, 11 | 5, 9, 11               |
 | 10e    | Augmentation de Caractéristique, Esprit Clair, Omnisensoriel, Avantage, Psion, Compétence, Vision                                           | Deux signature, 3, 5, 7, 9, 11 | 5, 9, 11               |
 
-##### Clarté en Dehors du Combat
+#### Clarté en Dehors du Combat
 
 Bien que vous ne puissiez pas gagner de clarté en dehors du combat, vous pouvez utiliser vos aptitudes héroïques et effets qui coûtent de la clarté sans la dépenser. Chaque fois que vous utilisez une aptitude ou un effet en dehors du combat qui coûte de la clarté, vous ne pouvez pas utiliser cette même aptitude ou effet en dehors du combat à nouveau jusqu'à ce que vous obteniez 1 Victoire ou plus ou que vous terminiez un répit.
 
@@ -92,7 +91,7 @@ De plus, chaque fois que vous utilisez une aptitude ou un effet qui coûte de la
 
 Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépenser une quantité illimitée de clarté pour son effet, comme Télékinésie Mineure, vous pouvez l'utiliser comme si vous aviez dépensé une quantité de clarté égale à vos Victoires.
 
-#### Pointe Mentale
+### Pointe Mentale
 
 Vous possédez l'aptitude suivante, qui peut être utilisée comme une frappe gratuite à distance.
 
@@ -114,61 +113,61 @@ Vous possédez l'aptitude suivante, qui peut être utilisée comme une frappe gr
 > 
 > **⚡ Sous Tension :** La cible subit 2 dégâts psychiques supplémentaires. Vous subissez également 2 dégâts psychiques qui ne peuvent être réduits d'aucune manière.
 
-#### Augmentation Psionique
+### Augmentation Psionique
 
 Grâce à la méditation, vous créez des voies dans votre esprit qui améliorent vos statistiques. Choisissez l'une des augmentations suivantes. Vous pouvez changer votre augmentation et votre garde (voir Garde de Talent ci-dessous) en entreprenant une méditation psionique comme activité de Répit. (*Construction Rapide :* Augmentation de Force.)
 
-##### Augmentation de Combat
+#### Augmentation de Combat
 
 Vous pouvez porter une armure légère et manier des armes légères efficacement, même si vous n'avez pas de panoplie. Tant que vous portez une armure légère, vous gagnez un bonus de +3 à la Vigueur, et ce bonus augmente de 3 aux niveaux 4, 7 et 10. Tant que vous maniez une arme légère, vous gagnez un bonus de +1 aux dégâts avec les aptitudes d'arme, y compris les frappes gratuites. Vous pouvez utiliser les trésors d'armure légère et les trésors d'arme légère.
 
 Si vous avez une panoplie, vous ne pouvez pas prendre cette augmentation.
 
-##### Augmentation de Densité
+#### Augmentation de Densité
 
 Vous gagnez un bonus de +6 à la Vigueur, et ce bonus augmente de 6 aux niveaux 4, 7 et 10. De plus, vous gagnez un bonus de +1 à la Stabilité.
 
-##### Amélioration de Distance
+#### Amélioration de Distance
 
 Vos aptitudes psioniques à distance gagnent un bonus de +2 à la distance.
 
-##### Augmentation de Force
+#### Augmentation de Force
 
 Vos aptitudes psioniques infligeant des dégâts gagnent un bonus de +1 aux Dégâts Lancés.
 
-##### Augmentation de Vitesse
+#### Augmentation de Vitesse
 
 Vous gagnez un bonus de +1 à la vitesse et à la distance que vous pouvez glisser lorsque vous prenez l'Action de Déplacement - Désengagement.
 
-#### Protection par Talent
+### Protection par Talent
 
 Par la méditation, vous créez une protection qui vous défend. Choisissez l'une des protections suivantes. Vous pouvez changer votre protection et votre augmentation psionique (voir ci-dessus) en entreprenant une méditation psionique comme activité de répit. (*Construction Rapide :* Protection Répulsive.)
 
-##### Garde d'Entropie
+#### Garde d'Entropie
 
 Votre garde ralentit le temps pour vos ennemis. Chaque fois qu'une créature vous inflige des dégâts, sa vitesse est réduite d'un montant égal à votre score de Raison et elle ne peut pas utiliser d'actions déclenchées jusqu'à la fin de son prochain tour.
 
-##### Barrière Répulsive
+#### Barrière Répulsive
 
 Vous vous entourez d'une barrière invisible d'énergie télékinétique. Chaque fois qu'une créature adjacente vous inflige des dégâts, vous pouvez utiliser une action déclenchée gratuite pour lui infliger une poussée d'un nombre de cases égal à votre score de Raison.
 
-##### Garde d'Acier
+#### Garde d'Acier
 
 Votre garde réagit au danger, vous protégeant des blessures futures. Chaque fois que vous subissez des dégâts, après que les dégâts soient résolus, vous gagnez une immunité aux dégâts égale à votre score de Raison jusqu'à la fin de votre prochain tour.
 
-##### Garde Évanescente
+#### Garde Évanescente
 
 Votre garde vous permet d'échapper aux menaces. Chaque fois que vous subissez des dégâts, vous devenez invisible jusqu'à la fin de votre prochain tour.
 
-#### Communication Télépathique
+### Communication Télépathique
 
 Vous connaissez le langage Mental (voir Langages d'Orden au Chapitre 4 : Origine). De plus, vous pouvez communiquer télépathiquement avec toutes les créatures à distance de votre aptitude Pointe Mentale si elles partagent un langage avec vous et que vous vous connaissez mutuellement. Quand vous communiquez avec quelqu'un de cette façon, cette personne peut répondre télépathiquement.
 
-#### Capacités de Tradition de 1er Niveau
+### Capacités de Tradition de 1er Niveau
 
 Votre tradition de talent vous accorde deux capacités, comme indiqué dans le tableau des Capacités de Tradition de 1er Niveau.
 
-###### Tableau des Aptitudes de Tradition de Niveau 1
+##### Tableau des Aptitudes de Tradition de Niveau 1
 
 | Tradition   | Aptitudes                                    |
 |-------------|----------------------------------------------|
@@ -176,7 +175,7 @@ Votre tradition de talent vous accorde deux capacités, comme indiqué dans le t
 | Télékinésie | Télékinésie Mineure, Repousser              |
 | Télépathie  | Boucle de Rétroaction, Assistance à Distance |
 
-##### Accélération
+#### Accélération
 
 Vous possédez l'aptitude suivante.
 
@@ -195,7 +194,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **🔥 Dépenser 2 Clarté :** La cible peut utiliser une manœuvre.
 
-##### Encore
+#### Encore
 
 Vous avez l'aptitude suivante.
 
@@ -214,7 +213,7 @@ Vous avez l'aptitude suivante.
 > 
 > **💫 Effet :** Vous pouvez utiliser cette aptitude après avoir vu le résultat du jet déclencheur. La cible doit relancer le jet de pouvoir et utiliser le nouveau jet.
 
-##### Boucle de Rétroaction
+#### Boucle de Rétroaction
 
 Vous possédez l'aptitude suivante.
 
@@ -233,7 +232,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet :** La cible subit des dégâts psychiques égaux à la moitié des dégâts déclencheurs.
 
-##### Télékinésie Mineure
+#### Télékinésie Mineure
 
 Vous disposez de l'aptitude suivante.
 
@@ -254,7 +253,7 @@ Vous disposez de l'aptitude suivante.
 > 
 > **🔥 Dépenser 3 Clarté :** Vous pouvez effectuer un glissement vertical de la cible.
 
-##### Assistance à Distance
+#### Assistance à Distance
 
 Vous disposez de l'aptitude suivante.
 
@@ -273,7 +272,7 @@ Vous disposez de l'aptitude suivante.
 > 
 > **🔥 Dépenser 1 Clarté :** Vous ciblez une créature ou un objet supplémentaire.
 
-#### Repel
+### Repel
 
 Vous disposez de l'aptitude suivante.
 
@@ -292,11 +291,11 @@ Vous disposez de l'aptitude suivante.
 > 
 > **💫 Effet :** La cible subit la moitié des dégâts déclencheurs, ou la distance du déplacement forcé déclencheur est réduite d'un nombre de cases égal à votre score de Raison. Si la cible a subi des dégâts et a fait l'objet d'un déplacement forcé, vous choisissez l'effet. Si le déplacement forcé est réduit à 0 case, la cible peut effectuer une poussée sur la source du déplacement forcé d'un nombre de cases égal à votre score de Raison.
 
-#### Aptitudes de Talent
+### Aptitudes de Talent
 
 Vous manifestez une variété de pouvoirs psioniques qui vous permettent d'impacter l'environnement, de soutenir vos alliés et de vous renforcer. Vous pouvez choisir des aptitudes à travers différentes traditions de talent ou vous concentrer sur les aptitudes liées à votre tradition choisie pour vous dédier à son pouvoir.
 
-##### Aptitudes Signature
+#### Aptitudes Signature
 
 Choisissez deux aptitudes signature parmi les options suivantes. Les aptitudes signature peuvent être utilisées à volonté. (*Construction Rapide :* Incinérer, Prise Cinétique.)
 
@@ -454,11 +453,11 @@ Choisissez deux aptitudes signature parmi les options suivantes. Les aptitudes s
 > 
 > **⚡ Sous Tension :** La cible subit 3 dégâts supplémentaires. Vous subissez également 3 dégâts qui ne peuvent être réduits d'aucune façon.
 
-##### Aptitudes Héroïques
+#### Aptitudes Héroïques
 
 Vous connaissez un éventail d'aptitudes héroïques, qui coûtent toutes de la clarté pour les alimenter.
 
-###### Aptitude de 3-Clarté
+##### Aptitude de 3-Clarté
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 clarté à utiliser. (*Construction Rapide :* Étranglement.)
 
@@ -529,7 +528,7 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > - **12-16 :** 6 + R dégâts ; R < MOYEN, la cible a une faiblesse 5 (sauvegarde termine)
 > - **17+ :** 9 + R dégâts ; R < FORT, la cible a une faiblesse égale à 5 + votre score de Raison (sauvegarde termine)
 
-###### Aptitude de Clarté 5
+##### Aptitude de Clarté 5
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 points de clarté à utiliser. (*Construction Rapide :* Absorption d'Inertie.)
 
@@ -593,19 +592,19 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **⚡ Sous Tension :** Vous subissez 1d6 dégâts, et vous ne pouvez pas utiliser d'actions déclenchées (sauvegarde termine).
 
-### Aptitudes de Niveau 2
+## Aptitudes de Niveau 2
 
 En tant que talent de niveau 2, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage interpersonnel, de savoir ou surnaturel de votre choix. Voir Chapitre 7 : Avantages.
 
-#### Aptitude de Tradition de Niveau 2
+### Aptitude de Tradition de Niveau 2
 
 Votre tradition de talent vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Tradition de Niveau 2.
 
-###### Tableau des Aptitudes de Tradition de Niveau 2
+##### Tableau des Aptitudes de Tradition de Niveau 2
 
 | Tradition                    | Aptitudes       |
 |------------------------------|-----------------|
@@ -613,23 +612,23 @@ Votre tradition de talent vous accorde une aptitude, comme indiqué dans le tabl
 | Télékinésie                  | Ease Their Fall |
 | Télépathie                   | Ease the Mind   |
 
-##### Soulager les Heures
+#### Soulager les Heures
 
 Vous pouvez augmenter le nombre de tours dans un Test de Montage de 1 si le test devait se terminer avant que les Héros n'atteignent la limite de succès.
 
-##### Apaiser les Esprits
+#### Apaiser les Esprits
 
 Vous gagnez un avantage aux tests effectués pour arrêter un combat et commencer une négociation. De plus, si vous êtes présent lors d'une négociation, tout PNJ ayant une attitude de départ hostile ou méfiante voit sa patience augmentée de 1 (jusqu'à un maximum de 5).
 
-##### Atténuer leur Chute
+#### Atténuer leur Chute
 
 Chaque fois que vous atterrissez après une chute, ou si une créature qui chute atterrit dans un rayon de 2 cases de vous, vous pouvez utiliser une action déclenchée gratuite pour réduire les dégâts de chute d'un montant égal à 2 + votre score de Raison.
 
-#### Aptitude de Tradition de Niveau 2
+### Aptitude de Tradition de Niveau 2
 
 Votre tradition de talent vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitude de Chronopathie de Niveau 2
+#### Aptitude de Chronopathie de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -673,7 +672,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **⚡ Sous Tension :** Le seuil de cette aptitude augmente de 1 et vous subissez 1d6 dégâts. Au début de chaque tour de combat tant qu'une cible est affectée par cette aptitude, vous subissez 1d6 dégâts. Vous pouvez mettre fin à l'effet sur toutes les cibles affectées à tout moment (aucune action requise).
 
-##### Aptitude de Télékinésie de Niveau 2
+#### Aptitude de Télékinésie de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -713,7 +712,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **⚡ Sous Tension :** Vous subissez la moitié des dégâts que subit la cible.
 
-##### Aptitude de Télépathie de Niveau 2
+#### Aptitude de Télépathie de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -755,15 +754,15 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **⚡ Sous Tension :** Vous subissez 1d6 dégâts et êtes affaibli jusqu'à la fin de votre tour.
 
-### Aptitudes de Niveau 3
+## Aptitudes de Niveau 3
 
 En tant que talent de niveau 3, vous gagnez les aptitudes suivantes.
 
-#### Scan
+### Scan
 
 Vous pouvez étendre vos sens psioniques au-delà de leur portée habituelle. Une fois à chacun de vos tours, vous pouvez rechercher des créatures cachées par une manœuvre gratuite (voir Se Cacher et Furtivité au Chapitre 9 : Tests). De plus, une fois que vous établissez une ligne d'effet vers une créature pensante à distance de votre aptitude Pointe Mentale, vous avez toujours une ligne d'effet vers cette créature jusqu'à ce qu'elle se déplace au-delà de cette distance.
 
-#### Aptitude de Clarté 7
+### Aptitude de Clarté 7
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 points de clarté à utiliser.
 
@@ -844,49 +843,49 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **⚡ Sous Tension :** Le seuil de cette aptitude augmente de 1. Vous subissez 2d6 dégâts et gagnez 3 impulsions que vous pouvez utiliser immédiatement.
 
-### Aptitudes de Niveau 4
+## Aptitudes de Niveau 4
 
 En tant que talent de niveau 4, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Vos scores de Raison et de Présence augmentent chacun à 3.
 
-#### Projection Mentale
+### Projection Mentale
 
 En tant que manœuvre, vous projetez votre esprit hors de votre corps. Tant que vous êtes dans cet état, votre corps reste inconscient et à terre, et votre esprit est une entité séparée de taille 1T. Votre esprit bénéficie automatiquement de dissimulation et peut se déplacer librement à travers la matière solide. Si vous terminez votre tour à l'intérieur de matière solide, vous êtes forcé de sortir dans l'espace par lequel vous y êtes entré.
 
 Toutes les aptitudes ou capacités que vous utilisez proviennent de votre esprit. Votre esprit et votre corps peuvent tous deux subir des dégâts lorsqu'ils sont séparés, ces dégâts étant appliqués à votre Vigueur. Votre esprit est instantanément forcé de retourner dans votre corps si vous subissez des dégâts, et vous pouvez immédiatement retourner dans votre corps en tant que manœuvre gratuite.
 
-#### Récupération Mentale
+### Récupération Mentale
 
 Chaque fois que vous dépensez une Récupération pour regagner de la Vigueur alors que vous êtes Sous Tension, vous pouvez renoncer à la Vigueur et gagner 3 points de Clarté à la place.
 
 De plus, la première fois à chaque tour de combat qu'une créature subit un déplacement forcé, vous gagnez 2 points de Clarté au lieu de 1.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix. Voir Compétences au Chapitre 9 : Tests.
 
-#### Champ Suspenseur
+### Champ Suspenseur
 
 Vous pouvez voler. Tant que vous volez, votre stabilité est réduite à 0 et ne peut pas être augmentée. Si vous pouvez déjà voler, vous avez un bonus de +2 à la vitesse en vol à la place.
 
 Si vous êtes sous tension pendant que vous volez et subissez un déplacement forcé, la distance du déplacement forcé gagne un bonus de +2.
 
-### Aptitudes de Niveau 5
+## Aptitudes de Niveau 5
 
 En tant que talent de niveau 5, vous gagnez les aptitudes suivantes.
 
-#### Aptitudes de Tradition de Niveau 5
+### Aptitudes de Tradition de Niveau 5
 
 Votre tradition de talent vous accorde deux aptitudes, comme indiqué dans le tableau des Aptitudes de Tradition de Niveau 5.
 
-###### Tableau des Aptitudes de Tradition de Niveau 5
+##### Tableau des Aptitudes de Tradition de Niveau 5
 
 | Tradition   | Aptitudes                                    |
 |-------------|----------------------------------------------|
@@ -894,31 +893,31 @@ Votre tradition de talent vous accorde deux aptitudes, comme indiqué dans le ta
 | Télékinésie | Amplificateur Cinétique, Triangulation      |
 | Télépathie  | Compulsion, Amplification à Distance        |
 
-##### Compulsion
+#### Compulsion
 
 Chaque fois que vous obtenez un succès sur un test utilisant une compétence du groupe de compétences interpersonnelles lors d'une interaction avec un PNJ, vous pouvez lui poser une question en utilisant votre aptitude Parole Télépathique. Le PNJ doit répondre à la question de manière véridique au mieux de ses capacités.
 
-##### Distorsion Temporelle
+#### Distorsion Temporelle
 
 Tant que vous n'êtes pas mourant, le temps se comporte de manière irrégulière autour de vous dans une aura de 3. Cette zone est un terrain difficile pour les ennemis. De plus, quand un allié entre dans la zone pour la première fois d'un round de combat ou commence son tour là, il gagne un bonus de +2 à la vitesse jusqu'à la fin du tour.
 
-##### Amplificateur Cinétique
+#### Amplificateur Cinétique
 
 Chaque fois que vous infligez un Déplacement Forcé à une créature, vous pouvez dépenser jusqu'à 2 impulsions. Pour chaque impulsion dépensée, la distance du Déplacement Forcé gagne un bonus égal à votre score de Raison.
 
-##### Amplification à Distance
+#### Amplification à Distance
 
 La distance de vos aptitudes psioniques à distance augmente de 5. De plus, la portée de votre capacité Parole Télépathique passe à 1,6 kilomètre.
 
-##### Vitesse de la Pensée
+#### Vitesse de la Pensée
 
 Une fois par tour de combat tant que vous n'êtes pas mourant, vous pouvez dépenser 2 clarté lorsque vous utilisez une action déclenchée pour la transformer en action déclenchée gratuite.
 
-##### Triangulation
+#### Triangulation
 
 Chaque fois qu'un allié utilise une aptitude à distance alors que vous vous trouvez dans la distance de l'aptitude, vous pouvez dépenser 1 clarté en tant qu'action déclenchée gratuite pour lui permettre d'utiliser l'aptitude comme s'il se trouvait dans votre espace.
 
-#### Aptitude de Clarté 9
+### Aptitude de Clarté 9
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 points de clarté à utiliser.
 
@@ -997,51 +996,51 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **⚡ Sous Tension :** Vous ciblez à la place vous-même et trois ennemis.
 
-### Aptitudes de Niveau 6
+## Aptitudes de Niveau 6
 
 En tant que talent de niveau 6, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage interpersonnel, de savoir ou surnaturel de votre choix.
 
-#### Amplification Psi
+### Amplification Psi
 
 Chaque fois que vous utilisez une aptitude qui est une action principale ou une manœuvre avec le mot-clé Psionique, vous pouvez dépenser de la discipline supplémentaire pour lui appliquer une amplification psi et améliorer ses effets. Les effets d'une amplification psi ne durent que jusqu'à la fin du tour durant lequel l'aptitude est utilisée pour la première fois. Vous pouvez appliquer plusieurs amplifications psi à une aptitude, mais seulement une instance de chaque amplification spécifique. Vous pouvez utiliser les amplifications psi suivantes.
 
-##### Pouvoir Dynamique (1 Clarté)
+#### Pouvoir Dynamique (1 Clarté)
 
 Si l'aptitude effectue un déplacement forcé sur une cible, la distance de déplacement forcé gagne un bonus égal à votre score de Raison.
 
-##### Pouvoir Étendu (3 Clarté)
+#### Pouvoir Étendu (3 Clarté)
 
 Si l'aptitude cible une zone, vous augmentez la taille de la zone de 1. Si la zone est une ligne, vous augmentez la taille d'une dimension, pas des deux.
 
-##### Pouvoir Étendu (1 Clarté)
+#### Pouvoir Étendu (1 Clarté)
 
 Si l'aptitude est à distance, la distance gagne un bonus égal à votre score de Raison. Si l'aptitude est au corps à corps, la distance gagne un bonus de +2.
 
-##### Pouvoir Intensifié (1 Clarté)
+#### Pouvoir Intensifié (1 Clarté)
 
 Si l'aptitude inflige des dégâts lancés, elle inflige des dégâts supplémentaires égaux à votre score de Raison.
 
-##### Pouvoir Amplifié (5 Clarté)
+#### Pouvoir Amplifié (5 Clarté)
 
 Si l'aptitude a un seuil, vous augmentez ce seuil d'un montant égal à votre score de Raison.
 
-##### Pouvoir Partagé (5 Clarté)
+#### Pouvoir Partagé (5 Clarté)
 
 Si l'aptitude cible des créatures ou objets individuels, vous ciblez une créature ou un objet supplémentaire à portée.
 
-##### Pouvoir Aiguisé (1 Clarté)
+#### Pouvoir Aiguisé (1 Clarté)
 
 Si l'aptitude comprend un jet de pouvoir, ce jet gagne un avantage.
 
-#### Aptitude de Tradition de Niveau 6
+### Aptitude de Tradition de Niveau 6
 
 Votre tradition de talent vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes de Chronopathie de Niveau 6
+#### Aptitudes de Chronopathie de Niveau 6
 
 Choisissez une des aptitudes suivantes.
 
@@ -1087,7 +1086,7 @@ Choisissez une des aptitudes suivantes.
 > 
 > **⚡ Sous Tension :** Toute créature ou objet subissant un déplacement forcé dans la zone subit 2 dégâts de corruption pour chaque case de la zone dans laquelle ils entrent. Les créatures et objets entravés dans la zone peuvent subir un déplacement forcé. Vous êtes entravé jusqu'à la fin de l'effet.
 
-##### Aptitudes de Télékinésie de Niveau 6
+#### Aptitudes de Télékinésie de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1129,7 +1128,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **⚡ Sous Tension :** Le Déplacement Forcé ignore la Stabilité. Vous subissez 2d6 dégâts et êtes Affaibli (Sauvegarde Termine).
 
-##### Aptitudes de Télépathie de Niveau 6
+#### Aptitudes de Télépathie de Niveau 6
 
 Choisissez une des aptitudes suivantes.
 
@@ -1171,43 +1170,43 @@ Choisissez une des aptitudes suivantes.
 > 
 > **⚡ Sous Tension :** L'effet se termine prématurément si vous subissez des dégâts d'une aptitude d'ennemi.
 
-### Aptitudes de Niveau 7
+## Aptitudes de Niveau 7
 
 En tant que talent de niveau 7, vous gagnez les aptitudes suivantes.
 
-#### Mémoire Ancestrale
+### Mémoire Ancestrale
 
 Chaque fois que vous terminez un répit, vous pouvez choisir un nombre de compétences que vous possédez jusqu'à votre score de Raison et les remplacer par un nombre égal de compétences des groupes de compétences interpersonnelles et de savoir. Ces remplacements durent jusqu'à la fin de votre prochain répit.
 
-#### Tension en Cascade
+### Tension en Cascade
 
 Chaque fois que vous subissez des dégâts d'un effet de Sous Tension ou d'avoir une Clarté négative, vous pouvez choisir un Ennemi à Distance de votre Aptitude Pointe Mentale pour qu'il subisse les mêmes dégâts.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Chacun de vos scores de caractéristique augmente de 1, jusqu'à un maximum de 4.
 
-#### Esprit Lucide
+### Esprit Lucide
 
 Au début de chacun de vos tours pendant le combat, vous gagnez 1d3 + 1 clarté au lieu de 1d3.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-### Aptitudes de Niveau 8
+## Aptitudes de Niveau 8
 
 En tant que talent de niveau 8, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Caractéristiques de Tradition de Niveau 8
+### Caractéristiques de Tradition de Niveau 8
 
 Votre tradition de Talent vous accorde deux caractéristiques, comme indiqué dans le tableau des Caractéristiques de Tradition de Niveau 8.
 
-###### Tableau des Aptitudes de Tradition de Niveau 8
+##### Tableau des Aptitudes de Tradition de Niveau 8
 
 | Tradition   | Aptitudes                                    |
 |-------------|----------------------------------------------|
@@ -1215,11 +1214,11 @@ Votre tradition de Talent vous accorde deux caractéristiques, comme indiqué da
 | Telekinesis | Levitation Field, Low Gravity                |
 | Telepathy   | Mindlink, Universal Connection               |
 
-##### Doubler les Heures
+#### Doubler les Heures
 
 Tant que vous avez 5 Victoires ou plus, vous pouvez entreprendre une activité de répit supplémentaire durant un répit.
 
-##### Champ de Lévitation
+#### Champ de Lévitation
 
 Vous avez l'aptitude suivante.
 
@@ -1238,15 +1237,15 @@ Vous avez l'aptitude suivante.
 > 
 > **🔥 Dépenser 5 Clarté :** Les effets durent 1 heure à la place.
 
-##### Faible Gravité
+#### Faible Gravité
 
 Votre esprit peut porter votre corps dans les moments difficiles. Vous ignorez le terrain difficile et n'avez pas besoin de dépenser du déplacement supplémentaire lorsque vous êtes à terre.
 
-##### Lien Mental
+#### Lien Mental
 
 Pendant un répit, vous pouvez choisir un nombre de créatures jusqu'à votre score de Raison avec lesquelles vous avez communiqué en utilisant votre aptitude Parole Télépathique, créant un lien télépathique entre vous tous. Chaque fois qu'une créature liée dépense une ou plusieurs Récupérations, chaque autre créature liée peut dépenser une Récupération.
 
-#### Bouclier de Stase
+### Bouclier de Stase
 
 Vous possédez l'aptitude suivante.
 
@@ -1267,11 +1266,11 @@ Vous possédez l'aptitude suivante.
 > 
 > **⚡ Sous Tension :** Vous ne pouvez pas vous cibler vous-même, et vous subissez les dégâts et tous les effets supplémentaires à la place de la cible.
 
-#### Connexion Universelle
+### Connexion Universelle
 
 La portée de votre aptitude Parole Télépathique s'étend à n'importe où sur le même monde.
 
-#### Aptitude à 11-Clarté
+### Aptitude à 11-Clarté
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 clarté à utiliser.
 
@@ -1348,11 +1347,11 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **⚡ Sous Tension :** Vous ne pouvez pas utiliser de manœuvres (sauvegarde termine).
 
-### Aptitudes de Niveau 9
+## Aptitudes de Niveau 9
 
 En tant que talent de niveau 9, vous gagnez les aptitudes suivantes.
 
-#### Forteresse de la Pensée Parfaite
+### Forteresse de la Pensée Parfaite
 
 Votre esprit est un palais impénétrable qui vous protège du danger. Vous gagnez les effets suivants :
 
@@ -1362,11 +1361,11 @@ Votre esprit est un palais impénétrable qui vous protège du danger. Vous gagn
 - Votre Raison et votre Intuition sont considérées comme 2 points plus élevées dans le but de résister au seuil des aptitudes.
 - Vous ne pouvez pas être nargué ou effrayé.
 
-#### Aptitude de Tradition de Niveau 9
+### Aptitude de Tradition de Niveau 9
 
 Votre tradition de talent vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes de Chronopathie de Niveau 9
+#### Aptitudes de Chronopathie de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1403,7 +1402,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Les cibles se partagent 6 points de leur Ressource Héroïque entre elles, selon votre choix. Une cible ne peut pas gagner plus de 3 points de sa Ressource Héroïque de cette manière. Après avoir utilisé cette aptitude, vous ne pouvez pas gagner de clarté jusqu'à la fin du prochain tour de combat.
 
-##### Aptitudes de Télékinésie de Niveau 9
+#### Aptitudes de Télékinésie de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1447,7 +1446,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **⚡ Sous Tension :** Vous êtes affaibli (sauvegarde termine). Si vous avez obtenu un coup critique avec cette aptitude, vous mourez.
 
-##### Aptitudes de Télépathie de Niveau 9
+#### Aptitudes de Télépathie de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1491,37 +1490,37 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **⚡ Sous Tension :** Vous ne pouvez utiliser cette aptitude si cela vous ferait avoir une clarté négative.
 
-### Aptitudes de Niveau 10
+## Aptitudes de Niveau 10
 
 En tant que talent de niveau 10, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Vos scores de Raison et de Présence augmentent chacun à 5.
 
-#### Esprit Clair
+### Esprit Clair
 
 La première fois à chaque tour de combat qu'une créature subit un déplacement forcé, vous gagnez 3 clarté au lieu de 2.
 
-#### Omnisensoriel
+### Omnisensoriel
 
 Vous bénéficiez d'un bonus de +10 à la Distance de vos Aptitudes à distance. De plus, vous n'avez pas besoin de Ligne d'Effet vers une Cible d'une Aptitude à distance si la Cible est une Créature capable de pensée vers laquelle vous avez déjà eu une Ligne d'Effet auparavant.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage interpersonnel, de savoir ou surnaturel de votre choix.
 
-#### Psion
+### Psion
 
 Au début de chacun de vos tours pendant le combat, vous gagnez 1d3 + 2 clarté au lieu de 1d3 + 1.
 
 De plus, vous pouvez choisir de ne pas subir de dégâts en ayant une clarté négative. Vous pouvez également choisir de subir l'effet sous tension de n'importe quelle aptitude même si vous n'êtes pas sous tension.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-#### Vision
+### Vision
 
 Vous possédez une ressource épique appelée vision. Chaque fois que vous terminez un répit, vous gagnez de la vision égale aux XP que vous gagnez. Vous pouvez dépenser de la vision sur vos aptitudes comme s'il s'agissait de clarté.
 

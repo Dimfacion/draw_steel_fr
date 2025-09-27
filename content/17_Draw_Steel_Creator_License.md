@@ -1,7 +1,6 @@
 ---
 title: Licence
 ---
-
 # Licence Créateur Draw Steel
 
 **Note :** Cette licence s'applique au livre original, *Draw Steel Heroes.*

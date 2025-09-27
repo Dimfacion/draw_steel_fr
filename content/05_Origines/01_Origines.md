@@ -1,7 +1,6 @@
 ---
 title: Origines
 ---
-
 # Origine
 
 Qu'est-ce qui fait un héros ? Leur désir de défendre les innocents et de protéger les autres est-il d'une certaine manière inné ? Naissent-ils en sachant que les tyrans doivent tomber ? Une puissance supérieure leur inculque-t-elle l'idée que parfois ceux qui méritent le moins la compassion sont ceux qui en ont le plus besoin ?

@@ -1,8 +1,7 @@
 ---
 title: Tacticien
 ---
-
-## Tacticien
+# Tacticien
 
 Stratège. Défenseur. Leader. Arme en main, tu mènes tes alliés dans la gueule de la bataille, aboyant des ordres qui inspirent tes compagnons héros à se déplacer plus vite et frapper avec plus de précision. Pendant ce temps, tu te dresses entre tes compatriotes et la mort, narguant les Suivants du mal de te défier s'ils le peuvent.
 
@@ -12,7 +11,7 @@ Stratège. Défenseur. Leader. Arme en main, tu mènes tes alliés dans la gueul
 >
 > **Sir John de Tor**
 
-### Bases
+## Bases
 
 **Caractéristiques de Départ :** Vous commencez avec une Force de 2 et une Raison de 2, et vous pouvez choisir l'un des tableaux suivants pour vos autres scores de caractéristiques :
 
@@ -34,11 +33,11 @@ Stratège. Défenseur. Leader. Arme en main, tu mènes tes alliés dans la gueul
 
 **Compétences :** Vous gagnez la compétence Commandement (voir Compétences au Chapitre 9 : Tests). Puis choisissez deux compétences parmi Vigilance, Architecture, Forge, Vantardise, Culture, Empathie, Empennage, Mécanique, Monstres, Fouille, Stratégie, ou les compétences du groupe de compétences d'exploration. (*Construction Rapide :* Commandement, Monstres, Stratégie.)
 
-### Aptitudes de Niveau 1
+## Aptitudes de Niveau 1
 
 En tant que tacticien de niveau 1, vous gagnez les aptitudes suivantes.
 
-#### Doctrine Tactique
+### Doctrine Tactique
 L'art de la guerre est aussi ancien que la civilisation—et peut-être même plus ancien. Alors que les batailles devenaient de plus en plus complexes, les chefs militaires ont inventé la doctrine tactique, définissant comment les combattants devaient être structurés, utilisés et déployés. La doctrine peut être apprise dans des académies militaires transmettant d'anciennes traditions martiales, ou directement par le sang et la sueur sur le champ de bataille. Quel que soit le chemin qui vous a mené à votre maîtrise de tactiques historiquement éprouvées, vous choisissez une doctrine tactique parmi les options suivantes, chacune vous accordant une compétence. (*Construction Rapide :* Avant-garde et la compétence Intimidation.)
 
 - **Insurgé :** Faire son devoir, jouer franc-jeu et mourir honorablement au combat, c'est le travail de votre adversaire. Vous ferez tout ce qu'il faut pour garder vos alliés en vie. Vous gagnez une compétence du groupe de compétences d'intrigue.
@@ -47,11 +46,11 @@ L'art de la guerre est aussi ancien que la civilisation—et peut-être même pl
 
 Votre doctrine tactique est votre sous-classe, et votre choix de doctrine détermine beaucoup des capacités que vous gagnerez en montant de niveau.
 
-#### Concentration
+### Concentration
 
 Le fracas de l'acier panique les autres mais apporte l'ordre à votre esprit, vous accordant une Ressource Héroïque appelée concentration.
 
-###### Tableau d'Avancement du Tacticien
+##### Tableau d'Avancement du Tacticien
 
 | Niveau | Capacités                                                                                                                                      | Aptitudes      | Aptitudes de Doctrine |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------|
@@ -66,7 +65,7 @@ Le fracas de l'acier panique les autres mais apporte l'ordre à votre esprit, vo
 | 9e     | Grand Maître d'Armes, Aptitude de Doctrine                                                                                                    | 3, 5, 7, 9, 11 | 5, 9, 11              |
 | 10e    | Augmentation de Caractéristique, Commandement, Avantage, Compétence, Vraie Concentration, Maître de Guerre                                  | 3, 5, 7, 9, 11 | 5, 9, 11              |
 
-##### Concentration en Combat
+#### Concentration en Combat
 
 Au début d'une rencontre de combat ou d'une autre situation stressante suivie en tours de combat (selon la décision du Directeur), vous gagnez de la concentration égale à vos Victoires. Au début de chacun de vos tours pendant le combat, vous gagnez 2 points de concentration.
 
@@ -74,7 +73,7 @@ De plus, la première fois à chaque tour de combat que vous ou un allié inflig
 
 Vous perdez toute concentration restante à la fin de la rencontre.
 
-##### Concentration en Dehors du Combat
+#### Concentration en Dehors du Combat
 
 Bien que vous ne puissiez pas gagner de concentration en dehors du combat, vous pouvez utiliser vos aptitudes héroïques et effets qui coûtent de la concentration sans la dépenser. Chaque fois que vous utilisez une aptitude ou un effet en dehors du combat qui coûte de la concentration, vous ne pouvez pas utiliser cette même aptitude ou effet en dehors du combat à nouveau jusqu'à ce que vous obteniez 1 Victoire ou plus ou que vous terminiez un répit.
 
@@ -84,11 +83,11 @@ Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépense
 >
 > Beaucoup des aptitudes du tacticien accordent aux alliés du déplacement supplémentaire, des dégâts et des actions. Mais que se passe-t-il dans la fiction pour permettre cela ? Le tacticien est un stratège incroyable et un leader inspirant qui donne rapidement des ordres et de l'inspiration qui poussent leurs alliés à agir. Le tacticien peut rapidement lire le champ de bataille, analyser les ennemis, puis aboyer des ordres et des encouragements qui poussent leurs alliés vers la grandeur. Beaucoup des noms des aptitudes du tacticien sont les véritables commandements qu'ils donnent à leurs amis !
 
-#### Aptitude de Doctrine de 1er Niveau
+### Aptitude de Doctrine de 1er Niveau
 
 Votre doctrine tactique vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Doctrine de 1er Niveau.
 
-###### Tableau des Aptitudes de Doctrine de Niveau 1
+##### Tableau des Aptitudes de Doctrine de Niveau 1
 
 | Doctrine   | Aptitude             |
 |------------|---------------------|
@@ -96,17 +95,17 @@ Votre doctrine tactique vous accorde une aptitude, comme indiqué dans le tablea
 | Mastermind | Studied Commander   |
 | Vanguard   | Commanding Presence |
 
-##### Présence Imposante
+#### Présence Imposante
 
 Vous dominez toute pièce dans laquelle vous entrez. Tant que vous êtes présent lors d'une négociation, chaque héros qui vous accompagne traite sa Renommée comme étant 2 points plus élevée que d'habitude. De plus, chaque héros qui vous accompagne lors d'une rencontre de combat bénéficie d'un Double Avantage sur les tests effectués pour arrêter le combat et entamer une négociation.
 
-##### Opérations Secrètes
+#### Opérations Secrètes
 
 Tant qu'ils sont en votre présence ou qu'ils agissent selon vos plans, chacun de vos alliés gagne un avantage sur les tests utilisant n'importe quelle compétence du groupe de compétences d'intrigue. De plus, vous pouvez utiliser la compétence Commandement pour aider une autre créature avec n'importe quel test effectué en utilisant une compétence du groupe d'intrigue.
 
 À la discrétion du Directeur, vous et vos alliés pouvez utiliser les compétences du groupe de compétences d'intrigue pour tenter des recherches ou de la reconnaissance pendant une négociation au lieu d'en dehors d'une négociation.
 
-##### Commandant Érudit
+#### Commandant Érudit
 
 Votre connaissance encyclopédique de l'histoire des batailles vous permet d'appliquer ce savoir aux défis actuels. Tant que vous êtes présent, chaque héros avec vous traite le Projet de Temps Libre Découvrir les Traditions lié à une guerre ou une bataille comme étant d'une catégorie moins chère. Cela rend gratuits les projets cherchant des traditions communes, mais de tels projets nécessitent toujours une activité de répit pour être complétés. (Voir Chapitre 12 : Projets de Temps Libre pour plus d'informations.)
 
@@ -124,11 +123,11 @@ Les résultats de test suivants s'appliquent à une négociation :
 
 Vous ne pouvez faire ce test qu'une seule fois pour toute rencontre ou négociation.
 
-#### Action Déclenchée de Doctrine
+### Action Déclenchée de Doctrine
 
 Votre doctrine tactique vous accorde une action déclenchée, comme indiqué dans le tableau des Actions Déclenchées de Doctrine.
 
-###### Tableau des Actions Déclenchées de Doctrine
+##### Tableau des Actions Déclenchées de Doctrine
 
 | Doctrine      | Action Déclenchée |
 |---------------|-------------------|
@@ -187,7 +186,7 @@ Votre doctrine tactique vous accorde une action déclenchée, comme indiqué dan
 > 
 > **🔥 Dépenser 1 Concentration:** La distance de cette aptitude devient Corps à corps 1 + votre score de Raison, et vous pouvez glisser d'un nombre de cases égal à votre score de Raison au lieu d'1 case.
 
-#### Arsenal de Terrain
+### Arsenal de Terrain
 
 Vous vous êtes entraîné avec un large éventail d'armes et d'armures, et avez développé des techniques pour optimiser leur utilisation. Vous pouvez utiliser et bénéficier de deux panoplies, y compris de leurs aptitudes signature. Chaque fois que vous choisiriez ou changeriez une panoplie, vous pouvez également choisir ou changer votre seconde panoplie. Voir Chapitre 6 : Panoplies pour plus d'informations. (*Construction Rapide :* Armure Étincelante, Tireur d'Élite.)
 
@@ -206,7 +205,7 @@ Par exemple, si vous prenez les panoplies Armure Étincelante et Tireur d'Élite
 
 Les aptitudes signature de panoplie ont déjà les bonus de leur panoplie appliqués, ce qui pourrait vous obliger à ajuster les bonus des aptitudes signature que vous gagnez d'une panoplie. Par exemple, vous pourriez prendre la panoplie Artiste Martial, qui donne un bonus de dégâts d'arme de corps à corps de +2/+2/+2, et la panoplie Montagne, qui donne un bonus de dégâts d'arme de corps à corps de +0/+0/+4. Si vous choisissez d'utiliser le bonus de dégâts de la panoplie Montagne, alors l'aptitude signature Grâce de Combat de la panoplie Artiste Martial perd le bonus +2/+2/+2 de cette panoplie, réduisant ses dégâts habituels de 5/8/11 pour ses résultats de Tiers 1, Tiers 2 et Tiers 3 à 3/6/9. Elle gagne ensuite le +0/+0/+4 de la panoplie Montagne pour infliger 3/6/13 dégâts.
 
-#### Marquer
+### Marquer
 
 Vous savez comment concentrer l'attention de vos alliés en les poussant vers la victoire. Vous disposez de l'aptitude suivante.
 
@@ -234,7 +233,7 @@ Vous savez comment concentrer l'attention de vos alliés en les poussant vers la
 > 
 > Vous ne pouvez pas obtenir plus d'un bénéfice du même déclencheur.
 
-#### Frapper Maintenant
+### Frapper Maintenant
 
 Vous disposez de l'aptitude suivante.
 
@@ -253,19 +252,19 @@ Vous disposez de l'aptitude suivante.
 > 
 > **🔥 Dépenser 5 Concentration :** Vous ciblez deux alliés au lieu d'un.
 
-#### Aptitudes de Tacticien
+### Aptitudes de Tacticien
 
 Vous êtes un combattant redoutable à part entière, mais votre plus grande force réside dans les aptitudes que vous maîtrisez et qui vous permettent de façonner le contrôle du champ de bataille.
 
-##### Aptitude Signature de Panoplie
+#### Aptitude Signature de Panoplie
 
 Chaque panoplie de votre aptitude Arsenal de Terrain vous accorde une aptitude signature. Les aptitudes signature peuvent être utilisées à volonté.
 
-##### Aptitudes Héroïques
+#### Aptitudes Héroïques
 
 Vos aptitudes héroïques couvrent un éventail de tactiques de combat, qui nécessitent toutes de la concentration pour être utilisées.
 
-###### Aptitude 3-Concentration
+##### Aptitude 3-Concentration
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 points de concentration à utiliser. (*Construction Rapide :* Frappe Inspirante.)
 
@@ -330,7 +329,7 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** Chaque cible peut se déplacer jusqu'à sa vitesse.
 
-#### Aptitude à 5 Concentration
+### Aptitude à 5 Concentration
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 concentration à utiliser. (*Construction Rapide :* Marteau et Enclume.)
 
@@ -398,19 +397,19 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** Chaque cible qui n'a pas encore agi ce tour de combat peut prendre son tour dans n'importe quel ordre immédiatement après le vôtre.
 
-### Aptitudes de Niveau 2
+## Aptitudes de Niveau 2
 
 En tant que tacticien de niveau 2, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'exploration, interpersonnel ou d'intrigue de votre choix. Voir Chapitre 7 : Avantages.
 
-#### Aptitude de Doctrine de Niveau 2
+### Aptitude de Doctrine de Niveau 2
 
 Votre doctrine tactique vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Doctrine de Niveau 2.
 
-###### Tableau des Capacités de Doctrine de Niveau 2
+##### Tableau des Capacités de Doctrine de Niveau 2
 
 | Doctrine                    | Capacité             |
 |-----------------------------|----------------------|
@@ -418,25 +417,25 @@ Votre doctrine tactique vous accorde une aptitude, comme indiqué dans le tablea
 | Mastermind                  | Provoqué             |
 | Vanguard                    | Supériorité au Corps à Corps |
 
-##### Provoqué
+#### Provoqué
 
 Vous avez appris à exploiter la psychologie de vos ennemis marqués et à les provoquer pour qu'ils agissent avant d'être tactiquement prêts. Chaque fois qu'une créature marquée par vous utilise une frappe qui vous cible ou cible un allié dans votre ligne d'effet, vous pouvez utiliser une action déclenchée gratuite pour changer une cible de la frappe vers vous ou un autre allié dans votre ligne d'effet. La nouvelle cible doit être à distance de l'aptitude et dans la ligne d'effet de la créature qui l'utilise.
 
-##### Tactiques d'Infiltration
+#### Tactiques d'Infiltration
 
 Vous avez entraîné votre escouade à travailler ensemble, rester silencieuse et attendre le moment opportun pour frapper. Chaque fois que vous ou n'importe quel allié à moins de 10 cases de vous devient caché, cette créature gagne 1 élan.
 
-##### Supériorité au Corps à Corps
+#### Supériorité au Corps à Corps
 
 Après des exercices constants, vous pouvez anticiper plus précisément les plans d'un ennemi et contrecarrer ses tentatives de se déplacer sur le champ de bataille. Chaque fois que vous effectuez une attaque d'opportunité, la vitesse de la cible est réduite à 0 jusqu'à la fin du tour actuel.
 
 **Avantage de Marque :** Quand une créature marquée par vous tente de se déplacer ou de glisser à distance de votre frappe gratuite au corps à corps, vous pouvez utiliser une action déclenchée gratuite et dépenser 2 points de concentration pour effectuer une frappe gratuite au corps à corps contre cette créature.
 
-#### Aptitude de Doctrine de Niveau 2
+### Aptitude de Doctrine de Niveau 2
 
 Votre doctrine tactique vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitude d'Insurgé de Niveau 2
+#### Aptitude d'Insurgé de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -473,7 +472,7 @@ Choisissez l'une des aptitudes suivantes.
 > - **12-16 :** 3 + R dégâts ; R < MOYEN, effrayé (sauvegarde termine)
 > - **17+ :** 4 + R dégâts ; R < FORT, effrayé (sauvegarde termine)
 
-##### Aptitude de Cerveau de 2e Niveau
+#### Aptitude de Cerveau de 2e Niveau
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -510,7 +509,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **🎖️ Bénéfice de Marque :** Jusqu'à la fin de la rencontre, à chaque fois que toi ou n'importe quel allié effectue une frappe contre une créature marquée par toi, tu peux dépenser 2 concentration pour ajouter une cible supplémentaire à la frappe.
 
-##### Aptitude de Vanguard de Niveau 2
+#### Aptitude de Vanguard de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -547,15 +546,15 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Jusqu'au début de votre prochain tour, chaque cible a un bonus à la stabilité égal à votre score de Force. De plus, chaque cible gagne 2 impulsions.
 
-### Aptitudes de Niveau 3
+## Aptitudes de Niveau 3
 
 En tant que tacticien de niveau 3, vous gagnez les aptitudes suivantes.
 
-#### Hors de Position
+### Hors de Position
 
 Même avant que la bataille ne commence, vos ennemis peinent à suivre vos tactiques. Au début d'une rencontre, vous pouvez utiliser une action déclenchée gratuite pour utiliser votre aptitude Marquer contre un ennemi pour lequel vous avez une ligne d'effet, même si vous êtes surpris. Vous pouvez ensuite faire subir un glissement à la cible marquée jusqu'à 3 cases, en ignorant la stabilité. La cible ne peut pas être déplacée d'une manière qui lui causerait du mal (comme par-dessus une falaise), la laisserait mourante, ou lui ferait subir un état ou tout autre effet négatif.
 
-#### Aptitude à 7-Concentration
+### Aptitude à 7-Concentration
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 concentration à utiliser.
 
@@ -611,39 +610,39 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois que vous ou n'importe quel allié infligez des dégâts à une cible marquée par vous, la créature qui a infligé les dégâts peut dépenser une récupération.
 
-### Aptitudes de Niveau 4
+## Aptitudes de Niveau 4
 
 En tant que tacticien de niveau 4, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Vos scores de Force et de Raison augmentent chacun à 3.
 
-#### Concentrez-vous sur leurs Faiblesses
+### Concentrez-vous sur leurs Faiblesses
 
 La première fois à chaque tour de combat que vous ou un allié infligez des dégâts à une cible marquée par vous, vous gagnez 2 points de concentration au lieu de 1.
 
-#### Arsenal de Terrain Amélioré
+### Arsenal de Terrain Amélioré
 
 Votre expertise avec les armes s'est développée. Chaque fois que vous utilisez une aptitude signature de l'une de vos panoplies équipées ou effectuez une frappe gratuite en utilisant une arme de l'une de vos panoplies équipées, vous gagnez un avantage.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix. Voir Compétences au Chapitre 9 : Tests.
 
-### Aptitudes de Niveau 5
+## Aptitudes de Niveau 5
 
 En tant que tacticien de niveau 5, vous gagnez les aptitudes suivantes.
 
-#### Aptitudes de Doctrine de 5e Niveau
+### Aptitudes de Doctrine de 5e Niveau
 
 Votre doctrine tactique vous accorde deux aptitudes, comme indiqué dans le tableau des Aptitudes de Doctrine de 5e Niveau.
 
-###### Tableau des Capacités de Doctrine de Niveau 5
+##### Tableau des Capacités de Doctrine de Niveau 5
 
 | Doctrine      | Capacités                                    |
 |---------------|----------------------------------------------|
@@ -651,31 +650,31 @@ Votre doctrine tactique vous accorde deux aptitudes, comme indiqué dans le tabl
 | Mastermind    | Anticipation, I Predicted That               |
 | Vanguard      | Shake It Off, Tactical Offensive             |
 
-##### Anticipation
+#### Anticipation
 
 Vous avez appris à être plus préventif sur le champ de bataille, en pensant plus d'étapes à l'avance que vos adversaires. Vous pouvez cibler deux créatures avec votre aptitude Marque.
 
-##### Distrait
+#### Distrait
 
 Vous maîtrisez l'aptitude à distraire vos ennemis, permettant à vous et vos alliés de profiter de leurs moments d'inattention. Chaque fois que vous ou un allié tentez de vous cacher, toute créature marquée par vous ne compte pas comme observateur. De plus, vous et vos alliés pouvez utiliser d'autres alliés comme abri dans le but de vous cacher.
 
-##### J'avais Prévu Ça
+#### J'avais Prévu Ça
 
 Votre expertise en histoire et en traditions vous permet, à vous et à vos alliés, de surpasser vos rivaux dans le présent. Vous et tout allié dans un rayon de 10 cases de vous gagnez un avantage sur les tests de Raison.
 
-##### Ne Laisser Aucune Trace
+#### Ne Laisser Aucune Trace
 
 Vous et tout allié dans un rayon de 10 cases de vous pouvez vous déplacer à vitesse maximale tout en vous faufilant. De plus, les ennemis dans un rayon de 10 cases de vous subissent un fléau sur les tests effectués pour vous rechercher, vous ou vos alliés, tant que l'un d'entre vous est caché.
 
-##### Secouer le Mal
+#### Secouer le Mal
 
 En tant que manœuvre gratuite, vous pouvez dépenser 1d6 Vigueur pour ignorer une conséquence d'un test, ou pour mettre fin à un effet vous affectant qui se termine par un jet de sauvegarde ou qui se termine à la fin de votre tour. Tout allié adjacent à vous peut également dépenser de la Vigueur en tant que manœuvre gratuite pour bénéficier de cet avantage.
 
-##### Offensive Tactique
+#### Offensive Tactique
 
 Quand vous utilisez l'Action Principale - Charge pour attaquer une créature marquée par vous, vous pouvez utiliser une aptitude signature ou héroïque avec les mots-clés Corps à Corps et Frappe au lieu d'une Frappe Gratuite au Corps à Corps.
 
-#### Aptitude à 9 Concentration
+### Aptitude à 9 Concentration
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 points de concentration à utiliser.
 
@@ -736,23 +735,23 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** La cible utilise une aptitude héroïque avec le mot-clé Frappe comme une action déclenchée gratuite, et inflige des dégâts supplémentaires avec cette aptitude égaux à votre score de Raison. L'aptitude voit son coût en Ressource Héroïque réduit de 1 + votre score de Raison (coût minimum 0).
 
-### Aptitudes de Niveau 6
+## Aptitudes de Niveau 6
 
 En tant que tacticien de niveau 6, vous gagnez les aptitudes suivantes.
 
-#### Maître d'Armes
+### Maître d'Armes
 
 Votre expertise avec les armes a atteint une véritable maîtrise. Chaque fois que vous utilisez une aptitude signature de l'une de vos panoplies équipées ou effectuez une frappe gratuite avec une arme de l'une de vos panoplies équipées, vous pouvez annuler un fléau sur le jet de pouvoir ou réduire un double fléau à un fléau.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'exploration, interpersonnel ou d'intrigue de votre choix.
 
-#### Aptitude de Doctrine de Niveau 6
+### Aptitude de Doctrine de Niveau 6
 
 Votre doctrine tactique vous accorde le choix entre deux aptitudes héroïques.
 
-##### Capacités d'Insurgé de 6ème Niveau
+#### Capacités d'Insurgé de 6ème Niveau
 
 Choisissez une des capacités suivantes.
 
@@ -789,7 +788,7 @@ Choisissez une des capacités suivantes.
 > 
 > **💫 Effet :** Si une cible subit un mouvement forcé contre une autre créature, elle doit effectuer une frappe libre contre cette créature.
 
-##### Capacités de Stratège de 6ème Niveau
+#### Capacités de Stratège de 6ème Niveau
 
 Choisissez une des capacités suivantes.
 
@@ -821,7 +820,7 @@ Choisissez une des capacités suivantes.
 > 
 > **💫 Effet :** Vous marquez deux ennemis à moins de 10 cases de vous. Chaque cible peut se déplacer jusqu'à sa vitesse. Vous et chaque cible gagnez 2 élans.
 
-##### Capacités d'Avant-garde de 6ème Niveau
+#### Capacités d'Avant-garde de 6ème Niveau
 
 Choisissez une des capacités suivantes.
 
@@ -863,31 +862,31 @@ Choisissez une des capacités suivantes.
 > 
 > **💫 Effet :** Si la cible est touchée par deux frappes ou plus dans le cadre de cette capacité et qu'elle a R < FORT, elle est étourdie (fin sur sauvegarde). Si la cible est réduite à 0 Endurance avant qu'un ou les deux alliés aient effectué leur frappe, l'allié ou les alliés peuvent choisir une cible différente.
 
-### Aptitudes de Niveau 7
+## Aptitudes de Niveau 7
 
 En tant que tacticien de niveau 7, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Chacun de vos scores de caractéristique augmente de 1, jusqu'à un maximum de 4.
 
-#### Concentration Intensifiée
+### Concentration Intensifiée
 
 Quand vous gagnez de la concentration au début de chacun de vos tours pendant le combat, vous gagnez 3 points de concentration au lieu de 2.
 
-#### Prendre l'Initiative
+### Prendre l'Initiative
 
 Si vous n'êtes pas surpris quand le combat commence, votre camp joue en premier. Si un ennemi possède une aptitude qui permet à son camp de jouer en premier, vous lancez les dés comme d'habitude pour déterminer qui joue en premier.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-#### Aptitude de Doctrine de 7e Niveau
+### Aptitude de Doctrine de 7e Niveau
 
 Votre doctrine tactique vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Doctrine de 7e Niveau.
 
-###### Tableau des Aptitudes de Doctrine de Niveau 7
+##### Tableau des Aptitudes de Doctrine de Niveau 7
 
 | Doctrine   | Aptitude           |
 |------------|--------------------|
@@ -895,31 +894,31 @@ Votre doctrine tactique vous accorde une aptitude, comme indiqué dans le tablea
 | Mastermind | Grande Stratégie   |
 | Vanguard   | Choc et Effroi     |
 
-##### Guerre Asymétrique
+#### Guerre Asymétrique
 
 Vous avez perfectionné vos compétences en subterfuge, dirigeant désormais la stratégie de champ de bataille et la logistique dans leur ensemble. Lors d'un Test de Montage ou d'une Négociation, vous pouvez obtenir une réussite automatique sur un Test effectué en utilisant une Compétence du groupe de compétences intrigue. De plus, vous pouvez utiliser les Compétences du groupe de compétences intrigue pour dissimuler de grands groupes de personnes, comme des civils en fuite et des groupes de guérilleros.
 
-##### Grande Stratégie
+#### Grande Stratégie
 
 Vous avez développé vos compétences en stratégie, maniant des tactiques de champ de bataille et des plans complexes. Lors d'un Test de Montage ou d'une Négociation, vous pouvez obtenir une réussite automatique sur un Test effectué en utilisant une Compétence du groupe de compétences savoir. De plus, quand vous prenez un Répit, vous pouvez effectuer un Jet de Projet pour un Projet de Recherche en plus d'entreprendre une autre activité de Répit.
 
-##### Choc et Stupeur
+#### Choc et Stupeur
 
 Vous avez développé vos compétences de leadership, renforçant le moral de vos suivants et fournissant un soutien logistique. Lors d'un test de montage ou d'une négociation, vous pouvez obtenir une réussite automatique sur un test effectué en utilisant une compétence du groupe de compétences interpersonnelles. De plus, vous pouvez convaincre un groupe de personnes de vous aider avec un projet d'artisanat pendant un répit. Si ces personnes sont disponibles lorsque vous prenez un répit, vous pouvez effectuer un jet de projet pour un projet d'artisanat en plus d'entreprendre une autre activité de répit.
 
-### Aptitudes de Niveau 8
+## Aptitudes de Niveau 8
 
 En tant que tacticien de niveau 8, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Aptitude de Doctrine de Niveau 8
+### Aptitude de Doctrine de Niveau 8
 
 Votre doctrine tactique vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Doctrine de Niveau 8.
 
-###### Tableau des Aptitudes de Doctrine de Niveau 8
+##### Tableau des Aptitudes de Doctrine de Niveau 8
 
 | Doctrine      | Aptitude                                    |
 |---------------|---------------------------------------------|
@@ -927,25 +926,25 @@ Votre doctrine tactique vous accorde une aptitude, comme indiqué dans le tablea
 | Cerveau       | Mouvement en Tenaille                      |
 | Avant-garde   | Voir Vos Ennemis Fuir Devant Vous         |
 
-##### Appât et Embuscade
+#### Appât et Embuscade
 
 Vous avez entraîné votre escouade à être des embusqueurs silencieux.
 
 **Avantage de Marque :** Quand vous ou n'importe quel allié effectue une frappe contre une créature marquée par vous, vous pouvez dépenser 2 points de concentration pour permettre au personnage effectuant la frappe de glisser d'un nombre de cases égal à votre score de Raison et d'utiliser la Manœuvre - Se Cacher comme une manœuvre gratuite une fois pendant le glissement. La créature peut glisser avant ou après la résolution de la frappe.
 
-##### Mouvement en Tenaille
+#### Mouvement en Tenaille
 
 Vous avez entraîné votre escouade à coordonner ses déplacements pour maximiser l'impact au combat.
 
 **Avantage de Marque :** Quand vous ou n'importe quel allié effectue une frappe contre une créature marquée par vous, vous pouvez dépenser 2 points de concentration pour permettre au personnage qui effectue la frappe de glisser d'un nombre de cases égal à votre score de Raison avant que la frappe ne soit résolue. Si vous n'avez pas effectué la frappe, vous pouvez également effectuer ce glissement. Si vous avez effectué la frappe, un allié dans un rayon de 10 cases de vous peut également effectuer ce glissement.
 
-##### Voir Vos Ennemis Fuir Devant Vous
+#### Voir Vos Ennemis Fuir Devant Vous
 
 Vous avez entraîné votre escouade à maximiser l'impact et à percer les lignes ennemies lors de leurs attaques.
 
 **Avantage de Marque :** Quand vous ou n'importe quel allié effectuez une frappe au corps à corps contre une créature marquée par vous, vous pouvez dépenser 2 points de concentration pour permettre au personnage qui effectue la frappe de pousser la cible d'un nombre de cases égal à votre score de Raison. Ce personnage peut ensuite glisser d'un nombre de cases égal à votre score de Raison, en terminant ce glissement adjacent à la cible.
 
-#### 11-Aptitude de Concentration
+### 11-Aptitude de Concentration
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 points de concentration à utiliser.
 
@@ -1008,19 +1007,19 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** Un allié dans un rayon de 10 cases de vous peut utiliser une aptitude héroïque contre la cible comme action déclenchée gratuite sans dépenser de sa ressource héroïque, tant qu'il possède suffisamment de ressource héroïque pour payer l'aptitude. Si la cible est réduite à 0 vigueur avant que l'allié choisi n'ait utilisé son aptitude, l'allié peut choisir une cible différente.
 
-### Capacités de 9ème Niveau
+## Capacités de 9ème Niveau
 
 En tant que tacticien de 9ème niveau, vous gagnez les capacités suivantes.
 
-#### Grand Maître d'Armes
+### Grand Maître d'Armes
 
 Votre expertise avec les armes a atteint une véritable maîtrise. Chaque fois que vous utilisez une capacité signature de l'un de vos kits équipés ou effectuez une frappe libre en utilisant une arme de l'un de vos kits équipés, vous obtenez automatiquement un résultat de niveau 3 sur le jet de puissance. Vous pouvez toujours lancer les dés pour déterminer si vous obtenez un coup critique.
 
-#### Aptitude de Doctrine de Niveau 9
+### Aptitude de Doctrine de Niveau 9
 
 Votre doctrine tactique vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes d'Insurgé de Niveau 9
+#### Aptitudes d'Insurgé de Niveau 9
 
 Choisissez une des aptitudes suivantes.
 
@@ -1055,7 +1054,7 @@ Choisissez une des aptitudes suivantes.
 > - **12-16 :** R < MOYEN, étourdi (sauvegarde termine)
 > - **17+ :** R < FORT, étourdi (sauvegarde termine)
 
-##### Aptitudes de Cerveau de Niveau 9
+#### Aptitudes de Cerveau de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1085,7 +1084,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Vous gagnez 6 impulsions. Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez mourant, chaque fois que le Directeur dépense de la Malveillance (voir *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), choisissez vous-même ou un allié dans un rayon de 10 cases. Le personnage choisi gagne 2 points de sa Ressource Héroïque.
 
-##### Aptitudes d'Avant-garde de Niveau 9
+#### Aptitudes d'Avant-garde de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1129,15 +1128,15 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Jusqu'à la fin de la rencontre ou jusqu'à ce que vous soyez Mourant, vous pouvez utiliser une Aptitude Signature ou Héroïque au lieu d'une Frappe Gratuite contre toute cible marquée par vous.
 
-### Aptitudes de Niveau 10
+## Aptitudes de Niveau 10
 
 En tant que tacticien de niveau 10, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Vos scores de Force et de Raison augmentent chacun à 5.
 
-#### Commandement
+### Commandement
 
 Vous disposez d'une ressource épique appelée commandement. Chaque fois que vous terminez un répit, vous gagnez du commandement égal aux XP que vous obtenez. Vous pouvez dépenser du commandement sur vos aptitudes comme s'il s'agissait de concentration.
 
@@ -1145,19 +1144,19 @@ De plus, chaque fois que vous ou n'importe quel allié utilisez une aptitude pou
 
 Le commandement persiste jusqu'à ce que vous le dépensiez.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'exploration, interpersonnel ou d'intrigue de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-#### Vraie Concentration
+### Vraie Concentration
 
 Quand vous gagnez de la concentration au début de chacun de vos tours pendant le combat, vous gagnez 4 points de concentration au lieu de 3.
 
-#### Maître de Guerre
+### Maître de Guerre
 
 Vous maîtrisez l'intégralité des stratégies et tactiques possibles. Chaque fois que vous ou un allié effectuez un jet d'aptitude contre une cible que vous avez marquée, le personnage qui effectue le jet peut lancer trois dés et choisir lesquels deux utiliser.
 

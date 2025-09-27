@@ -1,14 +1,13 @@
 ---
 title: Haut Elfe
 ---
-
-## Haut Elfe
+# Haut Elfe
 
 Enfants des célestes solaires créés pour entretenir leurs bibliothèques et servir les véritables elfes en tant que hérauts, l'histoire des hauts elfes décrit un âge meilleur, avant l'arrivée des Humains et de la guerre. Une époque où les célestes étaient encore dans le monde, et où seuls l'art et la beauté comptaient.
 
 Dans les millénaires qui ont suivi le retrait de leurs créateurs vers l'Arcadie, les hauts elfes ont bâti leur propre civilisation, vivant principalement dans et parmi les cités célestes déchues du ciel. Sans créateurs à satisfaire, les elfes continuent comme ils l'ont toujours fait — collectant les traditions et le savoir, vénérant l'art, et se repliant davantage sur eux-mêmes en se méfiant des étrangers à chaque génération.
 
-### À Propos des Hauts Elfes
+## À Propos des Hauts Elfes
 
 « Ils sont si beaux », dit Wenna. « C'est difficile d'imaginer que nous sommes en danger. »
 
@@ -78,38 +77,38 @@ Le roi se retourna vers eux. « Si l'un d'entre vous cherche un savoir caché ou
 
 Llyander posa ses mains sur ses hanches et regarda les enfants. « Pas mal pour votre deuxième quête. Qu'allez-vous faire en guise de rappel ? »
 
-### Traits des Hauts Elfes
+## Traits des Hauts Elfes
 
 Les héros hauts elfes ont accès aux traits suivants.
 
-#### Trait Signature : Glamour de Haut Elfe
+### Trait Signature : Glamour de Haut Elfe
 
 Un glamour magique fait que les autres vous perçoivent comme intéressant et captivant, vous accordant un avantage aux tests de Présence utilisant les compétences Flirter ou Persuader. Ce glamour vous fait paraître et sonner légèrement différent à chaque créature que vous rencontrez, car ce qui est captivant pour l'une peut être différent pour une autre. Cependant, vous n'apparaissez jamais comme quelqu'un d'autre que vous-même.
 
-#### Traits de Haut Elfe Achetés
+### Traits de Haut Elfe Achetés
 
 Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Sens Élevés, Grâce d'Outre-Monde.)
 
-##### Glamour de Terreur (2 Points)
+#### Glamour de Terreur (2 Points)
 
 Quand un ennemi frappe, vous inversez la magie de votre glamour pour instiller la peur dans son cœur. Chaque fois que vous subissez des dégâts d'une créature, vous pouvez utiliser une action déclenchée pour rendre cette créature effrayée de vous jusqu'à la fin de son prochain tour.
 
-##### Retraite Gracieuse (1 Point)
+#### Retraite Gracieuse (1 Point)
 
 Vous gagnez un bonus de +1 à la distance que vous pouvez glisser lorsque vous prenez l'Action de Déplacement - Désengagement.
 
-##### Sens Aiguisés (1 Point)
+#### Sens Aiguisés (1 Point)
 
 Vos sens sont particulièrement développés et perceptifs. Vous gagnez un avantage sur les tests effectués pour remarquer les menaces.
 
-##### Grâce d'Outre-Monde (2 Points)
+#### Grâce d'Outre-Monde (2 Points)
 
 Votre corps et votre esprit d'elfe ne peuvent être entravés bien longtemps. Chaque fois que vous effectuez un Jet de Sauvegarde, vous réussissez sur un résultat de 5 ou plus.
 
-##### Revisiter un Souvenir (1 Point)
+#### Revisiter un Souvenir (1 Point)
 
 Accéder aux souvenirs est aussi facile que de vivre dans le présent pour vous. Vous gagnez un avantage aux tests effectués pour vous rappeler des connaissances.
 
-##### Esprit Imparable (2 Points)
+#### Esprit Imparable (2 Points)
 
 Votre esprit vous permet de maintenir votre concentration dans n'importe quelle situation. Vous ne pouvez pas être rendu étourdi.

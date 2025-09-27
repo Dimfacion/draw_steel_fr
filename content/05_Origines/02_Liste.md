@@ -1,12 +1,11 @@
 ---
 title: Liste
 ---
-
-### Carrières de A à Z
+# Carrières de A à Z
 
 Les carrières que votre personnage peut choisir sont présentées par ordre alphabétique.
 
-#### Agent
+## Agent
 
 Vous avez travaillé comme espion pour un gouvernement ou une organisation. En définissant votre Carrière, réfléchissez aux questions suivantes :
 
@@ -32,7 +31,7 @@ Vous obtenez les avantages de Carrière suivants :
 | 5   | **Espions et Amoureux :** Lors d'une mission d'infiltration, vous êtes tombé amoureux de quelqu'un du camp adverse. Cette personne a découvert que vous étiez un agent double, et bien que vous ayez insisté sur la sincérité de vos sentiments, la tromperie était trop profonde pour que votre Intérêt amoureux l'ignore. Elle vous a exposé, repoussé, ou est morte à cause de sa proximité avec vous. Vous avez quitté le monde de l'espionnage pour devenir un Héros sans rien à cacher.                                                 |
 | 6   | **Transfuge :** Vous avez passé votre vie au service de votre pays ou d'une organisation qui défendait vos valeurs. Durant vos opérations d'infiltration, vous avez découvert que tout ce qu'on vous avait dit était un mensonge. Que vous ayez confronté vos supérieurs ou été exposé, on vous a retiré vos médailles de service avant que vous partiez pour devenir un véritable Héros.                                                                                                                 |
 
-#### Aristocrate
+## Aristocrate
 
 Une carrière ? Qui a besoin d'une carrière quand on naît dans l'argent ! Ou qu'on s'y marie ! Ou qu'on s'y introduit par la ruse ! Quoi qu'il en soit, vous n'avez pas eu besoin de travailler grâce à la richesse générationnelle (de quelqu'un). En définissant votre carrière, réfléchissez aux questions suivantes :
 
@@ -62,7 +61,7 @@ Vous obtenez les avantages de carrière suivants :
 | 5  | **Pauvre Royal :** Cherchant une pause dans vos devoirs nobles, vous avez trouvé un sosie avec qui échanger vos identités. Cela s'est si bien passé que vous avez pris l'habitude d'échanger chaque fois que vous vous ennuyiez. Malheureusement, votre homologue est devenu si doué pour vous imiter qu'il a convaincu tous ceux qui vous entouraient que vous étiez un imposteur. Vous avez perdu le contact avec votre famille, mais poursuivez maintenant une voie héroïque libérée du faste de votre ancienne vie. |
 | 6  | **Secret Maléfique :** Un parent est décédé quand vous étiez bébé et l'autre s'est remarié des années plus tard. Puis ce parent est mort dans des circonstances suspectes. Son conjoint vous a évincé, et vous avez été banni (et possiblement traqué). Vous relevant de cette tragédie, vous cherchez maintenant à réparer les torts du monde. |
 
-#### Artisan
+## Artisan
 
 Vous fabriquiez et vendiez des produits utiles. En définissant votre carrière, réfléchissez aux questions suivantes :
 
@@ -90,7 +89,7 @@ Vous obtenez les avantages de carrière suivants :
 | 5  | **Honneur Terni :** Un nouveau mécène a commandé une œuvre d'art, mais à l'achèvement, il a refusé de vous payer et a revendiqué l'œuvre comme sienne. Vous avez été accusé de plagiat et chassé de la ville. Pour vous, l'héroïsme consiste à restaurer votre nom et votre honneur. |
 | 6  | **Talent Perverti :** Vous aviez un grand succès qui a poussé un rival sans scrupules à vous maudire. Pendant un temps, tout ce que vous tentiez de créer se transformait en ruine. Vous avez brisé la malédiction par l'aventure, et ce faisant, vous avez découvert une nouvelle joie et un nouveau but qui vous définissent maintenant. |
 
-#### Mendiant
+## Mendiant
 
 Tu as vécu en te rendant dans une taverne, à un carrefour, dans une rue de la ville ou dans d'autres lieux animés pour mendier de l'argent ou de la nourriture auprès des passants. En définissant ta Carrière, réfléchis aux questions suivantes :
 
@@ -116,7 +115,7 @@ Tu obtiens les avantages de Carrière suivants :
 | 5  | **Étrange Charité :** Un passant a laissé tomber quelque chose dans ta tasse. Quand tu as compté ta collecte du jour, tu as trouvé une pièce magique parmi les cuivres. Tu as immédiatement su qu'elle était spéciale. Quand les autres mendiants—tes amis, pensais-tu—ont montré qu'ils étaient prêts à te tuer pour l'avoir, tu en as tué plusieurs en légitime défense avant de fuir, laissant derrière toi le seul semblant de communauté que tu avais. |
 | 6  | **Témoin :** Tu as été témoin de quelque chose que tu n'étais pas censé voir. D'autres te tueraient s'ils le savaient, et ils pourraient te chercher en ce moment même. Tu restes en mouvement, terrifié à l'idée de rester trop longtemps au même endroit de peur que tout te rattrape. Peut-être que si tu te fais un nom assez grand, tu pourras devenir intouchable et enfin parler de ce qui s'est passé sans crainte. |
 
-#### Criminel
+## Criminel
 
 Tu as autrefois travaillé comme bandit, insurgé, contrebandier, hors-la-loi, ou même comme assassin. En définissant ta carrière, réfléchis aux questions suivantes :
 
@@ -144,7 +143,7 @@ Tu obtiens les avantages de carrière suivants :
 | 5  | **Simple Survie :** Voler était une question de survie pour toi et ne te définissait pas—du moins dans ton esprit. Mais quand tes actions de vol ont mené à ce que des innocents soient blessés, tu savais que tu pouvais être meilleur. Tu as tourné le dos à ton ancienne vie, bien que tes anciennes compétences soient encore utiles. |
 | 6  | **Résister à la Tyrannie :** Quand un tyran a pris le pouvoir dans ta patrie, il a commencé à sévir contre tous les criminels avec des raids mortels et des exécutions publiques. La nature du crime n'importait pas, avec des pickpockets et des mendiants forcés de s'agenouiller devant la hache aux côtés des meurtriers. Après avoir perdu assez d'amis, tu t'es levé et as rejoint la résistance—non seulement contre ce tyran, mais contre les autoritaires partout. |
 
-#### Disciple
+## Disciple
 
 Vous avez travaillé dans une église, un temple ou une autre institution religieuse en tant que membre du clergé. En définissant votre carrière, réfléchissez aux questions suivantes :
 
@@ -170,7 +169,7 @@ Vous obtenez les avantages de carrière suivants :
 | 5  | **Expérience de Mort Imminente :** Alors que vous serviez dans une institution religieuse, vous avez failli mourir dans un accident. Quand vous vous êtes réveillé, vous aviez perdu tout souvenir d'avoir jamais travaillé pour l'église ou le temple. Bien que le clergé vous ait encouragé à rester, vous êtes parti pour forger un nouveau chemin. Votre sens de l'altruisme—qu'il vous ait été inculqué par votre travail passé ou qu'il fasse partie de qui vous êtes naturellement—vous guide dans votre vie. |
 | 6  | **Temps d'Imposition :** L'organisation religieuse dont vous faisiez autrefois partie est devenue corrompue. Elle utilisait son statut dans la communauté pour accumuler la richesse par les dîmes, tandis que ses dirigeants recherchaient des nominations politiques. Durant une saison de sécheresse, l'institution a stocké des ressources et refusé d'apporter de l'aide, causant la mort de nombreuses personnes. Vous êtes devenu un héros pour lutter contre une telle corruption et honorer ceux que vous avez perdus. |
 
-#### Explorateur
+## Explorateur
 
 Vous vous êtes aventuré dans des zones inexplorées et avez gagné votre vie en tant que cartographe, chercheur, prospecteur de ressources ou chasseur de trésors. En définissant votre carrière, réfléchissez aux questions suivantes :
 
@@ -197,7 +196,7 @@ Vous obtenez les avantages de carrière suivants :
 | 5  | **Soif de Voyage :** Vous vous considériez comme un observateur et opériez selon un code de conduite. Vous aviez juré de ne jamais interférer avec un groupe en l'exposant à votre technologie, vos connaissances ou vos valeurs. Mais face à un dilemme moral, vous avez soit brisé votre code soit resté les bras croisés—et en avez subi les conséquences. Durant cet incident, vous avez perdu votre journal d'observation mais êtes devenu un héros qui refuse de laisser le mal prospérer sans réagir. |
 | 6  | **Le Vent dans vos Voiles :** En tant qu'explorateur maritime, vous viviez pour tracer des routes inconnues. Bien que les voyages en haute mer soient pleins de dangers, la destination était toujours récompensée par des richesses, des connaissances ou quelque autre bénéfice significatif. Mais votre chance a tourné quand votre navire a été détruit par des pirates ou d'autres forces ennemies. Maintenant vous vous êtes mis à protéger ceux qui cherchent un passage sûr tout en espérant aussi venger votre équipage. |
 
-#### Fermier
+## Fermier
 
 Tu cultivais des récoltes ou t'occupais du bétail. En définissant ta Carrière, réfléchis aux questions suivantes :
 
@@ -225,7 +224,7 @@ Tu obtiens les avantages de Carrière suivants :
 | 5  | **Rasé :** Tes animaux ont été tués, tes récoltes et ta maison incendiées. Les coupables auraient pu être des bandits errants, des pillards d'un royaume voisin, ou des voyous engagés par une ferme rivale. Qui qu'ils aient été, ils t'ont laissé sans rien. Tu ne pouvais pas envisager de tout recommencer à zéro, alors tu as embrassé une vie héroïque pour protéger les autres de telles vilénies. |
 | 6  | **Volé :** Ta famille élevait des chevaux—de magnifiques Créatures que peu pouvaient rivaliser sur la piste et dans les lices de joute. Quand un noble local est arrivé avec une offre d'achat de ton étalon primé, ton père a refusé. Le noble l'a abattu sur place et a volé le cheval. Sans cet étalon, la lignée renommée prendrait fin. Tu comptes les récupérer—et obtenir ta vengeance. |
 
-#### Gladiateur
+## Gladiateur
 
 Dans le passé, tu divertissais les masses avec des démonstrations spectaculaires de violence dans l'arène. En définissant ta Carrière, réfléchis aux questions suivantes :
 
@@ -253,7 +252,7 @@ Tu obtiens les avantages de Carrière suivants :
 | 5  | **Compassion du Rejeton :** Tu es né noble, mais la nature fourbe et avide de pouvoir de ta famille t'a poussé à chercher ta propre fortune dans l'arène. Tu as vu que les compétiteurs amenés là par les circonstances et non par choix souffraient. Tu as donné tout ce que tu pouvais de l'argent de ta famille à ces gens moins fortunés, puis tu es parti pour faire une vraie différence dans ce monde cruel. |
 | 6  | **Foyer des Guerriers :** L'orphelinat où tu as grandi fournissait secrètement des gladiateurs à l'arène. Forcé de combattre contre de nombreux amis d'enfance à l'âge adulte, tu as juré de démanteler l'arène et de libérer les autres victimes. Tu es devenu un libérateur, dédié à mettre fin à l'oppression des autres jusqu'à ton dernier souffle Mourant. |
 
-#### Travailleur Manuel
+## Travailleur Manuel
 
 Vous avez travaillé comme fermier, bâtisseur, lavandier, forestier, mineur, ou dans une autre profession impliquant un dur labeur manuel. En définissant votre carrière, réfléchissez aux questions suivantes :
 
@@ -281,7 +280,7 @@ Vous obtenez les avantages de carrière suivants :
 | 5  | **Lumière Brillante :** Vous teniez un phare le long des falaises constamment orageuses de votre village avec votre mentor. Par une journée claire et ensoleillée, votre mentor a disparu. Ne trouvant qu'un carnet cryptique rempli de ses réflexions sur le surnaturel, vous êtes parti découvrir ce qui s'était vraiment passé. La piste s'est refroidie pour l'instant, et vous aidez les autres à retrouver leurs proches en attendant. |
 | 6  | **Lent et Régulier :** Vous labouriez silencieusement tandis qu'un patron indifférent épuisait ceux qui vous entouraient, vous poussant à travailler plus dur pour alléger le fardeau de vos compagnons. Mais quand le patron est allé trop loin et a tué un de vos amis, vous avez mené un soulèvement contre lui. Ce fut le début de votre vie d'aventurier. |
 
-#### Apprenti Mage
+## Apprenti Mage
 
 Pendant de longues années, vous avez étudié la magie sous la tutelle d'un mage plus expérimenté. En définissant votre carrière, réfléchissez aux questions suivantes :
 
@@ -309,7 +308,7 @@ Vous obtenez les avantages de carrière suivants :
 | 5  | **D'Outre-Monde :** En étudiant la magie, vous vous êtes accidentellement envoyé de votre monde d'origine vers celui-ci. Maintenant vous êtes bloqué ici, espérant trouver des textes anciens ou de puissants trésors magiques qui pourraient vous ramener chez vous. Une vie d'aventure vous attend ! | 
 | 6  | **Pouvoir Ultime :** Le mage pour qui vous travailliez était une âme bienveillante et âgée, mais la magie de base qu'il vous enseignait semblait toujours être une petite partie de quelque chose de plus grand. Ce n'est qu'en rencontrant un élémentaliste aventurier que vous avez réalisé que prendre la route en tant que héros était le seul moyen d'améliorer et d'affiner véritablement vos compétences. Vous avez démissionné de votre apprentissage et vous vous êtes retrouvé à marcher sur le chemin d'un héros le lendemain. |
 
-#### Artiste
+## Artiste
 
 Vous savez chanter, jouer la comédie ou danser suffisamment bien pour que les gens vous paient réellement pour le faire. Imaginez un peu ! En définissant votre carrière, réfléchissez aux questions suivantes :
 
@@ -335,7 +334,7 @@ Vous obtenez les avantages de carrière suivants :
 | 5  | **Sans Voix :** Les mots moqueurs d'un perturbateur vous ont laissé complètement sans voix pendant une représentation, blessant votre fierté et attisant votre arrogance. L'incident a mis Sous Tension votre voix légendaire, et vous ne pouviez plus parler qu'en doux murmures. Le perturbateur était un farceur féerique qui a volé votre voix, promettant de vous la rendre après que vous ayez accompli un vrai bien dans le monde. |
 | 6  | **Leçon Tragique :** Quand un producteur qui vous avait autrefois lésé a crié dans la rue pour que vous arrêtiez un voleur qui avait fait ses poches, votre rancœur envers lui vous a inspiré à laisser le voleur filer. Mais cette décision a mené à une tragédie quand le voleur a plus tard blessé quelqu'un que vous aimiez. À partir de ce moment, vous avez fait de votre responsabilité de protéger les autres. |
 
-#### Politicien
+## Politicien
 
 Vous avez travaillé comme dirigeant au sein d'une organisation formelle, bureaucratique ou gouvernementale. Vous avez peut-être été nommé, né ou élu à votre poste, mais votre travail consistait à faire en sorte que les gens se mettent d'accord et à prendre des décisions pour les personnes que vous serviez (ou qui vous servaient). En définissant votre Carrière, réfléchissez aux questions suivantes :
 
@@ -365,7 +364,7 @@ Vous obtenez les avantages de Carrière suivants :
 | 5  | **Intérêt Personnel :** Vous avez utilisé vos Compétences pour collecter des informations compromettantes ou scandaleuses sur vos adversaires afin de les faire chanter. Un rival a pris une longueur d'avance sur vous et a volé votre livre de secrets inavouables. Mais au lieu de l'utiliser contre vous, il vous a donné l'opportunité de quitter le monde de la politique. Sauvé de l'humiliation publique, vous utilisez maintenant vos Compétences pour le bien commun. |
 | 6  | **Libéré :** La bureaucratie nécessaire pour accomplir quoi que ce soit par votre position politique a entraîné une crise mal gérée et d'innombrables personnes blessées ou tuées. Après cet événement malheureux, vous avez résolu de vivre sans être entravé par l'interférence bureaucratique, cherchant à faire le bien par l'action, pas par la paperasserie. |
 
-#### Sage
+## Sage
 
 Dès votre plus jeune âge, vous vous êtes consacré à l'apprentissage, que vous ayez partagé les connaissances du monde avec d'autres ou recherché des savoirs secrets uniquement pour vous-même. En définissant votre carrière, réfléchissez aux questions suivantes :
 
@@ -393,7 +392,7 @@ Vous obtenez les avantages de carrière suivants :
 | 5  | **Futurs Imprévus :** Dans votre quête de connaissances anciennes, vous avez découvert une prophétie qui n'a pas encore eu lieu. Et cette prophétie implique quelqu'un qui pourrait être... vous. Depuis votre découverte, d'étranges rêves vous hantent, vous poussant à chercher votre destin. |
 | 6  | **Disparition :** Au début, vous pensiez que c'était votre imagination, et vous avez ignoré la disparition de phrases aléatoires dans les livres d'histoire. Puis, quand les livres se sont transformés en pages entièrement blanches, les disparitions sont devenues difficiles à ignorer, particulièrement celles impliquant des textes anciens ou critiques. Poussé par le désir de préserver la connaissance, vous avez fait de la restauration et de l'inversion de ces textes qui s'effacent votre mission, avant qu'ils ne disparaissent à jamais. |
 
-#### Marin
+## Marin
 
 Tu as travaillé sur un navire, qu'il s'agisse d'une cogue marchande, d'un bâtiment mercenaire ou militaire, ou d'un vaisseau pirate. Tu as pu être matelot, second, ou même capitaine. En définissant ta carrière, réfléchis aux questions suivantes :
 
@@ -419,7 +418,7 @@ Tu obtiens les avantages de carrière suivants :
 | 5  | **Abandonné :** Il y a eu une mutinerie, et tu étais du côté des perdants. Tu as été abandonné sur une île et tu t'es échappé quand un navire marchand a été dérouté par une tempête et t'a trouvé. Ta réputation est ruinée parmi les marins, alors tu cherches l'aventure ailleurs.                                                                                                                                                                  |
 | 6  | **Peur de l'Eau :** Une tempête catastrophique a frappé alors que tu étais en mer, détruisant ton navire et te laissant comme seul survivant. Une fois rétabli, tu as essayé de t'engager sur un autre navire, mais la pensée de l'eau libre transformait tes jambes en gelée. À la place, tu as endossé le rôle d'un héros itinérant pour joindre les deux bouts.                                                                                    |
 
-#### Soldat
+## Soldat
 
 Durant tes années formatrices, tu as combattu sans relâche dans des escarmouches et des campagnes contre les forces ennemies. En définissant ta carrière, réfléchis aux questions suivantes :
 
@@ -447,7 +446,7 @@ Tu obtiens les avantages de carrière suivants :
 | 5  | **Valeur Usurpée :** Fatigué de survivre péniblement dans les rues, tu t'es engagé dans l'armée. Cependant, tu n'arrivais pas à échapper à ton origine modeste jusqu'à ce que l'officier dirigeant ton unité tombe au combat. Dans le chaos qui s'ensuivit, tu as assumé son identité et tu es rentré chez toi en héros. Mais quand les soupçons ont surgi, tu as adopté la vie d'un aventurier, restant toujours en mouvement. |
 | 6  | **Serment de Sacrifice :** Tu as promis à un compagnon soldat que tu protégerais sa famille s'il tombait un jour au combat. Quand cela arriva, tu t'es rendu dans son village, mais tu as trouvé ses habitants tués ou dispersés par la guerre. Poussé par ton serment, tu as consacré ta vie à retrouver d'éventuels survivants et à protéger les autres d'un sort similaire. |
 
-#### Gardien
+## Gardien
 
 Tu as protégé une région sauvage contre ceux qui cherchaient à lui nuire, comme les braconniers et les cultistes déterminés à détruire le monde naturel. Connaissant bien ton territoire, tu pouvais aussi servir de guide ou diriger une équipe de secours pour ceux qui s'égaraient dans les terres sauvages. En définissant ta carrière, réfléchis aux questions suivantes :
 
@@ -475,7 +474,7 @@ Tu obtiens les avantages de carrière suivants :
 | 5  | **Présages :** Il y avait des signes. Tu as essayé de les ignorer, mais quand une grande bête est morte à tes pieds, tu as dû reconnaître la vérité. Tu étais destiné à quitter ton territoire natal, destiné à mener une bataille pour le sort de toutes les terres—et ainsi tu as abandonné la seule vie que tu aies jamais connue. |
 | 6  | **Vol :** Tu étais responsable de garder quelque chose de précieux, quelque chose de vital pour la survie de ta région. Mais tu as fait confiance à quelqu'un, et cette personne a trahi ta confiance en volant ce que tu étais censé protéger. Tu as quitté ton territoire d'élection pour expier ton erreur. |
 
-#### Officier de Garde
+## Officier de Garde
 
 Vous avez servi comme officier de la loi pour un gouvernement local. Vous étiez peut-être une seule personne dans une garde urbaine bien plus importante ou l'unique connétable patrouillant dans un petit village. En définissant votre Carrière, réfléchissez aux questions suivantes :
 
@@ -493,11 +492,11 @@ Vous obtenez les avantages de Carrière suivants :
 
 **Avantage :** Un avantage d'exploration (*Construction Rapide :* Chef d'Équipe.)
 
-| d6 | Incident Déclencheur                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | **Plus Gros Poisson :** Vous vous êtes lassé et désabusé de poursuivre de petits voleurs et d'emprisonner des gens qui essayaient juste de survivre. Il y a sûrement de plus grandes menaces dans le monde. Vous trouverez ce mal où qu'il se cache, et vous serez celui qui l'arrêtera. |
-| 2  | **Corruption Interne :** Vous avez rejoint les forces de l'ordre pour aider les démunis et apporter la justice à ceux qui ont été lésés. Vous n'étiez pas préparé à la corruption rampante qui atteignait le sommet de votre organisation. Vous avez refusé de couvrir vos collègues officiers et on vous a dit sans détour de quitter la ville ou d'en subir les Conséquences. Maintenant vous voyagez comme un Héros, agissant comme le protecteur que vous avez toujours voulu être. |
-| 3  | **Coup Monté :** Votre partenaire a été assassiné. Cela est irréfutable. Mais vous ne l'avez pas fait, malgré ce que les preuves suggèrent. Quand il est devenu clair que vous seriez le bouc émissaire, vous avez fui, laissant tout derrière vous. Ne vous contentant pas de vous tapir dans l'Ombre, vous avez décidé de partir à l'aventure sous un nouveau nom pendant que vous travaillez à blanchir le vôtre. |
-| 4  | **Mentor Disparu :** Vous avez appris tout ce que vous savez sur le métier de quelqu'un que vous avez toujours admiré dans une organisation corrompue. Une nuit, cette personne vous a envoyé un message cryptique disant qu'elle avait découvert "quelque chose d'important", mais avant que vous puissiez en savoir plus, elle a disparu. N'étant plus sûr de qui vous pouviez faire confiance, vous vous êtes éclipsé et avez cherché une nouvelle vie. Maintenant vous faites le bien que vous pouvez et cherchez à découvrir la vérité. | 
-| 5  | **Celui Qui S'est Échappé :** Un criminel violent ou dépravé a commencé à vous prendre pour Cible - peut-être en volant quelque chose de personnel ou en blessant quelqu'un que vous aimez - après vous avoir échappé. Vous avez quitté votre Carrière pour poursuivre le criminel, mais la piste s'est refroidie... pour l'instant. Autant aider les gens en attendant. |
-| 6  | **Ennemis Puissants :** Vous vous êtes donné pour responsabilité de déraciner et d'abattre le principal syndicat du crime de la région. Ils ont envoyé des hommes de main brûler votre maison et vous donner une leçon, vous laissant en Saignement dans la rue sans rien d'autre que votre vie. Vous avez depuis adopté la vie d'un Héros pour gagner le pouvoir et l'influence dont vous avez besoin pour détruire le syndicat une fois pour toutes. |
+| d6  | Incident Déclencheur                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |     |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 1   | **Plus Gros Poisson :** Vous vous êtes lassé et désabusé de poursuivre de petits voleurs et d'emprisonner des gens qui essayaient juste de survivre. Il y a sûrement de plus grandes menaces dans le monde. Vous trouverez ce mal où qu'il se cache, et vous serez celui qui l'arrêtera.                                                                                                                                                                                                                                                     |     |
+| 2   | **Corruption Interne :** Vous avez rejoint les forces de l'ordre pour aider les démunis et apporter la justice à ceux qui ont été lésés. Vous n'étiez pas préparé à la corruption rampante qui atteignait le sommet de votre organisation. Vous avez refusé de couvrir vos collègues officiers et on vous a dit sans détour de quitter la ville ou d'en subir les Conséquences. Maintenant vous voyagez comme un Héros, agissant comme le protecteur que vous avez toujours voulu être.                                                      |     |
+| 3   | **Coup Monté :** Votre partenaire a été assassiné. Cela est irréfutable. Mais vous ne l'avez pas fait, malgré ce que les preuves suggèrent. Quand il est devenu clair que vous seriez le bouc émissaire, vous avez fui, laissant tout derrière vous. Ne vous contentant pas de vous tapir dans l'Ombre, vous avez décidé de partir à l'aventure sous un nouveau nom pendant que vous travaillez à blanchir le vôtre.                                                                                                                         |     |
+| 4   | **Mentor Disparu :** Vous avez appris tout ce que vous savez sur le métier de quelqu'un que vous avez toujours admiré dans une organisation corrompue. Une nuit, cette personne vous a envoyé un message cryptique disant qu'elle avait découvert "quelque chose d'important", mais avant que vous puissiez en savoir plus, elle a disparu. N'étant plus sûr de qui vous pouviez faire confiance, vous vous êtes éclipsé et avez cherché une nouvelle vie. Maintenant vous faites le bien que vous pouvez et cherchez à découvrir la vérité. |     |
+| 5   | **Celui Qui S'est Échappé :** Un criminel violent ou dépravé a commencé à vous prendre pour Cible - peut-être en volant quelque chose de personnel ou en blessant quelqu'un que vous aimez - après vous avoir échappé. Vous avez quitté votre Carrière pour poursuivre le criminel, mais la piste s'est refroidie... pour l'instant. Autant aider les gens en attendant.                                                                                                                                                                     |     |
+| 6   | **Ennemis Puissants :** Vous vous êtes donné pour responsabilité de déraciner et d'abattre le principal syndicat du crime de la région. Ils ont envoyé des hommes de main brûler votre maison et vous donner une leçon, vous laissant en Saignement dans la rue sans rien d'autre que votre vie. Vous avez depuis adopté la vie d'un Héros pour gagner le pouvoir et l'influence dont vous avez besoin pour détruire le syndicat une fois pour toutes.                                                                                       |     |

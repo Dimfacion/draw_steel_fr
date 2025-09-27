@@ -1,26 +1,25 @@
 ---
 title: Projets Personnels
 ---
-
 # Projets de Temps Libre
 
 En équipe, vous et vos compagnons héros pouvez accomplir de grandes choses. Mais le temps entre les aventures vous donne l'occasion de poursuivre vos propres objectifs individuels : découvrir des connaissances interdites dans d'anciens grimoires, forger des armes d'un grand pouvoir, construire des navires capables de naviguer dans les cieux, et bien plus encore. Les règles de *Draw Steel* pour les projets de temps libre permettent aux héros d'utiliser leur temps pendant les répits pour obtenir des informations importantes, fabriquer de nouveaux équipements, et s'engager dans d'autres activités pour soutenir leurs aventures.
 
-### Suivi des Projets
+## Suivi des Projets
 
 Vous commencez un Projet de Temps Libre pendant un Répit. Vous pouvez démarrer autant de projets que vous le souhaitez, mais vous ne pouvez pas travailler sur plus d'un projet à la fois pendant un Répit. À terme, vous pourrez embaucher des Créatures qui pourront travailler sur des Projets de Temps Libre supplémentaires pour vous.
 
 Vous suivez les progrès du projet sur votre feuille de personnage. Lorsque vous travaillez sur un Projet de Temps Libre, vous pourriez consulter de vieux livres que vous avez trouvés au cours de vos voyages, mener des expériences, converser avec des experts et des érudits, ou utiliser des outils pour créer quelque chose.
 
-### Prérequis des Projets
+## Prérequis des Projets
 
 Tous les Projets de Temps Libre ont des prérequis que vous devez remplir avant de pouvoir les entreprendre.
 
-#### Prérequis d'Objet
+### Prérequis d'Objet
 
 De nombreux projets de temps libre nécessitent un ou plusieurs objets spéciaux que vous devez posséder ou obtenir avant de pouvoir commencer le projet. Par exemple, vous ne pouvez pas construire un dirigeable sans d'abord trouver un Cristal de Vent de Quintessence, un composant rare et essentiel dans la construction de ce véhicule. D'autres projets ont un prérequis qui implique d'entreprendre certaines activités pendant le processus du projet.
 
-#### Source de Projet
+### Source de Projet
 
 Pour commencer un projet de temps libre, vous devez avoir accès à des connaissances spécifiques détaillant comment le projet doit être entrepris. Cela peut prendre la forme d'informations écrites (un livre, un parchemin, un schéma, etc.), d'un tuteur expert ayant de la sagesse à partager, d'un maître artisan ayant des compétences à enseigner, d'une manifestation surnaturelle de la portée et des secrets du projet, ou de toute autre forme déterminée par le Directeur. Ces connaissances axées sur le projet sont appelées une source de projet. Non seulement vous avez besoin de sources de projet pour commencer un projet de temps libre, mais vous devez avoir accès à ces sources chaque fois que vous effectuez un jet de projet pour ce projet particulier (voir [Jet de Projet](#page-307-1) ci-dessous).
 
@@ -30,11 +29,11 @@ La langue dans laquelle les sources de projet sont consignées ou peuvent être 
 
 Chaque fois que le Directeur détermine qu'une créature possédant les connaissances nécessaires peut être utilisée comme source de projet, un autre héros peut servir de cette source de connaissances. Cependant, ils doivent utiliser une activité de répit pour être votre source de projet chaque fois que vous effectuez un jet de projet lié au projet.
 
-##### Recherche de Sources de Projet Communes
+#### Recherche de Sources de Projet Communes
 
 Si vous avez besoin d'une source de projet pour un projet particulier, demandez à votre Directeur si la source est suffisamment commune pour être trouvée dans une bibliothèque importante, parmi un groupe de sages ou d'artisans de guilde, et ainsi de suite. Si le Directeur répond oui, alors la prochaine fois que vous prenez un répit dans un lieu avec une bibliothèque ou un accès à des créatures possédant les connaissances que vous recherchez, vous pouvez localiser la source de projet dont vous avez besoin comme activité de répit.
 
-### Jet de Projet
+## Jet de Projet
 
 En tant qu'activité de répit (voir [Répit](#page-21-4) dans [Chapitre 1 : Les Bases](#page-17-3)), vous effectuez un jet de projet pour l'un de vos propres projets. Alternativement, vous pouvez effectuer un jet de projet pour contribuer au projet d'un autre héros. Un jet de projet est un test avec un résultat spécial qui n'est pas divisé en tiers. La caractéristique utilisée dans le test est déterminée par le projet.
 
@@ -44,19 +43,19 @@ Un projet de temps libre est terminé quand il accumule des points de projet ég
 
 Pendant que vous travaillez sur un projet de temps libre, le Directeur peut ajouter des événements qui aident à former le récit de vos recherches, artisanat, ou autres activités. Ces événements peuvent fournir des bénéfices ou défis inattendus pendant que vous travaillez sur votre projet, pour aider à rendre le voyage aussi dramatique que l'arrivée à destination. Voir [Pour le Directeur : Événements de Projet](#page-308-1) ci-dessous pour plus d'informations.
 
-#### Avantages et Fléaux des Jets de Projet
+### Avantages et Fléaux des Jets de Projet
 
 Puisque les jets de projet n'utilisent pas les tiers de réussite, ils ne suivent pas les règles habituelles pour les doubles avantages et les doubles fléaux. Si vous obtenez un avantage sur un jet de projet, vous ajoutez 2 au jet, comme d'habitude. Mais si vous avez un double avantage, vous ajoutez 4 au jet. De même, vous soustrayez 2 d'un jet de projet qui subit un fléau, et vous soustrayez 4 d'un jet qui a un double fléau.
 
-#### Compétences et Jets de Projet
+### Compétences et Jets de Projet
 
 Vous pouvez appliquer les compétences des groupes d'artisanat ou de savoir aux Jets de Projet qui sont directement liés à un Projet de Temps Libre (voir [Compétences](#page-268-0) dans le [Chapitre 9 : Tests](#page-263-0)). Par exemple, vous pourriez utiliser la compétence Couture pour les Jets de Projet liés à la confection d'une cape magique, et vous pourriez utiliser la compétence Histoire en tentant de rechercher l'emplacement d'une bataille antique où une couronne magique a été perdue. À la discrétion du Directeur, vous pouvez également utiliser des compétences d'autres groupes de compétences, mais une Compétence utilisée pour un Jet de Projet doit être directement liée au projet.
 
-#### Langue et Jets de Projet
+### Langue et Jets de Projet
 
 Si vous connaissez la langue d'une Source de Projet, vous pouvez effectuer un Jet de Projet sans aucun problème. Si vous ne connaissez pas la langue de la source mais que vous connaissez une langue apparentée, le Jet de Projet subit un Fléau. Si vous ne connaissez ni la langue de la source ni une langue apparentée, le Jet de Projet subit un Double Fléau.
 
-#### Guides
+### Guides
 
 Les héros trouvent parfois des guides—livres spéciaux, schémas, PNJ érudits, enregistrements surnaturels, etc.—qui fournissent des informations importantes et faciles à comprendre concernant un projet de temps libre. Chaque guide possède une valeur de connaissance et un lien avec un projet spécifique qui réduit considérablement le temps nécessaire pour terminer le projet. Quand un héros étudie un guide comme activité de répit, il gagne la valeur de connaissance du guide sous forme de points de projet pour son projet. Le guide ne peut plus être utilisé avec cette instance spécifique du projet, mais il peut servir pour un projet différent du même type.
 
@@ -64,25 +63,25 @@ Les guides sont accordés à la discrétion du Directeur, généralement comme u
 
 Un guide doit fournir ses informations dans une langue que vous comprenez pour que vous puissiez en tirer tous les bénéfices. Si un guide utilise une langue apparentée à une que vous connaissez, vous ne gagnez que la moitié de la valeur de connaissance du guide (arrondie vers le bas) sous forme de points de projet pour votre projet.
 
-#### Pour le Directeur : Événements de Projet
+### Pour le Directeur : Événements de Projet
 
 Les événements de projet sont des événements narratifs qui présentent des aubaines et des défis aux héros alors qu'ils accomplissent leurs projets de recherche et d'artisanat. Ces événements sont entièrement optionnels. Si votre groupe préfère un jeu où les héros travaillent simplement vers leurs objectifs en effectuant des jets de projet, c'est parfait. Mais utiliser ces événements peut aider un Directeur à injecter plus de drame dans les processus de recherche et d'artisanat.
 
-##### Quand Utiliser les Événements de Projet
+#### Quand Utiliser les Événements de Projet
 
 Les projets n'ont pas besoin d'un événement à chaque fois qu'un héros effectue un jet de projet. Si c'était le cas, les héros passeraient probablement tout leur temps à essayer de gérer leurs projets et ne partiraient jamais à l'aventure. À la place, vous en tant que Directeur choisissez l'une des méthodes suivantes pour déterminer quand un événement se produit durant un Projet de Temps Libre. Vous pouvez toujours changer de méthode au cours d'une campagne, en faisant ce qui vous semble le mieux fonctionner pour la situation actuelle.
 
-##### Lancer pour un Événement
+#### Lancer pour un Événement
 
 Si vous voulez que les événements soient une surprise pour vous autant que pour les autres joueurs, alors une fois pendant n'importe quel répit lorsqu'un ou plusieurs héros effectuent un jet de projet, lancez un d6. Sur un 6, un événement se produit. C'est une bonne option si vous aimez créer une histoire à la volée pendant le jeu.
 
-##### Jalons d'Événement
+#### Jalons d'Événement
 
 Si vous voulez garantir que des événements se produisent pendant un projet de temps libre, utilisez des jalons d'événement basés sur les points de projet. Quand le projet accumule un certain nombre de points, un événement se produit la prochaine fois qu'un héros veut effectuer un jet de projet. Cette approche fonctionne bien si vous voulez planifier votre événement en détail avant qu'il ne se produise.
 
 Vous pouvez utiliser le tableau des Jalons d'Événement Suggérés pour déterminer quand un événement devrait se produire pendant un projet.
 
-###### Jalons d'Événements Suggérés
+##### Jalons d'Événements Suggérés
 
 | Objectif de Projet | Jalons                                                                           |
 |--------------------|----------------------------------------------------------------------------------|
@@ -91,25 +90,25 @@ Vous pouvez utiliser le tableau des Jalons d'Événement Suggérés pour déterm
 | 201-999            | Deux événements au tiers et aux deux tiers du chemin vers l'objectif            |
 | 1 000 ou plus      | Trois événements au quart, à la moitié et aux trois quarts du chemin vers l'objectif |
 
-##### Quand Vous le Souhaitez
+#### Quand Vous le Souhaitez
 
 Chaque fois que vous pensez que les héros pourraient avoir besoin d'un peu de drame pendant un répit, ajoutez un événement. Cette approche vous permet de planifier un événement en détail quand un projet de temps libre commence, puis de le déployer au moment le plus dramatique—ou même de l'ajouter pendant une rencontre si vous vous sentez audacieux !
 
-##### Déployer les Événements
+#### Déployer les Événements
 
 Un Événement de Projet se produit lorsqu'un Héros effectue un Jet de Projet. Vous pouvez lancer les dés ou choisir un événement dans la table d'amorces d'événements appropriée, ou utiliser les tables pour inspirer vos propres événements. Chaque entrée d'événement dans la table est une amorce narrative écrite pour vous en tant que Directeur, et que vous pouvez modifier et étoffer selon votre jugement. Chaque événement précise s'il se produit avant ou après la résolution du Jet de Projet.
 
-##### Percée Automatique
+#### Percée Automatique
 
 Si un événement accorde une percée automatique sur un projet de temps libre, le projet gagne 20 points de projet et le héros peut effectuer un autre jet de projet pour le même projet dans le cadre de la même activité de répit.
 
-### Projets d'Artisanat
+## Projets d'Artisanat
 
 Les projets d'artisanat permettent aux héros de créer des véhicules, des trésors surnaturels, et bien plus encore. Quand vous commencez un projet d'artisanat, d'autres créatures peuvent également travailler sur le projet, en utilisant leur activité de répit pour contribuer avec un jet de projet afin de terminer le travail plus rapidement.
 
 À moins qu'un projet n'ait sa propre table d'événements, le Directeur utilise la table [Événements d'Artisanat et de Recherche](#page-319-0) pour les événements de projet d'artisanat.
 
-#### Construire un Dirigeable
+### Construire un Dirigeable
 
 **Prérequis d'Objet :** Cristal de Vent de Quintessence
 
@@ -125,7 +124,7 @@ Lorsque le projet est terminé, vous possédez un dirigeable. Vous et toute cré
 
 Un dirigeable est un objet (lui conférant une immunité aux dégâts contre tous les dégâts de poison et psychiques) et peut subir 200 dégâts avant d'être détruit. Si les dégâts que subit le navire ne sont pas trop sévères (selon la détermination du Directeur), tant que vous avez accès aux matériaux qui peuvent réparer le navire, vous pouvez le restaurer à son état d'origine comme activité de répit.
 
-###### Table de Renommée pour Construire ou Réparer une Route
+##### Table de Renommée pour Construire ou Réparer une Route
 
 | Longueur              | Renommée Gagnée |
 |-----------------------|-----------------|
@@ -133,7 +132,7 @@ Un dirigeable est un objet (lui conférant une immunité aux dégâts contre tou
 | 51-100 miles          | 2               |
 | Plus de 100 miles     | 3               |
 
-#### Construire ou Réparer une Route
+### Construire ou Réparer une Route
 
 **Prérequis d'Objet :** Trois accréditations d'approbation, d'une guilde d'ingénieurs, d'une guilde de maçons, et d'une guilde de gardes
 
@@ -151,7 +150,7 @@ Quand vous terminez le projet, vous gagnez de la Renommée parmi les gens de la 
 
 Le temps passé à voyager entre les lieux sur la route est réduit de moitié. L'accès aux ressources et aux connaissances est amélioré dans les lieux le long de la route, vous donnant ainsi qu'à vos alliés un Avantage sur les Jets de Projet pour découvrir des traditions pendant que vous êtes dans ces zones.
 
-###### Tableau des Événements - Construire ou Réparer des Routes
+##### Tableau des Événements - Construire ou Réparer des Routes
 
 | d10 | Événement                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -166,7 +165,7 @@ Le temps passé à voyager entre les lieux sur la route est réduit de moitié. 
 | 9   | Avant le jet, la route proposée touche à une intersection Surnaturelle—un lieu de passage entre plusieurs mondes qui attire l'Intérêt d'un puissant Diable. L'achèvement du projet devient l'Intérêt personnel de cet être, qui propose d'augmenter les progrès—mais exige une future faveur du Héros. Si le marché est accepté, chaque Jet de Projet pour le projet est doublé jusqu'à son achèvement.                                            |
 | 10  | Après le jet, un maître de guilde en veut au Héros. Que ce soit à cause d'un conflit passé ou de quelque chose concernant la façon dont ce projet s'est déroulé, le maître de guilde s'est donné pour mission d'entraver le projet en traînant le nom du Héros dans la boue. La Renommée du Héros est traitée comme étant de 1 de moins que d'habitude tant que ces rumeurs persistent.                                                              |
 
-#### Fabriquer une Plateforme de Téléportation
+### Fabriquer une Plateforme de Téléportation
 
 **Prérequis d'Objet :** Un navigateur spatial
 
@@ -180,11 +179,11 @@ Lorsque vous terminez ce projet, vous obtenez une plateforme de téléportation 
 
 À chaque utilisation de la plateforme de téléportation, les chances qu'elle dysfonctionne et téléporte les créatures ou objets qui s'y trouvent vers une plateforme aléatoire augmentent de 1 pour cent (jusqu'à un maximum de 50 pour cent). Vous pouvez restaurer la plateforme à son état d'origine et remettre à zéro ces chances de dysfonctionnement comme activité de répit.
 
-#### Artisanat de Trésor
+### Artisanat de Trésor
 
 Vous pouvez fabriquer les objets trouvés dans [Trésors](#page-327-2) au [Chapitre 13 : Récompenses](#page-327-1). Chaque trésor indique son prérequis d'objet, sa source de projet, la caractéristique de son jet de projet et son objectif de projet.
 
-#### Trouver un Remède
+### Trouver un Remède
 
 **Prérequis d'Objet :** Variable (voir description)
 
@@ -200,7 +199,7 @@ Le nombre de Points de Projet nécessaires pour terminer ce projet est égal à 
 
 Lorsque vous terminez ce projet, vous fabriquez une dose d'un remède alchimique pour l'affliction. Une fois le projet terminé, vous pouvez fabriquer des doses supplémentaires pour la même affliction pour la moitié du nombre de Points de Projet requis pour le projet initial.
 
-#### Imprégner un Trésor
+### Imprégner un Trésor
 
 Vous pouvez créer des trésors à niveau en imprégnant des objets de magie ou de pouvoir psionique. Vous devez posséder une version classique de l'objet que vous prévoyez d'imprégner, comme une épée ou un bouclier, lorsque vous commencez ce projet.
 
@@ -212,7 +211,7 @@ Les améliorations sont organisées par type d'objet (armure, canal ou arme) et 
 
 Imprégner un trésor de pouvoir surnaturel comme projet de temps libre signifie généralement que vous entreprenez ce projet pour utiliser le trésor vous-même. À ce titre, toutes les caractéristiques de l'imprégnation se réfèrent à « vous » en tant qu'utilisateur de l'objet. Cependant, les objets imprégnés peuvent être créés pour d'autres créatures, ou créés par d'autres créatures et trouvés comme trésor.
 
-##### Imprégner une Armure
+#### Imprégner une Armure
 
 Une armure imprégnée d'une amélioration vous accorde des avantages spéciaux tant qu'elle est portée. De plus, lorsque votre armure reçoit son amélioration de 1er niveau, elle accorde également un bonus de +6 à la Vigueur. Une amélioration de 5e niveau augmente le bonus de Vigueur à +12, et une amélioration de 9e niveau l'augmente à +21.
 
@@ -220,7 +219,7 @@ Une armure imprégnée d'une amélioration vous accorde des avantages spéciaux 
 >
 > Un héros qui possède une panoplie ne fournissant aucune armure, comme la panoplie d'Artiste Martial ou de Tireur d'Élite, peut créer et utiliser des trésors d'armure à niveau qui imprègnent des vêtements classiques de pouvoir surnaturel. À la discrétion du Directeur, les héros qui n'utilisent pas de panoplies, comme les élémentalistes et les néants, peuvent également bénéficier de tels trésors.
 
-###### Amélioration d'Armure de Niveau 1
+##### Amélioration d'Armure de Niveau 1
 
 **Prérequis d'Objet :** Variable
 
@@ -250,7 +249,7 @@ Une armure imprégnée d'une amélioration vous accorde des avantages spéciaux 
 
 **Tempête I :** En tant que manœuvre, vous imprégnez cette armure de l'essence d'une tempête. La première fois qu'une créature adjacente vous inflige des dégâts avant la fin de votre prochain tour, elle subit des dégâts de foudre égaux à votre score de caractéristique le plus élevé et vous pouvez la repousser de 1 case.
 
-###### Tableau des Améliorations d'Armure de Niveau 1
+##### Tableau des Améliorations d'Armure de Niveau 1
 
 | Amélioration           | Prérequis d'Objet                                                                                                | Langage de Source de Projet |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------- |
@@ -265,7 +264,7 @@ Une armure imprégnée d'une amélioration vous accorde des avantages spéciaux 
 | Véloce                 | La plume d'un faucon tué alors qu'il plongeait                                                                   | Yllyric                     |
 | Tempête I              | Une bande de métal stellaire frappée par la foudre                                                               | Ullorvic                    |
 
-###### Amélioration d'Armure de 5e Niveau
+##### Amélioration d'Armure de 5e Niveau
 
 **Prérequis d'Objet :** Armure avec une amélioration de 1er niveau ; varie
 
@@ -305,7 +304,7 @@ Vous pouvez utiliser une aptitude absorbée comme si vous la connaissiez, en eff
 
 **Tempête II :** Quand vous utilisez l'amélioration Tempête I de l'armure, la créature affectée subit 8 dégâts de foudre et vous la repoussez jusqu'à 3 cases.
 
-###### Tableau des Améliorations d'Armure de Niveau 5
+##### Tableau des Améliorations d'Armure de Niveau 5
 
 | Amélioration          | Prérequis d'Objet                                                                 | Langue de Source de Projet |
 |-----------------------|-----------------------------------------------------------------------------------|----------------------------|
@@ -321,7 +320,7 @@ Vous pouvez utiliser une aptitude absorbée comme si vous la connaissiez, en eff
 | Fracassant            | Une livre d'obsidienne volcanique, formée naturellement d'un seul tenant        | Zaliac                     |
 | Tempête II            | L'armure doit être disposée sous un ciel dégagé lors du passage d'une comète    | Ullorvic                   |
 
-###### Amélioration d'Armure de 9e Niveau
+##### Amélioration d'Armure de 9e Niveau
 
 **Prérequis d'Objet :** Armure avec une amélioration de 5e niveau ; varie
 
@@ -384,13 +383,13 @@ Vous pouvez utiliser une aptitude absorbée comme si vous la connaissiez, en eff
 | Flux Temporel              | Un condensateur temporel expérimental inventé par les kuran'zoi                                                | Voll                        |
 | Inflexible                 | Une pointe de lance ou autre arme brisée dans le corps d'un géant de pierre, et ossifiée pendant un an ou plus | Haut Kuric                  |
 
-##### Imprégner un Canal
+#### Imprégner un Canal
 
 Les canaux sont des bijoux, lunettes, orbes, bâtons, tomes, baguettes, armes et autres objets utilisés par ceux qui canalisent la magie et le pouvoir psionique pour concentrer ce pouvoir. Vous décidez quel objet imprégner lorsque vous créez un trésor de canal, mais ce doit être un objet que vous pouvez porter ou transporter. Vous devez posséder une version classique de l'objet que vous prévoyez d'imprégner au début de ce projet.
 
 Un canal imprégné d'une amélioration vous accorde des avantages spéciaux tant qu'il est manié. De plus, lorsqu'un canal reçoit son amélioration de 1er niveau, il accorde à vos aptitudes magiques ou psioniques qui infligent des dégâts lancés un bonus de +1 aux dégâts. Une amélioration de 5e niveau augmente le bonus à +2, et une amélioration de 9e niveau l'augmente à +3. Les censeurs, conduits, élémentalistes, néants, talents et troubadours bénéficient davantage de l'utilisation de canaux que les autres classes de ce livre.
 
-###### Amélioration de Canal de 1er Niveau
+##### Amélioration de Canal de 1er Niveau
 
 **Prérequis d'Objet :** Variable
 
@@ -418,7 +417,7 @@ Un canal imprégné d'une amélioration vous accorde des avantages spéciaux tan
 
 **Protection I :** Vous gagnez un bonus de +6 à la Vigueur.
 
-###### Tableau des Améliorations de Canal de Niveau 1
+##### Tableau des Améliorations de Canal de Niveau 1
 
 | Amélioration        | Prérequis d'Objet                                      | Source de Projet Langage |
 |---------------------|--------------------------------------------------------|--------------------------|
@@ -432,7 +431,7 @@ Un canal imprégné d'une amélioration vous accorde des avantages spéciaux tan
 | Envoi de Pensées    | Le cerveau d'une créature psionique                    | Variac                   |
 | Protection I        | Trois crânes du même chimère                           | Zaliac                   |
 
-###### Amélioration de Canal de 5e Niveau
+##### Amélioration de Canal de 5e Niveau
 
 **Prérequis d'Objet :** Un canal avec une amélioration de 1er niveau ; varie
 
@@ -460,7 +459,7 @@ Un canal imprégné d'une amélioration vous accorde des avantages spéciaux tan
 
 **Protection II :** Le bonus de Vigueur pour l'amélioration Protection I devient +12. De plus, vos scores de caractéristique sont traités comme étant 1 point plus élevés dans le but de résister aux seuils.
 
-###### Tableau des Améliorations de Canal de Niveau 5
+##### Tableau des Améliorations de Canal de Niveau 5
 
 | Amélioration      | Prérequis d'Objet                                    | Source de Projet Langage |
 |-------------------|------------------------------------------------------|--------------------------|
@@ -474,7 +473,7 @@ Un canal imprégné d'une amélioration vous accorde des avantages spéciaux tan
 | Régénération II   | Un bonsaï encore en croissance d'au moins 30 ans     | Le Premier Langage       |
 | Protection II     | La corne d'un dragon métallique                      | Zaliac                   |
 
-###### Amélioration de Canal de 9e Niveau
+##### Amélioration de Canal de 9e Niveau
 
 **Prérequis d'Objet :** Un canal avec une amélioration de 5e niveau ; varie
 
@@ -502,7 +501,7 @@ Un canal imprégné d'une amélioration vous accorde des avantages spéciaux tan
 
 **Protection III :** Le bonus de Vigueur de l'amélioration Protection I devient +18. De plus, vous et chaque allié dans un rayon de 3 cases de vous voyez vos scores de caractéristique traités comme étant supérieurs de 1 dans le but de résister aux seuils. Ceci remplace le bénéfice de Protection II.
 
-###### Tableau des Améliorations de Canal de Niveau 9
+##### Tableau des Améliorations de Canal de Niveau 9
 
 | Amélioration     | Prérequis d'Objet                                                    | Source de Projet Langage |
 |------------------|----------------------------------------------------------------------|--------------------------|
@@ -516,15 +515,15 @@ Un canal imprégné d'une amélioration vous accorde des avantages spéciaux tan
 | Régénérant III   | Une fleur vivante qui ne fleurit qu'une fois par décennie           | Le Premier Langage       |
 | Protection III   | Du bois de cœur d'un arbre vieux de deux siècles                    | Zaliac                   |
 
-##### Imprégner une Arme
+#### Imprégner une Arme
 
 Une arme imprégnée d'une amélioration vous accorde des avantages spéciaux tant qu'elle est maniée. De plus, quand une arme reçoit son amélioration de niveau 1, elle accorde à vos aptitudes d'arme qui infligent des dégâts lancés un bonus de +1 aux dégâts. Une amélioration de niveau 5 augmente le bonus de dégâts à +2, et une amélioration de niveau 9 l'augmente à +3.
 
-###### Trésors de Frappe à Mains Nues
+##### Trésors de Frappe à Mains Nues
 
 Un héros qui possède une panoplie utilisant les frappes à mains nues, comme les panoplies d'Artiste Martial et de Pugiliste, peut créer des trésors d'armes à niveau qui améliorent ses frappes à mains nues en imprégnant des bandes pour les mains, des bagues, des chaussures, ou tout autre objet porté sur le corps avec un pouvoir surnaturel. À la discrétion du Directeur, les héros qui n'utilisent pas de panoplies, comme les élémentalistes et les néants, peuvent également bénéficier de tels trésors.
 
-###### Amélioration d'Arme de Niveau 1
+##### Amélioration d'Arme de Niveau 1
 
 **Prérequis d'Objet :** Variable
 
@@ -552,7 +551,7 @@ Un héros qui possède une panoplie utilisant les frappes à mains nues, comme l
 
 **Fléau Ailé :** Chaque fois que vous infligez des dégâts à une créature volante en utilisant cette arme, cette créature est aussi en saignement (Sauvegarde Termine). Tant qu'elle saigne de cette manière, la créature subit 1 dégât par case qu'elle vole. Si la créature commence et termine son tour sur la même surface solide, la condition de saignement prend fin.
 
-###### Tableau des Améliorations d'Arme de Niveau 1
+##### Tableau des Améliorations d'Arme de Niveau 1
 
 | Amélioration     | Prérequis d'Objet                                                              | Source de Projet Langage |
 |------------------|--------------------------------------------------------------------------------|--------------------------|
@@ -566,7 +565,7 @@ Un héros qui possède une panoplie utilisant les frappes à mains nues, comme l
 | Vengeance I      | La couronne d'un usurpateur                                                    | Kalliak                  |
 | Fléau d'Ailes    | La plume naissante d'un faucon géant                                          | Yllyric                  |
 
-###### Amélioration d'Arme de 5e Niveau
+##### Amélioration d'Arme de 5e Niveau
 
 **Prérequis d'Objet :** Une arme avec une amélioration de 1er niveau ; varie
 
@@ -613,7 +612,7 @@ Un héros qui possède une panoplie utilisant les frappes à mains nues, comme l
 
 **Vengeresse II :** Chaque fois que vous utilisez une aptitude infligeant des dégâts utilisant cette arme contre une créature qui vous a infligé des dégâts depuis la fin de votre dernier tour, l'aptitude inflige 4 dégâts supplémentaires. Ceci remplace le bénéfice de Vengeresse I.
 
-###### Améliorations d'Armes de Niveau 5
+##### Améliorations d'Armes de Niveau 5
 
 | Enchantement     | Prérequis d'Objet                                                      | Source de Projet Langage |
 |------------------|------------------------------------------------------------------------|--------------------------|
@@ -627,7 +626,7 @@ Un héros qui possède une panoplie utilisant les frappes à mains nues, comme l
 | Tonnerre II      | Une tige de fer chargée par l'agonie d'une essence des tempêtes       | Bas Kuric                |
 | Vengeance II     | Les restes d'un ennemi juré de la créature imprégnant l'objet         | Kalliak                  |
 
-###### Amélioration d'Arme de 9e Niveau
+##### Amélioration d'Arme de 9e Niveau
 
 **Prérequis d'Objet :** Une arme avec une amélioration de 5e niveau ; varie
 
@@ -671,7 +670,7 @@ Un héros qui possède une panoplie utilisant les frappes à mains nues, comme l
 
 **Fendvent :** Chaque fois que vous utilisez une aptitude signature de corps à corps qui cible habituellement une créature, vous pouvez prendre un fléau sur l'aptitude pour cibler chaque ennemi dans un cube 3 à distance. Si votre aptitude signature rendrait habituellement sa cible agrippée ou entravée, chaque cible dans la zone est plutôt ralentie jusqu'à la fin de son prochain tour.
 
-###### Améliorations d'Arme de Niveau 9
+##### Améliorations d'Arme de Niveau 9
 
 | Amélioration      | Prérequis d'Objet                                                                                                                                      | Source de Projet Langage |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -685,13 +684,13 @@ Un héros qui possède une panoplie utilisant les frappes à mains nues, comme l
 | Vengeance III     | Le vrai nom d'un Diable qui chasse d'autres Diables                                                                                                   | Kalliak                   |
 | Fendvent          | Une plume d'un oiseau, autrefois cru éteint, qui demeure à l'œil d'une tornade perpétuellement tourbillonnante                                       | Yllyric                   |
 
-### Projets de Recherche
+## Projets de Recherche
 
 Les Héros peuvent entreprendre de nombreux types différents de Projets de Temps Libre de recherche, qui peuvent impliquer la quête de nouvelles connaissances, l'amélioration du savoir existant par l'étude, la découverte de rumeurs ou de secrets, et bien plus encore.
 
 À moins qu'un projet n'ait sa propre table d'événements ou une entrée d'événement spéciale, le Directeur utilise la table [Événements d'Artisanat et de Recherche](#page-319-0) pour les Événements de Projet de recherche.
 
-#### Découvrir des Connaissances
+### Découvrir des Connaissances
 
 **Prérequis d'Objet :** Aucun
 
@@ -705,7 +704,7 @@ Si vous voulez localiser un Trésor perdu, déchiffrer un rituel, ou retracer la
 
 Quand vous commencez un Projet de Temps Libre pour découvrir des connaissances, vous choisissez les connaissances que vous voulez étudier et les questions auxquelles vous voulez des réponses. Le Directeur vous dit si les connaissances que vous cherchez relèvent du savoir commun, obscur, perdu, ou interdit. Plus le savoir est ésotérique, plus il faut de Points de Projet pour trouver les réponses que vous cherchez.
 
-###### Tableau des Objectifs de Projet - Découvrir des Savoirs
+##### Tableau des Objectifs de Projet - Découvrir des Savoirs
 
 | Projet                    | Objectif de Projet |
 |---------------------------|-------------------|
@@ -714,23 +713,23 @@ Quand vous commencez un Projet de Temps Libre pour découvrir des connaissances,
 | Connaissances perdues     | 120               |
 | Connaissances interdites  | 240               |
 
-##### Connaissances Communes
+#### Connaissances Communes
 
 Les connaissances communes sont généralement faciles à découvrir avec un jour ou deux de recherche. Elles ne sont pas connues de tous les passants et demandent du temps pour être déterrées, mais avec de nombreuses sources locales d'information, vous n'avez pas besoin de passer beaucoup de temps à chercher. Il se peut que vous deviez interroger plusieurs membres d'un réseau de rumeurs pour découvrir qui un noble courtise pas-si-secrètement, ou vous pourriez avoir besoin de passer quelques heures dans un temple pour trouver le texte religieux particulier qui contient un nom alternatif rarement utilisé pour une divinité.
 
-##### Connaissances Obscures
+#### Connaissances Obscures
 
 Les connaissances obscures ne sont connues que des sages spécialisés et ne présentent généralement d'Intérêt que pour ces érudits. De ce fait, très peu d'ouvrages sont rédigés sur des sujets obscurs. Trouver le bon expert à interroger ou le meilleur livre à consulter nécessite généralement plusieurs jours de recherche. Découvrir les détails d'un rituel utilisé pour ouvrir et fermer un portail vers la Mer d'Étoiles n'est pas une information facile à obtenir, mais il existe des personnes qui savent comment procéder—et qui ont consigné les instructions par écrit.
 
-##### Savoir Perdu
+#### Savoir Perdu
 
 Le savoir perdu est si ésotérique que même parmi les érudits les plus dévoués d'un domaine, il pourrait n'y avoir qu'un ou deux individus qui ont creusé assez profondément pour connaître cette tradition. Le savoir perdu pourrait provenir d'une époque si lointaine qu'un seul texte dans une langue morte détient désormais la tradition que vous recherchez. Une telle tradition prend souvent plus d'une semaine à dénicher. L'emplacement de l'atelier d'un nain d'acier légendaire est très probablement une tradition qui est perdue—à l'exception d'une carte cachée dans une collection privée.
 
-##### Savoir Interdit
+#### Savoir Interdit
 
 Le savoir interdit est une connaissance qu'un individu puissant ou une organisation tente de garder secrète. Ceux qui connaissent ces secrets n'en parlent qu'à voix basse en utilisant des codes après avoir échangé des mots de passe, et rédigent des textes en utilisant des chiffres. Traquer les pistes et leur donner un sens prend généralement des semaines. L'emplacement de la dague qui a tranché la gorge du Dieu de la mort est dissimulé derrière des couches de texte codé et rédigé dans une langue morte connue seulement des Suivants les plus dévoués de ce Dieu.
 
-###### Table d'Événements d'Artisanat et de Recherche
+##### Table d'Événements d'Artisanat et de Recherche
 
 | d100   | Événement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -785,7 +784,7 @@ Le savoir interdit est une connaissance qu'un individu puissant ou une organisat
 | 97-98  | Avant le jet, une partie de la Source de Projet du héros ou d'autres matériaux rétrécit et est tirée à travers un trou de souris. Un groupe de radenwights a envoyé des souris magiques pour voler les ressources afin qu'ils puissent terminer leur propre projet. Les radenwights sont prêts à négocier si le héros ne les approche pas agressivement.                                                                                                                                                                                 |
 | 99-100 | Avant le jet, un élémentaire jaillit de la Source de Projet et entraîne le héros dans un duel. Si le héros peut survivre 3 Tours de combat avec l'élémentaire seul, l'élémentaire disparaît et laisse derrière lui un projet terminé. Si le héros fuit, tombe inconscient ou reçoit l'aide d'un Allié, l'élémentaire détruit la Source de Projet en disparaissant.                                                                                                                                     |
 
-#### Infiltrer une Organisation
+### Infiltrer une Organisation
 
 **Prérequis d'Objet :** Spécial
 
@@ -799,13 +798,13 @@ S'infiltrer sous couverture pour espionner un groupe de personnes est un moyen s
 
 À la discrétion du Directeur, vous devez posséder un déguisement, une bague à sceau, un tatouage spécial, ou tout autre signe indiquant que vous appartenez à l'organisation pour pouvoir commencer ce projet. De plus, le Directeur peut décider que les connaissances que vous recherchez ne peuvent pas être obtenues par ce projet, mais doivent être découvertes en infiltrant l'organisation dans le cadre d'une aventure.
 
-##### Complications
+#### Complications
 
 Ce projet a ses propres Complications spéciales. La première fois que vous terminez ce projet pour une organisation, vous avez 25 % de chances d'être découvert. Chaque fois que vous terminez à nouveau ce projet avec la même organisation, les chances d'être découvert augmentent de 25 % et l'Objectif de Projet augmente de 30. Si vous êtes découvert en infiltration, les membres de l'organisation vous poursuivent impitoyablement selon la détermination du Directeur.
 
 De plus, pendant que vous travaillez à terminer ce projet, l'organisation pourrait vous demander d'accomplir une tâche que vous ne souhaitez peut-être pas faire. L'échec de cette tâche conduit à votre découverte. Vous pouvez éviter la tâche en fuyant l'organisation, mais cela vous empêche de terminer le projet et rend impossible d'entreprendre à nouveau ce projet avec la même organisation.
 
-###### Table d'Événements - Perfectionner les Compétences de Carrière
+##### Table d'Événements - Perfectionner les Compétences de Carrière
 
 | d10 | Événement                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -820,7 +819,7 @@ De plus, pendant que vous travaillez à terminer ce projet, l'organisation pourr
 | 9   | Avant le jet, le héros tombe sur un ancien souvenir de quand il exerçait son ancienne carrière. Il peut choisir entre gagner une percée automatique sur le jet de projet ou gagner un jeton de héros.                                                                                                                                                                                                              |
 | 10  | Après le jet, le héros retrouve le rythme de son ancienne carrière. Il peut faire deux jets de projet supplémentaires.                                                                                                                                                                                                                                                                                                |
 
-#### Perfectionner les Compétences de Carrière
+### Perfectionner les Compétences de Carrière
 
 **Prérequis d'Objet :** Aucun
 
@@ -832,7 +831,7 @@ De plus, pendant que vous travaillez à terminer ce projet, l'organisation pourr
 
 Vous revisitez votre vie antérieure pour rafraîchir l'expérience qu'elle vous a apportée. Lorsque ce projet est terminé, vous gagnez un avantage sur les tests effectués en utilisant les compétences fournies par votre carrière.
 
-#### Apprendre d'un Maître
+### Apprendre d'un Maître
 
 **Prérequis d'Objet :** Aucun
 
@@ -844,7 +843,7 @@ Vous revisitez votre vie antérieure pour rafraîchir l'expérience qu'elle vous
 
 Lorsque vous cherchez à apprendre d'un maître, vous choisissez l'objectif sur lequel vous souhaitez travailler ainsi que le bénéfice que vous en tireriez. Le Directeur vous indique si le maître ou les documents qu'il a laissés derrière lui sont capables de vous enseigner ce que vous voulez apprendre.
 
-###### Table d'Événements - Apprendre d'un Maître
+##### Table d'Événements - Apprendre d'un Maître
 
 | d10 | Événement                                                                                                                                                                                                                                                                                                                                                           |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -859,7 +858,7 @@ Lorsque vous cherchez à apprendre d'un maître, vous choisissez l'objectif sur 
 | 9   | Après le jet, le maître offre au héros un Prérequis d'Objet pour un Projet d'Artisanat.                                                                                                                                                                                                                                                                           |
 | 10  | Après le jet, le héros découvre un secret dans ses études, quelque chose que le maître n'avait jamais anticipé ou que ses enseignements n'avaient pas couvert. L'Objectif de Projet est réduit de moitié.                                                                                                                                                       |
 
-###### Tableau des Objectifs de Projet Apprendre d'un Maître
+##### Tableau des Objectifs de Projet Apprendre d'un Maître
 
 | Projet                    | Objectif |
 |---------------------------|----------|
@@ -867,19 +866,19 @@ Lorsque vous cherchez à apprendre d'un maître, vous choisissez l'objectif sur 
 | Améliorer le contrôle     | 500      |
 | Acquérir une aptitude     | 1 000    |
 
-##### Acquérir une Aptitude
+#### Acquérir une Aptitude
 
 Vous gagnez une aptitude signature de votre choix de la classe du maître (gagnant une seconde aptitude signature si le maître est de la même classe que vous). Si le maître est un tacticien, vous pouvez gagner l'aptitude Frappe Immédiate à la place. Vous ne pouvez pas gagner ce bénéfice à nouveau pour la même classe.
 
-##### Affûter une Aptitude
+#### Affûter une Aptitude
 
 Vous aiguisez l'efficacité de l'une de vos aptitudes de votre choix. Choisissez entre ajouter un bonus de dégâts de +1/+1/+1 à l'aptitude, ou améliorer la distance d'une aptitude à distance de 2. Une aptitude ne peut être affûtée qu'une seule fois de cette manière.
 
-##### Améliorer le Contrôle
+#### Améliorer le Contrôle
 
 Vous apprenez à utiliser une de vos aptitudes héroïques plus efficacement, réduisant son coût de base en Ressource Héroïque de 1 (jusqu'à un minimum de 1). Vous ne pouvez obtenir ce bénéfice qu'une seule fois pour chaque aptitude.
 
-#### Apprendre une Nouvelle Langue
+### Apprendre une Nouvelle Langue
 
 **Prérequis d'Objet :** Aucun
 
@@ -891,7 +890,7 @@ Vous apprenez à utiliser une de vos aptitudes héroïques plus efficacement, r�
 
 Quand vous commencez ce projet, choisissez une langue enseignée par la source de projet. Quand le projet est terminé, vous comprenez la langue.
 
-#### Apprendre une Nouvelle Compétence
+### Apprendre une Nouvelle Compétence
 
 **Prérequis d'Objet :** Aucun
 
@@ -903,7 +902,7 @@ Quand vous commencez ce projet, choisissez une langue enseignée par la source d
 
 Quand vous commencez ce projet, choisissez une compétence enseignée par la source de projet. Quand le projet est terminé, vous possédez cette compétence.
 
-#### Perfectionner une Nouvelle Recette
+### Perfectionner une Nouvelle Recette
 
 **Prérequis d'Objet :** Variable
 
@@ -925,7 +924,7 @@ Une créature qui mange une portion de nourriture d'un type de recette particuli
 
 Une créature ne peut bénéficier de la nourriture que d'une seule recette à la fois, et ne peut pas bénéficier de plus d'une portion d'une recette à la fois.
 
-###### Table des Recettes
+##### Table des Recettes
 
 | Type de Recette     | Prérequis d'Objet                                                                    | Bénéfices         |
 |---------------------|--------------------------------------------------------------------------------------|-------------------|
@@ -933,11 +932,11 @@ Une créature ne peut bénéficier de la nourriture que d'une seule recette à l
 | Ancienne ou familiale | Ingrédients clés (fruit-étoile, graines d'amadou, poisson-rame, etc.)              | Réconfortant      |
 | Antique ou perdue   | Ingrédients rares ou disparus (lys de miel, pommes d'acier, etc.)                   | Pouvoir Surnaturel |
 
-### Autres Projets
+## Autres Projets
 
 Tous les héros ne souhaitent pas forcément créer ou faire de la recherche pendant leur temps libre entre les aventures. Certains pourraient vouloir bâtir des organisations, renouer avec leur famille ou leurs amis, ou tout simplement aller à la pêche.
 
-#### Service Communautaire
+### Service Communautaire
 
 **Prérequis d'Objet :** Aucun
 
@@ -951,7 +950,7 @@ Lorsque vous commencez ce projet, vous devez vous trouver dans une communauté o
 
 En entreprenant ce projet, vous apportez de l'aide aux personnes dans le besoin, en effectuant des petits boulots, en enseignant des compétences de la vie quotidienne, en nettoyant les rues ou les espaces publics, en retrouvant des objets de valeur perdus, et autres activités similaires. Le Directeur détermine la caractéristique qui s'applique au jet de projet en fonction des activités que vous entreprenez. Lorsque vous terminez ce projet, vous recevez un Trésor Consommable aléatoire au choix du Directeur de la part de quelqu'un dans la communauté en remerciement de votre dur labeur.
 
-###### Table d'Événements de Service Communautaire
+##### Table d'Événements de Service Communautaire
 
 | d10 | Événement                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -966,7 +965,7 @@ En entreprenant ce projet, vous apportez de l'aide aux personnes dans le besoin,
 | 9   | Avant le jet, un mécontent local a tourné son attention vers le héros et a soulevé le peuple contre lui. Le héros doit soit affronter des habitants en colère qui l'empêchent de se reposer (perdant le bénéfice habituel du Répit) soit trouver le mécontent et le convaincre avant de procéder.                                                                                                                                |
 | 10  | Avant le jet, un voleur, assassin ou autre criminel propose d'aider le héros. Il peut offrir 50 points vers l'achèvement du projet, tant que le héros ferme les yeux s'ils se croisent à nouveau.                                                                                                                                                                                                                                |
 
-#### Pêche
+### Pêche
 
 **Prérequis d'Objet :** Aucun
 
@@ -983,7 +982,7 @@ Que ce soit pour se nourrir, se détendre ou avoir des droits de vantardise, vou
 - Quand vous obtenez une percée, le Directeur lance sur la table des Événements de Pêche plutôt que vous ne gagniez des points du jet et fassiez un autre jet de projet.
 - Quand vous avez fait votre dernier jet de projet de Pêche pour le répit, vous pouvez dépenser les points de projet que vous avez accumulés pour une récompense de la table Matériel. Tous les points que vous ne dépensez pas durant le répit actuel sont perdus.
 
-##### Table des Équipements
+#### Table des Équipements
 
 | Récompense                    | Coût | Effet                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |-------------------------------|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -993,7 +992,7 @@ Que ce soit pour se nourrir, se détendre ou avoir des droits de vantardise, vou
 | Événement de pêche            | 200  | Vous lancez sur la table des Événements de Pêche.                                                                                                                                                                                                                                                                                                                                                                    |
 | Pêcheur légendaire            | 300  | Vous obtenez le titre et l'avantage suivants. <br/>**Canne d'Or :** Chaque fois que vous entreprenez le projet de Pêche, vous pouvez relancer un jet de projet.                                                                                                                                                                                                                                                   |
 
-###### Table des Événements de Pêche
+##### Table des Événements de Pêche
 
 | d10 | Événement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1008,7 +1007,7 @@ Que ce soit pour se nourrir, se détendre ou avoir des droits de vantardise, vou
 | 9   | En pêchant, le héros est tiré dans l'eau par un poisson antique et doit réussir un Test de Force difficile. En cas de succès, le héros remonte un poisson gigantesque valant 100 points. En cas d'échec, il termine le répit actuel avec 1 Récupération de moins que d'habitude. En cas de succès avec une complication, le héros obtient les deux résultats.                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 10  | En pêchant, le héros remarque ce qui semble être une caverne sous-marine. Si la caverne est explorée, elle révèle un trésor au choix du Directeur gardé par un chevalier revenant accomplissant son devoir jusqu'au retour de son capitaine.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-#### Passer du Temps avec ses Proches
+### Passer du Temps avec ses Proches
 
 **Prérequis d'Objet :** Aucun
 
@@ -1020,7 +1019,7 @@ Que ce soit pour se nourrir, se détendre ou avoir des droits de vantardise, vou
 
 Vous revitalisez votre esprit en passant du temps avec des personnes que vous aimez et que vous n'avez pas vues depuis longtemps. Vous devez pouvoir communiquer avec ces personnes pour entreprendre ce projet ou effectuer des jets de projet pour celui-ci. Lorsque vous terminez ce projet, votre maximum de Vigueur augmente de 12 + votre niveau jusqu'à la fin de votre prochain répit, et vous ne pouvez pas commencer un autre projet Passer du Temps avec ses Proches pendant un mois.
 
-###### Tableau des Événements - Passer du Temps avec ses Proches
+##### Tableau des Événements - Passer du Temps avec ses Proches
 
 | d10 | Événement                                                                                                                                                                                                                                                                                                                                                                           |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

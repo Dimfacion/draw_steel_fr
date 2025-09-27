@@ -1,8 +1,7 @@
 ---
 title: Ombre
 ---
-
-## Ombre
+# Ombre
 
 La subtilité est votre art, la pointe de la lame votre pinceau. Vous avez étudié dans un collège secret, vous spécialisant en alchimie, illusion ou magie de l'ombre. Votre formation et vos connaissances vous placent parmi les rangs d'élite des assassins, espions et commandos. Mais plus puissante que n'importe quelle arme ou sorcellerie est votre perspicacité face aux faiblesses de vos ennemis.
 
@@ -10,7 +9,7 @@ La subtilité est votre art, la pointe de la lame votre pinceau. Vous avez étud
 
 « Chaque fois qu'il y a un doute, il n'y a pas de doute. » **Devise du Collège des Cendres Noires**
 
-### Bases
+## Bases
 
 **Caractéristiques de Départ :** Vous commencez avec une Agilité de 2, et vous pouvez choisir l'un des tableaux suivants pour vos autres scores de caractéristiques :
 
@@ -33,11 +32,11 @@ La subtilité est votre art, la pointe de la lame votre pinceau. Vous avez étud
 
 **Compétences :** Vous gagnez les compétences Se Cacher et Furtivité (voir Compétences au Chapitre 9 : Tests). Puis choisissez cinq compétences parmi Pègre Criminelle ou les compétences des groupes d'exploration, interpersonnelles, ou d'intrigue. (*Construction Rapide :* Pègre Criminelle, Se Cacher, Mentir, Crocheter, Pickpocket, Sabotage, Furtivité.)
 
-### Aptitudes de Niveau 1
+## Aptitudes de Niveau 1
 
 En tant qu'ombre de niveau 1, vous gagnez les aptitudes suivantes.
 
-#### Collège de l'Ombre
+### Collège de l'Ombre
 
 Les collèges de l'Ombre sont des institutions secrètes qui transforment les gens ordinaires en quelque chose d'autre. Trouver un collège est la première étape d'un processus d'initiation rigoureux qui teste la trempe d'un candidat. Même ceux qui sont acceptés abandonnent souvent—ou sont expulsés—car les maîtres de l'ombre qui enseignent la discrétion, la magie et l'assassinat à leurs étudiants sont souvent loin d'être tendres dans leur approche.
 
@@ -49,7 +48,7 @@ Vous avez obtenu votre diplôme d'un collège de l'ombre choisi parmi les option
 
 Votre collège de l'ombre est votre sous-classe, et votre choix de collège détermine de nombreuses aptitudes que vous gagnerez en progressant de niveau.
 
-###### Tableau de Progression de l'Ombre
+##### Tableau de Progression de l'Ombre
 
 | Niveau | Capacités                                                                                                                                        | Aptitudes                 | Aptitudes de Collège |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|----------------------|
@@ -64,11 +63,11 @@ Votre collège de l'ombre est votre sous-classe, et votre choix de collège dét
 | 9e     | Escouade des Ténèbres, Aptitude de Collège                                                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
 | 10e    | Augmentation de Caractéristique, Bassin de Mort, Avantage, Compétence, Amélioration d'Observation Attentive, Forme Ombrale Améliorée, Subterfuge | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
 
-#### Perspicacité
+### Perspicacité
 
 En observant votre ennemi, vous apprenez à exploiter ses faiblesses contre lui, accumulant une Ressource Héroïque appelée perspicacité.
 
-##### Perspicacité en Combat
+#### Perspicacité en Combat
 
 Au début d'une rencontre de combat ou d'une autre situation stressante suivie en tours de combat (selon la décision du Directeur), vous gagnez un nombre de points de perspicacité égal à vos Victoires. Au début de chacun de vos tours pendant le combat, vous gagnez 1d3 points de perspicacité.
 
@@ -78,17 +77,17 @@ Chaque fois que vous utilisez une aptitude héroïque qui fait appel à un jet d
 
 Vous perdez tous les points de perspicacité restants à la fin de la rencontre.
 
-##### Perspicacité en Dehors du Combat
+#### Perspicacité en Dehors du Combat
 
 Bien que vous ne puissiez pas gagner de perspicacité en dehors du combat, vous pouvez utiliser vos aptitudes héroïques et effets qui coûtent de la perspicacité sans la dépenser. Chaque fois que vous utilisez une aptitude ou un effet en dehors du combat qui coûte de la perspicacité, vous ne pouvez pas utiliser cette même aptitude ou effet en dehors du combat à nouveau jusqu'à ce que vous obteniez 1 Victoire ou plus ou que vous terminiez un répit.
 
 Quand vous utilisez une aptitude en dehors du combat qui vous permet de dépenser de la perspicacité illimitée sur son effet, comme Téléportation de Cendre Noire, vous pouvez l'utiliser comme si vous aviez dépensé un montant de perspicacité égal à vos Victoires.
 
-#### Aptitudes de Collège de Niveau 1
+### Aptitudes de Collège de Niveau 1
 
 Votre collège d'ombre vous accorde une ou deux aptitudes, comme indiqué dans le tableau des Aptitudes de Collège de Niveau 1.
 
-###### Tableau des Aptitudes de Collège de Niveau 1
+##### Tableau des Aptitudes de Collège de Niveau 1
 
 | Collège           | Aptitude                                    |
 |-------------------|---------------------------------------------|
@@ -96,7 +95,7 @@ Votre collège d'ombre vous accorde une ou deux aptitudes, comme indiqué dans l
 | Alchimie Caustique| Enduire la Lame, Bombe Fumigène            |
 | Masque d'Arlequin | Je ne Représente Aucune Menace             |
 
-##### Téléportation de Cendre Noire
+#### Téléportation de Cendre Noire
 
 Vous avez l'aptitude suivante.
 
@@ -115,7 +114,7 @@ Vous avez l'aptitude suivante.
 > 
 > **🔥 Dépenser 1+ Perspicacité :** Vous vous téléportez d'1 case supplémentaire par point de perspicacité dépensé.
 
-##### Enduire la Lame
+#### Enduire la Lame
 Vous possédez l'aptitude suivante.
 
 > [!spell] Enduire la Lame
@@ -133,7 +132,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **🔥 Dépenser 1+ Perspicacité :** Pour chaque perspicacité que vous dépensez, vous gagnez 1 impulsion supplémentaire.
 
-##### Je Ne Suis Pas Une Menace
+#### Je Ne Suis Pas Une Menace
 Vous possédez l'aptitude suivante.
 
 > [!spell] Je Ne Suis Pas Une Menace
@@ -153,15 +152,15 @@ Vous possédez l'aptitude suivante.
 > 
 > **🔥 Dépenser 1 Perspicacité :** Choisissez une créature dont la taille n'excède pas la vôtre de plus de 1 et qui se trouve dans un rayon de 10 cases. L'illusion de cette aptitude vous fait apparaître comme cette créature. Cette illusion couvre tout votre corps, y compris les vêtements et l'armure, et altère votre voix pour qu'elle ressemble à celle de la créature. Vous gagnez un avantage sur les tests effectués pour convaincre les alliés de la créature que vous êtes cette créature.
 
-##### Bombe Fumigène
+#### Bombe Fumigène
 
 Vous transportez toujours un stock de bombes fumigènes pour créer des diversions et faciliter vos évasions. Vous pouvez utiliser la Manœuvre - Se Cacher même si vous êtes observé et que vous n'avez initialement ni abri ni dissimulation. Quand vous le faites, vous pouvez glisser d'un nombre de cases égal à votre score d'Agilité. Si vous terminez ce déplacement avec un abri ou une dissimulation, vous êtes automatiquement caché.
 
-#### Action Déclenchée de Collège
+### Action Déclenchée de Collège
 
 Votre collège d'ombre vous accorde une action déclenchée, comme indiqué dans le tableau des Actions Déclenchées de Collège.
 
-###### Tableau des Actions Déclenchées de Collège
+##### Tableau des Actions Déclenchées de Collège
 
 | Collège         | Action Déclenchée      |
 |-----------------|------------------------|
@@ -218,7 +217,7 @@ Votre collège d'ombre vous accorde une action déclenchée, comme indiqué dans
 > 
 > **🔥 Dépenser 1+ Perspicacité:** Vous vous téléportez de 1 case supplémentaire pour chaque perspicacité dépensée.
 
-#### L'Hésitation est une Faiblesse
+### L'Hésitation est une Faiblesse
 Vous possédez l'aptitude suivante.
 
 > [!spell] L'Hésitation est une Faiblesse (1 Perspicacité)
@@ -236,15 +235,15 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Vous jouez votre tour après le héros déclencheur.
 
-#### Panoplie
+### Panoplie
 
 Vous pouvez utiliser et bénéficier des avantages d'une panoplie. Voir Chapitre 6 : Panoplies pour plus d'informations. (*Construction Rapide :* Cape et Dague.)
 
-#### Aptitudes d'Ombre
+### Aptitudes d'Ombre
 
 Vous vous spécialisez dans l'art d'infliger des dégâts, puis de vous mettre à l'abri avant l'inévitable contre-attaque. Vous connaissez un certain nombre d'aptitudes martiales uniques qui définissent votre présence sur le champ de bataille.
 
-##### Aptitude Signature
+#### Aptitude Signature
 
 Choisissez une aptitude signature parmi les options suivantes. Les aptitudes signatures peuvent être utilisées à volonté. (*Construction Rapide :* Le Travail d'Équipe a sa Place.)
 
@@ -320,11 +319,11 @@ Choisissez une aptitude signature parmi les options suivantes. Les aptitudes sig
 > 
 > **💫 Effet :** Tant que vous avez un ou plusieurs alliés dans un rayon de 5 cases de la cible, vous gagnez 1 impulsion. Si vous flanquez la cible quand vous utilisez cette aptitude, choisissez un allié qui flanque avec vous. Cet allié gagne également 1 impulsion.
 
-##### Aptitudes Héroïques
+#### Aptitudes Héroïques
 
 Une gamme d'aptitudes héroïques définit vos prouesses au combat, toutes utilisant votre Perspicacité.
 
-###### Aptitude 3-Perspicacité
+##### Aptitude 3-Perspicacité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 3 perspicacité à utiliser. (*Construction Rapide :* Entrer et Sortir.)
 
@@ -394,7 +393,7 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > - **12-16 :** 6 dégâts
 > - **17+ :** 10 dégâts
 
-##### Aptitude 5-Perspicacité
+#### Aptitude 5-Perspicacité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 5 perspicacité à utiliser. (Construction Rapide : Coup de Grâce.)
 
@@ -461,19 +460,19 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet :** Vous utilisez une aptitude signature de frappe deux fois.
 
-### Aptitudes de Niveau 2
+## Aptitudes de Niveau 2
 
 En tant qu'ombre de niveau 2, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage d'exploration, interpersonnel ou d'intrigue de votre choix. Voir Chapitre 7 : Avantages.
 
-#### Aptitude de Collège de Niveau 2
+### Aptitude de Collège de Niveau 2
 
 Votre collège d'Ombre vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Collège de Niveau 2.
 
-###### Tableau des Aptitudes de Collège de Niveau 2
+##### Tableau des Aptitudes de Collège de Niveau 2
 
 | Collège                    | Aptitude         |
 |----------------------------|------------------|
@@ -481,25 +480,25 @@ Votre collège d'Ombre vous accorde une aptitude, comme indiqué dans le tableau
 | Alchimie Caustique         | Assassin Entraîné |
 | Masque d'Arlequin          | Ami !            |
 
-##### Cendres Brûlantes
+#### Cendres Brûlantes
 
 Les cendres que vous laissez derrière vous brûlent vos ennemis. La première fois par tour que vous utilisez une aptitude d'ombre pour vous téléporter en vous éloignant d'un espace adjacent à un ennemi ou en vous téléportant dans un tel espace, cet ennemi subit des dégâts de feu égaux à votre score d'Agilité.
 
-##### Ami !
+#### Ami !
 
 Tes illusions font croire à tes ennemis que tu es leur ami dans les moments critiques. Chaque fois qu'un ennemi utilise une aptitude ou un trait qui cible plusieurs alliés et que tu te trouves à distance de l'effet, tu peux choisir d'être également une cible de cet effet.
 
 De plus, quand tu utilises ton aptitude Je Ne Suis Pas Une Menace, tu peux effectuer l'Action de Déplacement - Désengagement dans le cadre de cette aptitude.
 
-##### Assassin Entraîné
+#### Assassin Entraîné
 
 Vous savez exactement où frapper vos ennemis. Chaque fois que vous effectuez une frappe qui n'a pas de fléau ou de double fléau, et qui incorpore 1 ou plusieurs impulsions, vous gagnez 1 impulsion supplémentaire que vous ne pouvez utiliser que sur cette frappe.
 
-#### Aptitude de Collège de Niveau 2
+### Aptitude de Collège de Niveau 2
 
 Votre collège d'ombre vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitude de Cendre Noire de Niveau 2
+#### Aptitude de Cendre Noire de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -534,7 +533,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet:** Vous ignorez tous les effets associés aux dégâts qui ont déclenché votre aptitude Dans Toute Cette Confusion. Avant de vous téléporter, vous pouvez effectuer une Frappe Gratuite contre une créature qui vous a infligé des dégâts pour déclencher Dans Toute Cette Confusion. Après vous être téléporté, vous pouvez dépenser une Récupération.
 
-##### Aptitude d'Alchimie Caustique de Niveau 2
+#### Aptitude d'Alchimie Caustique de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -574,7 +573,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet:** Le gaz reste dans la zone jusqu'à la fin de la rencontre. Toute créature qui commence son tour dans la zone et dont la F < MOYENNE est affaiblie (sauvegarde termine).
 
-##### Aptitude de Masque d'Arlequin de Niveau 2
+#### Aptitude de Masque d'Arlequin de Niveau 2
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -611,11 +610,11 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet:** Vous utilisez votre aptitude Ruse Astucieuse sans coût en perspicacité contre la créature et la frappe déclencheuses. Vous pouvez vous téléporter vers un espace inoccupé dans un rayon de 3 cases de cette créature et pouvez effectuer une frappe gratuite contre elle. Vous pouvez ensuite dépenser une Récupération.
 
-### Aptitudes de Niveau 3
+## Aptitudes de Niveau 3
 
 En tant qu'ombre de niveau 3, vous gagnez les aptitudes suivantes.
 
-#### Observation Attentive
+### Observation Attentive
 
 Vous possédez l'aptitude suivante.
 
@@ -632,7 +631,7 @@ Vous possédez l'aptitude suivante.
 > 
 > **💫 Effet:** Tant que vous restez à distance de la cible, maintenez une ligne d'effet vers elle, et ne frappez aucune autre créature en premier, vous gagnez un avantage sur la prochaine frappe que vous effectuez contre la créature évaluée, et gagnez 1 impulsion que vous ne pouvez utiliser que sur cette frappe.
 
-#### Aptitude à 7 Perspicacité
+### Aptitude à 7 Perspicacité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 7 perspicacité à utiliser.
 
@@ -699,19 +698,19 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > - **12-16 :** 11 + A dégâts ; M < MOYEN, À Terre et ne peut pas se lever (Sauvegarde Termine)
 > - **17+ :** 16 + A dégâts ; M < FORT, À Terre et ne peut pas se lever (Sauvegarde Termine)
 
-### Aptitudes de Niveau 4
+## Aptitudes de Niveau 4
 
 En tant qu'ombre de niveau 4, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Votre score d'Agilité passe à 3. De plus, vous pouvez augmenter l'un de vos scores de caractéristique de 1, jusqu'à un maximum de 3.
 
-#### Chut !
+### Chut !
 
 Lorsque vous conversez avec une créature avec laquelle vous partagez une langue, vous pouvez décider si quelqu'un d'autre peut percevoir ce que vous transmettez, même en criant.
 
-#### Veille Nocturne
+### Veille Nocturne
 
 Votre sens de la discrétion montre à ceux qui vous entourent comment échapper aux regards. Tant que vous êtes caché, les ennemis subissent un fléau sur les tests effectués pour vous rechercher ou rechercher d'autres créatures cachées dans un rayon de 10 cases autour de vous.
 
@@ -732,27 +731,27 @@ De plus, vous disposez de l'aptitude suivante.
 > 
 > **💫 Effet:** La cible subit la moitié des dégâts. Vous restez caché.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix. Voir Compétences au Chapitre 9 : Tests.
 
-#### Élan d'Intuition
+### Élan d'Intuition
 
 La première fois à chaque round de combat que vous infligez des dégâts incorporant 1 ou plusieurs élans, vous gagnez 2 intuition au lieu de 1.
 
-### Aptitudes de Niveau 5
+## Aptitudes de Niveau 5
 
 En tant qu'ombre de niveau 5, vous gagnez les aptitudes suivantes.
 
-#### Aptitude de Collège de Niveau 5
+### Aptitude de Collège de Niveau 5
 
 Votre collège d'ombre vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Collège de Niveau 5.
 
-###### Tableau des Aptitudes de Collège de Niveau 5
+##### Tableau des Aptitudes de Collège de Niveau 5
 
 | Collège            | Aptitude            |
 |--------------------|---------------------|
@@ -760,25 +759,25 @@ Votre collège d'ombre vous accorde une aptitude, comme indiqué dans le tableau
 | Alchimie Caustique | Réactifs Volatils   |
 | Masque d'Arlequin  | Gambit d'Arlequin   |
 
-##### Harlequin Gambit
+#### Harlequin Gambit
 
 Chaque fois que vous réduisez à 0 Vigueur une créature non-sbire adjacente, vous pouvez immédiatement utiliser une manœuvre gratuite pour utiliser votre aptitude Je Ne Suis Pas Une Menace, puis vous déplacer jusqu'à votre vitesse.
 
 Si la créature est de la même taille que vous, vous pouvez vous déguiser en elle en utilisant Je Ne Suis Pas Une Menace sans dépenser de perspicacité. Si vous le faites, tant que Je Ne Suis Pas Une Menace est active, le corps de la créature est déguisé pour ressembler à votre corps. L'illusion se termine sur son corps si une autre créature interagit physiquement avec lui. Quand l'illusion devrait se terminer pour vous ou pour le corps de la créature, elle se termine pour les deux.
 
-##### Traînée de Cendres
+#### Traînée de Cendres
 
 Chaque fois que vous réduisez une créature non-séide à 0 Vigueur, vous pouvez immédiatement utiliser une Manœuvre Gratuite pour utiliser votre aptitude Téléportation de Cendre Noire.
 
 De plus, vous pouvez désormais emmener une créature adjacente consentante avec vous chaque fois que vous utilisez une aptitude d'Ombre pour vous téléporter. La créature apparaît dans un espace inoccupé adjacent à l'espace dans lequel vous vous êtes téléporté. Si un tel espace n'existe pas, elle ne peut pas se téléporter avec vous.
 
-##### Réactifs Volatils
+#### Réactifs Volatils
 
 Chaque fois que vous subissez des dégâts, chaque ennemi adjacent à vous subit des dégâts de feu, d'acide ou de poison (votre choix) égaux à votre score d'Agilité.
 
 De plus, votre aptitude Roulade Défensive vous permet maintenant de glisser jusqu'à 5 cases, y compris glisser verticalement. Si vous ne terminez pas ce glissement sur un sol solide et que vous ne volez pas, vous chutez.
 
-#### Aptitude à 9 Perspicacité
+### Aptitude à 9 Perspicacité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 9 perspicacité à utiliser.
 
@@ -849,15 +848,15 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > 
 > **💫 Effet:** La cible ne peut communiquer avec personne jusqu'à la fin de la rencontre.
 
-### Aptitudes de Niveau 6
+## Aptitudes de Niveau 6
 
 En tant qu'ombre de niveau 6, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Forme Ombreuse
+### Forme Ombreuse
 
 En tant que manœuvre, vous perdez le contrôle de vous-même, devenant une créature d'ombre dégoulinante de cendres. Cette transformation dure jusqu'à la fin de la rencontre, jusqu'à ce que vous soyez mourant, ou après 1 heure ininterrompue de concentration tranquille en dehors du combat. Vous gagnez les effets suivants sous cette forme :
 
@@ -869,11 +868,11 @@ En tant que manœuvre, vous perdez le contrôle de vous-même, devenant une cré
 - Les créatures gagnent un avantage sur les frappes contre vous.
 - Vous subissez un fléau sur les tests de Présence effectués pour interagir avec d'autres créatures.
 
-#### Aptitude de Collège de Niveau 6
+### Aptitude de Collège de Niveau 6
 
 Votre collège d'ombre vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes de Cendre Noire de Niveau 6
+#### Aptitudes de Cendre Noire de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -908,7 +907,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Chaque cible peut se téléporter jusqu'à 5 cases. Pour chaque cible en plus de vous qui se téléporte en s'éloignant d'un espace adjacent à un ennemi ou en s'y téléportant, cet ennemi subit des dégâts de feu égaux à votre score d'Agilité. De plus, une cible qui termine ce déplacement en Dissimulation ou à l'Abri peut utiliser la Manœuvre - Se Cacher même si elle est observée.
 
-##### Aptitudes d'Alchimie Caustique de Niveau 6
+#### Aptitudes d'Alchimie Caustique de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -947,7 +946,7 @@ Choisissez l'une des aptitudes suivantes.
 > - **12-16 :** La créature peut Voler jusqu'à la fin de la rencontre.
 > - **17+ :** La créature devient invisible jusqu'à la fin de son prochain Tour.
 
-##### Aptitudes de Masque d'Arlequin de Niveau 6
+#### Aptitudes de Masque d'Arlequin de Niveau 6
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -982,43 +981,43 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Vous choisissez les nouvelles cibles pour la frappe gratuite ou l'aptitude de la cible originale. De plus, si vous êtes caché ou déguisé, utiliser cette aptitude ne vous fait pas révéler.
 
-### Aptitudes de Niveau 7
+## Aptitudes de Niveau 7
 
 En tant qu'ombre de niveau 7, vous gagnez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Chacun de vos scores de caractéristique augmente de 1, jusqu'à un maximum de 4.
 
-#### Perspicacité Aiguisée
+### Perspicacité Aiguisée
 
 Au début de chacun de vos tours pendant le combat, vous gagnez 1d3 + 1 perspicacité au lieu de 1d3.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-#### Amélioration d'Observation Attentive
+### Amélioration d'Observation Attentive
 
 Vous pouvez cibler deux créatures simultanément avec votre aptitude Observation Attentive, en observant les deux en même temps. Effectuer une frappe contre une cible ne met pas fin à votre observation de l'autre cible.
 
-#### Ventriloque
+### Ventriloque
 
 Chaque fois que vous communiquez, vous pouvez projeter votre voix de sorte qu'elle semble provenir d'une créature ou d'un objet dans un rayon de 10 cases. Si vous êtes caché, parler de cette manière ne vous fait pas révéler.
 
-### Aptitudes de Niveau 8
+## Aptitudes de Niveau 8
 
 En tant qu'ombre de niveau 8, vous gagnez les aptitudes suivantes.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Aptitude de Collège de Niveau 8
+### Aptitude de Collège de Niveau 8
 
 Votre collège d'ombre vous accorde une aptitude, comme indiqué dans le tableau des Aptitudes de Collège de Niveau 8.
 
-###### Tableau des Aptitudes de Collège de Niveau 8
+##### Tableau des Aptitudes de Collège de Niveau 8
 
 | Collège         | Aptitude    |
 |-----------------|-------------|
@@ -1026,15 +1025,15 @@ Votre collège d'ombre vous accorde une aptitude, comme indiqué dans le tableau
 | Caustic Alchemy | Time Bomb   |
 | Harlequin Mask  | Parkour     |
 
-##### Pas de Braise
+#### Pas de Braise
 
 Chaque fois que vous vous déplacez volontairement, vous pouvez utiliser la téléportation. Lorsque vous utilisez la téléportation de cette manière, cela compte comme l'utilisation d'une aptitude d'ombre dans le cadre de l'utilisation de vos capacités Cendres Ardentes et Traînée de Braises.
 
-##### Parkour
+#### Parkour
 
 Votre déplacement ne provoque plus d'attaques d'opportunité. De plus, vous pouvez utiliser votre aptitude Gambit d'Arlequin comme une action déclenchée gratuite quand une créature est réduite à 0 Vigueur par votre aptitude Astuce Ingénieuse.
 
-##### Bombe à Retardement
+#### Bombe à Retardement
 
 Vous avez une Immunité aux Dégâts contre les aptitudes et effets de zone égale à votre score d'Agilité. Vous avez également l'aptitude suivante, que vous pouvez utiliser une fois par tour lors de votre tour.
 
@@ -1055,7 +1054,7 @@ Vous avez une Immunité aux Dégâts contre les aptitudes et effets de zone éga
 > 
 > **🔥 Dépenser 2+ Perspicacité :** Pour chaque tranche de 2 Perspicacité dépensée, vous augmentez la Taille du cube de 1 et gagnez 1 Impulsion qui ne peut être utilisée qu'avec cette aptitude.
 
-#### Aptitude de 11-Perspicacité
+### Aptitude de 11-Perspicacité
 
 Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant 11 perspicacité à utiliser.
 
@@ -1122,21 +1121,21 @@ Choisissez une aptitude héroïque parmi les options suivantes, chacune coûtant
 > - **12-16 :** 18 dégâts ; F < MOYEN, ralenti (sauvegarde termine)
 > - **17+ :** 24 dégâts ; F < FORT, ralenti (sauvegarde termine)
 
-### Aptitudes de Niveau 9
+## Aptitudes de Niveau 9
 
 En tant qu'ombre de niveau 9, vous gagnez les aptitudes suivantes.
 
-#### Escouade Ténébreuse
+### Escouade Ténébreuse
 
 Au début de chacun de vos tours, vous pouvez renoncer à gagner de la perspicacité pour créer 1d6 clones de vous-même dans des espaces adjacents inoccupés. Un clone agit pendant votre tour et utilise vos statistiques, sauf qu'il a 1 point de Vigueur. Il est affecté par toutes les conditions et effets qui vous touchent, et dure jusqu'au début de votre prochain tour. Un clone n'a pas de perspicacité et ne peut pas utiliser l'aptitude Observation Minutieuse, la capacité Forme Ombrale, ou toute action déclenchée. Pendant son tour, un clone a une action de déplacement, une manœuvre, et une action principale qu'il ne peut utiliser que pour effectuer une frappe gratuite. Lorsqu'il effectue une frappe gratuite, un clone doit choisir des cibles que vous ou un autre clone n'êtes pas également en train de frapper.
 
 En dehors du combat, vous pouvez avoir un clone actif pour chaque tranche de 2 Victoires que vous possédez. Si un clone est détruit, vous devez attendre 1 heure avant d'en créer un autre.
 
-#### Aptitude de Collège de Niveau 9
+### Aptitude de Collège de Niveau 9
 
 Votre collège d'ombre vous accorde le choix entre deux aptitudes héroïques.
 
-##### Aptitudes de Cendre Noire de Niveau 9
+#### Aptitudes de Cendre Noire de Niveau 9
 
 Choisissez une des aptitudes suivantes.
 
@@ -1176,7 +1175,7 @@ Choisissez une des aptitudes suivantes.
 > 
 > **💫 Effet :** Sur un Coup Critique, la Cible est Agrippée par le démon et tirée à travers le portail avant qu'il ne se referme, pour ne plus jamais être revue.
 
-##### Aptitudes d'Alchimie Caustique de Niveau 9
+#### Aptitudes d'Alchimie Caustique de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1216,7 +1215,7 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Le sol sous une zone de 3 cubes autour de la position de départ de la cible devient un terrain difficile.
 
-##### Aptitudes de Masque d'Arlequin de Niveau 9
+#### Aptitudes de Masque d'Arlequin de Niveau 9
 
 Choisissez l'une des aptitudes suivantes.
 
@@ -1251,37 +1250,37 @@ Choisissez l'une des aptitudes suivantes.
 > 
 > **💫 Effet :** Si vous êtes déguisé en une créature que la cible connaissait en utilisant votre aptitude Je Ne Suis Pas Une Menace, cette aptitude inflige des dégâts supplémentaires égaux à trois fois votre score d'Agilité.
 
-### Aptitudes de Niveau 10
+## Aptitudes de Niveau 10
 
 En tant qu'ombre de niveau 10, vous obtenez les aptitudes suivantes.
 
-#### Augmentation de Caractéristique
+### Augmentation de Caractéristique
 
 Votre score d'Agilité passe à 5. De plus, vous pouvez augmenter l'un de vos scores de caractéristique de 1, jusqu'à un maximum de 5.
 
-#### Réserve de Mort
+### Réserve de Mort
 
 La première fois à chaque tour de combat que vous infligez des dégâts incorporant 1 ou plusieurs impulsions, vous gagnez 3 perspicacité au lieu de 2.
 
-#### Avantage
+### Avantage
 
 Vous gagnez un avantage de votre choix.
 
-#### Compétence
+### Compétence
 
 Vous gagnez une compétence de votre choix.
 
-#### Amélioration d'Observation Attentive
+### Amélioration d'Observation Attentive
 
 Vous pouvez cibler trois créatures simultanément avec votre aptitude Observation Attentive.
 
-#### Forme Ombrageuse Améliorée
+### Forme Ombrageuse Améliorée
 
 Vous obtenez un contrôle total sur la créature d'ombre que vous devenez avec votre aptitude Forme Ombrageuse, et vous pouvez mettre fin à la transformation à volonté (aucune action requise). De plus, vous êtes toujours enveloppé dans les ténèbres qui vous accordent la dissimulation sous cette forme, et les créatures n'obtiennent plus d'avantage sur les frappes contre vous.
 
 Tant que vous êtes sous votre forme ombrageuse, vous pouvez passer 1 minute ininterrompue à vous concentrer sur un lieu où vous êtes déjà allé. À la fin de cette minute, vous et chaque créature consentante de votre choix dans un rayon de 10 cases de vous pouvez vous téléporter vers des espaces inoccupés de votre choix dans ce lieu. Chaque créature qui se téléporte de cette manière est invisible pendant 1 heure ou jusqu'à ce qu'elle utilise une aptitude.
 
-#### Subterfuge
+### Subterfuge
 
 Vous possédez une ressource épique appelée subterfuge. Chaque fois que vous terminez un répit, vous gagnez du subterfuge égal aux XP que vous gagnez. Vous pouvez dépenser du subterfuge sur vos aptitudes comme s'il s'agissait de perspicacité.
 

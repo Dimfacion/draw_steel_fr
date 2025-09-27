@@ -1,8 +1,7 @@
 ---
 title: Chevalier-Dragon
 ---
-
-## Chevalier-Dragon
+# Chevalier-Dragon
 
 Le rituel de Dracogenèse qui confère le pouvoir de créer une génération de chevaliers-dragons—également connus sous le nom de draconiens ou seigneurs-wyrms—est obscur et extrêmement difficile à maîtriser, même pour un sorcier expérimenté. Les petites populations de draconiens à Khemhara, Higara et Khoursir en témoignent. Descendants des générations originelles créées il y a des millénaires par de puissants magiciens, ils n'ont jamais été nombreux. Une couvée typique ne produit qu'un seul œuf. Après seulement quelques générations, ces draconiens commencent à montrer de nouvelles adaptations comme des plumes ou des crêtes frangées.
 
@@ -12,7 +11,7 @@ La chevalerie était un Titre porté par chaque membre de cette première géné
 
 Puis Ajax arriva.
 
-### À Propos des Chevaliers-Dragons
+## À Propos des Chevaliers-Dragons
 
 La silhouette encapuchonnée au fond de l'auberge se leva. Ce faisant, sa capuche glissa en arrière, révélant sa tête et son visage. Un murmure parcourut l'assistance. Un homme près du comptoir en resta bouche bée, puis laissa échapper sa chope d'hydromel.
 
@@ -92,23 +91,23 @@ Le Chevalier-Dragon observa les gens autour de lui, ces trois paysans désespér
 
 « Précisément », lâcha Vaantikalisax. Puis il tourna les talons et quitta l'auberge.
 
-### Traits de Chevalier-Dragon
+## Traits de Chevalier-Dragon
 
 Les héros chevaliers-dragons ont accès aux traits suivants.
 
-#### Trait Signature : Écailles de Wyrm
+### Trait Signature : Écailles de Wyrm
 
 Vos écailles durcies vous accordent une Immunité aux Dégâts égale à votre Niveau contre l'un des Types de Dégâts suivants : acide, froid, corruption, feu, foudre ou poison. Vous pouvez changer votre type d'Immunité aux Dégâts lorsque vous terminez un Répit.
 
-#### Traits de Chevalier-Dragon Achetés
+### Traits de Chevalier-Dragon Achetés
 
 Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Souffle de Dragon, Écailles Prismatiques.)
 
-##### Garde Draconique (1 Point)
+#### Garde Draconique (1 Point)
 
 Chaque fois que vous ou une créature adjacente subissez des dégâts d'une frappe, vous pouvez utiliser une action déclenchée pour vous protéger du coup. Vous réduisez tous les dégâts de la frappe d'un montant égal à votre niveau.
 
-##### Fierté Draconique (2 Points)
+#### Fierté Draconique (2 Points)
 Vous possédez l'aptitude signature suivante.
 
 > [!spell] Fierté Draconique
@@ -128,7 +127,7 @@ Vous possédez l'aptitude signature suivante.
 > - **12-16 :** 5 dégâts ; poussée 1
 > - **17+ :** 7 dégâts ; poussée 2
 
-##### Souffle de Dragon (2 Points)
+#### Souffle de Dragon (2 Points)
 Vous possédez l'aptitude signature suivante.
 
 > [!spell] Souffle de Dragon
@@ -150,16 +149,16 @@ Vous possédez l'aptitude signature suivante.
 > 
 > Vous choisissez le type de dégâts de l'aptitude parmi acide, froid, corruption, feu, foudre ou poison.
 
-##### Écailles Prismatiques (1 Point)
+#### Écailles Prismatiques (1 Point)
 
 Sélectionnez une Immunité aux Dégâts accordée par votre trait Plaques de Wyrm. Vous avez toujours cette immunité, en plus de l'immunité accordée par Plaques de Wyrm.
 
-##### Se Souvenir de son Serment (1 Point)
+#### Se Souvenir de son Serment (1 Point)
 
 En tant que manœuvre, vous pouvez réciter le serment suivant. Jusqu'au début de votre prochain tour, chaque fois que vous effectuez un jet de sauvegarde, vous réussissez sur un résultat de 4 ou plus.
 
 *Même si le soleil s'arrêtait dans le ciel Même si la nuit durait mille ans Je me dresserai pour l'éternité Je ne céderai pas Ceux qui souffrent et aspirent à la justice Je suis votre épée et votre bouclier Je ne céderai aucun sol Je ne prononcerai aucun mensonge Je me dresserai contre tous les tyrans Jusqu'à ce que le dernier scélérat périsse*
 
-##### Ailes (2 Points)
+#### Ailes (2 Points)
 
 Vous possédez des ailes suffisamment puissantes pour vous porter dans les airs. Lorsque vous utilisez vos ailes pour voler, vous pouvez rester en l'air pendant un nombre de tours égal à votre score de Force (minimum 1 tour) avant de chuter. Lorsque vous utilisez vos ailes pour voler au Niveau 3 ou inférieur, vous avez une Faiblesse aux Dégâts de 5.

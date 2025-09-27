@@ -1,14 +1,13 @@
 ---
 title: Humain
 ---
-
-## Humain
+# Humain
 
 Les Humains appartiennent au monde d'une façon que les autres peuples parlants ne connaissent pas. Vous pouvez sentir la présence du Surnaturel—cette... odeur huileuse dans l'air, comme je l'ai entendu décrire. Et la Présence des sans-mort fait se dresser les poils sur votre nuque.  Pour quelle autre raison pensez-vous que les cimetières vous affectent ainsi ? Quelle que soit la nature de la magie, son emprise sur vous est légère. Quoi que ce soit qui anime les sans-mort, votre nature se rebelle contre cela.
 
 « Personne ne sait pourquoi il en est ainsi. Nous autres elfes n'avons pas de tels sens. Pas plus que les élémentaires ou les kanin... les nains et les Orcs comme vous dites. Qu'est-ce qui distingue les Humains ? Je suis historien, pas médecin. Je ne saurais le dire. Peut-être que certains d'entre vous découvriront un jour la réponse et nous enseigneront à tous la Raison. »
 
-### Sur les Humains
+## Sur les Humains
 
 Nous voici donc arrivés au terme de votre premier semestre de Culture Humaine. J'espère vous revoir l'année prochaine dans le cours sur l'Empire Caelien, et bien que cela puisse paraître difficile à croire maintenant, je vois souvent les noms d'anciens étudiants figurer dans nos manuels des années plus tard. Peut-être sera-ce le cas de certains d'entre vous.
 
@@ -44,34 +43,34 @@ Arrêter Ajax exigera que vous deveniez autre chose. Vous devrez devenir des Hé
 
 Certains de vos noms, je les verrai inscrits dans de futurs manuels. Mais certains de vos noms, je les verrai écrits dans les étoiles.
 
-### Traits Humains
+## Traits Humains
 
 Les héros humains ont accès aux traits suivants.
 
-#### Trait Signature : Détecter le Surnaturel
+### Trait Signature : Détecter le Surnaturel
 
 En tant que manœuvre, vous pouvez ouvrir votre conscience pour détecter les créatures et phénomènes surnaturels. Jusqu'à la fin de votre prochain tour, vous connaissez l'emplacement de tout objet surnaturel, ou de tout mort-vivant, artificiel, ou créature d'un autre monde dans un rayon de 5 cases, même si vous n'avez pas de ligne d'effet vers cet objet ou cette créature. Vous savez si vous détectez un objet ou une créature, et vous connaissez la nature de toute créature que vous détectez.
 
-#### Traits d'Humain Achetés
+### Traits d'Humain Achetés
 
 Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Persévérance, Endurance.)
 
-##### Insaisissable (1 Point)
+#### Insaisissable (1 Point)
 
 Votre connexion au monde naturel vous permet de résister à certains effets surnaturels. Vous ignorez le Terrain Difficile temporaire créé par les aptitudes magiques et psioniques. De plus, lorsque vous subissez un Déplacement Forcé causé par une aptitude magique ou psionique, vous pouvez réduire la Distance de ce Déplacement Forcé de 1.
 
-##### Détermination (2 Points)
+#### Détermination (2 Points)
 
 Une tolérance à la douleur et à la détresse vous permet de surmonter les situations difficiles. Si vous êtes effrayé, ralenti ou affaibli, vous pouvez utiliser une manœuvre pour immédiatement mettre fin à l'une de ces conditions.
 
-##### Persévérance (1 Point)
+#### Persévérance (1 Point)
 
 Abandonner, c'est pour les autres. Vous gagnez un avantage sur les tests effectués avec la compétence Endurance. De plus, quand vous êtes ralenti, votre vitesse est réduite à 3 au lieu de 2.
 
-##### Résister au Surnaturel (1 Point)
+#### Résister au Surnaturel (1 Point)
 
 Votre résistance instinctive vous protège des blessures qui sortent de l'ordinaire. Chaque fois que vous subissez des dégâts qui  sont typés, vous pouvez utiliser une action déclenchée pour ne subir que la moitié des dégâts.
 
-##### Endurance (2 Points)
+#### Endurance (2 Points)
 
 Votre physiologie humaine vous permet de combattre, courir et rester éveillé plus longtemps que les autres. Vous augmentez votre nombre de Récupérations de 2.

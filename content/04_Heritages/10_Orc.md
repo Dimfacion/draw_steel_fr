@@ -1,8 +1,7 @@
 ---
 title: Orc
 ---
-
-## Orc
+# Orc
 
 Une colère qui ne peut être dissimulée. Une furie qui les pousse au combat. Les orcs sont réputés dans le monde entier comme des guerriers consommés — une réputation que les orcs pacifiques trouvent déplaisante.
 
@@ -12,7 +11,7 @@ Chaque orc porte en lui un feu qui fait luire ses veines dès que le sang coule.
 
 « Soyez reconnaissants que les orcs ne gardent pas rancune. »
 
-### À Propos des Orcs
+## À Propos des Orcs
 
 L'orque retira sa hache d'armes du crâne fendu de l'ogre fraîchement mort. Les héros à terre se relevèrent tant bien que mal. Dazar soigna les blessés.
 
@@ -138,34 +137,34 @@ Khorva hocha la tête. Respect mutuel. « Oui », dit-elle. Elle regarda chaque 
 
 « Eh bien », dit-elle. « Que faisons-nous maintenant ? »
 
-### Traits des Orcs
+## Traits des Orcs
 
 Les héros orcs ont accès aux traits suivants.
 
-#### Trait Signature : Implacable
+### Trait Signature : Implacable
 
 Chaque fois qu'une créature vous inflige des dégâts qui vous laissent mourant, vous pouvez effectuer une frappe gratuite contre n'importe quelle créature. Si la créature est réduite à 0 Vigueur par votre frappe, vous pouvez dépenser une récupération.
 
-#### Traits d'Orc Achetés
+### Traits d'Orc Achetés
 
 Vous avez 3 points d'héritage à dépenser sur les traits suivants. (*Construction Rapide :* Récupération Éclatante, Ancré au Sol.)
 
-##### Ruée de Sang-de-Feu (1 Point)
+#### Ruée de Sang-de-Feu (1 Point)
 
 La magie qui coule dans tes veines te fait courir plus vite dans le feu de l'action. La première fois dans un tour de combat que tu subis des dégâts, tu gagnes un bonus de +2 à la Vitesse jusqu'à la fin du tour.
 
-##### Récupération Flamboyante (2 Points)
+#### Récupération Flamboyante (2 Points)
 
 Votre feu de sang vous permet de récupérer vos forces plus rapidement que les autres. Chaque fois que vous utilisez la Manœuvre - Récupérer le Souffle, vous pouvez dépenser autant de Récupérations que vous le souhaitez.
 
-##### Ancré (1 Point)
+#### Ancré (1 Point)
 
 La magie dans votre sang rend difficile pour les autres de vous déplacer. Vous avez un bonus de +1 à la Stabilité.
 
-##### Infatigable (2 Points)
+#### Infatigable (2 Points)
 
 Votre feu du sang vous procure une montée d'adrénaline constante. Vous ne pouvez pas être Ralenti.
 
-##### Artisan Passionné (1 Point)
+#### Artisan Passionné (1 Point)
 
 Quand vous êtes animé par une passion pour la création, votre feu du sang vous permet de travailler plus longtemps et plus intensément. Lorsque vous obtenez vos compétences initiales de votre carrière, culture, classe ou autre source, choisissez deux compétences du groupe de compétences d'artisanat, que vous possédiez ces compétences ou non. Chaque fois que vous effectuez un jet de projet pour un projet d'artisanat qui utilise ces compétences, vous gagnez un bonus de +2 au jet.
